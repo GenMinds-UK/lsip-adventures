@@ -30,7 +30,7 @@
 
 ## Data and security rules
 
-- Keep `LOVABLE_API_KEY` and `SUPABASE_SERVICE_ROLE_KEY` server-side. Never import `client.server.ts` into browser-facing code or expose service-role data.
+- Keep `OPENROUTER_API_KEY` and `SUPABASE_SERVICE_ROLE_KEY` server-side. Never import `client.server.ts` into browser-facing code or expose service-role data.
 - Put input validation at server-function boundaries with Zod, and keep database reads/writes inside validated server functions.
 - Continue caching subject combinations and project plans by their stable combination/index keys; avoid triggering a new model request when cached data exists.
 - Do not loosen the Supabase RLS policies or bypass the existing anonymous-selection/email separation without an explicit requirement.

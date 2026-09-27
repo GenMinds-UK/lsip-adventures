@@ -64,18 +64,28 @@ async function getDb() {
 }
 
 async function getModel() {
-  const { createLovableAiGatewayProvider } = await import("@/lib/ai-gateway.server");
-  const apiKey = process.env["LOVABLE_API_KEY"];
+  const { createOpenAICompatible } = await import("@ai-sdk/openai-compatible");
+  const apiKey = process.env["OPENROUTER_API_KEY"];
   if (!apiKey) throw new Error("The adventure guide is not configured yet.");
-  const gateway = await createLovableAiGatewayProvider(apiKey, undefined, {
-    structuredOutputs: true,
+  const openrouter = createOpenAICompatible({
+    name: "openrouter",
+    baseURL: "https://openrouter.ai/api/v1",
+    apiKey,
+    supportsStructuredOutputs: true,
+    headers: {
+      "HTTP-Referer": "https://a-level-adventures-lcr.lovable.app",
+      "X-Title": "A Level Adventures in the LCR",
+    },
   });
-  return gateway("openai/gpt-5.6-terra");
+  return openrouter("openai/gpt-5.6-terra");
 }
 
+// Passed through to the OpenRouter request body. require_parameters keeps
+// routing to upstream providers that honour the strict json_schema output.
 const reasoningOptions = {
-  lovable: {
-    reasoningEffort: "none",
+  openrouter: {
+    reasoning: { effort: "none" },
+    provider: { require_parameters: true },
   },
 } as const;
 
