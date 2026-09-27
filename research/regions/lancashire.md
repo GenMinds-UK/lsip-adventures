@@ -1,5 +1,7 @@
 # Lancashire — LSIP evidence notes
 
+**Note (checkpoint 2):** D and W scores in the Phase B tables below have been superseded by `research/d-review.md` (second review and harmonisation) and `research/w-review.md`. The CSVs in `research/data/regions/lancashire/` are authoritative.
+
 **All page numbers in this file are PDF page indexes** (the `=== PAGE n ===` marker in the extracted text), not the number printed on the page, except where a citation explicitly names the 2023 plan or a Progress Report, whose own pagination is unaffected by this convention.
 
 Region id: `lancashire`. Employer Representative Body: **North and Western Lancashire Chamber of Commerce**, co-leading with the **East Lancashire Chamber of Commerce**. Strategic authority: **Lancashire Combined County Authority** (LCCA), formed February 2025, covering Lancashire County Council (12 districts: Burnley, Chorley, Fylde, Hyndburn, Lancaster, Pendle, Preston, Ribble Valley, Rossendale, South Ribble, West Lancashire, Wyre), Blackburn with Darwen Council and Blackpool Council.

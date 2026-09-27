@@ -215,3 +215,148 @@ I ran `node --experimental-strip-types scripts/compile-data.ts --data research/d
 
    Each of these is a one-cell change in `demand.csv`.
 6. **The W matrix was not reviewed.** Nothing here changes `priority_weights.csv`. Cumbria's W rows cite no Annex A1 chart values, so the misreadings don't carry into W. W does draw on the same sector passages as D, so a similar second look at its 3s would be worthwhile.
+
+## Harmonisation (checkpoint 2)
+
+**27 September 2026.** After this review, the project owner decided two things:
+
+1. **Keep the three strict readings for a 5**: whole-sample scope (test 3), the 20% chart floor (test 4), and one 5 per bundled survey figure (§2).
+2. **Write one definition of "cross-cutting" for D = 4** and re-apply it to all five areas, deciding on the LSIP text only. This answers §8.4.
+
+This section records the definition, every changed cell, the borderline cells and the resulting table. No fairness or ranking results were looked at.
+
+**Method.** I re-read all 78 cells scored 3 or 4 against the saved text. I also checked each 0–2 cell for a cross-cutting statement that names the skill. A script checked every new quote against the `=== PAGE n ===` text, allowing only for whitespace and dash normalisation. The rulings are also in methodology §4.2.1.
+
+### The definition
+
+A skill scores 4 either through the "2+ priority sectors" route or through the cross-cutting route below. Otherwise it is scored by the number of priority sectors that state a gap in it: one sector is 3, two or more is 4.
+
+1. **Cross-cutting is a property of a stated need, not of a page.** The plan must state a gap, lack or requirement for the skill, named directly or by a phrase in its `lsip_terms` list. That need is cross-cutting if either:
+   - **(a)** the plan's own words give it whole-economy scope: "cross-cutting", "overarching", "across all/every sector", "common to all sectors", "all levels and roles", "the wider workforce"; or
+   - **(b)** it is one of the §4.2 headline items. The skill must be named in the item's title, or in the sentences where the item says what is lacking, including as one of a listed set. A title counts even when it is worded as an action. A heading word that only names an industry does not count.
+
+   *Grounds:* §4.2 says "the LSIP labels the need…", "it is one of the plan's headline priorities or changes", and "cross-cutting **gaps**" (level 4). The GM `leadership` anchor rests on OP3's action-worded title.
+2. **Other prose in a cross-cutting section is scored on its own scope.** It inherits cross-cutting status only if its sentence keeps the item's cross-sector scope. It does not inherit when it is:
+   - **(i)** tied to one sector, occupation group or single respondent;
+   - **(ii)** an example ("e.g.", "such as", "for example"), or a specialist skill that the plan places at the advanced end of a range or "in specific occupations";
+   - **(iii)** a driver or consequence rather than a need.
+
+   The baseline tier that the plan says the whole workforce needs does inherit. Examples are GM OP4's "core digital skills", Cumbria's "foundational digital competence required across the workforce" (p.30), LCR's "baseline of AI literacy" (p.23) and Lancashire's Essential Digital Skills. A sector-tied mention counts once towards that sector. A need for a group that is not a priority sector is a supporting mention (2).
+
+   *Grounds:* the GM `data-analysis` anchor counts OP4's "staff in manufacturing … monitor and assess data" (p.13) as a manufacturing mention, not a cross-cutting one. Test 5 of §2 already treats an illustrative example as evidence for the other gap. Level 3 requires a *priority* sector.
+3. **Bundles (J1).** When a cross-cutting need lists its parts, each part takes the 4. Examples are "communication, teamwork, reliability" and "communication, problem-solving, professional judgement". When only the bundle's label is given ("work readiness", "behaviours", "employability skills", "essential business skills"), the 4 goes to `self-management` alone, J1's "scoreable core", and the unlisted parts are implied (1). Unqualified "communication" is `speaking`. `writing` needs wording about written text, such as composing emails or reports, written English or literacy; using email software is `digital-ai`. The one-5-per-bundled-figure rule still applies to 5s.
+
+   *Grounds:* J1; §10 decision 2; §3's `speaking` row ("'Communication' is in every work-readiness list").
+4. **Actions, research and context stay at 2 wherever they are printed.** This covers:
+   - programmes, provision lists, pilots and success measures;
+   - reviews or research still to be done;
+   - job-posting or labour-market rankings, third-party projections and survey-design notes;
+   - context bullets, strategy statements and occupation tables, even when they are labelled "cross-cutting" or "cross-sector".
+
+   A headline item's own title is the only exception (rule 1b).
+
+   *Grounds:* the level-2 list in §4.2, and the Cumbria `cyber-security` anchor, which scores 2 for an action inside the cross-cutting p.30 paragraph.
+5. **No new 5s.** Cross-cutting status alone gives at most 4. A 5 still needs a finding that passes all five tests in §2.
+
+### Changed cells
+
+Pages are PDF indices. "A" means Cumbria Annex A.
+
+| Area | Skill | Was | Now | Quote and page | Reason |
+|---|---|---:|---:|---|---|
+| C&W | `problem-solving` | 4 | **3** | "you need to allow them to learn soft skills – teamwork, communication, problem-solving" (Apprenticeships Manager, Manufacturing, p.18) | A single respondent in one sector (rule 2i). The other basis, "The most in-demand specialised skills locally are … problem solving, however we note this analysis dates from 2023" (p.22), is labour-market data (rule 4). This matches C&W `teamwork` 3, which rests on the same quote. |
+| C&W | `creativity` | 4 | **3** | "sustainable design and resource efficiency"; "Supporting engineering design capability at degree level" (Agri-tech, p.32) | The 4 rested on "Creative roles increasingly require AI-assisted skills – shifting toward creative direction…" (p.22). That is one of the Digital theme's sector-by-sector examples (rule 2i), and creative roles are not a C&W priority sector. Agri-tech is one sector. |
+| C&W | `content-production` | 4 | **2** | "digital content creation" (planned digital literacy provision, p.58); "Creative roles increasingly require AI-assisted skills" (p.22) | p.58 is an action (rule 4). p.22 is tied to creative roles, which are not a priority sector (rule 2). No priority-sector gap names the skill, so this is a supporting mention. |
+| Cumbria | `data-analysis` | 4 | **3** | "digital skills including data handling, data analysis and AI" (Land Based 1-2-1s, A p.49) | p.30 attaches "across all priority sectors" to digital capability and to "foundational digital competence required across the workforce". It gives "data-driven decision-making" only among "advanced technical skills in areas such as…" (rule 2ii). One sector. |
+| Cumbria | `commercial` | 4 | **3** | "grants and financial acumen, customer care, business and commercial skills" (Land Based 1-2-1s, A p.49) | "professional services/roles such as accountancy" (p.23) is one of the "key themes for consideration". It is not one of the six key skills priorities or the §3.2 headline gaps, and the plan's response is "Undertake a review of professional services" (p.29), which is research to be done (rule 4). One sector. |
+| Cumbria | `care-empathy` | 3 | **4** | "Employers report persistent shortages in critical roles, including technical, engineering, construction, care and digital occupations" (key skills priority, p.9); "Level 2–3 technical and trade roles (construction, engineering, care)" (§3.2 headline gap, p.24) | Care occupations are one of a listed set in two §4.2 headline items' own statements of what is lacking (rule 1b). This is the same basis as Lancashire `care-empathy` 4 (Main Priority 4). There is no survey figure, so it is not a 5. |
+| GM | `writing` | 3 | **4** | "expect employees at all levels and roles to possess essential digital skills. These core digital skills include … the ability to compose clear and professional emails" (OP4, p.13) | A listed part of OP4's own gap statement ("Where these skills are lacking, businesses face recruitment difficulties"), with all-levels scope (rules 1b and 3). The phrase is `writing`'s own `lsip_terms` entry. |
+| GM | `self-management` | 3 | **4** | "Whilst both academic and technical pathways exist, employers report a lack of work readiness amongst candidates entering the labour market." (OP5, SIC "Cross-sectorial", p.14) | The sentence keeps OP5's cross-sector scope, which spans construction and manufacturing (rule 2). A work-readiness bundle named only by its label gives the 4 to `self-management` (rule 3). J1 cites this sentence as GM's cross-cutting work-readiness finding. `teamwork` stays 1. |
+| GM | `critical-thinking` | 3 | **4** | accidental managers "may lack people management skills or not be adept in operational leadership skills and strategic thinking" (OP3, SIC "Cross-sectorial", p.13) | Part of OP3's own statement of what is lacking, and not narrowed to a sector ("businesses across GM experience such difficulties") (rule 1b). "strategic thinking (GM)" is a `critical-thinking` `lsip_terms` entry. |
+| GM | `sustainability` | 4 | **3** | EAS electrician qualifications "include low carbon skills essential to the net zero strategy" (C2, Construction, p.15) | The second "sector" was Annex C p.80. That page only says what the survey asked ("Survey questions were tailored to include relevant questions on net zero…") and quotes a Clean Energy Jobs Plan projection (rule 4). OP5's "transition to a low-carbon economy … rely on" (p.14) is a driver (rule 2iii). One sector. |
+
+**Net effect:** ten cells change. Four rise from 3 to 4. Five fall from 4 to 3, and one falls from 4 to 2. There are no new 5s, and every 0 is unchanged.
+
+**Evidence and source updated, score unchanged.** In each of these the old quote no longer meets the definition, but other evidence holds the 4:
+
+| Area | Skill | D | New basis | Why the old quote no longer carries it |
+|---|---|---:|---|---|
+| C&W | `programming` | 4 | Life Sciences "growing demand for software developers, AI capability and data modelling skills" (p.22) + BPS "software developers and digital specialists" (p.34): 2 sectors | The 2023 in-demand skills list (p.22) is labour-market data (rule 4) |
+| C&W | `commercial` | 4 | BPS "finance and investment analysts, accountants … marketing and communications professionals" (p.34) + "blended finance literacy", which "sits at the intersection of the agri-tech and clean energy sectors" (p.24): 2+ sectors | The nature-based sub-priority is narrowed to named sectors, so it is not cross-cutting (rule 2i) |
+| C&W | `critical-thinking` | 4 | BPS "sustained demand for analytical, digital and advisory capability" (p.34) + Life Sciences "increasing demand for biomedical scientists and clinical researchers" (p.44): 2 sectors. J3 merges research into this skill, and its `lsip_terms` include "biomedical researchers" | "editorial judgement" for creative roles (p.22) is an example outside the priority sectors (rule 2) |
+| Cumbria | `sustainability` | 4 | "Respond to emerging skills needs (net zero, digital and AI)" (key skills priority, p.9) | The p.23 key theme "net zero/green" is "for consideration" and is not a §4.2 headline item |
+| Lancs | `data-analysis` | 4 | AME "companies looking for digital skills, especially AI, data analysis" (p.17) + Social Care "staff increasingly require digital record-keeping and data-analysis capabilities" (p.21): 2 sectors | "Digital sector expansion supports cross-cutting skills needs: coding, data science…" (p.22) is a Context bullet (rule 4) |
+| LCR | `data-analysis` | 4 | Change 3: "employers across all sectors … consistent gaps in the practical application of digital tools, limited confidence in using data effectively" (p.38) | "For the LSIP, this translates into a focus on … strengthening data literacy" (p.23) is a strategy statement (rule 4) |
+| LCR | `critical-thinking` | 4 | Change 6: "Employers across sectors reported … consistent gaps in communication, problem-solving, professional judgement" (p.42). "professional judgement" is a `critical-thinking` `lsip_terms` entry | The maritime "critically review what it produces" (p.24) is a single respondent (rule 2i), and PBS p.25 is one sector |
+
+### Borderline cells considered but not changed
+
+- **GM `problem-solving` 3.** OP5's "solve advanced technical problems" is explicitly "some employers from the construction sector" (p.14), so it is one sector (rule 2i). This is the §8.4 contrast: LCR's Change 6 names problem-solving for "Employers across sectors" (p.42), so the two texts really do differ in scope.
+- **GM `law-ethics` 3.**
+  - OP6's "changes in compliance or service delivery requirements" (p.14) is a driver.
+  - OP4's agreed change about "using AI in a responsible and ethical manner" (p.28) is an action.
+  - FBPS1's "shortage of qualified solicitors" (p.25) would add a second sector only if a solicitor shortage is read as a `law-ethics` need. That is a sector-mapping question outside this definition.
+- **GM `sustainability` 3.** It could arguably be 2, because the C2 mention describes qualification content rather than a stated shortage.
+- **GM `creativity` and `content-production` 3.** OP4's "in the creative industries, role profiles are evolving to include the use of AI tools for image generation and graphic design" (p.13) is tied to one sector.
+- **GM `teamwork` 1, and Lancs `speaking` and `teamwork` 1.** Work readiness is named only by its label (rule 3).
+- **C&W `critical-thinking` 4.** It would be 3 if Life Sciences' demand for researchers (p.44) were credited to `scientific-method` alone.
+- **C&W `creativity` 3.** It would be 4 if Clean Energy's "enabling progression into design, systems integration and project management" (p.40) were credited to creativity. The Cumbria review credits design-engineer wording to `engineering`, so I have not.
+- **C&W `commercial` 4.** Half its basis is a narrow nature-based niche (p.24).
+- **C&W `teamwork` 3 and `care-empathy` 3.** The first rests on a single respondent. The second rests on "e.g. interpersonal resilience required for front-line care work" (p.18), which is an example (rule 2ii).
+- **C&W `cyber-security` 2.** The AI priority's "avoid security risks … what's permitted, responsible and secure" (p.22) is a governance need (`law-ethics`, `digital-ai`), not clearly a cyber gap, and p.58 is an action.
+- **C&W `writing` 1 and Cumbria `writing` 2.** "Communication" on its own is `speaking` (rule 3).
+- **C&W theme headings.**
+  - "Creative" in "Digital and Creative" names the industries. The plan's summary gives the theme as "digital skills" (p.4).
+  - The Visitor Economy theme's sub-priority titles name supervisory skills and chef skills, which are already 4.
+- **Lancs `commercial`, `creativity` and `content-production` 3.**
+  - p.5 lists "cyber security, website design, development and management, programming and digital marketing" as "higher level skills such as…" under "Specific needs", which the plan sets apart from its general themes (rule 2ii).
+  - The key findings on p.23 call them "more specific skills such as…".
+  - The §4.2 anchor reads p.22's list as the Digital sector.
+  - Annex A's "Cross-sector" SOC 2141 row is an occupation table (rule 4).
+- **Lancs `critical-thinking` and `law-ethics` 4.** Both rest on Future Dot Now's four "areas of need" for Essential Digital Skills in AI (p.22–23). The plan adopts these as the content of Main Priority 5's Essential Digital Skills, which is the baseline tier (rule 2). If that list were treated as third-party context, both would fall to 3.
+- **LCR `customer-service` 3.** p.35 reports that "many employers, particularly in the PBS sector" need the "capability to communicate inclusively and address the needs of diverse clients". That would give a second sector if read as customer service rather than as equality training.
+- **LCR `care-empathy` 3.** Change 4's "maintaining high standards of care" (p.40) is tied to health and care.
+- **LCR `programming` 3.** The AI priority places "more advanced technical capability in specific occupations" (p.23), so rule 2ii applies.
+- **LCR `cyber-security` 2.** Annex A p.4 is an occupation table.
+- **Cumbria `leadership` 4.** It is not named in any headline item, so it stays 4 through the 2+ sectors route and cannot be a 5 (as in §4).
+- **Cumbria `data-analysis` 3.** The A1 p.15 free-text answer "Data Analytical Skills" is one raw answer, which is weaker than level 2 (compare `content-production` 1 in §3).
+
+### Final D table (after harmonisation)
+
+| Skill | C&W | Cumbria | GM | Lancs | LCR |
+|---|---:|---:|---:|---:|---:|
+| `data-analysis` | 4 | **3** | 4 | 4 | 4 |
+| `programming` | 4 | 1 | 4 | 4 | 3 |
+| `digital-ai` | 4 | 4 | 4 | 5 | 5 |
+| `cyber-security` | 2 | 2 | 3 | 4 | 2 |
+| `numeracy` | 1 | 2 | 1 | 1 | 1 |
+| `scientific-method` | 3 | 2 | 2 | 2 | 3 |
+| `engineering` | 4 | 4 | 4 | 4 | 4 |
+| `practical-making` | 4 | 4 | 4 | 4 | 4 |
+| `sustainability` | 4 | 4 | **3** | 2 | 4 |
+| `commercial` | 4 | **3** | 4 | 3 | 4 |
+| `leadership` | 4 | 4 | 5 | 4 | 4 |
+| `law-ethics` | 4 | 4 | 3 | 4 | 4 |
+| `writing` | 1 | 2 | **4** | 1 | 4 |
+| `speaking` | 4 | 4 | 4 | 1 | 4 |
+| `languages` | 0 | 0 | 0 | 0 | 0 |
+| `care-empathy` | 3 | **4** | 3 | 4 | 3 |
+| `teamwork` | 3 | 4 | 1 | 1 | 2 |
+| `customer-service` | 2 | 4 | 3 | 2 | 3 |
+| `self-management` | 5 | 5 | **4** | 4 | 4 |
+| `critical-thinking` | 4 | 1 | **4** | 4 | 4 |
+| `problem-solving` | **3** | 1 | 3 | 1 | 4 |
+| `creativity` | **3** | 1 | 3 | 3 | 3 |
+| `content-production` | **2** | 1 | 3 | 3 | 3 |
+| **Count of 5s** | 1 | 1 | 1 | 1 | 1 |
+| **Count of 4s** | 11 | 10 | 10 | 10 | 12 |
+| **Count of 3s** | 5 | 2 | 8 | 3 | 6 |
+| **Sum of D** (§7 → now) | 76 → 72 | 65 → 64 | 71 → 73 | 65 → 65 | 76 → 76 |
+
+Bold marks a cell changed in this section. The 4 band now holds 10–12 skills per area (it held 8–14 in §7).
+
+### Validation
+
+- I ran `node --experimental-strip-types scripts/compile-data.ts --data research/data --out <scratch>/compile-check-harmonise` after the edits. It reports **0 errors**. The only message is one warning: Cumbria's existing `lsip_published` VERIFY flag.
+- Seventeen cells were rewritten: ten score changes and seven evidence-only updates. Row order and the other columns are unchanged. The files are still UTF-8 with LF line endings, and every evidence cell is 200 characters or fewer.
+- The `research/regions/*.md` notes were deliberately not edited. Their Phase B tables are superseded for the cells above.

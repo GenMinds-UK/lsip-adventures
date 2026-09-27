@@ -8,68 +8,68 @@ import type { RegionContent } from "@/data/regions/types";
 export const CONTENT: RegionContent = {
   subjectLinks: {
     Mathematics:
-      "Every quantity surveyor pricing a Manchester housebuilding scheme, and every data analyst at one of Spinningfields' financial firms, is doing A level maths in practice: modelling costs, testing statistical patterns and checking a business case actually adds up. Greater Manchester's LSIP names quantity surveying and financial services as some of its hardest roles to fill, and maths is the foundation for both.",
+      "Every quantity surveyor pricing a Manchester housebuilding scheme, and every data analyst at one of Spinningfields' financial firms, is doing A level maths in practice: modelling costs, testing statistical patterns and checking a business case actually adds up. Greater Manchester's LSIP names quantity surveyors and accountants among its hardest roles to fill, and maths is the foundation for both.",
     "Further Mathematics":
       "Greater Manchester wants many more degree-level mechanical and electrical engineers, and the advanced modelling behind bridge design, aircraft components near the airport or graphene research at the University of Manchester relies on exactly the further calculus, matrices and mechanics you study beyond single maths.",
     Statistics:
       "Greater Manchester's Chamber of Commerce surveys hundreds of employers every quarter to track skills gaps like the shortage of data analysts named in this plan. The sampling, distributions and hypothesis testing you learn at A level are exactly what turns a stack of survey responses into a finding city leaders can act on.",
     "Computer Science":
-      "Manchester built the world's first stored-program computer, the 'Baby', at the University of Manchester in 1948, and the city's tech sector has never slowed down since. Today's shortage of software developers and cybersecurity professionals, tracked by the Greater Manchester Digital Security Hub, is a direct descendant of that history, and A level Computer Science teaches the programming and systems thinking those roles need.",
+      "Manchester's 'Baby', built at what is now the University of Manchester, became the world's first stored-program computer to run a program in June 1948, and the city has been a centre for computing ever since. Today this LSIP flags a shortage of cybersecurity professionals and steady demand for software developers, and the Greater Manchester Digital Security Hub (DiSH) brings employers together to train cyber talent. A level Computer Science teaches the programming and systems thinking those roles need.",
     Biology:
       "Greater Manchester's hospitals and care providers are desperately short of nurses and healthcare assistants, and the region's growing health innovation sector depends on people who understand how the human body works. A level Biology's grounding in physiology, disease and genetics is the foundation for almost every clinical and care role in the plan's Health and Social Care priority.",
     Chemistry:
-      "Graphene, the wonder-material isolated at the University of Manchester in 2004 and now central to the advanced materials cluster around Atom Valley, is fundamentally a chemistry story: carbon atoms arranged in a single sheet. A level Chemistry's grounding in atomic structure and materials gives you a real route into the advanced manufacturing roles Greater Manchester says it is short of.",
+      "Graphene, the wonder-material first isolated at the University of Manchester in 2004 and now linked to the advanced materials cluster planned for Atom Valley, is a chemistry story too: carbon atoms arranged in a single sheet just one atom thick. A level Chemistry's grounding in atomic structure and materials gives you a real route into the advanced manufacturing roles Greater Manchester says it is short of.",
     Physics:
       "The advanced degree-level engineers Greater Manchester says it badly needs, from aerospace specialists near the airport to the physicists who helped isolate graphene at the University of Manchester, all build on the forces, electricity and materials science taught at A level Physics. It is also the subject behind the sensors and control systems inside the region's growing robotics and mechatronics workshops.",
     "Applied Science":
       "Greater Manchester's hospitals, biotech spinouts and advanced manufacturers all need people who can work safely and accurately in a lab or workshop, not just pass a written exam. Applied Science's focus on practical investigation and workplace-ready technique is a direct route into the laboratory and quality-control roles behind the region's health innovation and engineering employers.",
     "Environmental Science":
-      "Greater Manchester has committed to reaching net zero by 2038, and its Bee Net Zero Board is already tracking the retrofit, heat pump and solar skills that construction and manufacturing employers will need to get there. Environmental Science's study of energy, pollution and climate systems gives you the evidence base behind that transition, from insulating a Victorian terrace to greening a Trafford Park factory.",
+      "Greater Manchester has committed to reaching net zero by 2038, and the LSIP team is working with its Bee Net Zero Board on the skills needed to get there, from retrofit and insulation to heat pumps and solar. Environmental Science's study of energy, pollution and climate systems gives you the evidence base behind that transition, from insulating a Victorian terrace to greening a Trafford Park factory.",
     Psychology:
       "Greater Manchester's care providers and NHS trusts need people who understand human behaviour, from supporting a resident with dementia to designing a workplace that keeps new starters from leaving. Psychology's research methods also echo the LSIP's own evidence base, built from structured interviews and roundtables with employers, the same techniques you study at A level.",
     Engineering:
-      "Greater Manchester's LSIP is blunt about this: it needs many more degree-level and higher-technical engineers, in construction's building services as much as in the advanced manufacturing and graphene businesses clustered around Atom Valley. A level Engineering gives you the design, materials and manufacturing grounding that feeds directly into both.",
+      "Greater Manchester's LSIP is blunt about this: it needs many more degree-level and higher-technical engineers, in construction's building services as much as in advanced manufacturing, from graphene businesses to the new Atom Valley cluster. A level Engineering gives you the design, materials and manufacturing grounding that feeds directly into both.",
     "Design & Technology (Product Design)":
-      "From the BIM modelling now expected on Greater Manchester construction sites to the product designers at MediaCity integrating AI into their workflow, the region needs people who can take a brief through prototyping to a finished, buildable design. D&T's iterative design process and CAD skills are exactly that pipeline in miniature.",
+      "From the BIM modelling now expected on Greater Manchester construction sites to creative-sector designers who are being asked to integrate AI into their work, the region needs people who can take a brief through prototyping to a finished, buildable design. D&T's iterative design process and CAD skills are exactly that pipeline in miniature.",
     "Health & Social Care":
-      "This is the priority the plan is most urgent about: Greater Manchester has a severe shortage of healthcare assistants and not enough nurses, and low take-up of the senior care qualifications that would let more staff become supervisors or managers. A level Health & Social Care teaches the safeguarding, communication and care values every one of those roles is built on.",
+      "The plan doesn't mince its words here: Greater Manchester has a severe shortage of healthcare assistants and not enough nurses, and low take-up of the senior care qualifications that would let more staff become supervisors or managers. A level Health & Social Care teaches the safeguarding, communication and care values every one of those roles is built on.",
     "Construction & the Built Environment":
-      "Greater Manchester needs thousands more electricians, bricklayers, roofers and quantity surveyors just to keep pace with its housebuilding pipeline, and new electrical safety rules due in October 2026 will push demand for qualified electricians even higher. A level Construction & the Built Environment covers the structures, costing and regulations behind every one of those trades.",
+      "Greater Manchester's construction pipeline needs thousands of electricians, bricklayers and roofers in 2026 alone, on top of a long-running shortage of quantity surveyors, and new qualification rules for electricians from 1 October 2026 are expected to make the electrician shortage even sharper. A level Construction & the Built Environment covers the structures, costing and regulations behind every one of those trades.",
     "Business Studies":
-      "Greater Manchester's logistics firms say they are short of business development skills, and more than half of employers across the region struggle to fill management roles, creating what the plan calls 'accidental managers' promoted without training. Business Studies' focus on marketing, operations and people management speaks directly to both gaps.",
+      "Greater Manchester's logistics firms say they are short of business development skills, and more than half of employers across the region struggle to fill management roles, with the plan pointing to 'accidental managers' promoted without training as a key reason. Business Studies' focus on marketing, operations and people management speaks directly to both gaps.",
     Economics:
       "Greater Manchester describes itself as the fastest-growing sub-regional economy in the UK, with output 46% larger than in 2011, and the accountants, finance managers and policy teams tracking that growth all reason in the language of A level Economics: markets, growth, inflation and trade-offs.",
     Accounting:
-      "Greater Manchester's financial and professional services sector names experienced accountancy and finance professionals as its hardest role to fill. A level Accounting's grounding in preparing and interpreting accounts is the first step towards the chartered accountant and finance manager roles the region badly needs.",
-    Law: "Greater Manchester has a shortage of qualified solicitors, especially in property, wills and probate and corporate work, made worse by funding changes to the Level 7 apprenticeship route solicitors used to rely on. A level Law's training in contract, tort and legal reasoning is where every one of those career paths begins.",
+      "Greater Manchester's financial and professional services sector names accountants as its hardest role to fill, amid a wider shortage of experienced accountancy and finance professionals. A level Accounting's grounding in preparing and interpreting accounts is the first step towards the chartered accountant and finance manager roles the region badly needs.",
+    Law: "Greater Manchester has a shortage of qualified solicitors, especially in property, wills and probate and corporate work, and employers expect recent funding changes to Level 7 solicitor apprenticeships to make it worse. A level Law's training in contract, tort and legal reasoning is where every one of those career paths begins.",
     Geography:
       "Greater Manchester's six 'Growth Locations', from the Atom Valley advanced manufacturing zone to the Western Gateway's hydrogen and port developments, are fundamentally geography: decisions about land, transport links and investment. A level Geography's fieldwork, mapping and study of climate and sustainability sit behind the net zero retrofit challenge the region has set itself for 2038.",
     History:
-      "Manchester is often called the world's first industrial city, built on cotton mills and made an inland port by the Manchester Ship Canal, and it was also where the Peterloo Massacre and the Pankhursts' suffragette movement forced Britain to confront who got a voice in its democracy. A level History's skills in weighing sources and building an argument are exactly what you need to understand how a city like this got built, and who it left out.",
+      "Manchester is often called the world's first industrial city, built on cotton mills and made an inland port by the Manchester Ship Canal, and it was also where the Peterloo Massacre of 1819 and the suffragette movement, launched in the city in 1903, forced Britain to confront who got a voice in its democracy. A level History's skills in weighing sources and building an argument are exactly what you need to understand how a city like this got built, and who it left out.",
     Politics:
-      "Greater Manchester was the birthplace of the Suffragette movement, led by the Pankhursts from their Manchester home, and today it is one of England's most devolved city-regions, with its own directly elected mayor and combined authority deciding how skills funding is spent. A level Politics gives you the concepts to understand both that history and how power over decisions like the ones in this LSIP actually works today.",
+      "Manchester was the birthplace of the suffragette movement, with the Women's Social and Political Union founded in the city in 1903, and today Greater Manchester is one of England's most devolved city-regions, with its own directly elected mayor and combined authority deciding how skills funding is spent. A level Politics gives you the concepts to understand both that history and how power over decisions like the ones in this LSIP actually works today.",
     Sociology:
-      "Greater Manchester's plan flags a rising NEET rate among 16-17 year-olds and employers across every sector calling for stronger 'work readiness', evidence that access to good jobs is not shared equally across the region. A level Sociology's tools for studying inequality, education and the labour market help explain why, and where the plan's efforts to reach under-represented groups need to focus.",
+      "Greater Manchester's plan flags a rising NEET rate among 16-17 year-olds in the North West and employers reporting 'a lack of work readiness' among new candidates, evidence that access to good jobs is not shared equally across the region. A level Sociology's tools for studying inequality, education and the labour market help explain why, and where the plan's efforts to reach under-represented groups need to focus.",
     Philosophy:
-      "As Greater Manchester's employers race to use AI, this LSIP repeatedly flags a gap in understanding its ethics, from responsible use in the creative sector to how it should change management decisions. A level Philosophy's training in building watertight ethical arguments is a genuine head start on questions the region is only beginning to work out.",
+      "As Greater Manchester's employers race to use AI, this LSIP flags the need to use it responsibly and ethically, with creative employers singling out AI ethics as particularly important. A level Philosophy's training in building watertight ethical arguments is a genuine head start on questions the region is only beginning to work out.",
     "Religious Studies":
       "Greater Manchester's care sector, and the many faith and community organisations working alongside it across the region's ten boroughs, need people who can think carefully about ethics and understand different communities' beliefs and values. A level Religious Studies' study of ethical theory and lived religious practice builds exactly that kind of careful, respectful reasoning.",
     Criminology:
-      "Greater Manchester's directly elected mayor also holds powers over policing and crime reduction across the region, and the safeguarding knowledge this plan expects of care workers and construction site managers alike overlaps closely with what you study in Criminology. A level Criminology's grounding in why crime happens and how the justice system responds is useful background for care, community safety and legal-support roles across the region.",
+      "Greater Manchester's directly elected mayor also holds powers over policing and crime reduction across the region, and safeguarding, which care employers in this plan raise as a real concern, overlaps closely with what you study in Criminology. A level Criminology's grounding in why crime happens and how the justice system responds is useful background for care, community safety and legal-support roles across the region.",
     "English Language":
-      "Greater Manchester employers, from logistics firms to accountancy practices, repeatedly tell the LSIP that new recruits struggle to write a clear, professional email or explain themselves confidently, whatever their technical skill. A level English Language's study of how language actually works, from grammar to how meaning changes by audience, is a direct route to fixing exactly that gap.",
+      "Greater Manchester employers tell the LSIP that writing a clear, professional email is now a basic job requirement, and logistics firms say confidence and communication are key in customer-facing roles, whatever someone's technical skill. A level English Language's study of how language actually works, from grammar to how meaning changes by audience, is a direct route to building exactly those skills.",
     "English Literature":
       "Greater Manchester's creative and media sector, anchored by MediaCity in Salford and Factory International in the city centre, runs on people who can read closely, argue a case in writing and understand how a story is put together. A level English Literature's close reading and essay-writing are the same skills a script editor, journalist or marketing copywriter uses every day.",
     "English Language & Literature":
       "Greater Manchester's creative sector wants people who can both analyse an audience and write for it, from the digital marketing specialists the plan says are in growing demand to the content teams at MediaCity. A level English Language & Literature's mix of linguistic analysis and your own writing practice covers both halves of that job at once.",
     French:
-      "Greater Manchester's international connections, from Manchester Airport's global routes to the freight that once moved along the Manchester Ship Canal, mean local firms in logistics and professional services still deal with French-speaking clients and suppliers. This LSIP doesn't name languages as a major skills gap, but fluent French remains a genuine, differentiating extra on top of any of the sector routes it does describe.",
+      "Greater Manchester's international connections, from Manchester Airport's global routes to the Manchester Ship Canal's long history as a trade route, mean local firms in logistics and professional services still deal with French-speaking clients and suppliers. This LSIP doesn't name languages as a major skills gap, but fluent French remains a genuine, differentiating extra on top of any of the sector routes it does describe.",
     Spanish:
-      "Greater Manchester's financial, professional and creative firms increasingly work with clients across Spanish-speaking Europe and Latin America, even though this LSIP doesn't call out languages as a shortage. A level Spanish's fluency across speaking, listening, reading and writing is a genuine edge for anyone heading into the region's international-facing business or creative roles.",
+      "Greater Manchester's financial, professional and creative firms can work with clients in Spain and Latin America, even though this LSIP doesn't call out languages as a shortage. A level Spanish's fluency across speaking, listening, reading and writing is a genuine edge for anyone heading into the region's international-facing business or creative roles.",
     German:
-      "Germany is one of the UK's biggest trading partners for advanced manufacturing, and Greater Manchester's growing engineering and graphene businesses increasingly work with German suppliers, clients and machinery. A level German gives you the fluency to work across that link directly, even though this LSIP treats languages as a smaller, national-level priority rather than a stated local gap.",
+      "Germany is one of the UK's biggest trading partners and a major engineering and manufacturing economy, so Greater Manchester's engineering and materials businesses can find themselves working with German suppliers, clients and machinery. A level German gives you the fluency to work across that link directly, even though this LSIP doesn't list languages among its local skills gaps.",
     "Chinese (Mandarin)":
-      "Manchester is home to one of the UK's oldest and largest Chinese communities, and the city's universities and creative and financial sectors increasingly work with Chinese-speaking students, investors and partners. A level Chinese builds fluency that opens doors across those links, even though this LSIP doesn't list languages among its named local skills gaps.",
+      "Manchester is home to one of the UK's largest and longest-established Chinese communities, centred on one of the country's biggest Chinatowns, and the city's universities and creative and financial sectors work with many Chinese-speaking students, investors and partners. A level Chinese builds fluency that opens doors across those links, even though this LSIP doesn't list languages among its named local skills gaps.",
     "Art & Design (Fine Art)":
       "Greater Manchester's creative sector, from MediaCity's studios to the independent galleries around the Northern Quarter, is being reshaped by employers who now expect designers to work confidently alongside AI tools. A level Art & Design (Fine Art)'s emphasis on developing your own visual practice and experimenting with new techniques is a strong foundation for that same adaptive, ideas-led creative career.",
     "Graphic Communication":
@@ -77,11 +77,11 @@ export const CONTENT: RegionContent = {
     Photography:
       "Greater Manchester's creative sector, built around MediaCity and Factory International, always needs people who can build a body of work around an idea and understand lighting and editing technically as well as artistically. A level Photography's mix of camera technique and critical study is a direct route into the content-production roles this LSIP flags as growing.",
     "Textile Design":
-      "Manchester's whole industrial history is built on cotton and textiles, and although the mills have gone, the region's creative and advanced manufacturing sectors still need people who understand fabric, print and construction, from costume and set work at MediaCity to sustainable materials innovation. A level Textile Design's move from material experiments to a finished collection sits right at that overlap.",
+      "Manchester's industrial history was built on cotton and textiles, and although the mills have gone, the region's creative and advanced manufacturing sectors still need people who understand fabric, print and construction, from costume and set work at MediaCity to sustainable materials innovation. A level Textile Design's move from material experiments to a finished collection sits right at that overlap.",
     "Film Studies":
       "Greater Manchester's creative sector is centred on MediaCity in Salford, home to major BBC and ITV production, and on Factory International's studios in the city centre, both of which need people who understand how film and television actually get made as well as how to analyse them. A level Film Studies' combination of critical analysis and your own production work is built for exactly that industry.",
     "Media Studies":
-      "Greater Manchester's creative and media sector is one of the plan's eight priorities, covering everything from live event technicians to the digital marketing and AI-assisted content roles it says are growing fastest. A level Media Studies' focus on producing your own media as well as analysing industries and audiences maps directly onto that whole priority.",
+      "Greater Manchester's creative and media sector is one of the plan's eight priorities, covering everything from live event technicians to the digital marketing and AI-assisted content roles it says are in growing demand. A level Media Studies' focus on producing your own media as well as analysing industries and audiences maps directly onto that whole priority.",
     Music:
       "Greater Manchester's live music and events scene, from Factory International's new home for large-scale performance to the region's many venues and festivals, is short of technical live-performance skills according to this LSIP. A level Music's performing, composing and analysing work builds the musical understanding that sits behind every one of those production roles.",
     "Music Technology":
@@ -107,7 +107,7 @@ export const CONTENT: RegionContent = {
       summary:
         "This group picks a real street or estate nearby and works out, using open housing and energy data, what a full retrofit — insulation, heat pumps, solar panels — would actually cost and save. They produce a costed, priced proposal similar to what a quantity surveyor would draw up for a housing association.",
       whyItMatters:
-        "Greater Manchester's LSIP names a long-standing shortage of quantity surveyors and says retrofit work will drive some of the biggest workforce changes construction sees on the way to the region's 2038 net zero target.",
+        "Greater Manchester's LSIP names a long-standing shortage of quantity surveyors, and notes that construction is among the North West sectors expected to see the biggest net zero workforce changes, with retrofit skills key to the region's 2038 target.",
       skills: { numeracy: 3, "data-analysis": 3, sustainability: 2, commercial: 1 },
       groupContributions: {
         "Maths & Computing":
@@ -119,7 +119,7 @@ export const CONTENT: RegionContent = {
         "Business & Economics":
           "Accounting and Business Studies build the costed budget itself, while Economics and Law explain the funding, grants and regulations a real retrofit scheme has to work within.",
         "Humanities & Social Sciences":
-          "Geography supplies the mapping and fieldwork skills to survey the street, while History, Politics, Sociology, Philosophy, Religious Studies and Criminology can each dig into who currently can and cannot afford to heat their home, and why that matters.",
+          "Geography supplies the mapping skills to record the street from open data and online maps, while History, Politics, Sociology, Philosophy, Religious Studies and Criminology can each dig into who currently can and cannot afford to heat their home, and why that matters.",
         "English & Languages":
           "English Language and Literature turn the costed proposal into a clear written report, and any of the languages can help the group summarise it for non-English-speaking residents on the street.",
         "Creative & Performing":
@@ -137,18 +137,18 @@ export const CONTENT: RegionContent = {
         Accounting:
           "You turn the costings into a proper budget, showing where the money would actually go.",
         Geography:
-          "Your fieldwork and mapping skills are how the group surveys and records the street in the first place.",
+          "Your mapping skills, using open data, online maps and street-level imagery, are how the group records the street in the first place.",
       },
       researchQuestions: [
         "Which retrofit measure — insulation, heat pumps or solar — would save this street the most carbon per pound spent?",
         "What would a full retrofit of this street cost, and how does that compare with public funding currently available?",
-        "Who on this street is most affected by cold homes, and how would a retrofit change their daily life?",
+        "Which kinds of households are most affected by cold homes, according to published research, and how would a retrofit change their daily life?",
       ],
       whereThisCouldLead: {
         degrees: ["Quantity Surveying", "Civil Engineering", "Building Services Engineering"],
         apprenticeships: [
-          "Quantity Surveying Technician (Level 4)",
-          "Retrofit Coordinator (Level 4)",
+          "Construction Quantity Surveying Technician (Level 4)",
+          "Low Carbon Heating Technician (Level 3)",
           "Building Services Engineering Technician (Level 3)",
         ],
         careers: [
@@ -176,7 +176,7 @@ export const CONTENT: RegionContent = {
       skills: { speaking: 3, "critical-thinking": 2, "self-management": 2, writing: 1 },
       groupContributions: {
         "Maths & Computing":
-          "Mathematics and Statistics can analyse the labour-market and vacancy figures behind the shortage, and Computer Science can help build a simple survey tool or website to gather local views.",
+          "Mathematics and Statistics can analyse the labour-market and vacancy figures behind the shortage, and Computer Science can help build a simple, anonymous survey tool to gather local views.",
         Sciences:
           "Psychology's research methods help design a fair interview or survey, while Biology, Chemistry, Physics, Applied Science and Environmental Science all bring the habit of testing a claim against evidence before accepting it.",
         "Technical & Applied":
@@ -188,7 +188,7 @@ export const CONTENT: RegionContent = {
         "English & Languages":
           "English Language and Literature carry the interviewing, quoting and report-writing at the centre of this quest, and any language subject helps if interviews reach non-English-speaking tradespeople.",
         "Creative & Performing":
-          "Photography and Film Studies can document a site visit or interview visually, and the group's other creative subjects can help design a clear, persuasive final report.",
+          "Photography and Film Studies can visually document a school-organised college or workshop visit, or an interview where consent has been arranged through school, and the group's other creative subjects can help design a clear, persuasive final report.",
         "Sport & Wellbeing":
           "PE, Sport & Exercise Science and Food Science & Nutrition all bring an understanding of physically demanding, skilled manual work, useful when interviewing tradespeople about the realities of the job.",
       },
@@ -213,8 +213,8 @@ export const CONTENT: RegionContent = {
         degrees: ["Construction Management", "Building Surveying", "Architecture"],
         apprenticeships: [
           "Bricklayer (Level 2)",
-          "Construction Site Supervisor (Level 3)",
-          "Site Manager (Degree, Level 6)",
+          "Construction Site Supervisor (Level 4)",
+          "Construction Site Management (Degree, Level 6)",
         ],
         careers: ["Bricklayer", "Site supervisor", "Construction trainer", "Building inspector"],
         localOrganisations: [
@@ -232,7 +232,7 @@ export const CONTENT: RegionContent = {
       summary:
         "This group designs a visual and technical concept for a net-zero retrofit of a typical Greater Manchester terrace house, drawing on the region's Bee Net Zero Board priorities. They produce drawings or a model plus a short pitch explaining the materials and design choices.",
       whyItMatters:
-        "The LSIP flags construction, engineering and manufacturing as the sectors expected to see the biggest workforce changes from Greater Manchester's 2038 net zero target, with retrofit, heat pumps and solar named directly.",
+        "The LSIP notes that construction, engineering and manufacturing are expected to see the biggest net zero workforce changes in the North West, and asked construction employers directly about retrofit, insulation, heat pump and solar skills as Greater Manchester works towards its 2038 target.",
       skills: { creativity: 3, sustainability: 3, "practical-making": 2, "digital-ai": 1 },
       groupContributions: {
         "Maths & Computing":
@@ -271,8 +271,8 @@ export const CONTENT: RegionContent = {
         degrees: ["Architecture", "Product Design", "Sustainable Design Engineering"],
         apprenticeships: [
           "Building Services Engineering Technician (Level 3)",
-          "Architectural Technician (Level 3)",
-          "Retrofit Coordinator (Level 4)",
+          "Construction Design and Build Technician (Level 4)",
+          "Low Carbon Heating Technician (Level 3)",
         ],
         careers: [
           "Architect",
@@ -293,7 +293,7 @@ export const CONTENT: RegionContent = {
       title: "Map Greater Manchester's Driver Shortage",
       strapline: "Use open data to map where GM's freight and driver shortages really bite.",
       summary:
-        "This group uses open transport and labour-market data to map how goods move around Greater Manchester's logistics hubs, such as Trafford Park and the airport, and where the driver shortage most affects delivery times. They present findings as a simple data map or dashboard.",
+        "This group uses open transport and labour-market data to map how goods move around Greater Manchester's logistics hubs, such as Trafford Park and the airport, and where the driver shortage is likely to bite hardest. They present findings as a simple data map or dashboard.",
       whyItMatters:
         "The LSIP names a shortage of Class 1 HGV drivers with 3-5 years' experience as one of logistics' top skills gaps, worsened by poor support for newly qualified drivers.",
       skills: { "data-analysis": 3, numeracy: 2, "problem-solving": 2, "digital-ai": 1 },
@@ -319,14 +319,14 @@ export const CONTENT: RegionContent = {
         Geography:
           "You lead the spatial analysis and mapping of freight routes and hubs like Trafford Park and the airport.",
         Mathematics:
-          "You analyse the vacancy and delivery-time data to find where the shortage bites hardest.",
+          "You analyse the vacancy and freight data to find where the shortage is likely to bite hardest.",
         "Computer Science":
           "You build the map or dashboard that turns the data into something clear to look at.",
         Economics:
           "You explain the pay and training economics behind why drivers are so hard to recruit and keep.",
       },
       researchQuestions: [
-        "Where in Greater Manchester's freight network does the driver shortage cause the biggest delays?",
+        "Where in Greater Manchester's freight network is the driver shortage likely to cause the most disruption, based on published data?",
         "How does a new driver's pay and support compare with what the LSIP says is needed to keep them in the job?",
         "Would fewer road miles or more drivers do more to fix the region's freight bottlenecks?",
       ],
@@ -334,7 +334,7 @@ export const CONTENT: RegionContent = {
         degrees: ["Geography", "Logistics and Supply Chain Management", "Transport Planning"],
         apprenticeships: [
           "Supply Chain Practitioner (Level 3)",
-          "Transport Planner (Level 4)",
+          "Transport Planning Technician (Level 3)",
           "Large Goods Vehicle Driver (Level 2)",
         ],
         careers: [
@@ -359,7 +359,7 @@ export const CONTENT: RegionContent = {
       summary:
         "This group runs anonymous surveys or school-arranged interviews with people working in or served by GM's logistics sector, to work out what good customer service actually looks like on the ground. They turn the findings into a short training guide for a fictional or partner logistics firm.",
       whyItMatters:
-        "The LSIP names customer service as logistics' 'highest in demand' skill gap, alongside a shortage of business development skills for the sector.",
+        "The LSIP names a shortage of customer service skills in logistics, with one employer saying the customer service role 'is what is the highest in demand at the moment', alongside a shortage of business development skills for the sector.",
       skills: { speaking: 3, "customer-service": 3, writing: 2, "self-management": 1 },
       groupContributions: {
         "Maths & Computing":
@@ -399,7 +399,7 @@ export const CONTENT: RegionContent = {
         apprenticeships: [
           "Customer Service Specialist (Level 3)",
           "Supply Chain Practitioner (Level 3)",
-          "Business Development Executive (Level 3-4)",
+          "Sales Executive (Level 4)",
         ],
         careers: [
           "Customer service manager",
@@ -423,7 +423,7 @@ export const CONTENT: RegionContent = {
       summary:
         "This group researches a real or realistic small logistics or haulage firm in Greater Manchester and designs a business development pitch to win new customers, including branding and a short marketing campaign. They present the pitch as if to the firm's owner.",
       whyItMatters:
-        "The LSIP names a shortage of business development skills within the logistics sector as a specific, emerging gap, describing the sales market as 'too niche' for many firms to break into confidently.",
+        "The LSIP names a shortage of business development skills within the logistics sector as a specific, emerging gap, with one interviewee describing the market for business development in logistics as 'too niche'.",
       skills: { creativity: 3, "content-production": 3, commercial: 1, speaking: 1 },
       groupContributions: {
         "Maths & Computing":
@@ -458,7 +458,7 @@ export const CONTENT: RegionContent = {
       whereThisCouldLead: {
         degrees: ["Business Management", "Marketing", "Logistics and Supply Chain Management"],
         apprenticeships: [
-          "Business Development Executive (Level 3-4)",
+          "Sales Executive (Level 4)",
           "Marketing Executive (Level 4)",
           "Supply Chain Practitioner (Level 3)",
         ],
@@ -544,7 +544,7 @@ export const CONTENT: RegionContent = {
       strapline:
         "Ask care workers why so few take the qualifications that would make them senior staff.",
       summary:
-        "This group runs anonymous surveys or school-arranged interviews with care workers or care-experienced family members to understand why take-up of senior care qualifications is so low. They produce a short set of recommendations for how a care provider could encourage more staff to progress.",
+        "This group runs anonymous surveys or school-arranged interviews with care workers (for example, family members or school contacts who work in care) to understand why take-up of senior care qualifications is so low. They produce a short set of recommendations for how a care provider could encourage more staff to progress.",
       whyItMatters:
         "The LSIP names low take-up of Level 3-5 senior care qualifications as a specific reason for Greater Manchester's shortage of senior and managerial care staff, even where training is free.",
       skills: { speaking: 3, "care-empathy": 2, "self-management": 2, writing: 1 },
@@ -608,7 +608,7 @@ export const CONTENT: RegionContent = {
       summary:
         "This group designs a short film, poster series or social media campaign aimed at sixth-formers, showing what a career in care actually involves and where it can lead. They base it on real quotes and research about why care roles are hard to fill.",
       whyItMatters:
-        "Greater Manchester's LSIP highlights weak careers information as a cross-cutting problem, and pairs this with a severe shortage of healthcare assistants and low take-up of the qualifications that lead to senior care roles.",
+        "Greater Manchester's LSIP makes better careers education, information and advice a cross-cutting priority, and pairs this with a severe shortage of healthcare assistants and low take-up of the qualifications that lead to senior care roles.",
       skills: { "content-production": 3, creativity: 3, speaking: 1, "care-empathy": 1 },
       groupContributions: {
         "Maths & Computing":
@@ -668,11 +668,11 @@ export const CONTENT: RegionContent = {
       priorityId: "engineering-manufacturing",
       title: "Investigate Graphene's Next Application",
       strapline:
-        "Research how Manchester's Nobel Prize-winning material could solve a real local problem.",
+        "Research how graphene, the Manchester material behind a Nobel Prize, could solve a real local problem.",
       summary:
-        "This group researches graphene, isolated at the University of Manchester in 2004, and investigates one real application relevant to Greater Manchester's advanced manufacturing cluster around Atom Valley, such as lighter components or better batteries. They present findings as a short technical report.",
+        "This group researches graphene, first isolated at the University of Manchester in 2004, and investigates one real application relevant to Greater Manchester's advanced manufacturing cluster around Atom Valley, such as lighter components or better batteries. They present findings as a short technical report.",
       whyItMatters:
-        "The LSIP names advanced manufacturing trade skills, including materials innovation, as a growing need, with graphene businesses specifically raised in the plan's Engineering and Manufacturing roundtable.",
+        "The LSIP names a growing need for advanced manufacturing trade skills, such as robotics technicians and CNC machinists, a need raised in a roundtable with advanced manufacturing and graphene businesses.",
       skills: {
         "scientific-method": 3,
         "data-analysis": 2,
@@ -714,7 +714,7 @@ export const CONTENT: RegionContent = {
       whereThisCouldLead: {
         degrees: ["Materials Science", "Chemical Engineering", "Physics"],
         apprenticeships: [
-          "Materials Engineering Technician (Level 3)",
+          "Materials Science Technologist (Degree, Level 6)",
           "Laboratory Technician (Level 3)",
           "Manufacturing Engineer (Degree, Level 6)",
         ],
@@ -740,7 +740,7 @@ export const CONTENT: RegionContent = {
       summary:
         "This group interviews local manufacturers or training providers, arranged through school, about the shortage of welders, fitters and other core manufacturing trades. They produce a short report proposing a realistic way to attract more young people into these roles.",
       whyItMatters:
-        "The LSIP describes a 'labour shortage in core manufacturing trades', naming welders and fabricators as the role most often cited by employers as hard to recruit.",
+        "The LSIP describes a 'labour shortage in core manufacturing trades', with welders the role most often cited as hard to recruit in the plan's survey of engineering and manufacturing employers.",
       skills: { speaking: 3, "critical-thinking": 2, "self-management": 2, writing: 1 },
       groupContributions: {
         "Maths & Computing":
@@ -756,7 +756,7 @@ export const CONTENT: RegionContent = {
         "English & Languages":
           "English Language and Literature carry the interviewing and report-writing, and any language subject helps if interviews reach non-English-speaking tradespeople.",
         "Creative & Performing":
-          "Photography and Film Studies can document a workshop visit visually, and the group's other creative subjects help design a clear final report.",
+          "Photography and Film Studies can visually document a school-organised workshop or college visit, and the group's other creative subjects help design a clear final report.",
         "Sport & Wellbeing":
           "PE, Sport & Exercise Science and Food Science & Nutrition all bring an understanding of physically demanding, skilled manual work, useful when interviewing tradespeople about the job.",
       },
@@ -800,7 +800,7 @@ export const CONTENT: RegionContent = {
       title: "Prototype a Net-Zero Machine Part",
       strapline: "Design and model a component that helps a factory cut its carbon footprint.",
       summary:
-        "This group designs and models (by hand, CAD or a simple prototype) a machine part or process improvement aimed at making a manufacturing process greener, drawing on the lean manufacturing and net zero priorities named for Greater Manchester's industrial sectors. They present the concept with technical drawings and a sustainability case.",
+        "This group designs and models (by hand, CAD or a simple prototype made in the school workshop) a machine part or process improvement aimed at making a manufacturing process greener, drawing on the lean manufacturing and net zero priorities named for Greater Manchester's industrial sectors. They present the concept with technical drawings and a sustainability case.",
       whyItMatters:
         "The LSIP flags engineering and manufacturing as expecting some of the region's biggest net zero workforce changes, alongside a growing need for advanced manufacturing trade skills such as robotics and CNC machining.",
       skills: { creativity: 3, engineering: 2, "practical-making": 2, sustainability: 1 },
@@ -840,7 +840,7 @@ export const CONTENT: RegionContent = {
         apprenticeships: [
           "Engineering Design Technician (Level 3)",
           "Manufacturing Engineer (Degree, Level 6)",
-          "CNC Machinist (Level 3)",
+          "Machining Technician (Level 3)",
         ],
         careers: [
           "Design engineer",
@@ -860,11 +860,11 @@ export const CONTENT: RegionContent = {
       priorityId: "digital-technology",
       title: "Harden a Small Organisation's IT",
       strapline:
-        "Investigate how a school or small organisation's IT systems could be made more secure.",
+        "Use published guidance to show how a small organisation's IT systems could be made more secure.",
       summary:
-        "Working with school IT staff and using publicly available cyber-security guidance, this group investigates common weaknesses in how a small organisation's network and devices are set up, and writes a practical, non-technical guide to fixing them. No live systems are actually attacked.",
+        "Using published cyber-security guidance, such as the NCSC's Small Business Guide and the Cyber Essentials checklist, and talking to school IT staff about how guidance like this is applied in practice, this group investigates common weaknesses in how a small organisation's network and devices are typically set up, and writes a practical, non-technical guide to fixing them. Any hands-on work uses a simulated setup or a capture-the-flag practice platform: no real systems are scanned, tested or attacked.",
       whyItMatters:
-        "The LSIP names a shortage of cybersecurity professionals as one of Greater Manchester's clearest digital gaps, strong enough that trained staff can see their pay rise from '£40k to £70k' almost overnight.",
+        "The LSIP names a shortage of cybersecurity professionals as one of Greater Manchester's clearest digital gaps, strong enough that one employer said trained staff go 'from being a £40k employee to a £70k employee'.",
       skills: { "cyber-security": 3, "digital-ai": 2, "problem-solving": 2, writing: 1 },
       groupContributions: {
         "Maths & Computing":
@@ -882,7 +882,7 @@ export const CONTENT: RegionContent = {
         "Creative & Performing":
           "Graphic Communication can help design a clear, non-technical guide, and the group's other creative subjects bring further presentation skills to the final report.",
         "Sport & Wellbeing":
-          "PE, Sport & Exercise Science and Food Science & Nutrition all bring a methodical, step-by-step way of testing and improving a system, a useful parallel to security testing.",
+          "PE, Sport & Exercise Science and Food Science & Nutrition all bring a methodical, step-by-step way of reviewing and improving a routine, a useful parallel to working through a security checklist.",
       },
       subjectOverrides: {
         "Computer Science":
@@ -890,7 +890,7 @@ export const CONTENT: RegionContent = {
         Mathematics: "You can analyse patterns across common security weaknesses and incidents.",
         Law: "You research what the law actually requires an organisation to do to protect data.",
         Physics:
-          "You bring a systematic, testing mindset well suited to checking a system for weaknesses.",
+          "You bring a systematic mindset well suited to working carefully through a security checklist.",
       },
       researchQuestions: [
         "What are the most common ways a small organisation's IT systems get compromised?",
@@ -901,7 +901,7 @@ export const CONTENT: RegionContent = {
         degrees: ["Computer Science", "Cyber Security", "Information Systems"],
         apprenticeships: [
           "Cyber Security Technician (Level 3)",
-          "Cyber Security Technical Professional (Level 4)",
+          "Cyber Security Technologist (Level 4)",
           "IT Solutions Technician (Level 3)",
         ],
         careers: [
@@ -964,7 +964,7 @@ export const CONTENT: RegionContent = {
         apprenticeships: [
           "Data Analyst (Level 4)",
           "Digital and Technology Solutions Professional (Level 6)",
-          "Applied AI Data Specialist (Level 4)",
+          "AI and Automation Practitioner (Level 4)",
         ],
         careers: [
           "AI/machine learning engineer",
@@ -1048,7 +1048,7 @@ export const CONTENT: RegionContent = {
       strapline:
         "Prototype a simple AI-assisted tool that could help a small Manchester creative business.",
       summary:
-        "This group researches how AI tools are being used in design, marketing or content production, then prototypes (using existing no-code or simple coding tools) a small AI-assisted workflow that could help a real type of small creative business, such as a local designer or social content creator. They present it as a working demo plus a short case for how it saves time.",
+        "This group researches how AI tools are being used in design, marketing or content production, then prototypes (using existing, school-approved no-code or simple coding tools) a small AI-assisted workflow that could help a real type of small creative business, such as a local designer or social content creator. They present it as a working demo plus a short case for how it saves time.",
       whyItMatters:
         "The LSIP names a shortage of new AI skills in the creative sector as a current, pressing gap, noting that 'almost all employers interviewed in this sector mentioned that AI would have a large impact'.",
       skills: { "digital-ai": 3, creativity: 2, "content-production": 2, "data-analysis": 1 },
@@ -1149,9 +1149,9 @@ export const CONTENT: RegionContent = {
           "Film and Television Production",
         ],
         apprenticeships: [
-          "Production Technician (Theatre and Screen) (Level 3)",
-          "Live Events Technician (Level 3)",
-          "Broadcast Production Assistant (Level 3)",
+          "Creative Industries Production Technician (Level 3)",
+          "Production Assistant - Screen and Audio (Level 3)",
+          "Junior Production Coordinator (Level 4)",
         ],
         careers: [
           "Lighting technician",
@@ -1174,7 +1174,7 @@ export const CONTENT: RegionContent = {
       summary:
         "This group designs a concept for an augmented reality trail around MediaCity or another Greater Manchester creative site, mixing historical or behind-the-scenes content with simple AR technology. They pitch it as a visual concept plus a short technical outline of how it could work.",
       whyItMatters:
-        "The LSIP names a small but 'intensifying' shortage of augmented and virtual reality skills, noting the North West lags only London and the South East in AR/VR usage.",
+        "The LSIP names a shortage of augmented and virtual reality skills that 'may intensify in the future', noting the North West lags only London and the South East in AR/VR usage.",
       skills: { creativity: 3, "content-production": 3, "digital-ai": 1, commercial: 1 },
       groupContributions: {
         "Maths & Computing":
@@ -1232,7 +1232,7 @@ export const CONTENT: RegionContent = {
       summary:
         "This group researches the pay, training costs and progression of chef roles across Greater Manchester's hotels and restaurants, and builds a simple costed model comparing a chef's career path with other Level 2-3 routes. They present it as a short, honest guide for someone considering the trade.",
       whyItMatters:
-        "The LSIP names a 'labour shortage of chefs across a wide variety of settings' and says commis chef and chef de partie roles are the hardest mid-level positions to keep filled.",
+        "The LSIP names a 'labour shortage of chefs across a wide variety of settings' and says mid-level roles such as commis chef and chef de partie are the hardest to recruit.",
       skills: { numeracy: 3, "data-analysis": 2, commercial: 2, writing: 1 },
       groupContributions: {
         "Maths & Computing":
@@ -1271,7 +1271,7 @@ export const CONTENT: RegionContent = {
         apprenticeships: [
           "Commis Chef (Level 2)",
           "Chef de Partie (Level 3)",
-          "Hospitality Team Member (Level 2)",
+          "Food and Beverage Team Member (Level 2)",
         ],
         careers: ["Chef", "Kitchen manager", "Food and beverage manager", "Culinary trainer"],
         localOrganisations: [
@@ -1327,9 +1327,9 @@ export const CONTENT: RegionContent = {
       whereThisCouldLead: {
         degrees: ["Hospitality Management", "Human Resource Management", "Business Management"],
         apprenticeships: [
-          "Hospitality Team Member (Level 2)",
+          "Food and Beverage Team Member (Level 2)",
           "Hospitality Supervisor (Level 3)",
-          "Hospitality Manager (Level 4-5)",
+          "Hospitality Manager (Level 4)",
         ],
         careers: [
           "Hospitality manager",
@@ -1391,7 +1391,7 @@ export const CONTENT: RegionContent = {
         degrees: ["Media Production", "Hospitality Management", "Marketing"],
         apprenticeships: [
           "Content Creator (Level 3)",
-          "Hospitality Team Member (Level 2)",
+          "Food and Beverage Team Member (Level 2)",
           "Marketing Executive (Level 4)",
         ],
         careers: [
@@ -1410,12 +1410,12 @@ export const CONTENT: RegionContent = {
     {
       id: "greater-manchester-financial-professional-services-1",
       priorityId: "financial-professional-services",
-      title: "Audit a Local Charity's Accounts",
-      strapline: "Give a small local charity or club a proper set of accounts to work with.",
+      title: "Health-Check a Local Charity's Finances",
+      strapline: "Turn a small charity's or club's figures into a clear financial health check.",
       summary:
-        "This group works with a real, willing small charity, club or school enterprise (arranged through school) to build a simple, accurate set of accounts and a short financial health check. They present their findings and recommendations back to the organisation.",
+        "This group either analyses the published accounts of a small local charity (from the Charity Commission's online register) or works with a willing school club or enterprise's summary figures, arranged through school and with no personal details of members or donors, to build a simple, accurate set of accounts and a short financial health check. They present their findings and recommendations to their class or back to the organisation.",
       whyItMatters:
-        "The LSIP names a shortage of experienced accountancy and finance professionals as the hardest role to fill in Greater Manchester's financial and professional services sector.",
+        "The LSIP names a shortage of experienced accountancy and finance professionals, with accountants the hardest role to fill in Greater Manchester's financial and professional services sector.",
       skills: { numeracy: 3, "data-analysis": 2, commercial: 2, "law-ethics": 1 },
       groupContributions: {
         "Maths & Computing":
@@ -1444,15 +1444,15 @@ export const CONTENT: RegionContent = {
       },
       researchQuestions: [
         "Where does this organisation's money actually come from and go?",
-        "What does a proper set of accounts reveal that informal record-keeping missed?",
+        "What does a clear, well-organised set of accounts reveal that simpler records might miss?",
         "What one financial change would most help this organisation going forward?",
       ],
       whereThisCouldLead: {
         degrees: ["Accounting and Finance", "Economics", "Business Management"],
         apprenticeships: [
-          "Accounts/Finance Assistant (Level 2-3)",
+          "Accounts or Finance Assistant (Level 2)",
           "Assistant Accountant (Level 3)",
-          "Professional Accounting/Taxation Technician (Level 4)",
+          "Professional Accounting Technician (Level 4)",
         ],
         careers: ["Accountant", "Finance manager", "Auditor", "Charity finance officer"],
         localOrganisations: [
@@ -1469,10 +1469,10 @@ export const CONTENT: RegionContent = {
       strapline:
         "Find out why Greater Manchester is short of solicitors, and what's making it worse.",
       summary:
-        "This group researches and, where possible, interviews local solicitors or legal training providers about the shortage of qualified solicitors, especially in property, wills and probate, and corporate law. They investigate how recent changes to apprenticeship funding are affecting the pipeline of new solicitors.",
+        "This group researches and, where possible, interviews local solicitors or legal training providers (arranged through school) about the shortage of qualified solicitors, especially in property, wills and probate, and corporate law. They investigate how recent changes to apprenticeship funding are affecting the pipeline of new solicitors.",
       whyItMatters:
-        "The LSIP names a shortage of qualified solicitors as a current gap, and specifically flags 'the defunding of Level 7 apprenticeships' as worsening it.",
-      skills: { "critical-thinking": 3, writing: 3, speaking: 2, "law-ethics": 1 },
+        "The LSIP names a shortage of qualified solicitors as a current gap, and says employers expect 'the defunding of Level 7 apprenticeships' to make it worse.",
+      skills: { "critical-thinking": 3, "law-ethics": 2, writing: 2, speaking: 2 },
       groupContributions: {
         "Maths & Computing":
           "Statistics can analyse patterns in solicitor vacancy or qualification data, and Computer Science can help build a simple database of the group's research.",
@@ -1509,7 +1509,7 @@ export const CONTENT: RegionContent = {
         apprenticeships: [
           "Solicitor Apprenticeship (Level 7)",
           "Paralegal (Level 3)",
-          "Chartered Legal Executive (Level 3-6)",
+          "Chartered Legal Executive (Level 6)",
         ],
         careers: ["Solicitor", "Paralegal", "Legal executive", "Policy researcher"],
         localOrganisations: [
@@ -1563,9 +1563,9 @@ export const CONTENT: RegionContent = {
       whereThisCouldLead: {
         degrees: ["Business Management", "Accounting and Finance", "Marketing"],
         apprenticeships: [
-          "Business Development Executive (Level 3-4)",
+          "Sales Executive (Level 4)",
           "Marketing Executive (Level 4)",
-          "Professional Accounting/Taxation Technician (Level 4)",
+          "Professional Accounting Technician (Level 4)",
         ],
         careers: [
           "Business development executive",

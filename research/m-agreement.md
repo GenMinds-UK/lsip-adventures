@@ -59,14 +59,18 @@ The R2 adjudicator added this section by hand; `reconcile-matrix.ts` does not ge
 
 | Score | Final matrix | Provisional merge |
 |---|---|---|
-| 0 | 629 (60.8%) | 656 |
-| 1 | 151 (14.6%) | 163 |
-| 2 | 163 (15.7%) | 130 |
-| 3 | 92 (8.9%) | 81 |
+| 0 | 627 (60.6%) | 656 |
+| 1 | 153 (14.8%) | 163 |
+| 2 | 158 (15.3%) | 130 |
+| 3 | 97 (9.4%) | 81 |
 | no provisional score (adjudicated) | n/a | 5 |
 | **Total** | **1035** | **1035** |
 
-**79 cells changed from their provisional score: 77 up and 2 down.** On top of these, the 5 adjudicated cells (difference of 2 or more) had no provisional score. Their finals are 1, 3, 2, 2 and 1, each above the lower of the two scores.
+**86 cells changed from their provisional score: 84 up and 2 down.** The main pass changed 79 of them (77 up, 2 down). The Checkpoint 2 follow-up changed 7 more, all up:
+- Psychology, Economics, Business Studies, Accounting and Physical Education × critical-thinking, from 2 to 3 (ruling 15);
+- English Language × digital-ai and × content-production, from 0 to 1.
+
+The per-skill breakdown below is for the main pass. On top of these, the 5 adjudicated cells (difference of 2 or more) had no provisional score. Their finals are 1, 3, 2, 2 and 1, each above the lower of the two scores.
 
 - **Up:** writing 19, problem-solving 15, digital-ai 14, self-management 5, critical-thinking 4, scientific-method 3, practical-making 3, law-ethics 3, commercial 3, sustainability 2, and one each in teamwork, data-analysis, speaking, engineering, content-production and leadership.
 - **Down:** 2, both practical-making (Photography and Graphic Communication, 3 → 2, under the rule-6 ruling).

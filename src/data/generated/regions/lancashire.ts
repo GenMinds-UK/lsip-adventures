@@ -17,8 +17,7 @@ export const REGION_DATA: GeneratedRegionData = {
         "digital-ai": 2,
         "cyber-security": 2,
         "programming": 2,
-        "leadership": 2,
-        "self-management": 1
+        "leadership": 2
       },
       "roles": [
         {
@@ -132,7 +131,7 @@ export const REGION_DATA: GeneratedRegionData = {
         "engineering": 2,
         "leadership": 3,
         "digital-ai": 2,
-        "self-management": 3,
+        "self-management": 2,
         "sustainability": 1
       },
       "roles": [
@@ -234,7 +233,6 @@ export const REGION_DATA: GeneratedRegionData = {
         "practical-making": 3,
         "customer-service": 3,
         "leadership": 3,
-        "self-management": 2,
         "digital-ai": 2
       },
       "roles": [
@@ -315,10 +313,9 @@ export const REGION_DATA: GeneratedRegionData = {
       "weights": {
         "care-empathy": 3,
         "leadership": 2,
-        "self-management": 2,
         "digital-ai": 2,
         "law-ethics": 1,
-        "data-analysis": 1
+        "data-analysis": 2
       },
       "roles": [
         {
@@ -417,12 +414,12 @@ export const REGION_DATA: GeneratedRegionData = {
         "digital-ai": 3,
         "cyber-security": 3,
         "programming": 3,
-        "content-production": 2,
-        "commercial": 2,
+        "content-production": 3,
+        "commercial": 3,
         "critical-thinking": 2,
         "law-ethics": 2,
         "self-management": 2,
-        "data-analysis": 1
+        "data-analysis": 2
       },
       "roles": [
         {
@@ -619,8 +616,8 @@ export const REGION_DATA: GeneratedRegionData = {
       "blurb": "Lancashire covers the full nuclear lifecycle at Springfields and Heysham, alongside growing offshore wind and clean-tech.",
       "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.25",
       "weights": {
-        "engineering": 3,
-        "sustainability": 3,
+        "engineering": 2,
+        "sustainability": 2,
         "cyber-security": 3,
         "law-ethics": 1,
         "practical-making": 1

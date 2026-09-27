@@ -7,40 +7,40 @@ import type { RegionContent } from "@/data/regions/types";
 export const CONTENT: RegionContent = {
   subjectLinks: {
     Mathematics:
-      "Sellafield's decommissioning work and BAE Systems' submarine builds at Barrow both depend on precise engineering calculations, from structural loads to radiation modelling. Cumbria's LSIP names maths and data modelling among the higher-level skills the nuclear and manufacturing sectors are short of.",
+      "Sellafield's decommissioning work and BAE Systems' submarine builds at Barrow both depend on precise engineering calculations, from structural loads to radiation modelling. Cumbria's LSIP names higher-level engineering skills and data-driven decision-making among the growing needs across its priority sectors.",
     "Further Mathematics":
-      "Cumbria's clean energy and nuclear projects, including new Small Modular Reactors planned at Moorside, need engineers who can go beyond standard maths into the mechanics and modelling Further Mathematics adds. That supports the county's push towards Level 7 nuclear engineering roles.",
+      "Cumbria's clean energy and nuclear projects, including possible new Small Modular Reactors, need engineers who can go beyond standard maths into the mechanics and modelling Further Mathematics adds. That supports the county's push towards Level 7 nuclear engineering roles.",
     Statistics:
       "Cumbria Tourism's Business Tracker survey and the LSIP's own 213-employer survey are exactly the kind of data Statistics trains you to collect and interpret honestly. That skill is increasingly wanted for data-driven decisions across manufacturing, energy and the visitor economy.",
     "Computer Science":
-      "RAICo, the robotics and AI cluster based in Whitehaven, and the wider push for digital capability across Sellafield, BAE Systems, farms and hotels all need people who can code and understand how systems work. Cumbria's LSIP flags this as a growing but under-supplied skill in every sector.",
+      "RAICo, the robotics and AI collaboration with a research facility in Whitehaven, and the wider push for digital capability across Sellafield, BAE Systems, farms and hotels all need people who can code and understand how systems work. Cumbria's LSIP flags this as a growing but under-supplied skill across all its priority sectors.",
     Biology:
       "Cumbria's health and social care sector, needing staff from care workers to nurses, and its land-based industries adapting to nature recovery both draw on the living systems Biology teaches. That runs from human physiology in care settings to ecosystems across the Lake District and Solway coast.",
     Chemistry:
-      "Sellafield's nuclear reprocessing and decommissioning work runs on chemistry, from separating materials safely to managing waste, and Cumbria's manufacturing base has a long history of chemical and pharmaceutical processing, including Ulverston's former antibiotics site. Both feed the county's advanced manufacturing and energy priorities.",
+      "Sellafield's decommissioning work runs on chemistry, from separating materials safely to managing and storing nuclear waste, and Cumbria's manufacturing base has a long history of chemical and pharmaceutical processing, including Ulverston's former antibiotics site. Both feed the county's advanced manufacturing and energy priorities.",
     Physics:
-      "BAE Systems' submarine builds at Barrow and Sellafield's nuclear reactors both rely on physics, from the mechanics of pressure hulls to nuclear and radiation science. Cumbria's LSIP highlights higher-level engineering and energy skills, including the planned Small Modular Reactor programme at Moorside, as priorities to grow.",
+      "BAE Systems' nuclear-powered submarine builds at Barrow and Sellafield's nuclear decommissioning both rely on physics, from the mechanics of pressure hulls to nuclear and radiation science. Cumbria's LSIP highlights higher-level engineering and energy skills, including training for future Small Modular Reactors, as priorities to grow.",
     "Applied Science":
-      "The laboratory and technical skills Applied Science develops match roles across Sellafield's nuclear supply chain and Cumbria's growing clean energy sector. The LSIP names engineering technicians and lab-based quality roles among the skills needed to support decommissioning, new nuclear build and offshore wind.",
+      "The laboratory and technical skills Applied Science develops match roles across Sellafield's nuclear supply chain and Cumbria's growing clean energy sector. The LSIP's evidence names technicians, quality engineers and nuclear science roles among the skills needed, and highlights gaps in clean energy areas such as offshore wind.",
     "Environmental Science":
-      "Cumbria's land-based industries are shifting from food production towards nature recovery and climate adaptation, and the county's Clean Energy Strategy is targeting 9GW of generation by 2040. Both need people who understand climate change, ecosystems and sustainability, exactly what Environmental Science covers.",
+      "Cumbria's land-based industries are shifting from food production towards nature recovery and climate adaptation, and the county's Clean Energy Strategy is targeting up to 9GW of generation by 2040. Both need people who understand climate change, ecosystems and sustainability, exactly what Environmental Science covers.",
     Psychology:
-      "Cumbria's care sector, needing staff from care workers to social workers across every level, depends on understanding people's development, wellbeing and behaviour. The LSIP's own employer survey found managing emotions and dealing with difficult situations among the most commonly missing workplace skills.",
+      "Cumbria's care sector, needing staff from care workers to social workers across every level, depends on understanding people's development, wellbeing and behaviour. Among employers reporting gaps in workplace behaviours, the LSIP's own survey found that dealing with difficult situations and managing emotions were often named.",
     Engineering:
-      "From welders and machinists at BAE Systems Barrow to engineering fitters and technicians on new nuclear and offshore wind projects, Cumbria's LSIP names engineering skills as short across almost every priority sector. BAE alone needs around 600 recruits a year just to replace people who leave.",
+      "From welders and machinists at BAE Systems Barrow to engineering fitters and technicians on new nuclear and offshore wind projects, Cumbria's LSIP names engineering skills as short across most of its priority sectors. BAE alone needs around 600 recruits a year just to replace people who leave.",
     "Design & Technology (Product Design)":
       "Designing and prototyping products maps closely onto Cumbria's advanced manufacturing base, where BAE Systems and its supply chain need people who understand materials, iterative design and how a product moves from brief to build. The LSIP links these skills to both engineering and construction.",
     "Health & Social Care":
-      "Cumbria's LSIP names social care as needing staff at every level, from Level 2 care workers to Level 6 social workers and nurses, and identifies a lack of understanding of care as a career as employers' single biggest recruitment challenge. This A level directly addresses that through real care values and practice.",
+      "Cumbria's LSIP names social care as needing staff at every level, from Level 2 care workers to Level 6 social workers and nurses, and identifies recruitment, and a lack of understanding of care as a career, as care employers' biggest challenge. This A level directly addresses that through real care values and practice.",
     "Construction & the Built Environment":
       "Cumbria needs roofers, electricians, groundworkers and civil engineering technicians for projects from St Cuthbert's Garden Village to the A66 dualling. This A level's grounding in structures, materials and regulations matches gaps the LSIP names as short at every level, from Level 2 trades to Level 6 quantity surveying.",
     "Business Studies":
-      "Cumbria's small, family-run visitor economy and its manufacturing supply chain both need people who understand marketing, finance and operations. The LSIP's own survey found leadership, management and business skills a recurring gap, especially in front-line supervisory roles across every sector.",
+      "Cumbria's small, family-run visitor economy and its manufacturing supply chain both need people who understand marketing, finance and operations. The LSIP's own employer survey found leadership and management skills hard to find, named by around three in ten responding employers, and the plan highlights supervisory skills in sectors such as the visitor economy.",
     Economics:
-      "Understanding markets, productivity and regional growth helps make sense of Cumbria's £3 billion productivity gap and its below-average output per job, both named as headline challenges behind the LSIP. It also explains the economics of a rural county balancing nuclear investment, tourism and an ageing population.",
+      "Understanding markets, productivity and regional growth helps make sense of Cumbria's £3 billion productivity gap, a headline challenge behind the LSIP, and its below-average output per job. It also explains the economics of a rural county balancing nuclear investment, tourism and an ageing population.",
     Accounting:
       "The LSIP names professional and business services, including accountancy, as an area needing further review beyond its six priority sectors. The financial skills Accounting teaches, budgeting, cash flow and interpreting accounts, support everything from small tourism businesses to major projects like BAE Systems' submarine programme.",
-    Law: "Cumbria's nuclear sector works under strict safety and environmental regulation, and construction projects must meet planning and building rules. Both need the kind of legal reasoning and evidence-based argument Law develops, alongside the LSIP's own named gap in regulatory and compliance knowledge.",
+    Law: "Cumbria's nuclear sector works under strict safety and environmental regulation, and construction projects must meet planning and building rules. Both need the kind of legal reasoning and evidence-based argument Law develops, alongside the LSIP's evidence that employers want stronger knowledge of health and safety and current regulations.",
     Geography:
       "Cumbria's Lake District and Solway coast are shaped by the physical processes Geography studies, while its human geography, a projected 6% fall in the working-age population and 58% of residents commuting by car, sits behind the LSIP's own priorities on rurality and transport access.",
     History:
@@ -50,51 +50,51 @@ export const CONTENT: RegionContent = {
     Sociology:
       "Cumbria's LSIP repeatedly names core employability skills, communication, teamwork and reliability, as its headline gap. Sociology's focus on how people, education and work interact helps explain why, alongside the county's own patterns of NEET young people, rural isolation and an ageing population.",
     Philosophy:
-      "Cumbria's nuclear industry, which handles decommissioning and new build side by side, and its land-based industries, balancing food production against nature recovery, both raise questions about risk, responsibility and how to weigh competing goods. That is exactly the kind of reasoning Philosophy trains you to make rigorous.",
+      "Cumbria's nuclear industry, which handles decommissioning while looking ahead to possible new nuclear, and its land-based industries, balancing food production against nature recovery, both raise questions about risk, responsibility and how to weigh competing goods. That is exactly the kind of reasoning Philosophy trains you to make rigorous.",
     "Religious Studies":
       "Cumbria's monastic history, from Furness Abbey near Barrow to Lanercost Priory, and its long tradition of Quaker and Nonconformist communities give Religious Studies students real local material. The ethical theory the subject teaches also applies directly to debates over nuclear risk and land use the LSIP raises.",
     Criminology:
-      "Cumbria's Combined Authority and councils are developing a NEET strategy for 17-24 year olds and named actions supporting ex-offenders and care leavers into work. Criminology's study of why crime happens and how the justice system responds gives useful grounding for understanding these local priorities.",
+      "Cumbria's LSIP calls for a countywide NEET strategy focused on 17 to 24 year olds, and names actions supporting ex-offenders and care leavers into work. Criminology's study of why crime happens and how the justice system responds gives useful grounding for understanding these local priorities.",
     "English Language":
-      "Cumbria's LSIP survey found communication the single most commonly missing workplace skill, named by 60% of employers. English Language's study of how language actually works in practice, from dialect to workplace communication, speaks directly to a gap that spans every priority sector in the county.",
+      "Cumbria's 2023 LSIP survey found communication was the skill most often named by employers reporting gaps in workplace behaviours, mentioned by 60% of them. English Language's study of how language actually works in practice, from dialect to workplace communication, speaks directly to a gap that spans every priority sector in the county.",
     "English Literature":
       "William Wordsworth, Dorothy Wordsworth and the wider Romantic movement drew directly on the Lake District's landscape, now a UNESCO World Heritage Site partly because of that literary legacy. That gives English Literature students a genuine local case study in how place shapes writing.",
     "English Language & Literature":
-      "Cumbria's literary heritage, from Wordsworth's Grasmere to Beatrix Potter's Near Sawrey, sits alongside the LSIP's own finding that communication is the most commonly missing workplace skill. That gives this combined subject's mix of creative, analytical and linguistic study real local relevance.",
+      "Cumbria's literary heritage, from Wordsworth's Grasmere to Beatrix Potter's Near Sawrey, sits alongside the LSIP's own finding that communication tops employers' list of workplace skills needing improvement. That gives this combined subject's mix of creative, analytical and linguistic study real local relevance.",
     French:
       "Cumbria Tourism's own survey found front of house and customer service skills in short supply, and with visitors arriving from across Europe to see the Lake District, French's combination of language fluency and cultural study is a genuine asset for the county's hospitality and tourism employers.",
     Spanish:
-      "As Cumbria's visitor economy looks to attract more international guests and its manufacturing supply chains work with overseas partners, Spanish, one of the world's most widely spoken languages, gives students a practical skill that few local employers can currently find, alongside its cultural study.",
+      "As Cumbria's visitor economy looks to attract more international guests and its manufacturing supply chains work with overseas partners, Spanish, one of the world's most widely spoken languages, gives students a practical skill that stands out to employers, alongside its cultural study.",
     German:
-      "Cumbria's nuclear and advanced manufacturing sectors work with international supply chains and engineering partners, and German, spoken by one of Europe's largest economies and a major source of Lake District visitors, gives students a language skill that stands out in both engineering and tourism contexts.",
+      "Cumbria's nuclear and advanced manufacturing sectors work with international supply chains and engineering partners, and German, the language of one of Europe's largest economies, gives students a language skill that stands out in both engineering and tourism contexts.",
     "Chinese (Mandarin)":
-      "Cumbria's advanced manufacturing and energy sectors are increasingly linked to global supply chains and investment, and Mandarin, spoken by more people than any other language, gives students a distinctive skill for engineering, energy or tourism careers that connect the county to a much wider world.",
+      "Cumbria's advanced manufacturing and energy sectors are increasingly linked to global supply chains and investment, and Mandarin, the world's most widely spoken first language, gives students a distinctive skill for engineering, energy or tourism careers that connect the county to a much wider world.",
     "Art & Design (Fine Art)":
       "The Lake District has drawn artists for over two centuries, and its landscapes, light and weather remain a genuine subject for a personal visual practice. The observational and material skills Fine Art teaches also support the county's growing creative and visitor economy sectors.",
     "Graphic Communication":
       "Cumbria's tourism businesses, from small family-run hotels to Cumbria Tourism's own Tourism Talent Hub, and its manufacturing employers alike need people who can communicate clearly through branding and layout. Those are exactly the skills Graphic Communication develops through real briefs.",
     Photography:
-      "The Lake District's landscapes and coastline, alongside Cumbria's industrial heritage at Barrow and Sellafield, offer rich subject matter for Photography. The technical and editing skills the course teaches also support the visitor economy's need for compelling marketing and storytelling.",
+      "The Lake District's landscapes and coastline, alongside Cumbria's industrial heritage, from Barrow's shipbuilding story to West Cumbria's mining towns, offer rich subject matter for Photography. The technical and editing skills the course teaches also support the visitor economy's need for compelling marketing and storytelling.",
     "Textile Design":
       "Cumbria's long history of wool and textiles, from Herdwick sheep farming across the fells to the county's small maker and craft businesses, gives Textile Design students a genuine local tradition to draw on. The making and design skills involved are also useful in manufacturing and land-based sectors.",
     "Film Studies":
       "Cumbria's dramatic landscapes have long attracted film and television production, and the county's visitor economy increasingly relies on digital storytelling to market itself. That gives Film Studies' mix of critical analysis and production work a direct local application.",
     "Media Studies":
-      "Cumbria Tourism and local visitor attractions rely on digital content and social media to reach visitors, and the LSIP names digital content creation among the skills growing in demand. That gives Media Studies' combination of industry analysis and practical production real local relevance.",
+      "Cumbria Tourism and local visitor attractions rely on digital content and social media to reach visitors, and Cumbria's LSIP names social media and digital marketing among the skills employers need. That gives Media Studies' combination of industry analysis and practical production real local relevance.",
     Music:
       "Cumbria's community and visitor economy support a strong tradition of local festivals, choirs and live performance venues across the county's market towns. That gives Music students genuine local performance and composition opportunities alongside the subject's core skills.",
     "Music Technology":
-      "Cumbria's visitor economy and its growing digital content sector both draw on the recording, mixing and sound design skills Music Technology teaches. That supports everything from local live music venues to marketing content for tourism businesses.",
+      "Cumbria's visitor economy and its festivals and events both draw on the recording, mixing and sound design skills Music Technology teaches. That supports everything from local live music venues to marketing content for tourism businesses.",
     "Drama & Theatre":
-      "Cumbria's visitor economy relies on customer-facing confidence, communication and teamwork, exactly the skills the LSIP's own survey found most commonly missing. Drama & Theatre's devised and performance work builds these directly, alongside the county's own theatre and festival venues.",
+      "Cumbria's visitor economy relies on customer-facing confidence, communication and teamwork, skills the LSIP's own employer survey found among those most often needing improvement. Drama & Theatre's devised and performance work builds these directly, alongside the county's own theatre and festival venues.",
     Dance:
-      "Cumbria's community arts and visitor economy sectors support local performance and events work, and Dance's combination of choreography, technique and critical study builds the confidence and teamwork skills the LSIP's own employer survey found most commonly missing among young people.",
+      "Cumbria's community arts and visitor economy sectors support local performance and events work, and Dance's combination of choreography, technique and critical study builds confidence and the teamwork skills that Cumbria's employers say often need improving.",
     "Physical Education":
       "Cumbria's outdoor activity and adventure tourism sector, built around the Lake District's fells and lakes, alongside its growing sport and leisure facilities, gives PE students real local career routes. The subject's coaching and leadership content also matches gaps the LSIP names across the visitor economy.",
     "Sport & Exercise Science":
       "The Lake District's outdoor adventure tourism industry and Cumbria's sport and leisure facilities both need people who understand training, physiology and performance. That gives Sport & Exercise Science students a direct local application alongside national opportunities in sport science.",
     "Food Science & Nutrition":
-      "Cumbria's visitor economy names a shortage of well-trained chefs as its single most-quoted skills gap. Food Science & Nutrition's grounding in nutrition, food safety and the science of cooking gives students a genuine head start on the hospitality and catering careers the county most needs filling.",
+      "Cumbria's visitor economy names a shortage of well-trained chefs as its single most-quoted skills gap. Food Science & Nutrition's grounding in nutrition, food safety and the science of cooking gives students a genuine head start on the hospitality and catering roles the county needs to fill.",
   },
   quests: [
     {
@@ -172,11 +172,11 @@ export const CONTENT: RegionContent = {
       id: "cumbria-advanced-manufacturing-2",
       priorityId: "advanced-manufacturing",
       title: "Voices from the Shop Floor",
-      strapline: "Interview the people building Cumbria's submarines to open up the trade.",
+      strapline: "Interview Cumbria's apprentices and engineers to open up the trade.",
       summary:
-        "Students arrange interviews, through a school careers link or an open-day visit, with apprentices, welders or engineers working in Cumbria's advanced manufacturing sector, then turn what they learn into a set of short, honest case studies or a careers guide for younger students considering technical routes.",
+        "Students arrange interviews, through the school's careers lead or an organised open-day visit, with apprentices, welders or engineers working in Cumbria's advanced manufacturing sector. Questions stick to careers, training and everyday working life rather than the details of defence work, and nobody is recorded or named without consent arranged through school. The group then turns what they learn into a set of short, honest case studies or a careers guide for younger students considering technical routes.",
       whyItMatters:
-        "The LSIP names welders, machinists and electrical staff as the sector's most-needed roles, and careers advisers consistently report that many young people simply don't know what these jobs involve day to day.",
+        "The LSIP names welders, machinists and electrical staff among the sector's key needs, and first-hand accounts can help young people picture what these jobs involve day to day.",
       skills: {
         speaking: 3,
         writing: 2,
@@ -223,7 +223,7 @@ export const CONTENT: RegionContent = {
         apprenticeships: [
           "Learning and Development Practitioner (Level 3)",
           "Recruiter (Level 3)",
-          "Welder (Level 3)",
+          "Plate Welder (Level 3)",
         ],
         careers: ["Careers adviser", "HR officer", "Journalist", "Apprenticeship recruiter"],
         localOrganisations: [
@@ -240,9 +240,9 @@ export const CONTENT: RegionContent = {
       title: "Design a Factory of the Future",
       strapline: "Imagine and illustrate what robotics and AI could bring to Cumbria's factories.",
       summary:
-        "Drawing on public information about Cumbria's RAICo robotics and AI cluster and the wider push for automation in manufacturing, students design and illustrate a concept for a factory of the future at a site like Barrow or Moorside, considering robotics, safety and sustainability, and present it as design boards, a model or a short animation.",
+        "Drawing on public information about RAICo, the robotics and AI collaboration based in Whitehaven, and the wider push for automation in manufacturing, students design and illustrate a concept for a factory of the future at a site like Barrow or Moorside, considering robotics, safety and sustainability, and present it as design boards, a model or a short animation.",
       whyItMatters:
-        "Cumbria's LSIP names growing demand for automation, robotics and AI-supported systems across every priority sector, and the RAICo cluster in Whitehaven is projected to bring 200 new jobs to the county.",
+        "Cumbria's LSIP names growing demand for automation, robotics and AI-supported systems across every priority sector, and a new UKRI-funded nuclear robotics and AI cluster based in Whitehaven is projected to bring 200 new jobs to the county.",
       skills: {
         creativity: 3,
         "content-production": 2,
@@ -280,7 +280,7 @@ export const CONTENT: RegionContent = {
           "You could research and explain how the robotics and automated systems in the design would actually be controlled.",
       },
       researchQuestions: [
-        "What kinds of robotics and automation are Cumbria's manufacturing and nuclear employers actually adopting, and why?",
+        "Based on published information, what kinds of robotics and automation are Cumbria's manufacturing and nuclear employers adopting, and why?",
         "What would make an automated factory design safe, sustainable and realistic for a site like Barrow or Moorside?",
         "How should the finished concept be presented so a non-technical audience, such as school visitors or a local employer, can understand it?",
       ],
@@ -289,7 +289,7 @@ export const CONTENT: RegionContent = {
         apprenticeships: [
           "Product Design and Development Engineer (Level 6)",
           "Engineering Technician (Level 3)",
-          "Design Engineer (Level 6)",
+          "Automation and Controls Engineering Technician (Level 4)",
         ],
         careers: [
           "Product designer",
@@ -359,7 +359,7 @@ export const CONTENT: RegionContent = {
         degrees: ["Civil Engineering", "Quantity Surveying", "Geography"],
         apprenticeships: [
           "Civil Engineering Technician (Level 3)",
-          "Quantity Surveyor (Level 6 Degree Apprenticeship)",
+          "Construction Quantity Surveyor (Level 6 Degree Apprenticeship)",
           "Construction Site Supervisor (Level 4)",
         ],
         careers: [
@@ -383,7 +383,7 @@ export const CONTENT: RegionContent = {
       strapline:
         "Find out why a construction course with strong employer backing isn't filling up.",
       summary:
-        "Students design and run an anonymous survey and a small number of interviews with peers, teachers and a local college, to understand why demand for construction T Levels is low despite strong employer interest, then write up recommendations for how colleges or careers advisers could present the course differently.",
+        "Students design and run an anonymous student survey, with the school's approval, and a small number of school-arranged interviews with teachers, careers staff or a local college, to understand why demand for construction T Levels is low despite strong employer interest, then write up recommendations for how colleges or careers advisers could present the course differently.",
       whyItMatters:
         "Cumbria's LSIP names low learner demand for T Level provision, despite strong employer interest, as a specific action to explore.",
       skills: {
@@ -430,7 +430,7 @@ export const CONTENT: RegionContent = {
       whereThisCouldLead: {
         degrees: ["Psychology", "Sociology", "Marketing"],
         apprenticeships: [
-          "Careers Adviser (Level 6)",
+          "Career Development Professional (Level 6)",
           "Marketing Executive (Level 4)",
           "Civil Engineering Technician (Level 3)",
         ],
@@ -454,7 +454,7 @@ export const CONTENT: RegionContent = {
       title: "Show Cumbria's Building Sites of Tomorrow",
       strapline: "Photograph and design a story of what's being built across the county.",
       summary:
-        "Students photograph and research major visible construction projects near them, working only from public viewpoints or a school-arranged site visit, then design an exhibition, zine or social media campaign explaining what each project is, what trades built it, and what skills it needed.",
+        "Students photograph and research major visible construction projects near them, working only from safe public viewpoints or on a supervised, school-arranged site visit and avoiding close-ups of identifiable people, then design an exhibition, zine or social media campaign explaining what each project is, what trades built it, and what skills it needed.",
       whyItMatters:
         "Cumbria's LSIP highlights major projects like St Cuthbert's Garden Village and the A66 dualling as drivers of construction skills demand, but the trades behind them are rarely made visible to young people.",
       skills: {
@@ -495,15 +495,15 @@ export const CONTENT: RegionContent = {
       },
       researchQuestions: [
         "What major construction projects are currently visible near where the group lives or goes to school, and what is each one for?",
-        "Which trades and skills were needed to get each project this far, based on public information and, where possible, a site visit?",
+        "Which trades and skills were needed to get each project this far, based on public information and, where possible, a school-arranged site visit?",
         "What is the most engaging way to present this to other young people who might not know these careers exist?",
       ],
       whereThisCouldLead: {
         degrees: ["Photography", "Architecture", "Construction Management"],
         apprenticeships: [
           "Construction Site Supervisor (Level 4)",
-          "Photographer (Level 3)",
-          "Design Engineer (Level 6)",
+          "Photographer (Level 4)",
+          "Civil Engineering Technician (Level 3)",
         ],
         careers: [
           "Site manager",
@@ -525,9 +525,9 @@ export const CONTENT: RegionContent = {
       title: "Map Cumbria's Clean Energy Potential",
       strapline: "Use open energy data to see how close Cumbria is to 9GW.",
       summary:
-        "Using open data on existing wind, solar and nuclear capacity plus published plans for new projects, students estimate how much of Cumbria's Clean Energy Strategy target of 9GW by 2040 is already built, planned or still needed, and where in the county new capacity would make most sense.",
+        "Using open data on existing wind, solar and nuclear capacity plus published plans for new projects, students estimate how much of Cumbria's Clean Energy Strategy ambition of up to 9GW by 2040 is already built, planned or still needed, and where in the county new capacity would make most sense.",
       whyItMatters:
-        "Cumbria's Clean Energy Strategy aims for 9GW of generation by 2040 supporting 13,000 jobs, and the LSIP names engineering, welding and technician skills as short across the construction and operation of these projects.",
+        "Cumbria's Clean Energy Strategy aims for up to 9GW of generation by 2040 supporting up to 13,000 jobs, and the LSIP names engineering, welding and technician skills as short across the construction and operation of these projects.",
       skills: {
         "data-analysis": 3,
         sustainability: 3,
@@ -550,7 +550,7 @@ export const CONTENT: RegionContent = {
         "Creative & Performing":
           "Graphic Communication helps the group turn energy data into a clear, well-designed map or infographic.",
         "Sport & Wellbeing":
-          "These subjects bring experience of setting and tracking progress against a long-term target, similar to tracking progress toward the 2040 goal.",
+          "These subjects bring experience of setting and tracking progress against a long-term target, similar to tracking progress towards the 2040 goal.",
       },
       subjectOverrides: {
         Physics:
@@ -573,8 +573,8 @@ export const CONTENT: RegionContent = {
         degrees: ["Renewable Energy Engineering", "Physics", "Environmental Science"],
         apprenticeships: [
           "Engineering Technician (Level 3)",
-          "Nuclear Technician (Level 3)",
-          "Sustainability Business Specialist (Level 6)",
+          "Nuclear Technician (Level 5)",
+          "Environmental Practitioner (Level 6 Degree Apprenticeship)",
         ],
         careers: [
           "Energy engineer",
@@ -596,7 +596,7 @@ export const CONTENT: RegionContent = {
       title: "The Four-Year Welder",
       strapline: "Investigate why it takes so long to train the workers clean energy needs.",
       summary:
-        "Students research and interview, through a school-arranged visit or a training provider contact, welders, engineers or apprentices working on nuclear or energy projects to understand why specialist training can take four years or more, and what could realistically shorten or better support that pathway.",
+        "Through a school-arranged visit or a training provider contact made by the school, students interview welders, engineers or apprentices working on nuclear or energy projects about their training and careers, to understand why specialist training can take four years or more, and what could realistically shorten or better support that pathway.",
       whyItMatters:
         "Cumbria's LSIP notes significant lead times in engaging young people and training them to the required standard, citing four years or more for specialised welders as one example.",
       skills: {
@@ -643,8 +643,8 @@ export const CONTENT: RegionContent = {
       whereThisCouldLead: {
         degrees: ["Materials Science", "Mechanical Engineering", "Human Resource Management"],
         apprenticeships: [
-          "Welder (Level 3)",
-          "Nuclear Technician (Level 3)",
+          "Pipe Welder (Level 3)",
+          "Nuclear Technician (Level 5)",
           "Learning and Development Practitioner (Level 3)",
         ],
         careers: [
@@ -715,7 +715,7 @@ export const CONTENT: RegionContent = {
         degrees: ["Architecture", "Environmental Science", "Building Services Engineering"],
         apprenticeships: [
           "Low Carbon Heating Technician (Level 3)",
-          "Retrofit Coordinator (Level 5)",
+          "Energy Manager (Level 3)",
           "Building Services Engineering Technician (Level 3)",
         ],
         careers: [
@@ -809,9 +809,9 @@ export const CONTENT: RegionContent = {
       title: "Reframing Care as a Career",
       strapline: "Find out why care work is misunderstood, and help fix it.",
       summary:
-        "Students design and run an anonymous survey among peers about perceptions of care work as a career, then interview a care worker or manager, via a school-arranged visit to a local care setting, to compare perception against reality, producing a short campaign or resource for careers education.",
+        "Students design and run an anonymous survey among peers, with the school's approval, about perceptions of care work as a career, then interview a care worker or manager, arranged through the school's careers lead (for example in school, by video call or on a supervised visit), to compare perception against reality, producing a short campaign or resource for careers education.",
       whyItMatters:
-        "Cumbria's LSIP names recruitment and a lack of understanding of care as a career as employers' single biggest challenge in the sector.",
+        "Cumbria's LSIP names recruitment and a lack of understanding of care as a career as care employers' biggest challenge.",
       skills: {
         "care-empathy": 3,
         speaking: 2,
@@ -878,7 +878,7 @@ export const CONTENT: RegionContent = {
       title: "Tell the Story of Care in Cumbria",
       strapline: "Create honest, human stories about caring for others across the county.",
       summary:
-        "With full anonymity and consent, students collect short, positive stories or quotes from care workers or family carers willing to share their experience, via a school-arranged link with a local care provider, and design these into a short publication or digital piece that shows the human side of care work in Cumbria.",
+        "With anonymity and consent arranged through school, students collect short, positive stories or quotes from care workers and managers willing to share their experience, via a school-arranged link with a local care provider, and design these into a short publication or digital piece that shows the human side of care work in Cumbria. The group hears from care staff only, not from the people they support.",
       whyItMatters:
         "Cumbria's LSIP names values-based recruitment, reliability, compassion, stamina, as a specific retention action for the care sector, and this quest helps make those values visible to a wider audience.",
       skills: {
@@ -903,11 +903,11 @@ export const CONTENT: RegionContent = {
         "Creative & Performing":
           "Photography, Graphic Communication and Media Studies are central to designing and producing the finished exhibition or publication.",
         "Sport & Wellbeing":
-          "These subjects bring understanding of physical wellbeing and dignity relevant to representing care recipients respectfully.",
+          "These subjects bring understanding of physical wellbeing and dignity relevant to representing the people care workers support respectfully.",
       },
       subjectOverrides: {
         Photography:
-          "You can lead on any portraits or images used, always with full, informed consent and dignity front of mind.",
+          "You can lead on the images used, such as settings, details or illustrations, photographing a care worker only with consent arranged through school and with dignity front of mind.",
         "English Literature":
           "Your skill in close, careful reading of language helps the group represent people's real words faithfully rather than flattening them.",
         "Religious Studies":
@@ -918,8 +918,8 @@ export const CONTENT: RegionContent = {
           "You can help decide the best finished format, whether a short film, podcast or printed publication, for the stories collected.",
       },
       researchQuestions: [
-        "What do people who give, or receive, care in Cumbria actually want others to understand about it?",
-        "How can these stories be told with genuine care for the people involved, including consent and anonymity where wanted?",
+        "What do people who work in care in Cumbria actually want others to understand about their job?",
+        "How can these stories be told with genuine care for the people involved, including consent and anonymity arranged through school?",
         "What finished format would reach the audience most likely to benefit, whether future care workers or the wider public?",
       ],
       whereThisCouldLead: {
@@ -927,7 +927,7 @@ export const CONTENT: RegionContent = {
         apprenticeships: [
           "Content Creator (Level 3)",
           "Adult Care Worker (Level 2)",
-          "Photographer (Level 3)",
+          "Photographer (Level 4)",
         ],
         careers: [
           "Documentary maker",
@@ -949,7 +949,7 @@ export const CONTENT: RegionContent = {
       title: "Carbon Counting a Cumbrian Farm",
       strapline: "Estimate how much carbon a local farm or woodland could store.",
       summary:
-        "Using public data such as the Woodland Carbon Code methodology, published land-use figures, or information from a school-arranged visit to a local farm or woodland, students estimate how much carbon a specific piece of land could realistically store through changes like tree planting or different grazing, and compare options.",
+        "Using public data such as the Woodland Carbon Code methodology, published land-use figures, or information from a supervised, school-arranged visit to a local farm or woodland, students estimate how much carbon a specific piece of land could realistically store through changes like tree planting or different grazing, and compare options.",
       whyItMatters:
         "Cumbria's land-based sector is shifting from food production towards public goods and nature recovery, and the LSIP names climate change adaptation and renewables content as a specific technical gap.",
       skills: {
@@ -997,8 +997,8 @@ export const CONTENT: RegionContent = {
         degrees: ["Environmental Science", "Agriculture", "Forestry"],
         apprenticeships: [
           "Countryside Worker (Level 2)",
-          "Land-based Business/Environmental Adviser (Level 4)",
-          "Forestry Worker (Level 2)",
+          "Environmental Practitioner (Level 6 Degree Apprenticeship)",
+          "Forest Craftsperson (Level 3)",
         ],
         careers: [
           "Environmental consultant",
@@ -1020,9 +1020,9 @@ export const CONTENT: RegionContent = {
       title: "Why Isn't Land-based Training Easy to Find?",
       strapline: "Talk to young people and providers to map a confusing training landscape.",
       summary:
-        "Students interview a small number of land-based training providers and survey peers with any interest in farming, forestry or conservation, to understand why post-16 land-based training is spread across many small providers and can be hard to find, and produce a simple guide for students considering these careers.",
+        "Students interview a small number of land-based training providers, arranged through school, and run an anonymous survey of peers with any interest in farming, forestry or conservation, to understand why post-16 land-based training can be hard to find and compare, and produce a simple guide for students considering these careers.",
       whyItMatters:
-        "Cumbria's evidence names post-16 land-based training as spread across many small providers and hard to find, alongside gaps in entry-level provision for young people with additional needs.",
+        "Cumbria's LSIP describes post-16 land-based training as complex in availability, location and provider, with short courses spread across many small providers, alongside gaps in entry-level provision for young people with additional needs.",
       skills: {
         speaking: 2,
         writing: 2,
@@ -1068,8 +1068,8 @@ export const CONTENT: RegionContent = {
         degrees: ["Agriculture", "Rural Land Management", "Education"],
         apprenticeships: [
           "Countryside Worker (Level 2)",
-          "Careers Adviser (Level 6)",
-          "Agricultural/Farm Technician (Level 3)",
+          "Career Development Professional (Level 6)",
+          "Livestock Unit Technician (Level 3)",
         ],
         careers: [
           "Careers adviser",
@@ -1091,7 +1091,7 @@ export const CONTENT: RegionContent = {
       title: "Picture Cumbria's Changing Land",
       strapline: "Photograph and explain how farming and nature recovery are reshaping the fells.",
       summary:
-        "Students photograph and research examples near them of Cumbria's land-use shift towards nature recovery and diversification, such as rewilding projects, new agroforestry, or farm diversification into tourism, and design a photo-essay or exhibition explaining what's changing and why.",
+        "Students research examples near them of Cumbria's land-use shift towards nature recovery and diversification, such as rewilding projects, new agroforestry, or farm diversification into tourism. They photograph them only from public roads, paths and viewpoints or on a supervised, school-organised trip, never on working farmland, and design a photo-essay or exhibition explaining what's changing and why.",
       whyItMatters:
         "Cumbria's land-based industries are undergoing a major policy shift from food production towards public goods, nature recovery and diversification, a change that's visible but rarely explained to young people.",
       skills: {
@@ -1139,8 +1139,8 @@ export const CONTENT: RegionContent = {
         degrees: ["Environmental Science", "Photography", "Rural Land Management"],
         apprenticeships: [
           "Countryside Worker (Level 2)",
-          "Photographer (Level 3)",
-          "Land-based Business/Environmental Adviser (Level 4)",
+          "Photographer (Level 4)",
+          "Countryside Ranger (Level 4)",
         ],
         careers: [
           "Conservation officer",
@@ -1162,7 +1162,7 @@ export const CONTENT: RegionContent = {
       title: "Does Your Local Tourism Match the Survey?",
       strapline: "Test Cumbria Tourism's own findings against businesses near you.",
       summary:
-        "Using Cumbria Tourism's published Business Tracker findings as a benchmark, students design a short, anonymous survey of local visitor economy businesses, hotels, cafes, attractions, willing to take part, arranged through school contacts or a Growth Hub introduction, to see whether recruitment and skills challenges look the same locally as in the countywide figures.",
+        "Using Cumbria Tourism's published Business Tracker findings as a benchmark, students design a short, anonymous survey for a small sample of local visitor economy businesses, such as hotels, cafes and attractions, willing to take part, arranged through school contacts, to see whether recruitment and skills challenges look the same locally as in the countywide figures.",
       whyItMatters:
         "Cumbria Tourism's own Business Tracker survey found 73% of visitor economy businesses facing recruitment challenges and 66% reporting skills shortages, and this quest tests how that plays out close to home.",
       skills: {
@@ -1209,7 +1209,7 @@ export const CONTENT: RegionContent = {
       whereThisCouldLead: {
         degrees: ["Business Management", "Hospitality Management", "Economics"],
         apprenticeships: [
-          "Hospitality Team Member (Level 2)",
+          "Food and Beverage Team Member (Level 2)",
           "Chartered Manager Degree Apprenticeship (Level 6)",
           "Data Technician (Level 3)",
         ],
@@ -1234,7 +1234,7 @@ export const CONTENT: RegionContent = {
       strapline:
         "Investigate the transport and timing barriers stopping hospitality apprenticeships.",
       summary:
-        "Students interview young people who have started, or considered and rejected, a hospitality apprenticeship, along with a local employer or training provider, to understand how rurality, timing and transport actually get in the way, then propose practical fixes.",
+        "Students interview a few young people who have started, or considered and rejected, a hospitality apprenticeship, along with a local employer or training provider, with interviews arranged through school or a local college and kept anonymous, to understand how rurality, timing and transport actually get in the way, then propose practical fixes.",
       whyItMatters:
         "Cumbria's LSIP names structural barriers, rurality, timing, transport and back-loading, that limit take-up of visitor economy apprenticeships as a specific, named challenge.",
       skills: {
@@ -1281,7 +1281,7 @@ export const CONTENT: RegionContent = {
       whereThisCouldLead: {
         degrees: ["Human Resource Management", "Transport Planning", "Sociology"],
         apprenticeships: [
-          "Hospitality Team Member (Level 2)",
+          "Food and Beverage Team Member (Level 2)",
           "Learning and Development Practitioner (Level 3)",
           "Transport Planning Technician (Level 3)",
         ],
@@ -1307,7 +1307,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Students research what a career as a chef in Cumbria actually involves, from training routes to real working life, ideally through a school-arranged visit to a college chef academy or local restaurant, and design a short campaign, video or poster series aimed at making the career more visible and appealing to their peers.",
       whyItMatters:
-        "A shortage of well-trained, experienced chefs is the problem employers in Cumbria's visitor economy mention most often, and the LSIP names training routes such as a stepped Chartered Manager Degree Apprenticeship as worth promoting.",
+        "A shortage of well-trained, experienced chefs is the problem employers in Cumbria's visitor economy mention most often, and the LSIP names commis chef and chef de partie apprenticeships among the sector's key needs.",
       skills: {
         "content-production": 3,
         creativity: 2,
@@ -1318,7 +1318,7 @@ export const CONTENT: RegionContent = {
         "Maths & Computing":
           "These subjects help the group plan and track a simple campaign, such as engagement across a few social channels.",
         Sciences:
-          "Food Science & Nutrition and Biology help the group accurately explain the technical skill and science behind professional cooking.",
+          "Biology and Chemistry help the group accurately explain the science behind professional cooking, from food safety to how ingredients change when cooked.",
         "Technical & Applied":
           "Health & Social Care students bring understanding of food safety and hygiene standards relevant to professional kitchens.",
         "Business & Economics":

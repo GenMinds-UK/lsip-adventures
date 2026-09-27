@@ -11,90 +11,90 @@ export const CONTENT: RegionContent = {
     "Further Mathematics":
       "Beyond single-variable modelling, further maths tools like matrices, complex numbers and differential equations sit behind flight control systems at BAE Systems and the kind of secure systems work associated with the new National Cyber Force base at Samlesbury. It's the level of maths that turns an engineering idea into a certifiable, safety-critical system.",
     Statistics:
-      "Lancashire's manufacturers, hospitals and care providers all run on data: the LSIP flags data analysis as one of the fastest-growing skills employers want, especially where 'smart factories' track production in real time. Statistics is also how care planners work out where the 83,665 extra social care staff predicted for Lancashire and Cumbria by 2040 will be needed.",
+      "Lancashire's manufacturers, hospitals and care providers all run on data: the LSIP reports a significant increase in manufacturers looking for data analysis skills, especially where 'smart factories' track production in real time. Statistics is also how care planners work out where the 83,665 extra social care staff predicted for Lancashire and Cumbria by 2040 will be needed.",
     "Computer Science":
-      "The North West's cyber cluster, one of the UK's largest, runs through Lancashire: BAE Systems' Samlesbury site now hosts the government's National Cyber Force, and hundreds of smaller firms need programmers, web developers and IT technicians. The LSIP lists cyber security, coding and web development among Lancashire's most commonly requested digital skills.",
+      "The North West's cyber cluster, one of the UK's largest, runs through Lancashire: Samlesbury, alongside BAE Systems' site there, is now home to the new headquarters of the government's National Cyber Force, and hundreds of smaller firms need programmers, web developers and IT technicians. The LSIP lists cyber security, coding and web development among Lancashire's most commonly requested digital skills.",
     Biology:
       "Lancashire's food and farming sector, from Fylde coast salad growers to Ribble Valley dairy and meat producers, employs over 25,000 people and feeds directly into the LSIP's food security priority. Biology also underpins the social care workforce, where understanding the body and how it ages is central to supporting Lancashire's growing number of older residents.",
     Chemistry:
-      "Springfields, near Preston, manufactures nuclear fuel for reactors across the UK, and Heysham's power stations rely on chemists who understand radiation, materials and safety at close range. Chemistry also sits behind the composite materials BAE Systems uses on Eurofighter Typhoon components, made at Samlesbury.",
+      "Springfields, near Preston, manufactures nuclear fuel for UK reactors and for customers overseas, and Heysham's power stations rely on chemists who understand radiation, materials and safety at close range. Chemistry also sits behind the composite materials BAE Systems uses on Eurofighter Typhoon components, made at Samlesbury.",
     Physics:
-      "Physics explains how BAE Systems' aircraft fly, how radar and sensors on Typhoon and the Tempest programme work, and how Heysham's reactors turn nuclear fission into electricity for the National Grid. As Lancashire's clean energy priority grows offshore wind and looks toward small modular reactors, physics graduates are needed at every stage from design to safety case.",
+      "Physics explains how BAE Systems' aircraft fly, how radar and sensors on Typhoon and the future GCAP fighter work, and how Heysham's reactors turn nuclear fission into electricity for the National Grid. As Lancashire's clean energy priority grows offshore wind and looks towards small modular reactors, physics graduates are needed at every stage from design to safety case.",
     "Applied Science":
       "Applied Science's lab-based, practical approach matches roles across Lancashire's nuclear sites at Heysham and Springfields, where technicians test materials and monitor safety, and in food manufacturing, where products are checked before reaching supermarket shelves. It is a direct route into the technician-level jobs the LSIP says the region badly needs.",
     "Environmental Science":
-      "Lancashire's clean energy priority covers everything from Heysham's reactor life extensions to growing offshore wind off the Fylde coast, all of which need people who understand environmental impact, monitoring and regulation. Environmental Science also has real local material in Morecambe Bay, one of Britain's largest and fastest-changing tidal estuaries.",
+      "Lancashire's clean energy priority covers everything from Heysham's reactor life extensions to growing offshore wind off the Lancashire and Cumbria coast, all of which need people who understand environmental impact, monitoring and regulation. Environmental Science also has real local material in Morecambe Bay, one of Britain's largest tidal bays, whose shifting sands and channels can be studied safely through published monitoring data.",
     Psychology:
-      "Psychology's focus on wellbeing and human behaviour connects to Lancashire's social care priority, where providers describe candidates arriving without the confidence or resilience the job needs. It also speaks to the region's youth unemployment problem: Blackpool has one of the North West's highest NEET rates among 16 and 17-year-olds.",
+      "Psychology's focus on wellbeing and human behaviour connects to Lancashire's social care priority, where staff support people's wellbeing every day under real pressure and turnover is high. It also speaks to the region's youth unemployment problem: Blackpool has one of the North West's highest NEET rates among 16 and 17-year-olds.",
     Engineering:
-      "Advanced Manufacturing & Engineering is Lancashire's top LSIP priority, anchored by BAE Systems at Warton and Samlesbury, where Eurofighter Typhoon is assembled and the future Tempest fighter is being designed. The LSIP names ongoing shortages of engineers, CNC machinists, fabricators and welders as one of the region's most persistent skills problems.",
+      "Advanced Manufacturing & Engineering heads Lancashire's list of LSIP priority sectors, anchored by BAE Systems at Warton and Samlesbury, where Eurofighter Typhoon is assembled and work on the next-generation GCAP fighter is under way. The LSIP names ongoing shortages of engineers, CNC machinists, fabricators and welders as one of the region's most persistent skills problems.",
     "Design & Technology (Product Design)":
-      "From Leyland Trucks, a PACCAR-owned manufacturer that exports DAF-branded lorries worldwide, to BAE Systems' iterative approach to aircraft design, Lancashire's biggest employers all rely on people who can take an idea from brief to working prototype. Product Design's iterative process is exactly the skillset the advanced manufacturing priority is short of.",
+      "From Leyland Trucks, a PACCAR-owned manufacturer that exports DAF-branded lorries worldwide, to BAE Systems' iterative approach to aircraft design, Lancashire's major employers all rely on people who can take an idea from brief to working prototype. Product Design's iterative process is exactly the skillset the advanced manufacturing priority is short of.",
     "Health & Social Care":
-      "Social care is one of Lancashire's largest workforces, with over 3,000 vacancies already and Skills for Care predicting 83,665 more staff needed across Lancashire and Cumbria by 2040. The LSIP notes that over half of current care workers haven't completed the Care Certificate induction, making this qualification a direct, needed route into the sector.",
+      "Health and social care is one of Lancashire's largest workforces, with over 3,000 care vacancies already and Skills for Care predicting 83,665 more staff needed across Lancashire and Cumbria by 2040. The LSIP notes that over half of care workers across Lancashire and Cumbria haven't engaged with the Care Certificate induction standards, making this qualification a direct, needed route into the sector.",
     "Construction & the Built Environment":
       "Lancashire needs many more bricklayers, plumbers, carpenters, electricians and site managers as housebuilding targets rise and the workforce ages; the LSIP cites a national need for 251,500 more construction workers by 2028. This A level covers the structures, regulations and building methods behind every new home and retrofit project in the county.",
     "Business Studies":
-      "Boost Business Lancashire, the county's Growth Hub, supports thousands of local firms, and the LSIP's cross-cutting theme of weak leadership and management training runs through manufacturing, hospitality, care and construction alike. Business Studies covers exactly the marketing, finance and people-management skills employers say they're missing.",
+      "Boost Business Lancashire, the county's Growth Hub, supports thousands of local firms, and the LSIP finds that leadership and management training is still commonly needed across sectors, from manufacturing and hospitality to care and construction. Business Studies covers exactly the marketing, finance and people-management skills employers say they need.",
     Economics:
-      "Lancashire's economy generates around £40bn in GVA a year, but with an economic inactivity rate of 24.4% and employment rates ranging from 62.6% in Blackpool to 84.5% in Fylde, it's a county of sharp contrasts worth analysing. Economics also explains why a globally competitive sector like aerospace can sit next to struggling coastal towns.",
+      "Lancashire's economy generates around £40bn in GVA a year, but with an economic inactivity rate of 24.4% and employment rates ranging from 61.5% in Hyndburn and 62.6% in Blackpool to 84.5% in Fylde, it's a county of sharp contrasts worth analysing. Economics also explains why a globally competitive sector like aerospace can sit next to struggling coastal towns.",
     Accounting:
-      "Every business named in the Lancashire LSIP, from small Blackpool guesthouses to BAE Systems' supply chain, depends on accurate financial information to survive and grow. Boost Business Lancashire's advisers regularly report that smaller firms lack the financial planning skills Accounting teaches, from cash flow to budgeting.",
-    Law: "Lancaster Castle, where the Pendle witch trials of 1612 were held, is a striking reminder of how the legal system has changed. Law shapes Lancashire directly today too: the Morecambe Bay cockling tragedy of 2004 led to the Gangmasters Licensing Act, and safeguarding law now sits at the heart of the social care and construction priorities.",
+      "Every kind of Lancashire business, from small Blackpool guesthouses to BAE Systems' supply chain, depends on accurate financial information to survive and grow. Boost Business Lancashire, the county's Growth Hub, offers new firms guidance on financial awareness, the same cash flow and budgeting skills Accounting teaches.",
+    Law: "Lancaster Castle, where the Pendle witch trials of 1612 were held, is a striking reminder of how the legal system has changed. Law shapes Lancashire directly today too: the Morecambe Bay cockling tragedy of 2004 helped push through the Gangmasters (Licensing) Act 2004, and safeguarding and health and safety law now sit at the heart of the social care and construction priorities.",
     Geography:
-      "Morecambe Bay's fast tides and quicksand make it one of Britain's most studied coastal hazards, while Blackpool's coastline faces its own erosion and flood-defence questions. Geography's human side matters too: Lancashire's employment rate swings from 62.6% in Blackpool to 84.5% in Fylde, a striking pattern for fieldwork and data analysis.",
+      "Morecambe Bay's fast tides and quicksand make it a well-known coastal hazard, best studied through published data rather than on the sands, while Blackpool's coastline faces its own erosion and flood-defence questions. Geography's human side matters too: Lancashire's employment rate swings from around 62% in Hyndburn and Blackpool to 84.5% in Fylde, a striking pattern for data analysis.",
     History:
-      "Lancashire was a heartland of the Industrial Revolution's cotton industry, home to mill towns like Blackburn, Burnley and Preston, and to inventors James Hargreaves and Richard Arkwright. Its history also includes the 1612 Pendle witch trials, tried at Lancaster Castle, and Blackpool's rise as one of Britain's first great seaside resorts.",
+      "Lancashire was a heartland of the Industrial Revolution's cotton industry, home to mill towns like Blackburn, Burnley and Preston, and to inventors James Hargreaves and Richard Arkwright. Its history also includes the 1612 Pendle witch trials, tried at Lancaster Castle, and Blackpool's rise as a hugely popular seaside resort for mill-town workers.",
     Politics:
-      "The Lancashire Combined County Authority, formed in 2025, is one of England's newest devolved authorities and now controls skills funding across the county based directly on the LSIP's priorities. The National Cyber Force's new Samlesbury base also shows how national security policy shapes local jobs.",
+      "The Lancashire Combined County Authority, formed in 2025, is one of England's newer devolved authorities and now holds the devolved Adult Skills Fund, which it has designed to support the LSIP's priorities. The National Cyber Force's new Samlesbury base also shows how national security policy shapes local jobs.",
     Sociology:
       "Lancashire's LSIP repeatedly raises the 'experience gap': employers who want experienced staff but rarely take on school leavers, alongside rising NEET numbers, especially in coastal and post-industrial towns like Blackpool. Sociology's tools for studying inequality and institutions apply directly to why some Lancashire towns thrive while others struggle.",
     Philosophy:
-      "Nearly every employer the LSIP spoke to raised AI as a concern, and Lancashire's digital priority names 'responsible and ethical use of AI' as an essential skill. Philosophy's training in spotting weak arguments and reasoning through ethical dilemmas is exactly what judging AI outputs, and the claims made about them, requires.",
+      "AI came up as a topic with nearly every employer the LSIP interviewed, and Lancashire's digital priority names 'responsible and ethical use of AI' as an essential skill. Philosophy's training in spotting weak arguments and reasoning through ethical dilemmas is exactly what judging AI outputs, and the claims made about them, requires.",
     "Religious Studies":
-      "Lancashire's mill towns, including Blackburn and Preston, are home to some of England's most religiously diverse communities, shaped by generations of migration for cotton and manufacturing work. Religious Studies' focus on ethics and belief also underpins the values-based training care workers need under the Care Certificate.",
+      "Lancashire's mill towns, including Blackburn and Preston, are home to large, religiously diverse communities, shaped by generations of migration for cotton and manufacturing work. Religious Studies' focus on ethics and belief also underpins the values-based training care workers need under the Care Certificate.",
     Criminology:
-      "Studying crime and justice connects to Lancashire's social care priority, where safeguarding vulnerable adults is a legal requirement, and to the work defending against digital crime associated with the new National Cyber Force base at Samlesbury. Criminology also has real local history in the 1612 Pendle witch trials, tried at Lancaster Castle.",
+      "Studying crime and justice connects to Lancashire's social care priority, where safeguarding vulnerable adults is a legal requirement, and to the work countering online threats and serious crime associated with the new National Cyber Force base at Samlesbury. Criminology also has real local history in the 1612 Pendle witch trials, tried at Lancaster Castle.",
     "English Language":
-      "The LSIP's own employer survey found that 97.4% of Lancashire businesses rate 'the right attitude to work' as essential, and clear speaking and writing consistently rank among the soft skills employers most want to train. English Language's study of how communication actually works underpins every customer-facing and care role in the county.",
+      "An earlier LSIP employer survey found that 97.4% of Lancashire employers who responded rated 'the right attitude to work' as essential, and verbal and written communication both feature among the soft skills employers train their staff in. English Language's study of how communication actually works underpins every customer-facing and care role in the county.",
     "English Literature":
       "Lancashire has its own literary footprint: the 1612 Pendle witch trials inspired novels including William Harrison Ainsworth's The Lancashire Witches, and the county's cotton-mill towns shaped a strong tradition of working-class writing. English Literature's close reading and argument-building are also the critical thinking the LSIP wants from young people judging AI-generated text.",
     "English Language & Literature":
-      "Combining language and literary study suits Lancashire's mix of heritage and modern communication needs, from analysing how Blackpool has been written about as a seaside resort for over a century, to the plain, clear writing skills local employers say new recruits often lack. It is a strong base for the region's growing content and digital marketing roles.",
+      "Combining language and literary study suits Lancashire's mix of heritage and modern communication needs, from analysing how Blackpool has been written about as a seaside resort for over a century, to the clear written communication local employers say they train new staff in. It is a strong base for the region's growing content and digital marketing roles.",
     French:
-      "Lancashire's exporters, from Leyland Trucks sending DAF-branded lorries worldwide to smaller advanced manufacturers in the Lancashire & Cumbria Institute of Technology's network, increasingly need staff who can work with European customers and suppliers. Blackpool's visitor economy, drawing around 20 million visitors a year, also relies on people who can welcome guests from across Europe.",
+      "Lancashire's exporters, from Leyland Trucks sending DAF-branded lorries worldwide to smaller advanced manufacturers in the Lancashire & Cumbria Institute of Technology's network, need staff who can work with European customers and suppliers. Blackpool's visitor economy, drawing around 20 million visitors a year, also relies on people who can welcome guests from across Europe.",
     Spanish:
-      "Spanish opens doors into Lancashire's visitor economy, worth an estimated £1.7bn, where Blackpool and the Fylde coast welcome international tourists every year. It's also a practical asset for exporters in Lancashire's advanced manufacturing and food and drink sectors, both flagged in the LSIP as needing to reach new markets.",
+      "Spanish opens doors into Lancashire's tourism sector, worth an estimated £1.7bn, where Blackpool and the Fylde coast welcome international tourists every year. It's also a practical asset for Lancashire's exporters, from the aerospace cluster the LSIP says drives high-value exports to manufacturers and food and drink producers selling abroad.",
     German:
-      "BAE Systems' Eurofighter Typhoon, assembled at Warton and Samlesbury, is built with German, Italian and Spanish partners, so German is a genuinely useful language for Lancashire's biggest employer and its supply chain. It also supports trade with Europe's largest economy, a market Lancashire's manufacturers and food producers both rely on.",
+      "BAE Systems' Eurofighter Typhoon, built at Warton and Samlesbury, is made with German, Italian and Spanish partners, so German is a genuinely useful language for one of Lancashire's biggest employers and its supply chain. It also supports trade with Europe's largest economy, a market Lancashire's manufacturers and food producers both rely on.",
     "Chinese (Mandarin)":
-      "Lancashire's advanced manufacturers and food producers are increasingly looking to reach new export markets, something the LSIP names as important for growth, and Mandarin is a genuine advantage for that. Lancashire's universities, including Lancaster and the University of Lancashire, also recruit significant numbers of international students from China.",
+      "Lancashire's aerospace cluster, which the LSIP says drives high-value exports, and many of its wider manufacturers and food producers sell into international markets, where Mandarin can be a genuine advantage. Lancashire's universities, including Lancaster and the University of Lancashire, also recruit significant numbers of international students from China.",
     "Art & Design (Fine Art)":
       "Blackpool's illuminations and its Grundy Art Gallery show how visual creativity powers the resort's identity, while the LSIP names digital marketing, design and social media among Lancashire's most requested skills. Fine Art's focus on developing an independent visual practice builds exactly the creative confidence those roles need.",
     "Graphic Communication":
       "The Lancashire LSIP names 'digital marketing, design and social media' among its most commonly requested digital skills, right alongside coding and cyber security. Graphic Communication's mix of branding, typography and layout is a direct route into these roles, whether promoting Blackpool's visitor attractions or a Preston manufacturer's products.",
     Photography:
-      "Blackpool's visitor economy, worth an estimated £1.7bn and drawing around 20 million visitors a year, depends heavily on strong images to sell the resort, while manufacturers and care providers increasingly need product and recruitment photography too. Photography builds the technical and editing skills behind Lancashire's growing content and marketing roles.",
+      "Blackpool's visitor economy, worth an estimated £1.5bn and drawing around 20 million visitors a year, depends heavily on strong images to sell the resort, while manufacturers and care providers increasingly need product and recruitment photography too. Photography builds the technical and editing skills behind Lancashire's growing content and marketing roles.",
     "Textile Design":
       "Lancashire's mill towns, Blackburn, Burnley, Preston and Rossendale among them, were once at the heart of the world's cotton industry, and a handful of specialist textile manufacturers still operate in the county today. Textile Design connects that heritage directly to modern fabric, print and manufacturing skills.",
     "Film Studies":
-      "Lancashire's dramatic coastline and mill-town streets have long attracted film and TV production, and the LSIP names digital content creation as a growing need across almost every sector. Film Studies' mix of critical analysis and hands-on production builds skills that transfer straight into the region's growing content and marketing roles.",
+      "Lancashire's dramatic coastline and mill-town streets have long attracted film and TV production, and the LSIP says digital skills are becoming embedded across all sectors. Film Studies' mix of critical analysis and hands-on production builds skills that transfer straight into the region's growing content and marketing roles.",
     "Media Studies":
-      "The Lancashire LSIP names digital marketing, design and social media as some of its most requested skills, and nearly every employer it spoke to raised AI as a live concern for how content gets made. Media Studies' focus on producing content as well as analysing it is a direct route into these fast-growing digital roles.",
+      "The Lancashire LSIP names digital marketing, design and social media as some of its most requested skills, and AI came up as a topic with nearly every employer it interviewed. Media Studies' focus on producing content as well as analysing it is a direct route into these fast-growing digital roles.",
     Music:
-      "Blackpool's entertainment heritage runs deep, from the Tower Ballroom's world-famous dance floor to a long tradition of seaside variety and live music. Music's performance and composition skills feed directly into Lancashire's hospitality, leisure and tourism priority, which supports a visitor economy worth an estimated £1.7bn a year.",
+      "Blackpool's entertainment heritage runs deep, from the Tower Ballroom's famous dance floor to a long tradition of seaside variety and live music. Music's performance and composition skills feed directly into Lancashire's hospitality, leisure and tourism priority, a sector worth an estimated £1.7bn a year to the county.",
     "Music Technology":
-      "Blackpool's visitor economy runs on live entertainment, from the Tower Ballroom to seaside theatres, all of which need people who understand recording, sound design and live sound engineering. Music Technology also feeds into the digital content production skills the LSIP flags as increasingly important across Lancashire's creative and hospitality businesses.",
+      "Blackpool's visitor economy runs on live entertainment, from the Tower Ballroom to seaside theatres, all of which need people who understand recording, sound design and live sound engineering. Music Technology also builds the kind of digital skills the LSIP says are becoming embedded across all of Lancashire's sectors.",
     "Drama & Theatre":
-      "Blackpool's theatres, including the Grand and the Winter Gardens, have staged seaside entertainment for well over a century, and the hospitality, leisure and tourism priority names customer-facing confidence as a key skill. Drama & Theatre's performance training builds exactly that confidence, alongside real routes into the visitor economy's entertainment and events roles.",
+      "Blackpool's theatres, including the Grand and the Winter Gardens, have staged seaside entertainment for well over a century, and the hospitality, leisure and tourism priority names front-of-house staff among its priority occupations. Drama & Theatre's performance training builds exactly the confidence those customer-facing roles need, alongside real routes into the visitor economy's entertainment and events roles.",
     Dance:
-      "Blackpool Tower Ballroom has hosted the Blackpool Dance Festival since 1920, now the world's largest and most prestigious ballroom dance competition, drawing thousands of competitors from around sixty countries. Dance's technique and choreography training connects directly to Lancashire's hospitality, leisure and tourism priority and its entertainment-based visitor economy.",
+      "The Winter Gardens' Empress Ballroom has hosted the Blackpool Dance Festival since 1920, often described as the world's first and most famous ballroom dance competition, drawing thousands of competitors from dozens of countries. Dance's technique and choreography training connects directly to Lancashire's hospitality, leisure and tourism priority and its entertainment-based visitor economy.",
     "Physical Education":
       "Lancashire's hospitality, leisure and tourism priority covers everything from Blackpool's attractions to countryside activity providers, many of which need staff who understand fitness, coaching and how to run safe, engaging sessions. PE's mix of practical skill and theory is a strong base for these roles, and for community sport and youth work more broadly.",
     "Sport & Exercise Science":
-      "The science of training, nutrition and performance testing that Sport & Exercise Science teaches applies directly to Lancashire's growing activity tourism offer along the Fylde coast and in the Forest of Bowland, as well as to rehabilitation roles inside the region's stretched health and social care workforce.",
+      "The science of training, nutrition and performance testing that Sport & Exercise Science teaches applies directly to Lancashire's activity tourism offer along the Fylde coast and in the Forest of Bowland, as well as to rehabilitation roles inside the region's stretched health and social care workforce.",
     "Food Science & Nutrition":
-      "Lancashire's food and drink sector employs more than 25,000 people and is forecast to keep growing, from Fylde coast salad growers to well-known local products like Lancashire cheese, and it feeds into the LSIP's food security priority. Food Science & Nutrition also matters directly to social care, where good nutrition supports Lancashire's ageing population.",
+      "Lancashire's farming, food and drink sector employs more than 25,000 people and is forecast to keep growing, from Fylde coast salad growers to well-known local products like Lancashire cheese, and it feeds into the LSIP's food security priority. Food Science & Nutrition also matters directly to social care, where good nutrition supports Lancashire's ageing population.",
   },
   quests: [
     // Advanced Manufacturing & Engineering
@@ -104,9 +104,9 @@ export const CONTENT: RegionContent = {
       title: "Map Lancashire's Smart Factory Gap",
       strapline: "Chart how data and AI are reshaping the shop floor.",
       summary:
-        "Investigate how Lancashire manufacturers, from aerospace suppliers to smaller precision engineering firms, are using data dashboards, sensors and AI tools on the production line, drawing on published labour-market data, job adverts and a short employer survey arranged through school. The group produces a simple 'smart factory readiness' map of the sector.",
+        "Investigate how Lancashire manufacturers, from aerospace suppliers to smaller precision engineering firms, are using data dashboards, sensors and AI tools on the production line, drawing on published labour-market data, job adverts and a short, anonymous survey of a small sample of employers arranged through school. The group produces a simple 'smart factory readiness' map of the sector.",
       whyItMatters:
-        "The LSIP names 'a significant increase in companies looking for digital skills, especially AI, data analysis' inside advanced manufacturing, but says most employers are still not fully equipped to use them.",
+        "The LSIP names 'a significant increase in companies looking for digital skills, especially AI, data analysis' inside advanced manufacturing, and says Industry 4.0 adoption is critical to the sector's future competitiveness.",
       skills: {
         "data-analysis": 3,
         "digital-ai": 2,
@@ -129,7 +129,7 @@ export const CONTENT: RegionContent = {
         "Creative & Performing":
           "Designs clear charts, diagrams and a short explainer video so the findings land with employers and students who've never set foot on a factory floor.",
         "Sport & Wellbeing":
-          "Contributes a practical, hands-on mindset to fieldwork such as factory visits, drawing a useful parallel with how technology and data are used in sports performance analysis.",
+          "Contributes a practical, hands-on mindset to fieldwork such as school-organised factory visits, drawing a useful parallel with how technology and data are used in sports performance analysis.",
       },
       subjectOverrides: {
         Mathematics:
@@ -175,7 +175,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Research why only around 6% of Lancashire manufacturers say they'd consider hiring someone straight from school or college, using the LSIP's own survey findings alongside interviews with local employers and the Careers Hub arranged by the school, then write up realistic recommendations.",
       whyItMatters:
-        "This is the LSIP's own headline statistic for advanced manufacturing, that 63% of manufacturers recruit only to fill existing roles while just 6% would hire school or college leavers, and it sits behind almost every other skills gap in the sector.",
+        "This is the LSIP's own headline statistic for advanced manufacturing, that 63% of manufacturers mainly recruit to fill existing roles while just 6% would hire school or college leavers, and it warns this makes shortages more likely to 'continue and worsen'.",
       skills: {
         speaking: 3,
         "critical-thinking": 2,
@@ -245,7 +245,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Design a short campaign, combining research, a pitch document and creative content such as video, social media or print, that makes the case to local manufacturers for why they should offer more apprenticeships and technical placements.",
       whyItMatters:
-        "Lancashire's Careers Hub found that 'the number of employers offering apprenticeships and technical education does not fulfil the interest from young people in Lancashire', so the gap here is on the employer side, not the student side.",
+        "Lancashire's Careers Hub found that the number of employers offering apprenticeships and technical education 'does not fulfil the interest from young people in Lancashire', so the gap here is on the employer side, not the student side.",
       skills: {
         "content-production": 3,
         creativity: 2,
@@ -315,7 +315,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Use the UK's public Energy Performance Certificate register to analyse the age, insulation and energy efficiency of housing in a chosen Lancashire town, then design a realistic retrofit plan, covering materials, cost and sequencing, for a typical street or building type.",
       whyItMatters:
-        "England needs 251,500 more construction workers by 2028, and the LSIP names retrofit and green construction as a growing, if still emerging, part of that need locally.",
+        "National forecasts cited in the LSIP say the UK needs 251,500 more construction workers by 2028, with demand for retrofit and net-zero projects one of the reasons the gap keeps growing.",
       skills: {
         sustainability: 3,
         numeracy: 2,
@@ -338,7 +338,7 @@ export const CONTENT: RegionContent = {
         "Creative & Performing":
           "Produces diagrams, before-and-after visuals or a short explainer video that make the retrofit plan easy for a non-expert to understand.",
         "Sport & Wellbeing":
-          "Brings a practical, hands-on approach to any site visits, and an understanding of how a warm, well-ventilated building affects people's health and wellbeing.",
+          "Brings a practical, hands-on approach to any school-organised visits, and an understanding of how a warm, well-ventilated building affects people's health and wellbeing.",
       },
       subjectOverrides: {
         "Environmental Science":
@@ -346,7 +346,7 @@ export const CONTENT: RegionContent = {
         "Construction & the Built Environment":
           "Construction & the Built Environment students already know how buildings are put together, making them the natural lead on what a retrofit plan should actually specify.",
         Geography:
-          "Geography's fieldwork and mapping skills suit surveying a real street or neighbourhood's housing stock and energy performance.",
+          "Geography's mapping and data skills suit analysing a real neighbourhood's housing stock and energy performance from public EPC records, without needing to visit or survey individual homes.",
         Physics:
           "Physics explains the heat loss, insulation and building physics that decide which retrofit measures are actually worth the cost.",
       },
@@ -393,7 +393,7 @@ export const CONTENT: RegionContent = {
       },
       groupContributions: {
         "Maths & Computing":
-          "Can build a simple survey or tracking tool to gather and analyse how many local trainees actually stay in construction after training.",
+          "Can build a simple, anonymous survey and analyse what local colleges report about how many trainees actually stay in construction after training.",
         Sciences:
           "Applies a fair, structured approach to comparing different trainees' and employers' accounts rather than drawing conclusions from one or two stories.",
         "Technical & Applied":
@@ -405,7 +405,7 @@ export const CONTENT: RegionContent = {
         "English & Languages":
           "Writes up the findings as a clear report that colleges and training providers could actually use to improve their courses.",
         "Creative & Performing":
-          "Can turn trainees' own accounts into a short film or set of case studies that makes the findings memorable for a non-specialist audience.",
+          "Can turn the findings, including anonymised trainee accounts, into a short film or set of case studies that makes them memorable for a non-specialist audience.",
         "Sport & Wellbeing":
           "Understands, from team and physical-training contexts, how tough early experiences can put people off something they were originally motivated to do.",
       },
@@ -420,7 +420,7 @@ export const CONTENT: RegionContent = {
           "Health & Social Care's focus on wellbeing and safeguarding helps the group think carefully about a young trainee's welfare on a demanding site.",
       },
       researchQuestions: [
-        "What do Lancashire construction trainees themselves say made them consider, or actually decide to, leave the industry?",
+        "What do colleges, training providers and trainees themselves (through an anonymous survey arranged with a college) say makes Lancashire construction trainees consider leaving the industry?",
         "Does the national figure of around 60% dropping out match what local colleges and training providers are actually seeing in Lancashire?",
         "What changes could colleges, training providers or employers make that would realistically improve retention?",
       ],
@@ -451,7 +451,7 @@ export const CONTENT: RegionContent = {
       title: "Show What a Trade Looks Like",
       strapline: "Film the reality of a career in the trades.",
       summary:
-        "Produce a short documentary-style video or photo essay following one or two local tradespeople, such as a bricklayer, electrician or site manager, to give an honest, realistic picture of construction careers for other young people considering the industry.",
+        "Produce a short documentary-style video or photo essay built around interviews with one or two local tradespeople, such as a bricklayer, electrician or site manager, arranged through the school, to give an honest, realistic picture of construction careers for other young people considering the industry. Filming happens in safe settings such as school or a college training workshop, not on live building sites, and any site footage comes from the employer.",
       whyItMatters:
         "The LSIP links early drop-out directly to 'a lack of preparedness and awareness of working conditions of those entering the workplace', so honest, realistic content is a direct response to a named gap.",
       skills: {
@@ -462,7 +462,7 @@ export const CONTENT: RegionContent = {
       },
       groupContributions: {
         "Maths & Computing":
-          "Can help plan and budget the production, and build a simple website or platform to host and share the finished films.",
+          "Can help plan and budget the production, and build a simple website or platform to share the finished films, with the consent of everyone featured.",
         Sciences:
           "Brings a habit of checking claims and figures used in the film, so it stays an honest picture rather than a recruitment advert.",
         "Technical & Applied":
@@ -484,7 +484,7 @@ export const CONTENT: RegionContent = {
         "Media Studies":
           "Media Studies' focus on how real audiences respond to content shapes a film that will actually change minds, not just inform them.",
         Photography:
-          "Photography can carry the same honest, on-site storytelling through a photo essay if video isn't practical.",
+          "Photography can carry the same honest storytelling through a photo essay if video isn't practical.",
         "Construction & the Built Environment":
           "Construction & the Built Environment students can spot when the film is glossing over the harder parts of the job, keeping it credible.",
       },
@@ -518,7 +518,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Research a real Lancashire visitor attraction, from Blackpool's seafront to a smaller local museum, using public information about visitor numbers, footfall or reviews, and propose practical digital improvements such as better booking systems, social media use or simple data dashboards.",
       whyItMatters:
-        "The LSIP notes that 'essential digital skills and the use of AI are increasingly expected even though they are not part of the traditional job list' in hospitality, leisure and tourism.",
+        "The LSIP notes that essential digital skills and the use of AI now come up with hospitality, leisure and tourism employers even though they don't feature in the sector's priority occupations, and it calls for upskilling staff in essential digital skills.",
       skills: {
         "data-analysis": 3,
         "digital-ai": 2,
@@ -527,7 +527,7 @@ export const CONTENT: RegionContent = {
       },
       groupContributions: {
         "Maths & Computing":
-          "Builds the spreadsheets or simple dashboards needed to turn visitor numbers, reviews or booking data into genuinely useful patterns.",
+          "Builds the spreadsheets or simple dashboards needed to turn published visitor numbers or public reviews into genuinely useful patterns.",
         Sciences:
           "Applies a careful, evidence-based approach to testing which patterns in the visitor data are real trends rather than one-off blips.",
         "Technical & Applied":
@@ -541,11 +541,11 @@ export const CONTENT: RegionContent = {
         "Creative & Performing":
           "Designs the visuals, social content or user-facing side of any digital tool the group proposes, so it's something visitors would actually want to use.",
         "Sport & Wellbeing":
-          "Brings firsthand experience of what makes an activity or attraction genuinely engaging, useful when judging what visitor data is really telling you.",
+          "Brings first-hand experience of what makes an activity or attraction genuinely engaging, useful when judging what visitor data is really telling you.",
       },
       subjectOverrides: {
         "Computer Science":
-          "Computer Science students can prototype a simple booking system, dashboard or app feature that turns the group's ideas into something real.",
+          "Computer Science students can prototype a simple booking system, dashboard or app feature, using made-up test data, that turns the group's ideas into something real.",
         Statistics:
           "Statistics gives the tools to test whether a change in visitor numbers is a genuine pattern or just noise in the data.",
         "Business Studies":
@@ -555,7 +555,7 @@ export const CONTENT: RegionContent = {
       },
       researchQuestions: [
         "What digital tools, such as booking systems, apps or social media, is the chosen attraction already using, and how well are they working?",
-        "What do visitor reviews or footfall data suggest the attraction could improve?",
+        "What do public visitor reviews or published footfall data suggest the attraction could improve?",
         "What would a realistic, affordable digital upgrade look like for an attraction of this size?",
       ],
       whereThisCouldLead: {
@@ -585,9 +585,9 @@ export const CONTENT: RegionContent = {
       title: "Solve Lancashire's Chef Shortage",
       strapline: "Find out why kitchens can't keep their chefs.",
       summary:
-        "Investigate why the LSIP names recruiting and retaining chefs as the single most frequently raised issue in Lancashire hospitality, through published industry reports and interviews with local restaurants, hotels or catering colleges arranged by the school.",
+        "Investigate why the LSIP names recruiting and retaining chefs as the most frequently discussed issue in Lancashire hospitality, through published industry reports and interviews with local restaurants, hotels or catering colleges arranged by the school.",
       whyItMatters:
-        "This is the LSIP's own top-ranked hospitality issue: 'the recruitment and retention of chefs are the most frequently discussed issues by employer in the sector'.",
+        "This is the LSIP's own headline hospitality issue: 'the recruitment and retention of chefs are the most frequently discussed issues by employer in the sector'.",
       skills: {
         speaking: 3,
         "critical-thinking": 2,
@@ -649,9 +649,9 @@ export const CONTENT: RegionContent = {
       title: "Reimagine a Lancashire Attraction",
       strapline: "Design a fresh visitor experience for the coast.",
       summary:
-        "Design a concept, branding and short promotional content for a new or improved visitor experience somewhere on the Lancashire coast, drawing on real examples such as Eden Project Morecambe, to show how creative design can help grow the visitor economy.",
+        "Design a concept, branding and short promotional content for a new or improved visitor experience somewhere on the Lancashire coast, drawing on real examples such as Eden Project Morecambe, due to open in 2028, to show how creative design can help grow the visitor economy.",
       whyItMatters:
-        "Blackpool and Lancashire's coast draw around 20 million visitors a year in a visitor economy worth an estimated £1.7bn, and the LSIP names digital content and social media among the sector's most wanted skills.",
+        "Blackpool alone draws around 20 million visitors a year, Lancashire's tourism-related sectors are worth an estimated £1.7bn, and the LSIP says plans include modernising the seaside experience with immersive attractions and digital ticketing.",
       skills: {
         creativity: 3,
         "content-production": 2,
@@ -788,7 +788,7 @@ export const CONTENT: RegionContent = {
       title: "Make Care Certificate Training Work",
       strapline: "Find out why so many carers miss induction training.",
       summary:
-        "Investigate why the LSIP reports that 52% of Lancashire and Cumbria care workers haven't completed Care Certificate induction and 58% have no relevant qualification, through published guidance and interviews with local care providers and training organisations arranged by the school.",
+        "Investigate why the LSIP reports that 52% of Lancashire and Cumbria care workers haven't engaged with the Care Certificate induction standards and 58% have no relevant qualification, through published guidance and interviews with local care providers and training organisations arranged by the school.",
       whyItMatters:
         "The Care Certificate is the sector's basic induction standard, and the LSIP flags both low completion and the difficulty employers have finding and arranging short course training for specific care skills.",
       skills: {
@@ -857,9 +857,9 @@ export const CONTENT: RegionContent = {
       title: "Change How Young People See Care",
       strapline: "Make a case for care as a real career.",
       summary:
-        "Produce a short campaign, film or set of case studies that presents social care honestly as a career option for young people, addressing the LSIP's finding that care isn't typically seen as a realistic choice by younger people.",
+        "Produce a short campaign, film or set of case studies that presents social care honestly as a career option for young people, addressing the LSIP's finding that care isn't typically seen as a realistic choice by younger people. Any interviews are with care professionals, arranged through the school, and nothing is filmed in care settings or with people receiving care.",
       whyItMatters:
-        "The LSIP names this directly: 'care is not typically seen as a realistic career choice by younger people', despite the sector needing tens of thousands more staff.",
+        "The LSIP names this directly: 'care is not typically considered to be a viable career option for younger people', despite the sector needing tens of thousands more staff.",
       skills: {
         "content-production": 3,
         "care-empathy": 2,
@@ -890,12 +890,12 @@ export const CONTENT: RegionContent = {
         "Media Studies":
           "Media Studies' understanding of how young audiences actually respond to content shapes a campaign that will genuinely land.",
         "Film Studies":
-          "Film Studies is the natural lead on structuring and shooting short, honest case-study films of real care workers.",
+          "Film Studies is the natural lead on structuring and shooting short, honest case-study interviews with care workers, arranged through the school.",
         Sociology:
           "Sociology helps the group understand and address the stigma and assumptions that currently put young people off a care career.",
       },
       researchQuestions: [
-        "What do young people currently believe about care work, and how accurate is that compared with what care workers themselves say?",
+        "What do young people currently believe about care work (for example, from a short anonymous survey of students), and how accurate is that compared with what care workers themselves say?",
         "What genuine career progression and pay routes exist in social care that most young people don't know about?",
         "What kind of campaign or content would realistically change a young person's mind about care as a career?",
       ],
@@ -922,7 +922,7 @@ export const CONTENT: RegionContent = {
       title: "Build Lancashire's AI Readiness Map",
       strapline: "Rank sectors by how ready they are for AI.",
       summary:
-        "Research how prepared different Lancashire sectors, from manufacturing to hospitality, are for AI adoption, using the LSIP's own maturity model as a framework, and present a simple 'AI readiness' ranking with recommendations.",
+        "Research how prepared different Lancashire sectors, from manufacturing to hospitality, are for AI adoption, using the LSIP's own maturity model as a framework alongside published reports and a few employer conversations arranged through school, and present a simple 'AI readiness' ranking with recommendations.",
       whyItMatters:
         "The LSIP says AI 'has become a standalone topic of discussion with nearly every employer interviewed', but employers are at very different stages, from 'not started' to full implementation.",
       skills: {
@@ -989,11 +989,11 @@ export const CONTENT: RegionContent = {
       id: "lancashire-digital-2",
       priorityId: "digital",
       title: "Fix Cyber's Experience Trap",
-      strapline: "Solve why cyber graduates can't get a first job.",
+      strapline: "Find out why cyber graduates struggle to land a first job.",
       summary:
-        "Investigate why the LSIP reports that cyber security graduates 'struggle to get into roles that still ask for experience, even at junior level', through research into local employer job adverts and interviews with training providers and employers arranged by the school.",
+        "Investigate why the LSIP reports that cyber security graduates find it difficult to get into roles that ask for experience, even at junior level, through research into local employer job adverts and interviews with training providers and employers arranged by the school.",
       whyItMatters:
-        "This is a specific, named contradiction in the LSIP: cyber security is one of Lancashire's most in-demand digital skills, yet junior candidates can't get a foot in the door.",
+        "This is a specific, named contradiction in the LSIP: cyber security heads the list of digital skills Lancashire employers most commonly ask for, yet junior candidates find it hard to get a foot in the door.",
       skills: {
         speaking: 3,
         "critical-thinking": 3,
@@ -1029,7 +1029,7 @@ export const CONTENT: RegionContent = {
           "Psychology helps the group understand the risk-aversion behind employers preferring 'safe', experienced hires.",
       },
       researchQuestions: [
-        "How many entry-level cyber security job adverts in Lancashire actually ask for prior experience, and how much?",
+        "In a sample of entry-level cyber security job adverts in Lancashire, how many ask for prior experience, and how much?",
         "What do local employers say is stopping them from training junior cyber staff themselves?",
         "What changes, such as structured graduate schemes, could realistically close this experience trap?",
       ],
@@ -1055,9 +1055,9 @@ export const CONTENT: RegionContent = {
       title: "Teach Lancashire to Judge AI",
       strapline: "Build a toolkit for using AI responsibly.",
       summary:
-        "Design a short, practical toolkit of guides, videos or workshop materials that teaches the LSIP's four named AI literacy skills: understanding AI, communicating with it, judging its outputs, and using it responsibly and ethically.",
+        "Design a short, practical toolkit of guides, videos or workshop materials that teaches the LSIP's four named AI literacy skills: understanding AI, communicating with it, judging its outputs, and using it responsibly and ethically. Any hands-on examples use AI tools the school has approved.",
       whyItMatters:
-        "The LSIP names exactly these four skills as essential, drawn from Future Dot Now's research, and says nearly every employer it spoke to raised AI as a live concern.",
+        "The LSIP names exactly these four areas of need, drawn from FutureDotNow's research into Essential Digital Skills, and says AI has become a topic of discussion with nearly every employer it interviewed.",
       skills: {
         "content-production": 3,
         "critical-thinking": 2,
@@ -1080,7 +1080,7 @@ export const CONTENT: RegionContent = {
         "Creative & Performing":
           "Designs the toolkit's visuals, videos or workshop materials so the content is genuinely engaging, not just informative.",
         "Sport & Wellbeing":
-          "Brings a practical, hands-on approach to testing whether the toolkit's exercises actually work when tried out on real people.",
+          "Brings a practical, hands-on approach to testing whether the toolkit's exercises actually work when tried out with classmates or other students, arranged through the school.",
       },
       subjectOverrides: {
         Philosophy:
@@ -1125,7 +1125,7 @@ export const CONTENT: RegionContent = {
       title: "Trace an Aircraft's Supply Chain",
       strapline: "Map how a Typhoon component reaches Warton.",
       summary:
-        "Using public information about BAE Systems' Eurofighter Typhoon and the Global Combat Air Programme, map out a simplified aerospace supply chain, from raw materials to final assembly at Warton, showing the range of skills and jobs involved along the way.",
+        "Using public information about BAE Systems' Eurofighter Typhoon and the Global Combat Air Programme, map out a simplified aerospace supply chain, from raw materials to final assembly at Warton, showing the range of skills and jobs involved along the way. Everything stays at the level of published information and organised school outreach.",
       whyItMatters:
         "BAE Systems' Samlesbury and Warton sites support 20,000 North West jobs and over 900 apprentices, and the LSIP says defence-specific skills need more dedicated research.",
       skills: {
@@ -1229,7 +1229,7 @@ export const CONTENT: RegionContent = {
         Engineering:
           "Engineering students can explain realistically which technical routes lead into defence manufacturing roles.",
         "Computer Science":
-          "Computer Science students can explain the kind of technical routes that lead toward cyber and security-focused defence careers.",
+          "Computer Science students can explain the kind of technical routes that lead towards cyber and security-focused defence careers.",
       },
       researchQuestions: [
         "What training routes, from apprenticeships to degrees, actually lead into Lancashire's defence and security employers?",
@@ -1263,9 +1263,9 @@ export const CONTENT: RegionContent = {
       title: "Tell Lancashire's Food Security Story",
       strapline: "Show why farming counts as national resilience.",
       summary:
-        "Research and produce content, an exhibition, podcast series or short documentary, explaining why Lancashire's 25,000-plus agriculture and food and drink jobs are treated as part of national resilience, using public data on food production and supply chains.",
+        "Research and produce content, such as a small exhibition, a short podcast series or a short documentary, explaining why Lancashire's 25,000-plus agriculture and food and drink jobs are treated as part of national resilience, using public data on food production and supply chains.",
       whyItMatters:
-        "The LSIP names food security explicitly within its National Security & Resilience priority, but says the sector 'hasn't had dedicated research since 2022, despite 7% growth forecast', making it a genuinely under-explored area.",
+        "The LSIP names food security explicitly within its National Security & Resilience priority, notes the last dedicated food and agriculture study dates from 2022 and calls for further research, even though jobs in the sector are forecast to grow by 7% by 2034, making it a genuinely under-explored area.",
       skills: {
         "content-production": 3,
         "critical-thinking": 2,
@@ -1333,9 +1333,9 @@ export const CONTENT: RegionContent = {
       title: "Plan for Heysham's Next Chapter",
       strapline: "Model the skills needed for reactor decommissioning.",
       summary:
-        "Research the process and technical skills involved in nuclear decommissioning, using public information about Heysham's reactor life extensions to 2028 and 2030, and produce a simple skills and timeline plan for the workforce transition ahead.",
+        "Research the process and technical skills involved in nuclear decommissioning, using public information about Heysham's reactor life extensions (both Heysham 1 and Heysham 2 are currently expected to generate until 2030), and produce a simple skills and timeline plan for the workforce transition ahead.",
       whyItMatters:
-        "The LSIP says that with Heysham's reactor life extensions ending in 2028 and 2030, 'it is unclear at what point considerations about training staff for the decommissioning process will be needed'.",
+        "The LSIP says that, with the future of Heysham's reactors uncertain after their extended end dates, 'it is unclear at what point considerations about training staff for the decommissioning process will be needed'.",
       skills: {
         engineering: 3,
         sustainability: 2,
@@ -1358,7 +1358,7 @@ export const CONTENT: RegionContent = {
         "Creative & Performing":
           "Designs a clear visual timeline showing how the workforce and skills needs shift from operation to decommissioning.",
         "Sport & Wellbeing":
-          "Brings a practical, safety-conscious mindset relevant to any site-based fieldwork or research.",
+          "Brings a practical, safety-conscious mindset, useful for understanding how safety-critical work like decommissioning is planned.",
       },
       subjectOverrides: {
         Physics:
@@ -1373,12 +1373,12 @@ export const CONTENT: RegionContent = {
       researchQuestions: [
         "Using public information, what does the decommissioning process for a power station like Heysham actually involve?",
         "Which skills used to operate Heysham today would transfer directly to decommissioning it, and which wouldn't?",
-        "What would a realistic workforce transition timeline look like between now and Heysham's 2028 and 2030 closure dates?",
+        "What would a realistic workforce transition timeline look like between now and Heysham's currently planned end of generation in 2030?",
       ],
       whereThisCouldLead: {
         degrees: ["Nuclear Engineering", "Mechanical Engineering", "Environmental Science"],
         apprenticeships: [
-          "Nuclear Technician (Level 3-5 apprenticeship)",
+          "Nuclear Technician (Level 5)",
           "Engineering Technician (Level 3)",
           "Environmental Practitioner (Level 6)",
         ],
@@ -1400,9 +1400,9 @@ export const CONTENT: RegionContent = {
       id: "lancashire-clean-energy-nuclear-2",
       priorityId: "clean-energy-nuclear",
       title: "Secure the Nuclear Workforce",
-      strapline: "Investigate cyber risks at nuclear sites.",
+      strapline: "Explore why nuclear sites need cyber security skills.",
       summary:
-        "Research, using only public information, why cyber security is becoming increasingly important at nuclear sites such as Heysham and Springfields, and interview local training providers or colleges, not site staff, about how the workforce is being prepared.",
+        "Research, using only public information such as published NCSC guidance, why cyber security is becoming increasingly important at nuclear sites such as Heysham and Springfields, and interview local training providers or colleges, not site staff, about how the workforce is being prepared. No real systems are tested, and the group doesn't seek any non-public information about the sites.",
       whyItMatters:
         "The LSIP states plainly that 'cyber security is an important element within this sector, especially with the nuclear sites at Heysham and Springfields Westinghouse'.",
       skills: {
@@ -1447,7 +1447,7 @@ export const CONTENT: RegionContent = {
         degrees: ["Cyber Security", "Computer Science", "Engineering"],
         apprenticeships: [
           "Cyber Security Technologist (Level 4)",
-          "Nuclear Technician (Level 3-5 apprenticeship)",
+          "Nuclear Technician (Level 5)",
           "Engineering Technician (Level 3)",
         ],
         careers: [
@@ -1472,7 +1472,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Research Lancashire's emerging clean energy projects, from Heysham and Springfields to early-stage offshore wind and small modular reactor proposals, and create a public information campaign explaining what these technologies are and what skills they'll need.",
       whyItMatters:
-        "The LSIP itself admits that Small Modular Reactor and offshore wind growth are 'still early-stage, so what skills and how many roles will be needed isn't yet clear', making clear public information genuinely valuable.",
+        "The LSIP itself says Small Modular Reactors are 'still the early stages of development', and that planned offshore wind growth 'will require more in depth research', so what skills and how many roles will be needed isn't yet clear, making clear public information genuinely valuable.",
       skills: {
         "content-production": 3,
         sustainability: 2,
@@ -1489,7 +1489,7 @@ export const CONTENT: RegionContent = {
         "Business & Economics":
           "Researches the investment case and likely job creation behind Lancashire's clean energy projects.",
         "Humanities & Social Sciences":
-          "Researches public attitudes toward nuclear and clean energy projects, and how similar campaigns elsewhere have addressed concerns.",
+          "Researches public attitudes towards nuclear and clean energy projects, and how similar campaigns elsewhere have addressed concerns.",
         "English & Languages":
           "Writes clear, accessible scripts or copy that explain complex energy technology without over-simplifying it.",
         "Creative & Performing":

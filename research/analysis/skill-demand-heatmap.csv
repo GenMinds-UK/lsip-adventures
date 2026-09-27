@@ -1,5 +1,5 @@
 skill,name,cheshire-warrington,cumbria,greater-manchester,lancashire,liverpool-city-region,national
-data-analysis,Data literacy and analysis,4,4,4,4,4,4
+data-analysis,Data literacy and analysis,4,3,4,4,4,4
 programming,Programming and software,4,1,4,4,3,4
 digital-ai,Digital tools and AI literacy,4,4,4,5,5,5
 cyber-security,Cyber security and IT systems,2,2,3,4,2,4
@@ -7,18 +7,18 @@ numeracy,"Maths, modelling and numeracy",1,2,1,1,1,3
 scientific-method,Scientific method and lab skills,3,2,2,2,3,2
 engineering,Engineering and technical skills,4,4,4,4,4,4
 practical-making,Practical and hands-on skills,4,4,4,4,4,4
-sustainability,Sustainability and net zero,4,4,4,2,4,4
-commercial,Commercial and financial awareness,4,4,4,3,4,4
+sustainability,Sustainability and net zero,4,4,3,2,4,4
+commercial,Commercial and financial awareness,4,3,4,3,4,4
 leadership,Leadership and management,4,4,5,4,4,5
 law-ethics,"Law, ethics and safety",4,4,3,4,4,4
-writing,Written communication,1,2,3,1,4,5
+writing,Written communication,1,2,4,1,4,5
 speaking,"Speaking, listening and presenting",4,4,4,1,4,4
 languages,Languages and cultural awareness,0,0,0,0,0,2
-care-empathy,"Care, empathy and wellbeing",3,3,3,4,3,4
+care-empathy,"Care, empathy and wellbeing",3,4,3,4,3,4
 teamwork,Teamwork and collaboration,3,4,1,1,2,5
 customer-service,Customer and client service,2,4,3,2,3,4
-self-management,Self-management and resilience,5,5,3,4,4,5
-critical-thinking,Research and critical thinking,4,1,3,4,4,4
-problem-solving,Problem-solving,4,1,3,1,4,5
-creativity,"Creativity, design and innovation",4,1,3,3,3,4
-content-production,Media and content production,4,1,3,3,3,2
+self-management,Self-management and resilience,5,5,4,4,4,5
+critical-thinking,Research and critical thinking,4,1,4,4,4,4
+problem-solving,Problem-solving,3,1,3,1,4,5
+creativity,"Creativity, design and innovation",3,1,3,3,3,4
+content-production,Media and content production,2,1,3,3,3,2

@@ -1,169 +1,169 @@
 target,rank,subject,group,fit
-cheshire-warrington,1,Design & Technology (Product Design),Technical & Applied,51.3
-cheshire-warrington,2,Engineering,Technical & Applied,45.2
-cheshire-warrington,3,Construction & the Built Environment,Technical & Applied,39.5
-cheshire-warrington,4,Computer Science,Maths & Computing,33.3
-cheshire-warrington,5,Business Studies,Business & Economics,33.3
-cheshire-warrington,6,Food Science & Nutrition,Sport & Wellbeing,32
-cheshire-warrington,7,Geography,Humanities & Social Sciences,31.6
-cheshire-warrington,8,Physics,Sciences,30.7
-cheshire-warrington,9,Applied Science,Sciences,30.7
-cheshire-warrington,10,Environmental Science,Sciences,30.7
-cheshire-warrington,11,Biology,Sciences,30.3
-cheshire-warrington,12,Graphic Communication,Creative & Performing,30.3
-cheshire-warrington,13,Music Technology,Creative & Performing,28.9
-cheshire-warrington,14,Photography,Creative & Performing,28.5
-cheshire-warrington,15,Media Studies,Creative & Performing,28.5
-cheshire-warrington,16,Physical Education,Sport & Wellbeing,27.6
-cheshire-warrington,17,Chemistry,Sciences,26.8
-cheshire-warrington,18,Art & Design (Fine Art),Creative & Performing,26.8
-cheshire-warrington,19,Textile Design,Creative & Performing,26.8
-cheshire-warrington,20,Drama & Theatre,Creative & Performing,26.8
-cheshire-warrington,21,Criminology,Humanities & Social Sciences,25.9
-cheshire-warrington,22,Film Studies,Creative & Performing,25
-cheshire-warrington,23,Health & Social Care,Technical & Applied,24.6
-cheshire-warrington,24,Sport & Exercise Science,Sport & Wellbeing,24.6
-cheshire-warrington,25,Dance,Creative & Performing,23.7
-cheshire-warrington,26,Accounting,Business & Economics,23.2
-cheshire-warrington,27,Psychology,Sciences,20.2
-cheshire-warrington,28,Economics,Business & Economics,19.7
-cheshire-warrington,29,English Language,English & Languages,19.7
-cheshire-warrington,30,Statistics,Maths & Computing,19.3
-cheshire-warrington,31,Law,Business & Economics,19.3
-cheshire-warrington,32,Music,Creative & Performing,18.9
-cheshire-warrington,33,Mathematics,Maths & Computing,18
-cheshire-warrington,34,French,English & Languages,18
-cheshire-warrington,35,Spanish,English & Languages,18
-cheshire-warrington,36,German,English & Languages,18
-cheshire-warrington,37,Chinese (Mandarin),English & Languages,18
-cheshire-warrington,38,Sociology,Humanities & Social Sciences,17.1
+cheshire-warrington,1,Design & Technology (Product Design),Technical & Applied,51.4
+cheshire-warrington,2,Engineering,Technical & Applied,45.4
+cheshire-warrington,3,Construction & the Built Environment,Technical & Applied,39.8
+cheshire-warrington,4,Business Studies,Business & Economics,35.6
+cheshire-warrington,5,Computer Science,Maths & Computing,33.3
+cheshire-warrington,6,Geography,Humanities & Social Sciences,32.4
+cheshire-warrington,7,Food Science & Nutrition,Sport & Wellbeing,32.4
+cheshire-warrington,8,Applied Science,Sciences,31.5
+cheshire-warrington,9,Environmental Science,Sciences,31.5
+cheshire-warrington,10,Biology,Sciences,31
+cheshire-warrington,11,Physics,Sciences,31
+cheshire-warrington,12,Physical Education,Sport & Wellbeing,30.6
+cheshire-warrington,13,Chemistry,Sciences,27.3
+cheshire-warrington,14,Graphic Communication,Creative & Performing,27.3
+cheshire-warrington,15,Drama & Theatre,Creative & Performing,26.4
+cheshire-warrington,16,Criminology,Humanities & Social Sciences,25.9
+cheshire-warrington,17,Media Studies,Creative & Performing,25.9
+cheshire-warrington,18,Music Technology,Creative & Performing,25.9
+cheshire-warrington,19,Health & Social Care,Technical & Applied,25.5
+cheshire-warrington,20,Accounting,Business & Economics,25.5
+cheshire-warrington,21,Art & Design (Fine Art),Creative & Performing,25.5
+cheshire-warrington,22,Photography,Creative & Performing,25.5
+cheshire-warrington,23,Textile Design,Creative & Performing,25.5
+cheshire-warrington,24,Sport & Exercise Science,Sport & Wellbeing,25
+cheshire-warrington,25,Dance,Creative & Performing,23.1
+cheshire-warrington,26,Psychology,Sciences,22.7
+cheshire-warrington,27,English Language,English & Languages,22.7
+cheshire-warrington,28,Economics,Business & Economics,22.2
+cheshire-warrington,29,Film Studies,Creative & Performing,22.2
+cheshire-warrington,30,Statistics,Maths & Computing,19.4
+cheshire-warrington,31,Law,Business & Economics,19.4
+cheshire-warrington,32,French,English & Languages,18.5
+cheshire-warrington,33,Spanish,English & Languages,18.5
+cheshire-warrington,34,German,English & Languages,18.5
+cheshire-warrington,35,Chinese (Mandarin),English & Languages,18.5
+cheshire-warrington,36,Music,Creative & Performing,18.5
+cheshire-warrington,37,Sociology,Humanities & Social Sciences,18.1
+cheshire-warrington,38,Mathematics,Maths & Computing,17.1
 cheshire-warrington,39,English Language & Literature,English & Languages,16.2
-cheshire-warrington,40,Further Mathematics,Maths & Computing,14.5
-cheshire-warrington,41,History,Humanities & Social Sciences,14.5
-cheshire-warrington,42,Politics,Humanities & Social Sciences,14
-cheshire-warrington,43,English Literature,English & Languages,12.7
-cheshire-warrington,44,Philosophy,Humanities & Social Sciences,12.3
-cheshire-warrington,45,Religious Studies,Humanities & Social Sciences,12.3
-cumbria,1,Design & Technology (Product Design),Technical & Applied,49.7
-cumbria,2,Engineering,Technical & Applied,44.6
-cumbria,3,Construction & the Built Environment,Technical & Applied,40
-cumbria,4,Business Studies,Business & Economics,35.9
-cumbria,5,Food Science & Nutrition,Sport & Wellbeing,33.8
-cumbria,6,Geography,Humanities & Social Sciences,31.3
-cumbria,7,Applied Science,Sciences,30.8
-cumbria,8,Environmental Science,Sciences,30.3
-cumbria,9,Biology,Sciences,29.7
-cumbria,10,Physical Education,Sport & Wellbeing,29.2
-cumbria,11,Computer Science,Maths & Computing,28.7
-cumbria,12,Physics,Sciences,28.7
-cumbria,13,Health & Social Care,Technical & Applied,27.7
-cumbria,14,Chemistry,Sciences,25.1
-cumbria,15,Drama & Theatre,Creative & Performing,24.6
-cumbria,16,Criminology,Humanities & Social Sciences,23.6
-cumbria,17,Sport & Exercise Science,Sport & Wellbeing,23.6
-cumbria,18,Accounting,Business & Economics,23.1
-cumbria,19,Graphic Communication,Creative & Performing,22.6
-cumbria,20,Music Technology,Creative & Performing,22.1
-cumbria,21,Art & Design (Fine Art),Creative & Performing,21.5
-cumbria,22,Textile Design,Creative & Performing,21.5
-cumbria,23,Dance,Creative & Performing,21.5
-cumbria,24,Media Studies,Creative & Performing,21
-cumbria,25,Economics,Business & Economics,20.5
-cumbria,26,Photography,Creative & Performing,20.5
-cumbria,27,Psychology,Sciences,20
-cumbria,28,Statistics,Maths & Computing,17.9
-cumbria,29,French,English & Languages,17.9
-cumbria,30,Spanish,English & Languages,17.9
-cumbria,31,German,English & Languages,17.9
-cumbria,32,Chinese (Mandarin),English & Languages,17.9
-cumbria,33,English Language,English & Languages,16.9
-cumbria,34,Film Studies,Creative & Performing,16.9
-cumbria,35,Law,Business & Economics,16.4
-cumbria,36,Sociology,Humanities & Social Sciences,16.4
-cumbria,37,Music,Creative & Performing,15.9
-cumbria,38,Mathematics,Maths & Computing,15.4
-cumbria,39,Politics,Humanities & Social Sciences,13.3
-cumbria,40,English Language & Literature,English & Languages,12.8
-cumbria,41,History,Humanities & Social Sciences,12.3
-cumbria,42,Further Mathematics,Maths & Computing,11.3
-cumbria,43,Philosophy,Humanities & Social Sciences,11.3
-cumbria,44,Religious Studies,Humanities & Social Sciences,11.3
-cumbria,45,English Literature,English & Languages,10.3
-greater-manchester,1,Design & Technology (Product Design),Technical & Applied,48.4
-greater-manchester,2,Engineering,Technical & Applied,42.7
-greater-manchester,3,Construction & the Built Environment,Technical & Applied,37.6
-greater-manchester,4,Business Studies,Business & Economics,34.3
-greater-manchester,5,Computer Science,Maths & Computing,33.8
-greater-manchester,6,Food Science & Nutrition,Sport & Wellbeing,31
-greater-manchester,7,Geography,Humanities & Social Sciences,30
-greater-manchester,8,Biology,Sciences,29.6
-greater-manchester,9,Environmental Science,Sciences,29.6
-greater-manchester,10,Physics,Sciences,29.1
-greater-manchester,11,Applied Science,Sciences,28.2
-greater-manchester,12,Graphic Communication,Creative & Performing,27.2
-greater-manchester,13,Physical Education,Sport & Wellbeing,27.2
-greater-manchester,14,Media Studies,Creative & Performing,26.8
-greater-manchester,15,Music Technology,Creative & Performing,26.8
-greater-manchester,16,Photography,Creative & Performing,25.4
-greater-manchester,17,Chemistry,Sciences,24.9
-greater-manchester,18,Sport & Exercise Science,Sport & Wellbeing,24.9
-greater-manchester,19,Art & Design (Fine Art),Creative & Performing,24.4
-greater-manchester,20,Textile Design,Creative & Performing,24.4
-greater-manchester,21,Health & Social Care,Technical & Applied,23.5
-greater-manchester,22,Criminology,Humanities & Social Sciences,23.5
-greater-manchester,23,Film Studies,Creative & Performing,23.5
-greater-manchester,24,Drama & Theatre,Creative & Performing,23.5
-greater-manchester,25,Accounting,Business & Economics,22.1
-greater-manchester,26,Dance,Creative & Performing,21.6
-greater-manchester,27,Economics,Business & Economics,20.2
-greater-manchester,28,English Language,English & Languages,19.7
-greater-manchester,29,Psychology,Sciences,19.2
-greater-manchester,30,Law,Business & Economics,18.8
-greater-manchester,31,French,English & Languages,18.8
-greater-manchester,32,Spanish,English & Languages,18.8
-greater-manchester,33,German,English & Languages,18.8
-greater-manchester,34,Chinese (Mandarin),English & Languages,18.8
-greater-manchester,35,Statistics,Maths & Computing,18.3
-greater-manchester,36,Sociology,Humanities & Social Sciences,17.4
-greater-manchester,37,Mathematics,Maths & Computing,16.9
-greater-manchester,38,Music,Creative & Performing,16.9
-greater-manchester,39,English Language & Literature,English & Languages,16
-greater-manchester,40,Politics,Humanities & Social Sciences,14.6
-greater-manchester,41,History,Humanities & Social Sciences,14.1
-greater-manchester,42,Further Mathematics,Maths & Computing,13.1
-greater-manchester,43,Philosophy,Humanities & Social Sciences,12.7
-greater-manchester,44,Religious Studies,Humanities & Social Sciences,12.7
-greater-manchester,45,English Literature,English & Languages,12.7
+cheshire-warrington,40,History,Humanities & Social Sciences,14.8
+cheshire-warrington,41,Politics,Humanities & Social Sciences,14.8
+cheshire-warrington,42,Further Mathematics,Maths & Computing,13.4
+cheshire-warrington,43,Philosophy,Humanities & Social Sciences,13
+cheshire-warrington,44,Religious Studies,Humanities & Social Sciences,13
+cheshire-warrington,45,English Literature,English & Languages,13
+cumbria,1,Design & Technology (Product Design),Technical & Applied,49
+cumbria,2,Engineering,Technical & Applied,44.8
+cumbria,3,Construction & the Built Environment,Technical & Applied,39.6
+cumbria,4,Business Studies,Business & Economics,34.4
+cumbria,5,Food Science & Nutrition,Sport & Wellbeing,34.4
+cumbria,6,Geography,Humanities & Social Sciences,30.7
+cumbria,7,Biology,Sciences,29.7
+cumbria,8,Applied Science,Sciences,29.7
+cumbria,9,Environmental Science,Sciences,29.7
+cumbria,10,Health & Social Care,Technical & Applied,29.2
+cumbria,11,Physical Education,Sport & Wellbeing,28.6
+cumbria,12,Computer Science,Maths & Computing,28.1
+cumbria,13,Physics,Sciences,28.1
+cumbria,14,Drama & Theatre,Creative & Performing,25
+cumbria,15,Chemistry,Sciences,24.5
+cumbria,16,Criminology,Humanities & Social Sciences,23.4
+cumbria,17,Sport & Exercise Science,Sport & Wellbeing,23.4
+cumbria,18,Graphic Communication,Creative & Performing,22.4
+cumbria,19,Art & Design (Fine Art),Creative & Performing,21.9
+cumbria,20,Textile Design,Creative & Performing,21.9
+cumbria,21,Music Technology,Creative & Performing,21.9
+cumbria,22,Dance,Creative & Performing,21.9
+cumbria,23,Accounting,Business & Economics,21.4
+cumbria,24,Photography,Creative & Performing,20.8
+cumbria,25,Psychology,Sciences,20.3
+cumbria,26,Media Studies,Creative & Performing,20.3
+cumbria,27,Economics,Business & Economics,19.3
+cumbria,28,English Language,English & Languages,18.8
+cumbria,29,French,English & Languages,18.2
+cumbria,30,Spanish,English & Languages,18.2
+cumbria,31,German,English & Languages,18.2
+cumbria,32,Chinese (Mandarin),English & Languages,18.2
+cumbria,33,Film Studies,Creative & Performing,17.2
+cumbria,34,Statistics,Maths & Computing,16.7
+cumbria,35,Law,Business & Economics,16.1
+cumbria,36,Music,Creative & Performing,16.1
+cumbria,37,Sociology,Humanities & Social Sciences,15.6
+cumbria,38,Mathematics,Maths & Computing,14.6
+cumbria,39,Politics,Humanities & Social Sciences,13
+cumbria,40,History,Humanities & Social Sciences,12.5
+cumbria,41,English Language & Literature,English & Languages,12.5
+cumbria,42,Further Mathematics,Maths & Computing,11.5
+cumbria,43,Philosophy,Humanities & Social Sciences,11.5
+cumbria,44,Religious Studies,Humanities & Social Sciences,11.5
+cumbria,45,English Literature,English & Languages,10.4
+greater-manchester,1,Design & Technology (Product Design),Technical & Applied,48.9
+greater-manchester,2,Engineering,Technical & Applied,43.4
+greater-manchester,3,Construction & the Built Environment,Technical & Applied,38.4
+greater-manchester,4,Business Studies,Business & Economics,37.4
+greater-manchester,5,Computer Science,Maths & Computing,35.2
+greater-manchester,6,Food Science & Nutrition,Sport & Wellbeing,32.4
+greater-manchester,7,Geography,Humanities & Social Sciences,32
+greater-manchester,8,Physical Education,Sport & Wellbeing,31.1
+greater-manchester,9,Biology,Sciences,30.1
+greater-manchester,10,Applied Science,Sciences,30.1
+greater-manchester,11,Physics,Sciences,29.7
+greater-manchester,12,Environmental Science,Sciences,29.7
+greater-manchester,13,Graphic Communication,Creative & Performing,29.7
+greater-manchester,14,Media Studies,Creative & Performing,29.7
+greater-manchester,15,Music Technology,Creative & Performing,28.8
+greater-manchester,16,Photography,Creative & Performing,27.9
+greater-manchester,17,Art & Design (Fine Art),Creative & Performing,26.9
+greater-manchester,18,Textile Design,Creative & Performing,26.9
+greater-manchester,19,Sport & Exercise Science,Sport & Wellbeing,26.9
+greater-manchester,20,Film Studies,Creative & Performing,26.5
+greater-manchester,21,Criminology,Humanities & Social Sciences,26
+greater-manchester,22,English Language,English & Languages,26
+greater-manchester,23,Chemistry,Sciences,25.6
+greater-manchester,24,Health & Social Care,Technical & Applied,25.6
+greater-manchester,25,Drama & Theatre,Creative & Performing,25.6
+greater-manchester,26,Accounting,Business & Economics,25.1
+greater-manchester,27,Dance,Creative & Performing,24.2
+greater-manchester,28,Economics,Business & Economics,23.3
+greater-manchester,29,Psychology,Sciences,22.8
+greater-manchester,30,Law,Business & Economics,21.5
+greater-manchester,31,French,English & Languages,21.5
+greater-manchester,32,Spanish,English & Languages,21.5
+greater-manchester,33,German,English & Languages,21.5
+greater-manchester,34,Chinese (Mandarin),English & Languages,21.5
+greater-manchester,35,Sociology,Humanities & Social Sciences,20.1
+greater-manchester,36,Statistics,Maths & Computing,19.6
+greater-manchester,37,English Language & Literature,English & Languages,19.2
+greater-manchester,38,Music,Creative & Performing,19.2
+greater-manchester,39,Mathematics,Maths & Computing,17.8
+greater-manchester,40,History,Humanities & Social Sciences,17.4
+greater-manchester,41,Politics,Humanities & Social Sciences,17.4
+greater-manchester,42,English Literature,English & Languages,16
+greater-manchester,43,Philosophy,Humanities & Social Sciences,15.5
+greater-manchester,44,Religious Studies,Humanities & Social Sciences,15.5
+greater-manchester,45,Further Mathematics,Maths & Computing,14.2
 lancashire,1,Design & Technology (Product Design),Technical & Applied,48.2
 lancashire,2,Engineering,Technical & Applied,42.1
 lancashire,3,Construction & the Built Environment,Technical & Applied,37.4
 lancashire,4,Computer Science,Maths & Computing,36.9
-lancashire,5,Business Studies,Business & Economics,32.8
+lancashire,5,Business Studies,Business & Economics,34.9
 lancashire,6,Food Science & Nutrition,Sport & Wellbeing,32.8
 lancashire,7,Geography,Humanities & Social Sciences,30.3
 lancashire,8,Applied Science,Sciences,29.7
 lancashire,9,Biology,Sciences,29.2
 lancashire,10,Graphic Communication,Creative & Performing,29.2
 lancashire,11,Physics,Sciences,28.7
-lancashire,12,Environmental Science,Sciences,28.2
-lancashire,13,Photography,Creative & Performing,27.7
-lancashire,14,Media Studies,Creative & Performing,27.7
-lancashire,15,Music Technology,Creative & Performing,27.7
-lancashire,16,Criminology,Humanities & Social Sciences,27.2
-lancashire,17,Health & Social Care,Technical & Applied,26.7
-lancashire,18,Art & Design (Fine Art),Creative & Performing,26.7
-lancashire,19,Textile Design,Creative & Performing,26.7
-lancashire,20,Physical Education,Sport & Wellbeing,26.7
+lancashire,12,Physical Education,Sport & Wellbeing,28.7
+lancashire,13,Environmental Science,Sciences,28.2
+lancashire,14,Photography,Creative & Performing,27.7
+lancashire,15,Media Studies,Creative & Performing,27.7
+lancashire,16,Music Technology,Creative & Performing,27.7
+lancashire,17,Criminology,Humanities & Social Sciences,27.2
+lancashire,18,Health & Social Care,Technical & Applied,26.7
+lancashire,19,Art & Design (Fine Art),Creative & Performing,26.7
+lancashire,20,Textile Design,Creative & Performing,26.7
 lancashire,21,Chemistry,Sciences,25.6
 lancashire,22,Film Studies,Creative & Performing,24.6
-lancashire,23,Sport & Exercise Science,Sport & Wellbeing,22.6
-lancashire,24,Accounting,Business & Economics,22.1
-lancashire,25,Psychology,Sciences,21
-lancashire,26,Drama & Theatre,Creative & Performing,21
-lancashire,27,Dance,Creative & Performing,20.5
-lancashire,28,English Language,English & Languages,19.5
-lancashire,29,Statistics,Maths & Computing,19
-lancashire,30,Economics,Business & Economics,19
+lancashire,23,Accounting,Business & Economics,24.1
+lancashire,24,English Language,English & Languages,23.6
+lancashire,25,Psychology,Sciences,23.1
+lancashire,26,Sport & Exercise Science,Sport & Wellbeing,22.6
+lancashire,27,Economics,Business & Economics,21
+lancashire,28,Drama & Theatre,Creative & Performing,21
+lancashire,29,Dance,Creative & Performing,20.5
+lancashire,30,Statistics,Maths & Computing,19
 lancashire,31,Music,Creative & Performing,19
 lancashire,32,Law,Business & Economics,18.5
 lancashire,33,Sociology,Humanities & Social Sciences,18.5
@@ -182,7 +182,7 @@ lancashire,45,Further Mathematics,Maths & Computing,11.8
 liverpool-city-region,1,Design & Technology (Product Design),Technical & Applied,50.4
 liverpool-city-region,2,Engineering,Technical & Applied,45.6
 liverpool-city-region,3,Construction & the Built Environment,Technical & Applied,40.8
-liverpool-city-region,4,Business Studies,Business & Economics,36
+liverpool-city-region,4,Business Studies,Business & Economics,37.7
 liverpool-city-region,5,Computer Science,Maths & Computing,34.2
 liverpool-city-region,6,Geography,Humanities & Social Sciences,34.2
 liverpool-city-region,7,Food Science & Nutrition,Sport & Wellbeing,33.8
@@ -190,9 +190,9 @@ liverpool-city-region,8,Environmental Science,Sciences,33.3
 liverpool-city-region,9,Biology,Sciences,32.9
 liverpool-city-region,10,Applied Science,Sciences,32.5
 liverpool-city-region,11,Physics,Sciences,32
-liverpool-city-region,12,Media Studies,Creative & Performing,29.8
-liverpool-city-region,13,Graphic Communication,Creative & Performing,29.4
-liverpool-city-region,14,Physical Education,Sport & Wellbeing,29.4
+liverpool-city-region,12,Physical Education,Sport & Wellbeing,31.1
+liverpool-city-region,13,Media Studies,Creative & Performing,29.8
+liverpool-city-region,14,Graphic Communication,Creative & Performing,29.4
 liverpool-city-region,15,Music Technology,Creative & Performing,28.9
 liverpool-city-region,16,Chemistry,Sciences,28.1
 liverpool-city-region,17,Photography,Creative & Performing,27.6
@@ -202,13 +202,13 @@ liverpool-city-region,20,Art & Design (Fine Art),Creative & Performing,26.8
 liverpool-city-region,21,Textile Design,Creative & Performing,26.8
 liverpool-city-region,22,Film Studies,Creative & Performing,26.3
 liverpool-city-region,23,Sport & Exercise Science,Sport & Wellbeing,26.3
-liverpool-city-region,24,Drama & Theatre,Creative & Performing,25.9
-liverpool-city-region,25,Accounting,Business & Economics,24.1
-liverpool-city-region,26,Dance,Creative & Performing,24.1
-liverpool-city-region,27,Law,Business & Economics,22.8
-liverpool-city-region,28,Psychology,Sciences,22.4
-liverpool-city-region,29,Economics,Business & Economics,21.9
-liverpool-city-region,30,English Language,English & Languages,21.9
+liverpool-city-region,24,Accounting,Business & Economics,25.9
+liverpool-city-region,25,Drama & Theatre,Creative & Performing,25.9
+liverpool-city-region,26,English Language,English & Languages,25.4
+liverpool-city-region,27,Psychology,Sciences,24.1
+liverpool-city-region,28,Dance,Creative & Performing,24.1
+liverpool-city-region,29,Economics,Business & Economics,23.7
+liverpool-city-region,30,Law,Business & Economics,22.8
 liverpool-city-region,31,French,English & Languages,21.1
 liverpool-city-region,32,Spanish,English & Languages,21.1
 liverpool-city-region,33,German,English & Languages,21.1
@@ -227,15 +227,15 @@ liverpool-city-region,45,English Literature,English & Languages,15.4
 national,1,Design & Technology (Product Design),Technical & Applied,48.4
 national,2,Engineering,Technical & Applied,45.4
 national,3,Construction & the Built Environment,Technical & Applied,39.6
-national,4,Computer Science,Maths & Computing,36.3
-national,5,Business Studies,Business & Economics,36.3
+national,4,Business Studies,Business & Economics,37.7
+national,5,Computer Science,Maths & Computing,36.3
 national,6,Geography,Humanities & Social Sciences,33
 national,7,Food Science & Nutrition,Sport & Wellbeing,33
 national,8,Applied Science,Sciences,30.8
 national,9,Biology,Sciences,30
 national,10,Environmental Science,Sciences,30
-national,11,Physics,Sciences,29.7
-national,12,Physical Education,Sport & Wellbeing,28.6
+national,11,Physical Education,Sport & Wellbeing,30
+national,12,Physics,Sciences,29.7
 national,13,Drama & Theatre,Creative & Performing,28.2
 national,14,Music Technology,Creative & Performing,27.5
 national,15,Dance,Creative & Performing,27.5
@@ -243,20 +243,20 @@ national,16,Health & Social Care,Technical & Applied,27.1
 national,17,Graphic Communication,Creative & Performing,26.7
 national,18,Media Studies,Creative & Performing,26.7
 national,19,Chemistry,Sciences,25.3
-national,20,Art & Design (Fine Art),Creative & Performing,25.3
-national,21,Photography,Creative & Performing,25.3
-national,22,Textile Design,Creative & Performing,25.3
-national,23,Sport & Exercise Science,Sport & Wellbeing,25.3
-national,24,Criminology,Humanities & Social Sciences,24.9
-national,25,Accounting,Business & Economics,23.8
-national,26,Film Studies,Creative & Performing,23.8
-national,27,French,English & Languages,22
-national,28,Spanish,English & Languages,22
-national,29,German,English & Languages,22
-national,30,Chinese (Mandarin),English & Languages,22
-national,31,English Language,English & Languages,21.6
-national,32,Psychology,Sciences,21.2
-national,33,Economics,Business & Economics,21.2
+national,20,Accounting,Business & Economics,25.3
+national,21,Art & Design (Fine Art),Creative & Performing,25.3
+national,22,Photography,Creative & Performing,25.3
+national,23,Textile Design,Creative & Performing,25.3
+national,24,Sport & Exercise Science,Sport & Wellbeing,25.3
+national,25,Criminology,Humanities & Social Sciences,24.9
+national,26,English Language,English & Languages,24.2
+national,27,Film Studies,Creative & Performing,23.8
+national,28,Psychology,Sciences,22.7
+national,29,Economics,Business & Economics,22.7
+national,30,French,English & Languages,22
+national,31,Spanish,English & Languages,22
+national,32,German,English & Languages,22
+national,33,Chinese (Mandarin),English & Languages,22
 national,34,Law,Business & Economics,21.2
 national,35,Statistics,Maths & Computing,20.5
 national,36,Mathematics,Maths & Computing,20.1

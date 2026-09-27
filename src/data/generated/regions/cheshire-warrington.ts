@@ -13,11 +13,14 @@ export const REGION_DATA: GeneratedRegionData = {
       "weights": {
         "engineering": 3,
         "practical-making": 3,
-        "digital-ai": 2,
-        "leadership": 2,
-        "data-analysis": 2,
+        "digital-ai": 3,
+        "leadership": 3,
+        "data-analysis": 3,
         "problem-solving": 2,
-        "numeracy": 1
+        "numeracy": 1,
+        "teamwork": 2,
+        "speaking": 2,
+        "self-management": 2
       },
       "roles": [
         {
@@ -121,8 +124,8 @@ export const REGION_DATA: GeneratedRegionData = {
         "engineering": 3,
         "digital-ai": 3,
         "practical-making": 2,
-        "sustainability": 2,
-        "data-analysis": 2,
+        "sustainability": 3,
+        "data-analysis": 3,
         "scientific-method": 1
       },
       "roles": [
@@ -210,7 +213,10 @@ export const REGION_DATA: GeneratedRegionData = {
         "law-ethics": 3,
         "critical-thinking": 3,
         "leadership": 2,
-        "cyber-security": 2
+        "cyber-security": 2,
+        "programming": 3,
+        "writing": 1,
+        "customer-service": 1
       },
       "roles": [
         {
@@ -311,7 +317,7 @@ export const REGION_DATA: GeneratedRegionData = {
         "sustainability": 3,
         "law-ethics": 2,
         "digital-ai": 2,
-        "leadership": 1
+        "leadership": 2
       },
       "roles": [
         {
@@ -512,8 +518,8 @@ export const REGION_DATA: GeneratedRegionData = {
       "weights": {
         "practical-making": 3,
         "sustainability": 3,
-        "law-ethics": 2,
-        "leadership": 2,
+        "law-ethics": 3,
+        "leadership": 3,
         "engineering": 2,
         "numeracy": 1
       },
@@ -617,7 +623,8 @@ export const REGION_DATA: GeneratedRegionData = {
         "leadership": 3,
         "law-ethics": 2,
         "digital-ai": 2,
-        "self-management": 2
+        "self-management": 2,
+        "speaking": 2
       },
       "roles": [
         {

@@ -8,66 +8,66 @@ import type { RegionContent } from "@/data/regions/types";
 export const CONTENT: RegionContent = {
   subjectLinks: {
     Mathematics:
-      "Cheshire and Warrington's growth sectors run on numbers, from modelling chemical processes at the Stanlow and HyNet hydrogen complex to costing nuclear infrastructure at Capenhurst and analysing clinical trial data at Alderley Park. The LSIP names data analysis and modelling among the skills every employer here, from advanced manufacturing to business services, says they need more of.",
+      "Cheshire and Warrington's growth sectors run on numbers, from modelling chemical processes at the Stanlow and HyNet hydrogen complex to costing nuclear infrastructure at Capenhurst and analysing clinical trial data at Alderley Park. Digital and data capability is one of the skills that employers here, from advanced manufacturing to business services, most often name as growing in importance.",
     "Further Mathematics":
-      "The precision engineering behind Bentley's Crewe production line, HyNet's hydrogen networks and Urenco's nuclear fuel work at Capenhurst all depend on the deeper modelling that Further Maths adds to Maths. It sharpens exactly the higher-level analytical skills that the region's advanced manufacturing and clean energy employers say are hardest to recruit for.",
+      "The precision engineering behind Bentley's Crewe production line, HyNet's hydrogen networks and Urenco's nuclear fuel work at Capenhurst all depend on the deeper modelling that Further Maths adds to Maths. It sharpens exactly the higher-level analytical skills that the region's advanced manufacturing and clean energy employers say are hard to recruit for.",
     Statistics:
       "Life sciences firms at Alderley Park run clinical trials and quality checks that live or die on sound statistics, and the LSIP's own evidence base, a survey of 184 employers, is built the same way. Statistics also underpins the workforce and vacancy data used to plan training across every priority sector here.",
     "Computer Science":
-      "Cheshire and Warrington's professional services firms name SQL, data analysis, Agile and C# among their most in-demand skills, while life sciences companies increasingly need bioinformaticians to handle genomic data. Computer Science builds the programming and systems thinking behind both, plus the cyber security skills needed to protect chemical, energy and pharmaceutical sites.",
+      "The LSIP names SQL, data analysis, Agile and C# among the most in-demand specialist skills in Cheshire and Warrington, while life sciences companies increasingly need bioinformaticians to handle genomic data. Computer Science builds the programming and systems thinking behind both, plus the cyber security skills needed to protect chemical, energy and pharmaceutical sites.",
     Biology:
       "From drug discovery at Alderley Park, the UK's largest bioscience campus, to animal and food science courses at Reaseheath College, Biology sits behind two of the sub-region's priority sectors. Local life sciences employers are actively recruiting biomedical scientists, lab technicians and quality assurance staff who started out with A level Biology.",
     Chemistry:
-      "Chemistry has shaped this area since Victorian salt miners at Northwich supplied the Solvay process that built Brunner Mond, later ICI, and it still drives the region today: Tata Chemicals, the Stanlow refinery's hydrogen-ready furnace, and the pharmaceutical chemistry at Alderley Park all depend on chemists and process engineers.",
+      "Chemistry has shaped this area since the 1870s, when Brunner Mond began turning Northwich's salt into soda using the Solvay process, in a business that later became part of ICI, and it still drives the region today: Tata Chemicals, the Stanlow refinery's hydrogen-ready furnace, and the pharmaceutical chemistry at Alderley Park all depend on chemists and process engineers.",
     Physics:
-      "Physics explains the radio telescope at Jodrell Bank, the reactors and enrichment plant at Urenco Capenhurst, and the hydrogen and nuclear engineering behind HyNet and the region's clean energy priority. Employers here say they are short of physics-trained engineering technicians as older specialists retire.",
+      "Physics explains the radio telescope at Jodrell Bank, the uranium enrichment centrifuges at Urenco Capenhurst, and the hydrogen and nuclear engineering behind HyNet and the region's clean energy priority. Employers here say they need more nuclear and engineering technicians as older workers retire.",
     "Applied Science":
-      "Applied Science's practical lab focus matches exactly what Alderley Park, AstraZeneca and Dechra Pharmaceuticals in Northwich are recruiting for: laboratory and quality assurance technicians. The LSIP flags Level 3 lab technician pathways as under-supplied, even after colleges ran dedicated bootcamps to try to fill them.",
+      "Applied Science's practical lab focus matches exactly what Alderley Park, AstraZeneca and Dechra Pharmaceuticals in Northwich are recruiting for: laboratory and quality assurance technicians. The LSIP calls lab and manufacturing technician pathways 'the pipeline most in need of attention', and wants employers and colleges working more closely on them.",
     "Environmental Science":
       "Environmental Science speaks directly to the LSIP's sustainability priority, from the carbon reporting and waste management skills employers say they need, to the land-use changes driving robotic, precision farming at Reaseheath. It also underpins the environmental case for HyNet's carbon capture and hydrogen infrastructure.",
     Psychology:
-      "Psychology's grounding in research methods and human behaviour feeds two very different local gaps: understanding why health and care recruitment struggles to retain staff, and why professional services firms in Warrington and Chester West find leadership and management skills hardest to develop in their own people.",
+      "Psychology's grounding in research methods and human behaviour feeds two very different local gaps: understanding why health and care employers struggle to retain staff, and why employers across the area, including professional services firms, say leadership and management skills are growing in importance.",
     Engineering:
-      "Engineering is the backbone of the region's advanced manufacturing cluster, worth £8bn a year at Bentley Motors in Crewe and across the chemicals and aerospace supply chain, and it underpins the technician pathways that HyNet and Urenco need to build hydrogen and nuclear infrastructure at Ellesmere Port and Capenhurst.",
+      "Engineering is the backbone of the region's advanced manufacturing cluster, worth around £8bn a year, from Bentley Motors in Crewe to the chemicals and aerospace supply chain, and it underpins the technician pathways that HyNet and Urenco need to build hydrogen and nuclear infrastructure at Ellesmere Port and Capenhurst.",
     "Design & Technology (Product Design)":
       "Product Design's iterative, make-and-test approach mirrors what advanced manufacturers like Bentley and precision fabricators across the region actually do, and its focus on sustainable materials matches the LSIP's push for greener design. It's a direct route into the engineering technician pathways employers say are thin.",
     "Health & Social Care":
-      "Health and Social Care is the closest match to one of the sub-region's largest employers, where the LSIP's biggest worry isn't attracting people, it's keeping them: only around three in ten students who start a local health and care course complete it, and registered manager posts can take months and thousands of pounds to fill.",
+      "Health and Social Care is the closest match to one of the sub-region's largest employers, where the LSIP's biggest worry isn't attracting people, it's keeping them: only around three in ten students who start a local health and care course complete it, and one care home paid a £16,000 agency fee to fill a single registered manager post.",
     "Construction & the Built Environment":
       "This qualification maps directly onto a foundational LSIP priority: the electricians, plumbers and retrofit specialists Cheshire and Warrington needs to deliver housing, heat pumps and HyNet's low-carbon infrastructure. Local employers say both training completions and higher-level supervisory routes need to grow.",
     "Business Studies":
-      "Business and Professional Services is the sub-region's biggest employer by far, spanning the Bank of America and Barclays offices in Cheshire West to Birchwood Park's engineering consultancies, and it's growing fast as routine admin work is automated into more analytical roles. Business Studies is a direct route in.",
+      "Business and Professional Services is the sub-region's biggest employment sector by some distance, spanning the Bank of America and Barclays offices in Cheshire West to Birchwood Park's engineering consultancies, and it's growing fast as routine admin work is automated into more analytical roles. Business Studies is a direct route in.",
     Economics:
-      "Cheshire and Warrington is one of the most productive economies in the North of England, yet Warrington has more than double the national rate of adults with no qualifications. Economics gives you the tools to understand that gap, alongside the investment case behind HyNet, Urenco and the region's advanced manufacturing growth.",
+      "Cheshire and Warrington is one of the most productive economies in the North of England, yet Warrington has around double the national rate of adults with no qualifications. Economics gives you the tools to understand that gap, alongside the investment case behind HyNet, Urenco and the region's advanced manufacturing growth.",
     Accounting:
-      "Legal and accountancy roles make up around 37,000 jobs in Cheshire and Warrington's business and professional services sector, one of the fastest-growing parts of the local economy. Accounting is the most direct subject route into the chartered accountant and financial analyst roles employers here say they most need.",
+      "Legal and accountancy roles make up around 37,000 jobs in Cheshire and Warrington's business and professional services sector, one of the fastest-growing parts of the local economy. Accounting is a direct subject route into the chartered accountant and financial analyst roles employers here say they most need.",
     Law: "From the regulatory demands on nuclear and chemical sites at Capenhurst and Stanlow, to compliance work in the region's growing legal and professional services cluster, Law shows up wherever safety, licensing or contracts matter. It's also central to the safeguarding and care standards behind the health and social care priority.",
     Geography:
       "Geography's mix of fieldwork, mapping and human geography fits a genuinely polycentric sub-region, from Reaseheath's farmland and the rural transport gaps that cut some young people off from apprenticeships, to the industrial geography of Ellesmere Port's energy cluster and Warrington's logistics corridor.",
     History:
-      "History runs deep here: Chester's Roman fortress and walls, the Grand Junction Railway works that built Crewe almost from nothing in 1840, and Northwich's salt-built chemical industry that grew into ICI. Understanding how industries rise, decline and reinvent themselves is exactly what today's clean energy and manufacturing transition needs.",
+      "History runs deep here: Chester's Roman fortress and walls, the Grand Junction Railway works that built Crewe almost from nothing in the 1840s, and Northwich's salt-built chemical industry that grew into ICI. Understanding how industries rise, decline and reinvent themselves is exactly what today's clean energy and manufacturing transition needs.",
     Politics:
-      "2026 was a big year for how this area is run: the new Cheshire and Warrington Combined Authority held its first meeting, with a directly elected mayor due in 2027 and skills funding transferring to local control from 2027. Politics explains how these devolution decisions will shape investment in local training.",
+      "2026 has been a big year for how this area is run: the new Cheshire and Warrington Combined Authority held its first meeting, with a directly elected mayor due in 2027 and skills funding transferring to local control from 2027. Politics explains how these devolution decisions will shape investment in local training.",
     Sociology:
-      "Sociology's focus on inequality and work fits an area where around 49% of residents hold degree-level qualifications overall, yet Warrington has more than double the national rate of adults with none. It also helps explain the workforce ageing that's putting pressure on manufacturing, farming and energy employers alike.",
+      "Sociology's focus on inequality and work fits an area where around 49% of working-age residents are qualified to Level 4 (degree level or equivalent) or above, yet Warrington has around double the national rate of adults with no qualifications. It also helps explain the workforce ageing that's putting pressure on manufacturing, farming and energy employers alike.",
     Philosophy:
-      "Cheshire and Warrington's employers name AI adoption, governance and ethics as a top cross-cutting priority, worried about everything from AI-driven recruitment filtering to the responsible use of AI tools in professional services. Philosophy's training in careful ethical reasoning speaks directly to that gap.",
+      "Cheshire and Warrington's LSIP makes AI adoption, training and governance a top cross-cutting priority, with employers worried about everything from AI-driven recruitment filtering to the responsible use of AI tools in professional services. Philosophy's training in careful ethical reasoning speaks directly to that gap.",
     "Religious Studies":
       "Religious Studies' grounding in ethics and different worldviews matters in a workforce where around a quarter of life sciences employees were born outside the UK, and where care and health services must respect residents' widely differing beliefs and values. Its ethical theory also underpins debates about AI, safety and regulation across every sector.",
     Criminology:
       "Criminology's focus on regulation, safety and how systems fail connects to the compliance and safety demands on chemical, nuclear and pharmaceutical sites around Stanlow, Capenhurst and Alderley Park, and to the safeguarding standards that underpin the region's health and social care workforce.",
     "English Language":
-      "Every employer survey behind this area's LSIP names the same gap: clear writing, confident speaking, and the everyday communication skills that its 'essential business skills' action is designed to fix. English Language builds exactly that, whichever priority sector you end up working in.",
+      "Across every sector in this area's LSIP survey and interviews, employers flagged the same gap: the everyday communication habits and workplace skills that its 'essential business skills' action is designed to fix. English Language builds exactly that, whichever priority sector you end up working in.",
     "English Literature":
-      "Cheshire and Warrington's digital and creative cross-cutting priority needs people who can write and argue clearly, whether that's marketing content for Daresbury Park's shared-services hub or explaining complex science from Alderley Park to the public. English Literature builds that close reading and argument.",
+      "Cheshire and Warrington's digital and creative cross-cutting priority needs people who can write and argue clearly, whether that's marketing content for a Warrington or Chester professional services firm or explaining complex science from Alderley Park to the public. English Literature builds that close reading and argument.",
     "English Language & Literature":
       "This combined course builds the close reading, argument and creative writing that the region's growing content and communications roles need, from marketing in business and professional services to explaining new hydrogen and nuclear technology to local communities.",
     French:
-      "The region's aerospace and automotive supply chains feed into Airbus and the wider European market, and its pharmaceutical and chemical companies trade constantly across the Channel. French adds real value on top of a science, engineering or business specialism, in a sub-region whose LSIP names language and cultural skills as a genuine, if quieter, gap.",
+      "The region's aerospace and automotive supply chains feed into Airbus and the wider European market, and its pharmaceutical and chemical companies trade constantly across the Channel. French adds real value on top of a science, engineering or business specialism, giving you an edge with employers who work with partners and customers in France and other French-speaking markets.",
     Spanish:
       "Cheshire and Warrington's life sciences and advanced manufacturing employers trade with markets right across the world, and around a quarter of the local life sciences workforce was born outside the UK. Spanish, one of the most widely spoken languages globally, adds real value alongside a science, business or engineering A level here.",
     German:
-      "Bentley Motors in Crewe, this area's most famous manufacturer, has been wholly owned by Germany's Volkswagen Group since 1998, and its engineering and design work regularly connects with German teams. German gives a genuine edge to students heading into the region's advanced manufacturing and automotive supply chain.",
+      "Bentley Motors in Crewe, one of this area's best-known manufacturers, has been wholly owned by Germany's Volkswagen Group since 1998, and its engineering and design work regularly connects with German teams. German gives a genuine edge to students heading into the region's advanced manufacturing and automotive supply chain.",
     "Chinese (Mandarin)":
       "As Cheshire and Warrington's pharmaceutical, chemicals and precision manufacturing exporters look to fast-growing Asian markets, and as the region's agri-tech sector develops food-security technology with global relevance, Mandarin is a rare and increasingly valuable skill to pair with a science or business A level here.",
     "Art & Design (Fine Art)":
@@ -85,17 +85,17 @@ export const CONTENT: RegionContent = {
     Music:
       "Chester's theatres and the wider visitor economy, an LSIP cross-cutting priority worth 262,000 jobs across the North West, depend on performers and technicians as much as any other creative subject. Music's discipline and performance skills also transfer well into the confident communication that local employers keep asking for.",
     "Music Technology":
-      "The audio, recording and digital production skills at the heart of Music Technology sit inside the same digital and creative priority as the region's growing content and software roles, and the technical, systems-based thinking it teaches transfers well into the digital literacy every employer here is asking for.",
+      "The audio, recording and digital production skills at the heart of Music Technology sit inside the same digital and creative priority as the region's growing content and software roles, and the technical, systems-based thinking it teaches transfers well into the digital skills the LSIP says are becoming core to every sector here.",
     "Drama & Theatre":
-      "Cheshire and Warrington names leadership, teamwork and confident communication as skills nearly every employer struggles to find, and Drama and Theatre's devised, performed work builds exactly that. It also feeds the region's visitor economy, from Chester's theatres to local events and festivals.",
+      "Cheshire and Warrington's employers say leadership, teamwork and confident communication are skills they often struggle to find, and Drama and Theatre's devised, performed work builds exactly that. It also feeds the region's visitor economy, from Chester's theatres to local events and festivals.",
     Dance:
       "Dance's disciplined, collaborative rehearsal process builds the teamwork, resilience and performance confidence that employers across this region, from care homes to manufacturing floors, repeatedly say new recruits lack. It also connects to the visitor economy's events, tourism and leisure activity across Cheshire and Warrington.",
     "Physical Education":
-      "PE's mix of applied science and hands-on coaching connects to the visitor economy's leisure and events priority, and its focus on the body and performance under pressure is genuinely useful preparation for the physically demanding careers in construction, engineering and care that this sub-region most needs to fill.",
+      "PE's mix of applied science and hands-on coaching connects to the visitor economy's leisure and events priority, and its focus on the body and performance under pressure is genuinely useful preparation for the physically demanding careers in construction, engineering and care that this sub-region needs to fill.",
     "Sport & Exercise Science":
-      "The physiology and data-analysis skills at the core of Sport and Exercise Science apply directly to the life sciences cluster at Alderley Park, and to the visitor economy's leisure and wellbeing offer. It's also a strong foundation for the health and care roles this sub-region most needs to fill.",
+      "The physiology and data-analysis skills at the core of Sport and Exercise Science apply directly to the life sciences cluster at Alderley Park, and to the visitor economy's leisure and wellbeing offer. It's also a strong foundation for the health and care roles this sub-region needs to fill.",
     "Food Science & Nutrition":
-      "Reaseheath College's Food Centre for Dairy Technology and the wider agri-tech and food security priority need people who understand food science, safety and nutrition, from dairy technologists to product developers. This subject is one of the most direct routes into that growing, increasingly high-tech local sector.",
+      "Reaseheath College's Food Centre, with its dairy processing halls, and the wider agri-tech and food security priority need people who understand food science, safety and nutrition, from dairy technologists to product developers. This subject is a direct route into that increasingly high-tech local sector.",
   },
   quests: [
     // ---------------------------------------------------------------
@@ -181,9 +181,9 @@ export const CONTENT: RegionContent = {
       strapline:
         "Design a training model that works for the region's small manufacturers, not just the big names.",
       summary:
-        "Your group investigates why 89% of local manufacturers are micro-businesses too small to run their own training, interviewing, through a school-arranged visit, a local training provider or small manufacturer about what support they'd actually use. You pull this into a short proposal for a shared apprenticeship or training-brokerage scheme that smaller employers could realistically join.",
+        "Your group investigates how being a micro-business, as around 89% of local manufacturers are, makes it hard to run training in-house, interviewing, through a school-arranged visit, a local training provider or small manufacturer about what support they'd actually use. You pull this into a short proposal for a shared apprenticeship or training-brokerage scheme that smaller employers could realistically join.",
       whyItMatters:
-        "Nearly nine in ten manufacturing firms here are micro-businesses that can't run training alone, which the LSIP names as a direct barrier to closing the sector's skills gap.",
+        "Nearly nine in ten manufacturing firms here are micro-businesses that can't easily access or fund training on their own, which the LSIP names as a barrier to closing the sector's skills gap.",
       skills: {
         speaking: 3,
         leadership: 2,
@@ -212,7 +212,7 @@ export const CONTENT: RegionContent = {
         "Business Studies":
           "You lead on costing the scheme and identifying what would actually persuade a small manufacturer to join.",
         Economics:
-          "You research whether unspent apprenticeship levy funds, which one local employer says sit largely unused, could help fund a shared scheme.",
+          "You research whether unspent apprenticeship levy funds, such as the roughly £400,000 the LSIP says one large local manufacturer holds, could help fund a shared scheme.",
         Sociology:
           "You look at why smaller firms behave differently to large ones when it comes to training investment, not just what the numbers show.",
         Law: "You check what a shared training or apprenticeship arrangement between separate employers would need to cover legally, such as who employs the apprentice.",
@@ -251,7 +251,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Your group researches what a career in today's advanced manufacturing genuinely involves, robotics, precision engineering, VR training, digital design, and produces short content, video, social posts or a display, that shows this to other students. It's designed to be shared at a Careers Hub event or open day, alongside interviews with local apprentices or engineers where a school can arrange them.",
       whyItMatters:
-        "Employers describe apprentices trained on outdated kit and courses, and a workforce that's ageing fast, so changing how young people see manufacturing is part of closing the sector's skills gap.",
+        "Employers say training often lags behind the technology they now use, and the workforce is ageing fast, so changing how young people see manufacturing is part of closing the sector's skills gap.",
       skills: {
         "content-production": 3,
         creativity: 2,
@@ -284,7 +284,7 @@ export const CONTENT: RegionContent = {
         "Graphic Communication":
           "You design the visual identity, from posters to on-screen graphics, that ties the whole campaign together.",
         Photography:
-          "You capture the images that make modern manufacturing look like what it actually is now, not an outdated stereotype.",
+          "You capture the images, on a school-arranged visit with the employer's permission or from its published media, that make modern manufacturing look like what it actually is now, not an outdated stereotype.",
       },
       researchQuestions: [
         "What do local students currently believe about careers in manufacturing, and how accurate is it?",
@@ -322,7 +322,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Your group researches how robotic milking, GPS-guided tractors and sensor technology are changing farm work, drawing on open DEFRA and workforce data and, where a school can arrange it, a visit or interview at Reaseheath College's Advanced Engineering and Agri-Tech Centre. You produce a short data-based report weighing the costs, benefits and training needs of going 'high-tech'.",
       whyItMatters:
-        "About 70% of the local farming workforce is over 50, and robotics and data skills are mostly learned informally with almost no formal training pathway yet, so the LSIP flags this as a looming gap.",
+        "About 70% of the local farming workforce is aged 50 or over, and most robotics and data skills are still learned on the job rather than through formal training, so the LSIP flags this as a looming gap.",
       skills: {
         "data-analysis": 3,
         engineering: 2,
@@ -375,7 +375,11 @@ export const CONTENT: RegionContent = {
           "Farm business adviser",
           "Land-based engineer",
         ],
-        localOrganisations: ["Reaseheath College", "Agri-Tech West", "University of Chester"],
+        localOrganisations: [
+          "Reaseheath College",
+          "Cheshire and Warrington Institute of Technology",
+          "University of Chester",
+        ],
       },
     },
     {
@@ -453,7 +457,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Your group produces short content, video, social posts or a display, that profiles real agri-tech careers such as robotics technicians and dairy technologists, aimed at countering the outdated image of farming. Where a school can arrange it, you base this on an interview or visit to Reaseheath College, and share the finished content through a Careers Hub event.",
       whyItMatters:
-        "With most of the current workforce over 50 and almost no visible route in, the LSIP is clear that young people simply don't see agri-tech as a career option yet.",
+        "With around 70% of the current workforce aged 50 or over, the LSIP says employers increasingly want young people arriving with skills in robotics, GPS and data, so more young people need to see agri-tech as a real career option.",
       skills: {
         "content-production": 3,
         creativity: 2,
@@ -482,7 +486,7 @@ export const CONTENT: RegionContent = {
         "Media Studies":
           "You lead on choosing the platform and format that will actually reach other sixth-formers.",
         Photography:
-          "You capture images that show real agri-tech equipment and people, not stock-photo farming clichés.",
+          "You capture images that show real agri-tech equipment and people, on a supervised, school-arranged visit with permission or from published media, not stock-photo farming clichés.",
         "Film Studies":
           "You lead on filming and editing, using pacing and structure that holds a young audience's attention.",
       },
@@ -506,7 +510,7 @@ export const CONTENT: RegionContent = {
         ],
         localOrganisations: [
           "Reaseheath College",
-          "Agri-Tech West",
+          "University of Chester",
           "Cheshire and Warrington Careers Hub",
         ],
       },
@@ -653,7 +657,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Your group produces a short media piece, video, podcast or display, showing real career paths in local business and professional services, from an entry-level apprenticeship through to a management or analyst role. You base it on published information and, where a school can arrange it, an interview with a local firm, Growth Hub or Chamber contact, and share it at a Careers Hub event.",
       whyItMatters:
-        "This sector is the sub-region's biggest employer and growing fast, but the LSIP notes that Level 4-5 pathways into it are underdeveloped and not well understood by young people.",
+        "This is the sub-region's biggest employment sector and it's growing fast, but the LSIP notes that Level 4-5 pathways into roles such as data technician and digital business analyst are still underdeveloped.",
       skills: {
         "content-production": 3,
         creativity: 2,
@@ -682,7 +686,7 @@ export const CONTENT: RegionContent = {
         "Media Studies":
           "You lead on choosing the format and platform most likely to reach other sixth-formers.",
         Photography:
-          "You capture real workplaces and people, rather than generic stock images of office life.",
+          "You capture real workplaces and people, with permission arranged through your school, rather than generic stock images of office life.",
         Accounting:
           "You make sure the accountancy and finance career routes shown are accurate and up to date.",
       },
@@ -722,7 +726,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Your group researches how the HyNet hydrogen project at Stanlow and the nuclear fuel facility at Capenhurst actually work, using public reports and, where a school can arrange it, a talk or visit from a local energy employer or Cogent Skills. You produce a data-based explainer of what new engineering and technician skills these projects will need.",
       whyItMatters:
-        "Half of clean-energy vacancies here are already hard to fill, and courses on hydrogen and other emerging technologies barely exist yet, so the LSIP flags a real training gap opening up.",
+        "Across the North West, half of vacancies in energy and utilities are already hard to fill, and employers say hydrogen and other emerging technologies aren't yet built into most training, so the LSIP flags a real training gap opening up.",
       skills: {
         "data-analysis": 2,
         engineering: 3,
@@ -759,7 +763,7 @@ export const CONTENT: RegionContent = {
       },
       researchQuestions: [
         "How does the Stanlow site's move towards hydrogen actually work, and what will change for the people who work there?",
-        "What new engineering and technician skills does the HyNet project or Urenco's Capenhurst facility say they need?",
+        "What new engineering and technician skills do the HyNet project and Urenco's Capenhurst facility say, in their published materials, that they need?",
         "Do current Level 3 apprenticeships anywhere near here already cover any of this, or is it a genuine gap?",
       ],
       whereThisCouldLead: {
@@ -790,7 +794,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Your group interviews, where a school can arrange it, a local electrician, plumber or training provider about what's genuinely different about installing heat pumps, solar panels or EV charging compared with traditional work. You turn this into a short 'skills bridge' guide for anyone considering retraining or starting an apprenticeship in low-carbon trades.",
       whyItMatters:
-        "The LSIP quotes employers saying training still focuses on older technology, such as cabling from the 1980s, while the skills genuinely needed for retrofit and clean energy work are different.",
+        "The LSIP quotes employers saying some training still covers older technology, such as types of cable that haven't been installed for decades, while the skills genuinely needed for retrofit and clean energy work are different.",
       skills: {
         speaking: 3,
         "self-management": 2,
@@ -857,9 +861,9 @@ export const CONTENT: RegionContent = {
       title: "Explaining Clean Energy to Your Town",
       strapline: "Turn hydrogen, nuclear and heat pumps into content people actually understand.",
       summary:
-        "Your group produces an accessible explainer series, video, infographics or a short talk, that demystifies hydrogen, nuclear and low-carbon heating for local residents and students, addressing the LSIP's point that these technologies 'aren't on the curriculum yet'. You research the facts carefully and share the finished content through school channels or a Careers Hub event.",
+        "Your group produces an accessible explainer series, video, infographics or a short talk, that demystifies hydrogen, nuclear and low-carbon heating for local residents and students, addressing the LSIP's point that these technologies are 'not yet embedded in training curricula'. You research the facts carefully and share the finished content through school channels or a Careers Hub event.",
       whyItMatters:
-        "Employers say hydrogen and similar technologies barely feature in current training or public understanding, and the LSIP treats this awareness gap as part of the wider clean-energy skills problem.",
+        "Employers say hydrogen and similar technologies aren't yet part of most training and are barely visible as a career path, and the LSIP links this lack of visibility to low uptake of clean-energy training.",
       skills: {
         "content-production": 3,
         creativity: 2,
@@ -893,7 +897,7 @@ export const CONTENT: RegionContent = {
           "You design the infographics that turn a complex energy system into something instantly understandable.",
       },
       researchQuestions: [
-        "What do local residents or students currently understand, or misunderstand, about hydrogen and nuclear energy in this area?",
+        "What do students at your school, and published surveys of public attitudes, suggest people understand, or misunderstand, about hydrogen and nuclear energy?",
         "What is the clearest, most accurate way to explain how a heat pump or hydrogen furnace actually works?",
         "What format, video, infographic or talk, would people actually engage with rather than ignore?",
       ],
@@ -926,7 +930,7 @@ export const CONTENT: RegionContent = {
       title: "Try a Life Sciences Lab Job",
       strapline: "Run a supervised lab investigation modelled on real quality-assurance work.",
       summary:
-        "In a supervised school lab, your group designs and runs a simple scientific investigation, such as testing water or soil samples, that mirrors the quality-assurance and lab-technician work done at sites like Alderley Park. You write this up as a short 'day in the life of a lab technician' resource, comparing your experience with published information about the real role.",
+        "In a supervised school lab, your group designs and runs a simple scientific investigation, such as a purity or pH check on samples your teacher provides, that mirrors the quality-assurance and lab-technician work done at sites like Alderley Park. You write this up as a short 'day in the life of a lab technician' resource, comparing your experience with published information about the real role.",
       whyItMatters:
         "The LSIP describes laboratory and manufacturing technician pathways as 'the pipeline most in need of attention' in this nationally significant life sciences cluster.",
       skills: {
@@ -997,7 +1001,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Your group researches why colleges running Lab Skills bootcamps have struggled to get employers to interview graduates, using published reports and, where a school can arrange it, an interview with a college or a Cogent Skills contact. You produce recommendations for what would actually close the gap between training and hiring in this sector.",
       whyItMatters:
-        "The LSIP quotes a training provider saying business 'will not engage' with bootcamp graduates, even though laboratory technician pathways are named as the sector's biggest gap.",
+        "The LSIP quotes a Warrington further education lead saying business 'will not engage' with bootcamp graduates, even though it calls lab and manufacturing technician pathways 'the pipeline most in need of attention'.",
       skills: {
         speaking: 3,
         "critical-thinking": 2,
@@ -1031,7 +1035,7 @@ export const CONTENT: RegionContent = {
           "You research how bootcamp providers could better involve employers from the start, rather than only at the hiring stage.",
       },
       researchQuestions: [
-        "What do Lab Skills bootcamp graduates say about their experience looking for work afterwards?",
+        "What do published reports and training providers say about how Lab Skills bootcamp graduates get on when looking for work afterwards?",
         "What do local life sciences employers say puts them off interviewing bootcamp graduates?",
         "What changes, to the bootcamp, the hiring process, or both, might close this gap?",
       ],
@@ -1059,11 +1063,11 @@ export const CONTENT: RegionContent = {
       id: "cheshire-warrington-life-sciences-3",
       priorityId: "life-sciences",
       title: "Show the Hidden Lab Careers",
-      strapline: "Reveal the non-graduate routes into life sciences that most students never see.",
+      strapline: "Reveal the non-graduate routes into life sciences that many students never see.",
       summary:
-        "Your group produces content, posters, video or social media, that shows school students the non-graduate technician routes into life sciences at Alderley Park, since the LSIP notes employers rarely engage with schools directly. You base the content on published role information and, where possible, a Careers Hub or Cogent Skills contact, and share it at a school event.",
+        "Your group produces content, posters, video or social media, that shows school students the non-graduate technician routes into life sciences at Alderley Park, since the LSIP notes that life sciences businesses have tended not to engage with schools directly. You base the content on published role information and, where possible, a Careers Hub or Cogent Skills contact, and share it at a school event.",
       whyItMatters:
-        "The LSIP says employers 'rarely engage with schools and colleges, so students don't see non-graduate routes into the sector', even though the cluster needs far more technicians than graduates.",
+        "The LSIP says life sciences businesses have tended not to engage with schools and colleges, leaving technician routes less visible, even though it calls these pathways 'the pipeline most in need of development'.",
       skills: {
         "content-production": 3,
         creativity: 2,
@@ -1092,7 +1096,7 @@ export const CONTENT: RegionContent = {
         "Media Studies":
           "You lead on choosing the platform and format most likely to reach other sixth-formers.",
         Photography:
-          "You capture real lab and manufacturing settings, rather than generic stock images of scientists.",
+          "You capture real lab settings, in your school lab or from employers' published media, rather than generic stock images of scientists.",
         Biology:
           "You make sure the technician and manufacturing roles shown reflect real life sciences work accurately.",
       },
@@ -1127,10 +1131,10 @@ export const CONTENT: RegionContent = {
     {
       id: "cheshire-warrington-construction-built-environment-1",
       priorityId: "construction-built-environment",
-      title: "Auditing Homes for the Retrofit Gap",
+      title: "Mapping the Retrofit Gap in Local Homes",
       strapline: "Use open data to see how ready local homes are for retrofit.",
       summary:
-        "Your group uses open Energy Performance Certificate data for the local area to investigate how many homes might need retrofit work such as insulation or heat pumps, and compares this against published information on current trade training. You produce a short report estimating the scale of the retrofit challenge locally.",
+        "Your group uses open Energy Performance Certificate data for a small local area, such as your own town, to investigate how many homes might need retrofit work such as insulation or heat pumps, and compares this against published information on current trade training. You produce a short report estimating the scale of the retrofit challenge locally.",
       whyItMatters:
         "The LSIP names a mismatch between 'retrofit requirements versus current competence' as one of construction's core skills gaps, on top of trades already being hard to fill.",
       skills: {
@@ -1265,7 +1269,7 @@ export const CONTENT: RegionContent = {
       title: "From Stonemasons to Retrofit Fitters",
       strapline: "Connect heritage building crafts to the region's modern retrofit challenge.",
       summary:
-        "Your group documents, through photography or video, and with all necessary school permissions, both heritage construction skills, such as stonemasonry at a site like Chester Cathedral, and modern retrofit techniques, producing a short 'old skills, new purpose' piece for a Careers Hub event. It shows how traditional trades connect to today's low-carbon construction demand.",
+        "Your group documents, through photography or video, both heritage construction skills, such as the stonemasonry carried out at a site like Chester Cathedral, and modern retrofit techniques, producing a short 'old skills, new purpose' piece for a Careers Hub event that shows how traditional trades connect to today's low-carbon construction demand. You use organisations' published images and footage, or material from a supervised visit your school organises, rather than filming on working building sites.",
       whyItMatters:
         "The LSIP names both heritage craft skills and retrofit competence as priorities, and this quest shows students that construction careers span both traditional and cutting-edge low-carbon work.",
       skills: {
@@ -1294,7 +1298,7 @@ export const CONTENT: RegionContent = {
       },
       subjectOverrides: {
         Photography:
-          "You lead on capturing the visual contrast and connection between heritage crafts and modern retrofit work.",
+          "You lead on showing the visual contrast and connection between heritage crafts and modern retrofit work, using published material or photos taken with permission on a school-organised visit.",
         History:
           "You research the history of local heritage crafts, such as at Chester Cathedral, to give the content real depth.",
         "Construction & the Built Environment":
@@ -1336,7 +1340,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Your group researches why only around 31% of local FE health and care enrolments turn into completed qualifications, using published achievement-rate data and an anonymous survey of consenting classmates who study, or considered studying, health and care courses. You produce a data-based report on what support might improve completion.",
       whyItMatters:
-        "The LSIP names this as the lowest course-completion rate of any sector locally, which chokes off the supervisor and registered-manager pipeline the sector badly needs.",
+        "The LSIP describes the sector's training as 'high intake, low conversion', which chokes off the supervisor and registered-manager pipeline the sector badly needs.",
       skills: {
         "data-analysis": 3,
         "critical-thinking": 2,
@@ -1363,15 +1367,15 @@ export const CONTENT: RegionContent = {
       },
       subjectOverrides: {
         Psychology:
-          "You lead on the possible wellbeing and motivation reasons behind why students leave partway through.",
+          "You lead on the possible wellbeing and motivation reasons behind why students leave partway through, drawing on published research rather than personal questions.",
         Sociology:
-          "You research whether financial or caring responsibilities at home affect completion rates more than the course itself.",
+          "You use published research to look at whether financial or caring responsibilities at home affect completion rates more than the course itself.",
         "Health & Social Care":
           "You bring first-hand understanding of what the course and its placements genuinely involve, to check the findings ring true.",
       },
       researchQuestions: [
         "At what point in a health and care course are local students most likely to leave?",
-        "What do students who left early say, anonymously, about their reasons?",
+        "What reasons for leaving early come up in published research, and do your anonymous survey responses point the same way?",
         "What support, such as travel costs, bursaries or mentoring, might realistically improve completion?",
       ],
       whereThisCouldLead: {
@@ -1400,9 +1404,9 @@ export const CONTENT: RegionContent = {
       title: "Fixing the Care Manager Shortage",
       strapline: "Research why registered manager posts are so hard to fill, and what could help.",
       summary:
-        "Your group researches the registered manager role using published job descriptions and guidance, and, where a school can arrange it, interviews a care provider or a Skills for Care contact about what makes the role hard to fill and progress into. You propose ideas for a clearer promotion pathway from care worker towards this role.",
+        "Your group researches the registered manager role using published job descriptions and guidance, and, where a school can arrange it, interviews a manager at a care provider or a Skills for Care contact about what makes the role hard to fill and progress into. You propose ideas for a clearer promotion pathway from care worker towards this role.",
       whyItMatters:
-        "One local care home reportedly paid a £16,000 agency fee just to fill a single registered manager post, and the LSIP names this as the sector's clearest gap at supervisory level.",
+        "One local care home reportedly paid a £16,000 agency fee just to fill a single registered manager post, and the LSIP calls the registered manager shortage 'particularly acute'.",
       skills: {
         speaking: 3,
         "care-empathy": 2,
@@ -1466,7 +1470,7 @@ export const CONTENT: RegionContent = {
       title: "Climbing the Care Career Ladder",
       strapline: "Show the career ladder from care worker to registered manager.",
       summary:
-        "Your group produces content, posters, video or social media, that shows the career ladder in care, from adult care worker through nursing associate to registered manager, to attract more people into higher-level pathways. You base it on published career information and share it at a Careers Hub event or school open day.",
+        "Your group produces content, posters, video or social media, that shows the career ladder in care, from adult care worker through nursing associate to registered manager, to attract more people into higher-level pathways. You base it on published career information, rather than filming in care settings, and share it at a Careers Hub event or school open day.",
       whyItMatters:
         "With only 110 local Level 4+ enrolments in health and care, the LSIP describes a very thin pipeline into supervisory and specialist roles that this sector urgently needs filled.",
       skills: {

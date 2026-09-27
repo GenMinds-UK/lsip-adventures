@@ -1,46 +1,46 @@
 subject,group,best rank in any priority,area,priority,F1 pass (top half)
-Mathematics,Maths & Computing,13,cheshire-warrington,Advanced Manufacturing,yes
+Mathematics,Maths & Computing,12,greater-manchester,Digital & Technology,yes
 Further Mathematics,Maths & Computing,19.5,greater-manchester,Construction,yes
-Statistics,Maths & Computing,3.5,greater-manchester,Digital & Technology,yes
+Statistics,Maths & Computing,2.5,greater-manchester,Digital & Technology,yes
 Computer Science,Maths & Computing,1,greater-manchester,Digital & Technology,yes
 Biology,Sciences,3,cheshire-warrington,Life Sciences,yes
 Chemistry,Sciences,3,cheshire-warrington,Life Sciences,yes
 Physics,Sciences,2.5,cheshire-warrington,Agri-tech and Food Security,yes
 Applied Science,Sciences,1,cheshire-warrington,Life Sciences,yes
 Environmental Science,Sciences,3,cheshire-warrington,Life Sciences,yes
-Psychology,Sciences,8,cumbria,Health & Social Care,yes
+Psychology,Sciences,8,cheshire-warrington,Life Sciences,yes
 Engineering,Technical & Applied,1,cheshire-warrington,Advanced Manufacturing,yes
 Design & Technology (Product Design),Technical & Applied,1,cumbria,Advanced Manufacturing & Defence,yes
 Health & Social Care,Technical & Applied,1,cheshire-warrington,Health and Social Care,yes
 Construction & the Built Environment,Technical & Applied,2,lancashire,National Security & Resilience,yes
 Business Studies,Business & Economics,1,cheshire-warrington,Business and Professional Services,yes
-Economics,Business & Economics,5.5,greater-manchester,Finance & Professional Services,yes
-Accounting,Business & Economics,1.5,greater-manchester,Finance & Professional Services,yes
-Law,Business & Economics,7.5,greater-manchester,Finance & Professional Services,yes
+Economics,Business & Economics,6.5,cheshire-warrington,Business and Professional Services,yes
+Accounting,Business & Economics,2,greater-manchester,Finance & Professional Services,yes
+Law,Business & Economics,7,greater-manchester,Finance & Professional Services,yes
 Geography,Humanities & Social Sciences,5.5,liverpool-city-region,Construction and the Built Environment,yes
-History,Humanities & Social Sciences,22,cumbria,Health & Social Care,yes
-Politics,Humanities & Social Sciences,17,cumbria,Health & Social Care,yes
-Sociology,Humanities & Social Sciences,11.5,cheshire-warrington,Life Sciences,yes
-Philosophy,Humanities & Social Sciences,17,cumbria,Health & Social Care,yes
-Religious Studies,Humanities & Social Sciences,17,cumbria,Health & Social Care,yes
-Criminology,Humanities & Social Sciences,5,cumbria,Health & Social Care,yes
-English Language,English & Languages,14,greater-manchester,Digital & Technology,yes
-English Literature,English & Languages,29,greater-manchester,Hospitality,NO
-English Language & Literature,English & Languages,18.5,greater-manchester,Creative & Media,yes
-French,English & Languages,8,greater-manchester,Digital & Technology,yes
-Spanish,English & Languages,8,greater-manchester,Digital & Technology,yes
-German,English & Languages,8,greater-manchester,Digital & Technology,yes
-Chinese (Mandarin),English & Languages,8,greater-manchester,Digital & Technology,yes
-Art & Design (Fine Art),Creative & Performing,2.5,greater-manchester,Hospitality,yes
+History,Humanities & Social Sciences,21,cumbria,Health & Social Care,yes
+Politics,Humanities & Social Sciences,17,greater-manchester,Finance & Professional Services,yes
+Sociology,Humanities & Social Sciences,12,cheshire-warrington,Life Sciences,yes
+Philosophy,Humanities & Social Sciences,17,greater-manchester,Finance & Professional Services,yes
+Religious Studies,Humanities & Social Sciences,17,greater-manchester,Finance & Professional Services,yes
+Criminology,Humanities & Social Sciences,4.5,cumbria,Health & Social Care,yes
+English Language,English & Languages,4.5,greater-manchester,Digital & Technology,yes
+English Literature,English & Languages,31,cumbria,Health & Social Care,NO
+English Language & Literature,English & Languages,26.5,liverpool-city-region,Creative Industries,NO
+French,English & Languages,8.5,greater-manchester,Logistics,yes
+Spanish,English & Languages,8.5,greater-manchester,Logistics,yes
+German,English & Languages,8.5,greater-manchester,Logistics,yes
+Chinese (Mandarin),English & Languages,8.5,greater-manchester,Logistics,yes
+Art & Design (Fine Art),Creative & Performing,3.5,cumbria,Visitor Economy,yes
 Graphic Communication,Creative & Performing,1,greater-manchester,Creative & Media,yes
-Photography,Creative & Performing,2,greater-manchester,Creative & Media,yes
-Textile Design,Creative & Performing,2.5,greater-manchester,Hospitality,yes
-Film Studies,Creative & Performing,5,greater-manchester,Creative & Media,yes
-Media Studies,Creative & Performing,2,lancashire,Digital,yes
-Music,Creative & Performing,9,greater-manchester,Creative & Media,yes
-Music Technology,Creative & Performing,5,greater-manchester,Creative & Media,yes
-Drama & Theatre,Creative & Performing,7,cumbria,Visitor Economy,yes
-Dance,Creative & Performing,7,liverpool-city-region,Creative Industries,yes
+Photography,Creative & Performing,3,greater-manchester,Creative & Media,yes
+Textile Design,Creative & Performing,3.5,cumbria,Visitor Economy,yes
+Film Studies,Creative & Performing,4,greater-manchester,Creative & Media,yes
+Media Studies,Creative & Performing,2,greater-manchester,Creative & Media,yes
+Music,Creative & Performing,13,greater-manchester,Creative & Media,yes
+Music Technology,Creative & Performing,7,greater-manchester,Creative & Media,yes
+Drama & Theatre,Creative & Performing,6,cumbria,Visitor Economy,yes
+Dance,Creative & Performing,7.5,greater-manchester,Health & Social Care,yes
 Physical Education,Sport & Wellbeing,3,greater-manchester,Logistics,yes
 Sport & Exercise Science,Sport & Wellbeing,4,greater-manchester,Logistics,yes
 Food Science & Nutrition,Sport & Wellbeing,2,cumbria,Health & Social Care,yes

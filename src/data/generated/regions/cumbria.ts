@@ -15,9 +15,8 @@ export const REGION_DATA: GeneratedRegionData = {
         "engineering": 3,
         "cyber-security": 2,
         "digital-ai": 2,
-        "commercial": 2,
-        "self-management": 2,
-        "leadership": 1
+        "commercial": 1,
+        "leadership": 2
       },
       "roles": [
         {
@@ -117,8 +116,8 @@ export const REGION_DATA: GeneratedRegionData = {
         "self-management": 2,
         "law-ethics": 2,
         "digital-ai": 2,
-        "commercial": 2,
-        "leadership": 1
+        "commercial": 1,
+        "leadership": 2
       },
       "roles": [
         {
@@ -303,10 +302,9 @@ export const REGION_DATA: GeneratedRegionData = {
       "source": "https://cumbriachamber.co.uk/wp-content/uploads/2026/07/Cumbria-LSIP-2026-2029-FINAL-POST-SUBMISSION.pdf p.8",
       "weights": {
         "care-empathy": 3,
-        "law-ethics": 2,
-        "customer-service": 2,
+        "law-ethics": 1,
         "leadership": 2,
-        "self-management": 1
+        "self-management": 2
       },
       "roles": [
         {
@@ -396,7 +394,9 @@ export const REGION_DATA: GeneratedRegionData = {
         "sustainability": 2,
         "self-management": 2,
         "teamwork": 2,
-        "speaking": 2
+        "speaking": 2,
+        "customer-service": 2,
+        "care-empathy": 2
       },
       "roles": [
         {
@@ -487,7 +487,7 @@ export const REGION_DATA: GeneratedRegionData = {
       "weights": {
         "practical-making": 3,
         "customer-service": 3,
-        "self-management": 3,
+        "self-management": 2,
         "speaking": 2,
         "leadership": 2
       },

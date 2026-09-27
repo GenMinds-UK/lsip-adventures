@@ -1,5 +1,7 @@
 # Cumbria — LSIP evidence notes
 
+**Note (checkpoint 2):** D and W scores in the Phase B tables below have been superseded by `research/d-review.md` (second review and harmonisation) and `research/w-review.md`. The CSVs in `research/data/regions/cumbria/` are authoritative.
+
 Region id: `cumbria`. Employer Representative Body: **Cumbria Chamber of Commerce** (confirmed on GOV.UK's designated ERB notice, checked 2026-09-27, retrieved as `govuk_lsip.html`). Councils: **Cumberland Council** and **Westmorland and Furness Council** (both unitary, created April 2023). Strategic authority: GOV.UK's designated-ERB table still lists "Not applicable" for Cumbria (checked 2026-09-27), but the 2026 LSIP itself states that the **Cumbria Combined Authority (CCA)** was formally established on 24 February 2026 (`cumbria-lsip-2026.pdf` p.14) — confirmed independently via the CCA's own site (cumbria-ca.gov.uk), Cumberland Council news and `legislation.gov.uk` (The Cumbria Combined Authority Order 2026). It is a non-mayoral combined authority for its first year; Cumbria elects its first mayor in May 2027. See VERIFY flags below.
 
 ## Documents

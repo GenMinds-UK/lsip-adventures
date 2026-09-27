@@ -1,13 +1,14 @@
 # M matrix: R2 adjudication log
 
-**Research step R2. Adjudicator's record, 27 September 2026.** This page records how the double-scored matrix (`research/scoring/M-merged.csv`) was turned into the frozen M matrix, `research/data/subject_skills.csv`. It follows the protocol in [methodology.md](methodology.md) §6. The rulings are written into the methodology as §4.1.1; they are numbered 1–14 there and R1–R14 here.
+**Research step R2. Adjudicator's record, 27 September 2026.** This page records how the double-scored matrix (`research/scoring/M-merged.csv`) was turned into the frozen M matrix, `research/data/subject_skills.csv`. It follows the protocol in [methodology.md](methodology.md) §6. The rulings are written into the methodology as §4.1.1; they are numbered 1–15 there and R1–R15 here. R15 was added in the Checkpoint 2 follow-up at the end of this page.
 
 ## Summary
 
 - **1,035 cells** in the final matrix: 45 subjects × 23 skills.
 - **112 cells** were logged: the 5 adjudicated cells, the 13 audit cells, the 54 diff-1 cells in the four lowest-agreement skills, 33 other diff-1 cells touched by a ruling, and 7 agreed cells changed in the consistency pass.
-- **79 cells moved from their provisional score**: 77 up and 2 down. The 5 adjudicated cells had no provisional score, so they are counted separately below.
-- **Final distribution:** 0 = 629, 1 = 151, 2 = 163, 3 = 92.
+- **79 cells moved from their provisional score in the main pass**: 77 up and 2 down. The 5 adjudicated cells had no provisional score, so they are counted separately below.
+- **The Checkpoint 2 follow-up** changed 7 more cells, all up, and corrected the English Language & Literature citations. See the last section.
+- **Final distribution, after the follow-up:** 0 = 627, 1 = 153, 2 = 158, 3 = 97. The main pass alone gave 0 = 629, 1 = 151, 2 = 163, 3 = 92.
 - **Provisional distribution** (1,030 cells, excluding the 5 adjudicated cells): 0 = 656, 1 = 163, 2 = 130, 3 = 81.
 - All anchors A1–A18 hold exactly (checked by script).
 - **The lower-score default under-rates.** 9 of the 13 randomly sampled audit cells (69%) moved up, because the higher score's evidence met the rubric level exactly. So did 40 of the 54 targeted-review cells. Most of the disagreement came from two scorer habits. Scorer A read level 2 as needing the skill to be 'separately assessed'. Scorer B read it as needing 'a distinct assessed focus'. Neither test is in the rubric (ruling R2).
@@ -45,20 +46,21 @@ Full wording is in [methodology.md §4.1.1](methodology.md). "kept" means the ru
 
 | Ruling | Summary | Cells |
 |---|---|---|
-| R1 | Rules and anchors bind; the typical-3 table is an aid | Physics × problem-solving (2→3); Engineering × practical-making (2, kept); Construction & the Built Environment × engineering (—→3); Accounting × commercial (2→3); Criminology × critical-thinking (2→3); English Language × critical-thinking (2→3); Graphic Communication × practical-making (3→2); Photography × practical-making (3→2); Drama & Theatre × speaking (—→2) |
-| R2 | What meets level 2 (any listed form; no 'separately assessed' test) | Statistics × scientific-method (0→1); Computer Science × digital-ai (1→2); Computer Science × critical-thinking (1, kept); Biology × problem-solving (1→2); Chemistry × sustainability (1, kept); Environmental Science × law-ethics (1→2); Environmental Science × writing (1→2); Environmental Science × problem-solving (1→2); Psychology × writing (1→2); Engineering × sustainability (1→2); Engineering × critical-thinking (1→2); Design & Technology (Product Design) × engineering (1→2); Design & Technology (Product Design) × law-ethics (1→2); Design & Technology (Product Design) × customer-service (—→1); Construction & the Built Environment × sustainability (1→2); Business Studies × problem-solving (1→2); Economics × sustainability (1, kept); Accounting × data-analysis (1→2); Accounting × problem-solving (1→2); Politics × law-ethics (1→2); Criminology × content-production (0→1); English Language × critical-thinking (2→3); Media Studies × commercial (1→2); Dance × leadership (1→2); Physical Education × commercial (0→1); Physical Education × writing (1→2); Sport & Exercise Science × speaking (1→2); Sport & Exercise Science × critical-thinking (1→2); Food Science & Nutrition × problem-solving (1→2) |
+| R1 | Rules and anchors bind; the typical-3 table is an aid | Physics × problem-solving (2→3); Engineering × practical-making (2, kept); Construction & the Built Environment × engineering (—→3); Accounting × commercial (2→3); Criminology × critical-thinking (2→3); English Language × critical-thinking (2→3); English Language × content-production (0→1); Graphic Communication × practical-making (3→2); Photography × practical-making (3→2); Drama & Theatre × speaking (—→2) |
+| R2 | What meets level 2 (any listed form; no 'separately assessed' test) | Statistics × scientific-method (0→1); Computer Science × digital-ai (1→2); Computer Science × critical-thinking (1, kept); Biology × problem-solving (1→2); Chemistry × sustainability (1, kept); Environmental Science × law-ethics (1→2); Environmental Science × writing (1→2); Environmental Science × problem-solving (1→2); Psychology × writing (1→2); Engineering × sustainability (1→2); Engineering × critical-thinking (1→2); Design & Technology (Product Design) × engineering (1→2); Design & Technology (Product Design) × law-ethics (1→2); Design & Technology (Product Design) × customer-service (—→1); Construction & the Built Environment × sustainability (1→2); Business Studies × problem-solving (1→2); Economics × sustainability (1, kept); Accounting × data-analysis (1→2); Accounting × problem-solving (1→2); Politics × law-ethics (1→2); Criminology × content-production (0→1); English Language × critical-thinking (2→3); English Language × content-production (0→1); English Literature × creativity (1, kept); English Language & Literature × creativity (2, kept); Media Studies × commercial (1→2); Dance × leadership (1→2); Physical Education × commercial (0→1); Physical Education × writing (1→2); Sport & Exercise Science × speaking (1→2); Sport & Exercise Science × critical-thinking (1→2); Food Science & Nutrition × problem-solving (1→2) |
 | R3 | Score compulsory elements only; options count only if all options share the property | Further Mathematics × data-analysis (0, kept); Health & Social Care × scientific-method (0, kept); Graphic Communication × digital-ai (1, kept); Photography × digital-ai (1, kept); Drama & Theatre × speaking (—→2); Physical Education × speaking (—→1); Food Science & Nutrition × scientific-method (1, kept) |
 | R4 | Rule 6: one 3 per activity across near-neighbours; neighbour 2 if a distinct assessed element | Biology × practical-making (1→2); Chemistry × practical-making (1→2); Physics × practical-making (1→2); Design & Technology (Product Design) × customer-service (—→1); Law × problem-solving (1→2); Geography × scientific-method (1→2); Graphic Communication × practical-making (3→2); Photography × practical-making (3→2) |
 | R5 | Environmental Science × scientific-method = 3 (required practicals) | Environmental Science × scientific-method (2→3); Geography × scientific-method (1→2) |
 | R6 | Numeracy: sub-10% minimum = 1; Ofqual minimums count; GLH share for applied quals | Engineering × numeracy (2, kept); Construction & the Built Environment × numeracy (2, kept); Music × numeracy (0, kept) |
 | R7 | The 20% bar means ≥ 20%; a 60-GLH (16.7%) unit scores 2 | Engineering × practical-making (2, kept) |
 | R8 | Only 'doing' parts of applied units count towards the 20% bar (rule 1) | Criminology × scientific-method (1, kept); Sport & Exercise Science × speaking (1→2) |
-| R9 | Self-management: internal units ≥ 20% GLH = 2; set tasks are exams; live practical = 2 | Applied Science × self-management (1→2); Engineering × self-management (1→2); Health & Social Care × self-management (1→2); Construction & the Built Environment × self-management (1→2); Physical Education × self-management (1→2) |
+| R9 | Self-management: internal units ≥ 20% GLH = 2; set tasks are exams; live practical = 2 | Applied Science × self-management (1→2); Engineering × self-management (1→2); Health & Social Care × self-management (1→2); Construction & the Built Environment × self-management (1→2); English Language & Literature × self-management (2, kept); Physical Education × self-management (1→2) |
 | R10 | Food Science & Nutrition = WJEC Applied Diploma, mandatory Units 1–2 | Food Science & Nutrition × scientific-method (1, kept) |
-| R11 | Writing levels 3 / 2 / 1 | Computer Science × writing (1→2); Biology × writing (1→2); Applied Science × writing (1→2); Environmental Science × writing (1→2); Psychology × writing (1→2); Engineering × writing (1→2); Health & Social Care × writing (1→2); Construction & the Built Environment × writing (1→2); French × writing (2→3); Spanish × writing (2→3); German × writing (2→3); Chinese (Mandarin) × writing (2→3); Film Studies × writing (2→3); Media Studies × writing (2→3); Music × writing (—→2); Music Technology × writing (0→2); Dance × writing (2→3); Physical Education × writing (1→2); Sport & Exercise Science × writing (0→2); Food Science & Nutrition × writing (1→2) |
+| R11 | Writing levels 3 / 2 / 1 | Computer Science × writing (1→2); Biology × writing (1→2); Applied Science × writing (1→2); Environmental Science × writing (1→2); Psychology × writing (1→2); Engineering × writing (1→2); Health & Social Care × writing (1→2); Construction & the Built Environment × writing (1→2); English Language & Literature × writing (3, kept); French × writing (2→3); Spanish × writing (2→3); German × writing (2→3); Chinese (Mandarin) × writing (2→3); Film Studies × writing (2→3); Media Studies × writing (2→3); Music × writing (—→2); Music Technology × writing (0→2); Dance × writing (2→3); Physical Education × writing (1→2); Sport & Exercise Science × writing (0→2); Food Science & Nutrition × writing (1→2) |
 | R12 | Teamwork: 2+ needs assessed group work; 1 needs a spec hook | Mathematics × teamwork (0, kept); Further Mathematics × teamwork (0, kept); Statistics × teamwork (0, kept); Computer Science × teamwork (0, kept); Biology × teamwork (0, kept); Chemistry × teamwork (0, kept); Physics × teamwork (0, kept); Applied Science × teamwork (0→1); Environmental Science × teamwork (0, kept); Psychology × teamwork (0, kept); Sport & Exercise Science × teamwork (0, kept) |
 | R13 | Problem-solving: solving set problems, not discursive evaluation | Biology × problem-solving (1→2); Physics × problem-solving (2→3); Environmental Science × problem-solving (1→2); Business Studies × problem-solving (1→2); Accounting × problem-solving (1→2); Law × problem-solving (1→2); Politics × problem-solving (0, kept); Sociology × problem-solving (0, kept); Philosophy × problem-solving (0, kept); Religious Studies × problem-solving (0, kept); Criminology × problem-solving (0→1); Art & Design (Fine Art) × problem-solving (0→1); Photography × problem-solving (0→1); Textile Design × problem-solving (0→1); Film Studies × problem-solving (0→1); Media Studies × problem-solving (0→1); Music Technology × problem-solving (0→2); Drama & Theatre × problem-solving (0→1); Food Science & Nutrition × problem-solving (1→2) |
-| R14 | Digital & AI: 2 named assessed content; 1 required tool use; media software → content-production | Mathematics × digital-ai (0→1); Further Mathematics × digital-ai (0→1); Statistics × digital-ai (0→1); Computer Science × digital-ai (1→2); Biology × digital-ai (0→1); Chemistry × digital-ai (0→1); Physics × digital-ai (0→1); Applied Science × digital-ai (0→1); Environmental Science × digital-ai (0→1); Accounting × digital-ai (0, kept); Chinese (Mandarin) × digital-ai (0→1); Graphic Communication × digital-ai (1, kept); Photography × digital-ai (1, kept); Film Studies × digital-ai (0→1); Music × digital-ai (0→1); Physical Education × digital-ai (0→1); Sport & Exercise Science × digital-ai (0→1) |
+| R14 | Digital & AI: 2 named assessed content; 1 required tool use; media software → content-production | Mathematics × digital-ai (0→1); Further Mathematics × digital-ai (0→1); Statistics × digital-ai (0→1); Computer Science × digital-ai (1→2); Biology × digital-ai (0→1); Chemistry × digital-ai (0→1); Physics × digital-ai (0→1); Applied Science × digital-ai (0→1); Environmental Science × digital-ai (0→1); Accounting × digital-ai (0, kept); English Language × digital-ai (0→1); Chinese (Mandarin) × digital-ai (0→1); Graphic Communication × digital-ai (1, kept); Photography × digital-ai (1, kept); Film Studies × digital-ai (0→1); Music × digital-ai (0→1); Physical Education × digital-ai (0→1); Sport & Exercise Science × digital-ai (0→1) |
+| R15 | Critical-thinking via AOs: an unbundled evaluation AO ≥ 20% is core; bundled or appraisal AOs are not (Checkpoint 2 follow-up) | Psychology × critical-thinking (2→3); Business Studies × critical-thinking (2→3); Economics × critical-thinking (2→3); Accounting × critical-thinking (2→3); English Literature × creativity (1, kept); English Language & Literature × critical-thinking (3, kept); English Language & Literature × creativity (2, kept); French × critical-thinking (2, kept); Spanish × critical-thinking (2, kept); German × critical-thinking (2, kept); Chinese (Mandarin) × critical-thinking (2, kept); Physical Education × critical-thinking (2→3) |
 
 Where a ruling touched agreed cells without changing them, the confirmation was not logged cell by cell. Examples:
 
@@ -294,10 +296,9 @@ All 32 cells: Mathematics × `engineering` (A 1, B 0); Mathematics × `commercia
 
 ## Concerns for the project owner
 
-1. **The matrix is now more generous than the provisional merge.** There are more 2s (163 against 130) and more 3s (92 against 81). All changes follow a written ruling, but tier cut-offs and fairness checks F1–F3 must be re-run (§7 step 6).
+1. **The matrix is now more generous than the provisional merge.** After the follow-up there are more 2s (158 against 130) and more 3s (97 against 81). All changes follow a written ruling, but tier cut-offs and fairness checks F1–F3 must be re-run (§7 step 6).
 2. **Writing discriminates less.** 17 subjects score 3 and 21 score 2; only Maths, Further Maths, Statistics, Chemistry, Physics, Accounting and D&T score 1. That reflects how much A levels really assess extended writing. But almost every combination will now show writing as "reinforced", so its weight in fit comes mainly from D.
-3. **Possible under-scores left in agreed cells.** These were not changed, because no ruling compels a change:
-   - Psychology × critical-thinking (2). AO3 evaluation is about a third of the marks. Scorer A's two reasons for 2 were the aid table and rule 6, and both are non-binding here (R1, R4). Economics and Business × critical-thinking (2) raise the same question.
+3. **Possible under-scores left in agreed cells.** These were not changed, because no ruling compels a change. (Psychology, Economics and Business × critical-thinking were on this list; the Checkpoint 2 follow-up raised them to 3 under R15.)
    - Health & Social Care × problem-solving (1), now one below Food Science & Nutrition (2) for similar scenario-planning tasks.
    - Food Science & Nutrition × critical-thinking (1), below the other applied subjects (2).
    - D&T × writing (1). The design portfolio is mostly visual, but it is a judgement call.
@@ -312,3 +313,84 @@ All 32 cells: Mathematics × `engineering` (A 1, B 0); Mathematics × `commercia
    - Customer-service: 2 only in Business and Health & Social Care.
    - Digital & AI: Computer Science 2 is the maximum. Nothing develops AI literacy (J8, J9).
 8. **Page references follow the saved-text convention.** For board specs saved during R2, `p.N` is the PDF page index of the saved file. For AQA web pages, the source is the page URL, since there are no page numbers.
+
+## Checkpoint 2 follow-up
+
+The project owner asked for rulings on a further set of cells, decided strictly on the specification text and the rubric (§4.1, §4.1.1), without regard to rankings. One new ruling came out of it: §4.1.1 item 15 (R15), on when an assessment objective makes critical-thinking "core to the AOs". None of these cells were diff-1 cells; all had agreed scores. "Before" is the score after the main pass (the provisional score).
+
+Spec facts were checked against these sources:
+
+- AQA scheme-of-assessment AO tables: 7652, 7692, 7662, 7182, 7136, 7132, 7192, 7127, 7582, 7237, 7262, 7272, 7712;
+- AQA 7707 specification at a glance;
+- Pearson 9CN0 Issue 5 (saved text, pp.18, 30, 44);
+- Ofqual GCE D&T conditions (saved text);
+- DfE English language para 5 and DfE MFL paras 11–14.
+
+| Subject | Skill | Before | After | Rulings | Reason |
+|---|---|---|---|---|---|
+| Psychology | `critical-thinking` | 2 | **3** | R15 | Q5. Raised 2 to 3. An unbundled AO devoted to evaluating evidence or arguments to reach judgements carries ≥20% of the marks across the papers, so the skill is core to the AOs. This is the same test Sociology meets (AO3, 25%). No near-neighbour skill is at 3 on the same evidence (rule 6). |
+| Business Studies | `critical-thinking` | 2 | **3** | R15 | Q5. Raised 2 to 3. An unbundled AO devoted to evaluating evidence or arguments to reach judgements carries ≥20% of the marks across the papers, so the skill is core to the AOs. This is the same test Sociology meets (AO3, 25%). No near-neighbour skill is at 3 on the same evidence (rule 6). |
+| Economics | `critical-thinking` | 2 | **3** | R15 | Q5. Raised 2 to 3. An unbundled AO devoted to evaluating evidence or arguments to reach judgements carries ≥20% of the marks across the papers, so the skill is core to the AOs. This is the same test Sociology meets (AO3, 25%). No near-neighbour skill is at 3 on the same evidence (rule 6). |
+| Accounting | `critical-thinking` | 2 | **3** | R15 | Q5. Raised 2 to 3. An unbundled AO devoted to evaluating evidence or arguments to reach judgements carries ≥20% of the marks across the papers, so the skill is core to the AOs. This is the same test Sociology meets (AO3, 25%). No near-neighbour skill is at 3 on the same evidence (rule 6). |
+| English Language | `digital-ai` | 0 | **1** | R14 | Q2. Raised 0 to 1: DfE para 5 requires the methods of linguistics to be applied to 'spoken and written forms of English, including electronic and multimodal forms', which is studying digital communication as content (R14). Not 2: no tool use is assessed. |
+| English Language | `content-production` | 0 | **1** | R1,R2 | Q2. Raised 0 to 1: the compulsory analysis of multimodal and electronic texts (para 5) is 'analysing media without producing it' (aid table). This agrees with rule 1, since studying about a skill without applying it scores 1. Original and directed writing are credited under writing and creativity, not media production. |
+| English Literature | `creativity` | 1 | 1 | R15,R2 | Q3. Kept 1. DfE para 17's 'respond critically and creatively' is carried by AO1 (28%), which bundles 'personal and creative responses' with terminology and written expression, so it is interpretive originality inside critical writing. AQA 7712 has no generate-and-iterate task: the NEA is one comparative critical essay with bibliography, and there is no re-creative option. |
+| English Language & Literature | `writing` | 3 | 3 | R11 | Q4. Citation corrected from AQA 7717 (English Literature B) to the reference spec, AQA 7707. The score is unchanged: two 40% written papers and a 20% NEA investigation of 2,500–3,000 words. |
+| English Language & Literature | `self-management` | 2 | 2 | R9 | Q4. Citation corrected to AQA 7707. The NEA 'Making connections' (20%) is a personal investigation of 2,500–3,000 words; the score is unchanged. |
+| English Language & Literature | `critical-thinking` | 3 | 3 | R15 | Q4. Citation corrected to AQA 7707. The score is unchanged: the 20% NEA personal investigation weighs literary and non-literary evidence, and extended critical response runs through both papers. |
+| English Language & Literature | `creativity` | 2 | 2 | R15,R2 | Q4/Q5. Citation corrected to AQA 7707, whose Paper 2 Section A is a re-creative writing piece (25 marks) plus a critical commentary (30 marks). That is a real production task, so 2 no longer rests on DfE wording. Not 3: only the 25-mark piece (12.5%) assesses creativity directly. |
+| French | `critical-thinking` | 2 | 2 | R15 | Q1. Kept 2. AO4 (20%: 10% Paper 2, 10% Paper 3; the same table in AQA 7652, 7692 and 7662) bundles 'knowledge and understanding of' culture with 'respond critically', so the critical part is under 20%. The IRP discussion is AO1/AO3/AO4 10 marks each, and 80% of marks are language AOs. The DfE critical-response and IRP requirements (paras 11–12, 14) meet level 2, not 3. |
+| Spanish | `critical-thinking` | 2 | 2 | R15 | Q1. Kept 2. AO4 (20%: 10% Paper 2, 10% Paper 3; the same table in AQA 7652, 7692 and 7662) bundles 'knowledge and understanding of' culture with 'respond critically', so the critical part is under 20%. The IRP discussion is AO1/AO3/AO4 10 marks each, and 80% of marks are language AOs. The DfE critical-response and IRP requirements (paras 11–12, 14) meet level 2, not 3. |
+| German | `critical-thinking` | 2 | 2 | R15 | Q1. Kept 2. AO4 (20%: 10% Paper 2, 10% Paper 3; the same table in AQA 7652, 7692 and 7662) bundles 'knowledge and understanding of' culture with 'respond critically', so the critical part is under 20%. The IRP discussion is AO1/AO3/AO4 10 marks each, and 80% of marks are language AOs. The DfE critical-response and IRP requirements (paras 11–12, 14) meet level 2, not 3. |
+| Chinese (Mandarin) | `critical-thinking` | 2 | 2 | R15 | Q1. Kept 2. Pearson 9CN0 AO4 is 20% (Paper 2 10%, Paper 3 10%; p.44) and uses the same bundled wording. Paper 3's AO4 grid is headed 'Knowledge and understanding of society and culture' (p.30), so only Paper 2's 10% 'critical and analytical response' grid (p.18) is directly critical. |
+| Physical Education | `critical-thinking` | 2 | **3** | R15 | Q5. Raised 2 to 3. An unbundled AO devoted to evaluating evidence or arguments to reach judgements carries ≥20% of the marks across the papers, so the skill is core to the AOs. This is the same test Sociology meets (AO3, 25%). No near-neighbour skill is at 3 on the same evidence (rule 6). |
+
+### R15 consistency check: every subject with an evaluation AO
+
+Under R15, the relevant evidence is an AO weighting that directly and wholly assesses evaluating evidence, information, theories or arguments to reach judgements. The weightings below are from each reference spec's scheme of assessment.
+
+| Subject | AO and weighting | Result |
+|---|---|---|
+| Sociology | AO3 'analyse and evaluate…evidence…make judgements' 25% | Meets R15; confirms the existing 3 |
+| Psychology | AO3 'analyse, interpret and evaluate…evidence…make judgements' 36–38% | Meets R15: **2 → 3** (scientific-method is only 2, so rule 6 does not block) |
+| Economics | AO4 'evaluate economic arguments…evidence…judgements' 22–25% | Meets R15: **2 → 3** |
+| Business Studies | AO4 'evaluate…information to make informed judgements' 23–26% | Meets R15: **2 → 3** |
+| Accounting | AO3 'analyse and evaluate accounting data…make judgements' 40–42% | Meets R15: **2 → 3** (data-analysis stays 2 under rule 6) |
+| Physical Education | AO3 'analyse and evaluate the factors that underpin performance' 22–25%; DfE 'present arguments and draw conclusions' | Meets R15: **2 → 3** |
+| French, Spanish, German, Chinese | AO4 20%, bundled with 'knowledge and understanding'; 80% of marks are language AOs | Bundled: stays 2 |
+| Music | AO4 'evaluative and critical judgements about music' 30% | Appraisal of works: stays 2 |
+| Dance | AO4 'critically appreciate and assess performance and choreography' 25% | Appraisal of works: stays 2 |
+| Drama & Theatre | AO4 'analyse and evaluate their own work and the work of others' 20% | Appraisal, including own work: stays 2 |
+| Art & Design (4 titles) | AO1 'develop ideas…demonstrating analytical and critical understanding' 25% | Bundled with developing ideas: stays 2 |
+| Design & Technology | Ofqual AO3 'analyse and evaluate design decisions and outcomes…prototypes made by themselves…wider issues' 20–25% | Bundled with own-prototype appraisal (creativity 3): stays 2 |
+| Biology, Chemistry, Physics, Environmental Science | Science AO3 'analyse, interpret and evaluate…develop and refine practical design' | Rule 6: this evidence already gives scientific-method 3, so stays 2 |
+| Statistics | Evaluation of statistical results | Rule 6: already data-analysis 3, so stays 2 |
+| Mathematics, Further Mathematics, Computer Science | Proof validity / evaluating a system against requirements | Rule 6: already problem-solving 3, so stays 1 |
+| Applied Science, Engineering, HSC, Construction, Sport & Exercise Science, Food Science & Nutrition | No qualification-level AO table (unit AOs only) | R15 does not apply; unchanged |
+
+The subjects already at 3 are unaffected: History, Geography, Law, Politics, Philosophy, RS, the three English subjects, Film, Media, Criminology and Sociology. Each has evaluative AOs throughout, an investigation component (A9 route), or both.
+
+### Q3 consistency: 'creative response' wording
+
+R15's bundling logic applies to creativity too. Wording such as 'respond creatively', an aim, or an AO that bundles creativity with other skills gives at most 1. A score of 2 or more needs an assessed production task.
+
+Every creativity score of 2 or more was re-checked:
+
+- English Language & Literature was the only one resting on DfE wording alone. AQA 7707's re-creative writing task (Paper 2 Section A) now supports its 2.
+- English Language has an NEA original-writing task. Film and Media have production NEAs.
+- Music Technology has a composition NEA; rule 6 caps it at 2, because its production 3 sits in content-production.
+- The rest have design, composition, choreography, devising or art projects.
+
+Subjects with 'creative' wording only (English Literature, the MFLs, Business) stay at 1.
+
+### Q2 consistency
+
+- **English Language & Literature × digital-ai and × content-production stay 0.** Neither the DfE content nor AQA 7707 requires electronic or multimodal texts.
+- **MFL × content-production stays 0.** Reading material drawn from online media is working with its content, not analysing media form, and it is already credited under digital-ai (1).
+
+### Follow-up counts
+
+- Cells changed: 7, all up. They are Psychology, Economics, Business Studies, Accounting and Physical Education × critical-thinking (2 → 3), and English Language × digital-ai and × content-production (0 → 1).
+- Evidence and citations corrected, scores unchanged: 4 English Language & Literature cells (writing, self-management, critical-thinking, creativity).
+- Across both passes, 86 cells now differ from their provisional score (84 up, 2 down), plus the 5 adjudicated cells.
+- Critical-thinking now has 18 subjects at 3.

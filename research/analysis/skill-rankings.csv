@@ -2,23 +2,23 @@ area,rank,skill,name,demand,national
 cheshire-warrington,1,self-management,Self-management and resilience,5,5
 cheshire-warrington,2,digital-ai,Digital tools and AI literacy,4,5
 cheshire-warrington,3,leadership,Leadership and management,4,5
-cheshire-warrington,4,problem-solving,Problem-solving,4,5
-cheshire-warrington,5,data-analysis,Data literacy and analysis,4,4
-cheshire-warrington,6,programming,Programming and software,4,4
-cheshire-warrington,7,engineering,Engineering and technical skills,4,4
-cheshire-warrington,8,practical-making,Practical and hands-on skills,4,4
-cheshire-warrington,9,sustainability,Sustainability and net zero,4,4
-cheshire-warrington,10,commercial,Commercial and financial awareness,4,4
-cheshire-warrington,11,law-ethics,"Law, ethics and safety",4,4
-cheshire-warrington,12,speaking,"Speaking, listening and presenting",4,4
-cheshire-warrington,13,critical-thinking,Research and critical thinking,4,4
-cheshire-warrington,14,creativity,"Creativity, design and innovation",4,4
-cheshire-warrington,15,content-production,Media and content production,4,2
-cheshire-warrington,16,teamwork,Teamwork and collaboration,3,5
-cheshire-warrington,17,care-empathy,"Care, empathy and wellbeing",3,4
-cheshire-warrington,18,scientific-method,Scientific method and lab skills,3,2
-cheshire-warrington,19,cyber-security,Cyber security and IT systems,2,4
-cheshire-warrington,20,customer-service,Customer and client service,2,4
+cheshire-warrington,4,data-analysis,Data literacy and analysis,4,4
+cheshire-warrington,5,programming,Programming and software,4,4
+cheshire-warrington,6,engineering,Engineering and technical skills,4,4
+cheshire-warrington,7,practical-making,Practical and hands-on skills,4,4
+cheshire-warrington,8,sustainability,Sustainability and net zero,4,4
+cheshire-warrington,9,commercial,Commercial and financial awareness,4,4
+cheshire-warrington,10,law-ethics,"Law, ethics and safety",4,4
+cheshire-warrington,11,speaking,"Speaking, listening and presenting",4,4
+cheshire-warrington,12,critical-thinking,Research and critical thinking,4,4
+cheshire-warrington,13,teamwork,Teamwork and collaboration,3,5
+cheshire-warrington,14,problem-solving,Problem-solving,3,5
+cheshire-warrington,15,care-empathy,"Care, empathy and wellbeing",3,4
+cheshire-warrington,16,creativity,"Creativity, design and innovation",3,4
+cheshire-warrington,17,scientific-method,Scientific method and lab skills,3,2
+cheshire-warrington,18,cyber-security,Cyber security and IT systems,2,4
+cheshire-warrington,19,customer-service,Customer and client service,2,4
+cheshire-warrington,20,content-production,Media and content production,2,2
 cheshire-warrington,21,writing,Written communication,1,5
 cheshire-warrington,22,numeracy,"Maths, modelling and numeracy",1,3
 cheshire-warrington,23,languages,Languages and cultural awareness,0,2
@@ -26,15 +26,15 @@ cumbria,1,self-management,Self-management and resilience,5,5
 cumbria,2,digital-ai,Digital tools and AI literacy,4,5
 cumbria,3,leadership,Leadership and management,4,5
 cumbria,4,teamwork,Teamwork and collaboration,4,5
-cumbria,5,data-analysis,Data literacy and analysis,4,4
-cumbria,6,engineering,Engineering and technical skills,4,4
-cumbria,7,practical-making,Practical and hands-on skills,4,4
-cumbria,8,sustainability,Sustainability and net zero,4,4
-cumbria,9,commercial,Commercial and financial awareness,4,4
-cumbria,10,law-ethics,"Law, ethics and safety",4,4
-cumbria,11,speaking,"Speaking, listening and presenting",4,4
-cumbria,12,customer-service,Customer and client service,4,4
-cumbria,13,care-empathy,"Care, empathy and wellbeing",3,4
+cumbria,5,engineering,Engineering and technical skills,4,4
+cumbria,6,practical-making,Practical and hands-on skills,4,4
+cumbria,7,sustainability,Sustainability and net zero,4,4
+cumbria,8,law-ethics,"Law, ethics and safety",4,4
+cumbria,9,speaking,"Speaking, listening and presenting",4,4
+cumbria,10,care-empathy,"Care, empathy and wellbeing",4,4
+cumbria,11,customer-service,Customer and client service,4,4
+cumbria,12,data-analysis,Data literacy and analysis,3,4
+cumbria,13,commercial,Commercial and financial awareness,3,4
 cumbria,14,writing,Written communication,2,5
 cumbria,15,cyber-security,Cyber security and IT systems,2,4
 cumbria,16,numeracy,"Maths, modelling and numeracy",2,3
@@ -47,21 +47,21 @@ cumbria,22,content-production,Media and content production,1,2
 cumbria,23,languages,Languages and cultural awareness,0,2
 greater-manchester,1,leadership,Leadership and management,5,5
 greater-manchester,2,digital-ai,Digital tools and AI literacy,4,5
-greater-manchester,3,data-analysis,Data literacy and analysis,4,4
-greater-manchester,4,programming,Programming and software,4,4
-greater-manchester,5,engineering,Engineering and technical skills,4,4
-greater-manchester,6,practical-making,Practical and hands-on skills,4,4
-greater-manchester,7,sustainability,Sustainability and net zero,4,4
-greater-manchester,8,commercial,Commercial and financial awareness,4,4
-greater-manchester,9,speaking,"Speaking, listening and presenting",4,4
-greater-manchester,10,writing,Written communication,3,5
-greater-manchester,11,self-management,Self-management and resilience,3,5
+greater-manchester,3,writing,Written communication,4,5
+greater-manchester,4,self-management,Self-management and resilience,4,5
+greater-manchester,5,data-analysis,Data literacy and analysis,4,4
+greater-manchester,6,programming,Programming and software,4,4
+greater-manchester,7,engineering,Engineering and technical skills,4,4
+greater-manchester,8,practical-making,Practical and hands-on skills,4,4
+greater-manchester,9,commercial,Commercial and financial awareness,4,4
+greater-manchester,10,speaking,"Speaking, listening and presenting",4,4
+greater-manchester,11,critical-thinking,Research and critical thinking,4,4
 greater-manchester,12,problem-solving,Problem-solving,3,5
 greater-manchester,13,cyber-security,Cyber security and IT systems,3,4
-greater-manchester,14,law-ethics,"Law, ethics and safety",3,4
-greater-manchester,15,care-empathy,"Care, empathy and wellbeing",3,4
-greater-manchester,16,customer-service,Customer and client service,3,4
-greater-manchester,17,critical-thinking,Research and critical thinking,3,4
+greater-manchester,14,sustainability,Sustainability and net zero,3,4
+greater-manchester,15,law-ethics,"Law, ethics and safety",3,4
+greater-manchester,16,care-empathy,"Care, empathy and wellbeing",3,4
+greater-manchester,17,customer-service,Customer and client service,3,4
 greater-manchester,18,creativity,"Creativity, design and innovation",3,4
 greater-manchester,19,content-production,Media and content production,3,2
 greater-manchester,20,scientific-method,Scientific method and lab skills,2,2

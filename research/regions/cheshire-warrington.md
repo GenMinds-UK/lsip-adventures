@@ -1,5 +1,7 @@
 # Cheshire and Warrington — LSIP evidence notes
 
+**Note (checkpoint 2):** D and W scores in the Phase B tables below have been superseded by `research/d-review.md` (second review and harmonisation) and `research/w-review.md`. The CSVs in `research/data/regions/cheshire-warrington/` are authoritative.
+
 Region id: `cheshire-warrington`. Compiled 2026-09-27, page citations corrected 2026-09-27
 (Phase B). **Page-numbering note (important):** the LSIP's underlying PDF at its canonical
 URL (`https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf`,

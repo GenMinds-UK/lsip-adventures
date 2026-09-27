@@ -1,5 +1,7 @@
 # Greater Manchester — LSIP evidence notes
 
+**Note (checkpoint 2):** D and W scores in the Phase B tables below have been superseded by `research/d-review.md` (second review and harmonisation) and `research/w-review.md`. The CSVs in `research/data/regions/greater-manchester/` are authoritative.
+
 Region id: `greater-manchester`. ERB: Greater Manchester Chamber of Commerce (GMCC), jointly led with Greater Manchester Combined Authority (GMCA). Councils: Bolton, Bury, Manchester, Oldham, Rochdale, Salford, Stockport, Tameside, Trafford, Wigan.
 
 All page numbers below are the `=== PAGE n ===` markers produced by `pdftext.py`, i.e. the physical page position in the PDF (page 1 = cover). These run 4 ahead of the document's own printed folio numbers (e.g. printed p.11 = extraction p.15), because the first four PDF pages (cover, approval, contents x2) are unnumbered in the document itself. All citations here and in the CSVs use the extraction numbering.

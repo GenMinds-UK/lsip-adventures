@@ -13,14 +13,16 @@ export const REGION_DATA: GeneratedRegionData = {
       "weights": {
         "leadership": 3,
         "law-ethics": 3,
-        "self-management": 3,
-        "speaking": 3,
-        "problem-solving": 3,
-        "critical-thinking": 3,
+        "self-management": 2,
+        "speaking": 2,
+        "problem-solving": 2,
+        "critical-thinking": 2,
         "digital-ai": 3,
         "writing": 2,
-        "data-analysis": 2,
-        "numeracy": 1
+        "data-analysis": 3,
+        "numeracy": 1,
+        "commercial": 3,
+        "customer-service": 2
       },
       "roles": [
         {
@@ -124,15 +126,17 @@ export const REGION_DATA: GeneratedRegionData = {
       "source": "https://www.liverpoolchamber.org.uk/wp-content/uploads/2026/07/LSIP-Local-Skills-Section-1_V6.pdf p.18,26-27",
       "weights": {
         "engineering": 3,
-        "practical-making": 3,
-        "programming": 3,
-        "sustainability": 2,
+        "practical-making": 2,
+        "programming": 2,
+        "sustainability": 3,
         "law-ethics": 2,
         "self-management": 2,
         "digital-ai": 2,
         "speaking": 2,
         "problem-solving": 2,
-        "data-analysis": 1
+        "data-analysis": 1,
+        "leadership": 3,
+        "writing": 2
       },
       "roles": [
         {
@@ -359,7 +363,8 @@ export const REGION_DATA: GeneratedRegionData = {
         "speaking": 2,
         "data-analysis": 2,
         "commercial": 2,
-        "numeracy": 1
+        "numeracy": 1,
+        "writing": 2
       },
       "roles": [
         {
@@ -475,8 +480,7 @@ export const REGION_DATA: GeneratedRegionData = {
         "law-ethics": 2,
         "digital-ai": 2,
         "speaking": 2,
-        "commercial": 1,
-        "numeracy": 1
+        "commercial": 2
       },
       "roles": [
         {
@@ -589,12 +593,13 @@ export const REGION_DATA: GeneratedRegionData = {
         "content-production": 3,
         "digital-ai": 3,
         "leadership": 3,
-        "commercial": 2,
+        "commercial": 3,
         "law-ethics": 2,
         "self-management": 2,
-        "teamwork": 2,
         "programming": 1,
-        "data-analysis": 1
+        "data-analysis": 2,
+        "customer-service": 2,
+        "writing": 1
       },
       "roles": [
         {

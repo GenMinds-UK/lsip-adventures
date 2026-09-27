@@ -355,6 +355,12 @@ The R2 adjudicator made these rulings after double scoring, to settle the ambigu
     - **1:** the spec requires or expects students to use digital tools (for example, Maths "must permeate", science software, online sources in MFL), or studies technology as content.
     - **0:** otherwise.
     - Software used to make media counts under content-production. No current spec develops AI literacy (J9).
+15. **When an assessment objective makes a skill "core to the AOs"** (added in the Checkpoint 2 follow-up).
+    - An AO that directly and wholly assesses critical thinking, meaning evaluating evidence, information, theories or arguments to reach judgements, and carries at least 20% of the marks across the papers, makes the skill core to the AOs. That is level 3. Examples: Sociology AO3 25%, Psychology AO3 36–38%, Economics AO4 22–25%, Business AO4 23–26%, Accounting AO3 40–42%, PE AO3 22–25%.
+    - An AO that bundles the skill with something else does not count. The MFL AO4 ("knowledge and understanding of, and respond critically…", 20%, with 80% of marks on language) stays at 2.
+    - Nor does an AO that appraises artworks or performances, including one's own. Examples: Music, Dance and Drama AO4, and Art AO1.
+    - Rule 6 applies: if the AO's evaluation is already the evidence for a 3 in a near-neighbour skill, it does not also give critical-thinking 3. That covers scientific-method in the sciences, data-analysis in Statistics, and problem-solving in Maths and CS.
+    - The same bundling logic applies to creativity. "Respond creatively" wording, an aim, or an AO that bundles creativity with written expression (English Literature AO1) gives at most 1. A 2 or more needs an assessed production task.
 
 ### 4.2 D: area → skill demand (0–5)
 
@@ -397,6 +403,29 @@ The R2 adjudicator made these rulings after double scoring, to settle the ambigu
 | GM × `numeracy` | **1** | No maths or numeracy gap is stated. It is implied by "There is a shortage of experienced accountancy and finance professionals." (p.26) and "…a significant shortage of qualified quantity surveyors." (p.16) | Implicit only |
 | GM × `languages` | **0** | No mention of foreign languages; ESOL appears only as a claimant group (p.79) | Absent |
 
+### 4.2.1 Harmonisation rulings (checkpoint 2)
+
+The project owner signed these rulings off after the D second review ([d-review.md](d-review.md) §2 and §8.4). They bind any re-scoring of D. Rules 1–4 define "cross-cutting" for a 4. The cells they changed are listed in d-review.md, "Harmonisation (checkpoint 2)", which uses the same numbering.
+
+1. **Cross-cutting is a property of a stated need, not of a page.** A skill takes the cross-cutting 4 only when the plan states a gap, lack or requirement for it (named directly or by a phrase in `skills.csv` → `lsip_terms`), and either:
+   - **(a)** the plan's own words give that need whole-economy scope: "cross-cutting", "overarching", "across all/every sector", "all levels and roles", "the wider workforce"; or
+   - **(b)** the need is one of the headline items listed in §4.2. The skill must be named in the item's title, or in the sentences where the item says what is lacking, including as one of a listed set (Cumbria's "care … occupations", p.9). A title counts even when it is worded as an action (GM OP3). A heading word that only names an industry does not count: C&W's "Digital and Creative" theme is "digital skills" (p.4).
+2. **Other prose in a cross-cutting section is scored on its own scope.** It inherits cross-cutting status only if its sentence keeps the item's cross-sector scope. It does not inherit when it is:
+   - **(i)** tied to one sector, occupation group or single respondent;
+   - **(ii)** an example ("e.g.", "such as"), or a specialist skill that the plan places at the advanced end of a range or "in specific occupations";
+   - **(iii)** a driver or consequence rather than a need.
+
+   The baseline tier that the plan says the whole workforce needs does inherit. A sector-tied mention counts towards that sector, as in the GM `data-analysis` anchor. A need for a group that is not a priority sector is a supporting mention (2).
+3. **Bundles (J1).** Each listed part of a cross-cutting bundle takes the 4, as in "communication, teamwork, reliability". A bundle named only by its label ("work readiness", "behaviours", "employability skills") gives the 4 to `self-management` alone; the unlisted parts are implied (1). Unqualified "communication" is `speaking`. `writing` needs wording about written text.
+4. **Actions, research and context stay at 2 wherever they are printed.** This covers:
+   - programmes, provision lists and pilots;
+   - reviews or research still to be done;
+   - job-posting or labour-market rankings, third-party projections and survey-design notes;
+   - context bullets and occupation tables, even when they are labelled "cross-cutting" or "cross-sector".
+
+   The Cumbria `cyber-security` anchor is an example. A headline item's own title is the only exception (rule 1b).
+5. **A 5 keeps the three strict readings** of the survey limb (d-review.md §2), so cross-cutting status alone gives at most 4. The finding must cover the ERB's whole sample, not one sector's interviewees. A chart value must be at least 20%. One bundled survey figure supports only one 5, for the bundle's core skill.
+
 ### 4.3 W: priority → skill (0–3)
 
 Priorities are those in each region's `priorities.csv`. Only list non-zero weights.
@@ -426,6 +455,31 @@ Priorities are those in each region's `priorities.csv`. Only list non-zero weigh
   - `practical-making` **3**: "Fabricators & welders", p.17.
   - `data-analysis` **2**: "Data analysis (2133)" is listed as an increasing need, p.17.
   - `scientific-method` **1**: no lab work is named.
+
+### 4.3.1 W review rulings (checkpoint 2)
+
+These rulings come from the W second review ([w-review.md](w-review.md) §3, which uses the same numbering and lists every cell they changed). They bind any re-scoring of W.
+
+1. **Core (3)** means the priority's own headline statement or superlative list:
+   - GM: the numbered headlines (C1…FBPS3).
+   - LCR: the "For the LSIP, this context highlights the need to…" sentence (p.17–20), plus sentences the section calls most immediate, biggest, core, defining or acute.
+   - C&W: the "most acute / most immediate / most urgent / most in need / most in demand / core skill areas / main workforce challenge" statements.
+   - Lancashire: the Key findings occupation lists and the Digital "most commonly required" list. "Increasing need for" items are 2.
+   - Cumbria: the §4.1.1.1 sector needs, sector-named §3.2 headline gaps, and the sector's Annex A key finding.
+   - Everything else named in the section is 2.
+2. **Occupations stand for their defining skill.** A headline occupation scores 3, one named in the body 2, and one only in a SOC annex table 1. For example, engineers give `engineering`, trades and chefs `practical-making`, care workers and nurses `care-empathy`, supervisors and managers `leadership`, and software developers `programming`. A skill merely implied by an occupation scores 1, and only if it is a core task of that occupation: QS gives `commercial` and `numeracy`, and communications professionals give `writing`.
+3. **Annex tables organised by priority** are part of the priority's section. A skill named in their skills- or upskilling-needs column scores 2. A course in a provision column is not a need.
+4. **"Communication" is `speaking`.** `writing` needs written wording (written, literacy, English, reports, emails). "Negotiation" alone is `commercial`. This is as in §4.2.1 rule 3.
+5. **Work readiness** ("work readiness", "employability", "behaviours", "reliability", "resilience") is `self-management`, and its named components take their own skills. All score 2 unless the plan itself names the component as the priority's core gap, as in the LCR Visitor anchor. Parts of a bundle that are not listed get no W weight, because W's 1 is for occupations only.
+6. **Rule 2's cross-cutting limb** applies only where the cross-cutting passage names the sector, gives an example or employer quote from it, or the sector's section refers back to it. Blanket "all/every/across sectors" wording adds nothing to W on its own: D carries it (§4.2.1 rule 1a).
+7. **A single employer quote with a superlative doesn't make a 3.** The plan's own narrative must adopt it.
+8. **Not skills:** retention, turnover, applicant volume or quality, recruitment intentions, attainment, experience, and qualifications or licences (§3.1).
+9. **Evidence that argues against the need** ("weak demand", "yet to translate"), and third-party vacancy rates, can't support a weight.
+10. **In care priorities**, the service-user relationship is `care-empathy`. `customer-service` needs explicit customer or client wording.
+11. **Clients.** Client relationships, client handling and engaging with clients are `customer-service`.
+12. **`lsip_terms` are pointers for D, not W rulings.** Read each passage on its merits.
+13. **Items named separately in a headline each take the level.** Sub-types of one role give the level to the primary skill only; the others take 2.
+14. **Every existing weight is in scope.** Missing weights outside the eight people and communication skills are added only at headline (3) level. Others are listed in w-review.md §8 for decision.
 
 ### 4.4 N: national demand (0–5)
 
@@ -484,7 +538,9 @@ These formulas are copied as given, and implementations must follow them exactly
 - **Reinforcement only matters when C[k] = 2.** It lifts E from 2 to 2.5. When C[k] = 3 the cap applies, and when C[k] < 2 the "2 or more" condition can't hold.
 - **Sums run over all 23 skills.** Skills with D = 0 drop out of both numerator and denominator.
 - **Adding a subject never lowers fit.** C is a maximum and reinforcement only adds, so fit can only stay the same or rise (see §7).
-- **`pf` in the quest score must be on a 0–1 scale**, i.e. priority fit ÷ 100. On a 0–100 scale it would swamp the first term. Please confirm (§10).
+- **`pf` in the quest score must be on a 0–1 scale**, i.e. priority fit ÷ 100. On a 0–100 scale it would swamp the first term. Confirmed (§10).
+- **Quest variety (checkpoint 2).** Quests are picked one at a time by adjusted score. Each candidate loses 0.15 (`QUEST_VARIETY_PENALTY`) for every quest already picked that shares one of its *lead* skills (its highest Q scores). This stops a student seeing four near-identical quests (for example four interview-led ones). The one-quest-per-priority rule still applies first.
+- **The "boosted" star (checkpoint 2).** The app shows a star on a skill only when reinforcement lifts its score (C = 2, E = 2.5). Showing it whenever a skill is reinforced would star writing and critical thinking for about 99% of students.
 
 ## 6. Double-scoring protocol for M
 
@@ -518,6 +574,7 @@ The M matrix has 45 subjects × 23 skills = **1,035 cells**.
 4. *(Superseded by the sign-off: calibration is always separate by subject count; see step 2.)*
 5. **Sensitivity check.** Recompute after removing combinations most sixth forms wouldn't allow: Further Maths without Maths, and more than one English or more than one Art & Design title. Report whether any cut-off moves by more than 2 fit points.
 6. **Re-run** whenever M, D or the subject list changes. Cut-offs are generated data, never hand-edited.
+7. **Rounding (checkpoint 2).** `tiers.csv` stores each cut-off rounded *down* at 6 decimal places. Possible fits are at least 0.1 apart, so no fit lies between the stored and exact values, and a combination tied exactly at a cut-off stays in the higher tier. (Rounding to 1 dp had pushed up to 1.8% of Lancashire combinations down a tier.)
 
 The tiers are **relative within each area**. "Emerging" means "less aligned with this plan than most combinations". It doesn't mean "poor", and the app copy must say so.
 
@@ -541,6 +598,14 @@ Run these after tier calibration and before publishing.
 3. **Never** adjust D or W to pass a check. They must stay faithful to the LSIPs.
 4. Document every change and the reason.
 5. If a check still fails after evidence review, report it honestly. For example, the app can say "this combination links more strongly to national priorities than to your area's plan".
+
+**Outcome at checkpoint 2 (2026-09-27, after the M, D and W second reviews).**
+- **F3** (skills reachable) and the tier **sensitivity** check pass.
+- **F1 fails for English Literature** (best rank 31 of 45) and **English Language & Literature** (26.5).
+- **F2 fails for English & Languages**: 51.5% of combinations with 2 or more of its subjects are Emerging in all five areas. No combination made only of these subjects reaches Good in any area.
+- **Evidence review (§8 steps 1–2).** No rubric-compelled under-score was found. The adjudicator ruled English Literature × creativity 1, MFL × critical-thinking 2 and English Language × digital-ai and × content-production 1, on the specifications alone. No skill type named in the LSIPs is missing from the taxonomy.
+- **Cause.** The failures are structural. These subjects' strengths, writing and critical thinking, are shared by nearly every subject, and no North West LSIP names language skills. D and W were not changed to pass the checks (§8 rule 3).
+- **Response, as the owner decided.** The failures are reported here. When a student's local match is Emerging, the app explains that Emerging does not mean a poor choice. It names the student's developed skills that have high national demand (N ≥ 4), and points them to national demand and to the skills worth adding.
 
 ## 9. Known limitations
 
@@ -570,3 +635,12 @@ Run these after tier calibration and before publishing.
 6. **Quest score:** `pf` is priority fit on a 0–1 scale (priority fit ÷ 100). This is how `pickQuests()` in `src/lib/scoring.ts` implements it.
 7. **Hard-to-reach skills** (leadership, customer service) stay in the fit calculation. Tiers are percentile-based, so this signals honestly without penalising any student relative to others (J8).
 8. **Official annexes count as evidence for D.** These are Cumbria Annex A/A1 and LCR Annexes A–C.
+
+## 11. Checkpoint 2 decisions (signed off by the project owner, 2026-09-27)
+
+1. **D:** keep the D review's three strict readings for a 5 (whole-sample scope, the 20% materiality floor, one 5 per bundled figure). Write one definition of "cross-cutting" for D = 4 and re-apply it to all five areas (§4.2.1; `d-review.md`, "Harmonisation").
+2. **W:** a blind second review of every 3 and the people and communication rows, against the LSIP text only (§4.3.1; `w-review.md`).
+3. **Fairness F1/F2:** report the failures honestly (§8, outcome) and add the skills-based message to the app. The adjudicator decided the evidence-based M candidates on the specifications alone (§4.1.1 R15; `m-adjudication.md`, "Checkpoint 2 follow-up").
+4. **Display and rounding:** show the star only when reinforcement lifts a score (§5), and round tier cut-offs down (§7 step 7).
+5. **Quest balancing:** apply the quest-variety rule (§5). Adjust Q for quests whose scores misrepresented their own text, after checking each against the quest wording. The quests changed are GM logistics-1 and "Investigate the Future Solicitor Shortage", LCR creative-2 and "Inside the Biomanufacturing Pipeline", and C&W health-social-care-1. Quests that need rarer skills are left alone even where their coverage is low.
+6. **Not adopted:** R6's analysis text was not saved as a separate document.

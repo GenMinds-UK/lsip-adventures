@@ -251,7 +251,7 @@ export const SUBJECT_SKILLS: Readonly<Record<SubjectName, Readonly<Record<SkillI
     "teamwork": 0,
     "customer-service": 0,
     "self-management": 1,
-    "critical-thinking": 2,
+    "critical-thinking": 3,
     "problem-solving": 1,
     "creativity": 0,
     "content-production": 0
@@ -376,7 +376,7 @@ export const SUBJECT_SKILLS: Readonly<Record<SubjectName, Readonly<Record<SkillI
     "teamwork": 1,
     "customer-service": 2,
     "self-management": 1,
-    "critical-thinking": 2,
+    "critical-thinking": 3,
     "problem-solving": 2,
     "creativity": 1,
     "content-production": 0
@@ -401,7 +401,7 @@ export const SUBJECT_SKILLS: Readonly<Record<SubjectName, Readonly<Record<SkillI
     "teamwork": 0,
     "customer-service": 0,
     "self-management": 1,
-    "critical-thinking": 2,
+    "critical-thinking": 3,
     "problem-solving": 1,
     "creativity": 0,
     "content-production": 0
@@ -426,7 +426,7 @@ export const SUBJECT_SKILLS: Readonly<Record<SubjectName, Readonly<Record<SkillI
     "teamwork": 0,
     "customer-service": 0,
     "self-management": 1,
-    "critical-thinking": 2,
+    "critical-thinking": 3,
     "problem-solving": 2,
     "creativity": 0,
     "content-production": 0
@@ -634,7 +634,7 @@ export const SUBJECT_SKILLS: Readonly<Record<SubjectName, Readonly<Record<SkillI
   "English Language": {
     "data-analysis": 2,
     "programming": 0,
-    "digital-ai": 0,
+    "digital-ai": 1,
     "cyber-security": 0,
     "numeracy": 0,
     "scientific-method": 0,
@@ -654,7 +654,7 @@ export const SUBJECT_SKILLS: Readonly<Record<SubjectName, Readonly<Record<SkillI
     "critical-thinking": 3,
     "problem-solving": 0,
     "creativity": 2,
-    "content-production": 0
+    "content-production": 1
   },
   "English Literature": {
     "data-analysis": 0,
@@ -1076,7 +1076,7 @@ export const SUBJECT_SKILLS: Readonly<Record<SubjectName, Readonly<Record<SkillI
     "teamwork": 1,
     "customer-service": 0,
     "self-management": 2,
-    "critical-thinking": 2,
+    "critical-thinking": 3,
     "problem-solving": 1,
     "creativity": 0,
     "content-production": 0

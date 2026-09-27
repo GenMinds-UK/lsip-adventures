@@ -26,12 +26,12 @@ export const REGION_DEMAND: Readonly<Record<RegionId, Readonly<Record<SkillId, n
     "customer-service": 2,
     "self-management": 5,
     "critical-thinking": 4,
-    "problem-solving": 4,
-    "creativity": 4,
-    "content-production": 4
+    "problem-solving": 3,
+    "creativity": 3,
+    "content-production": 2
   },
   "cumbria": {
-    "data-analysis": 4,
+    "data-analysis": 3,
     "programming": 1,
     "digital-ai": 4,
     "cyber-security": 2,
@@ -40,13 +40,13 @@ export const REGION_DEMAND: Readonly<Record<RegionId, Readonly<Record<SkillId, n
     "engineering": 4,
     "practical-making": 4,
     "sustainability": 4,
-    "commercial": 4,
+    "commercial": 3,
     "leadership": 4,
     "law-ethics": 4,
     "writing": 2,
     "speaking": 4,
     "languages": 0,
-    "care-empathy": 3,
+    "care-empathy": 4,
     "teamwork": 4,
     "customer-service": 4,
     "self-management": 5,
@@ -64,18 +64,18 @@ export const REGION_DEMAND: Readonly<Record<RegionId, Readonly<Record<SkillId, n
     "scientific-method": 2,
     "engineering": 4,
     "practical-making": 4,
-    "sustainability": 4,
+    "sustainability": 3,
     "commercial": 4,
     "leadership": 5,
     "law-ethics": 3,
-    "writing": 3,
+    "writing": 4,
     "speaking": 4,
     "languages": 0,
     "care-empathy": 3,
     "teamwork": 1,
     "customer-service": 3,
-    "self-management": 3,
-    "critical-thinking": 3,
+    "self-management": 4,
+    "critical-thinking": 4,
     "problem-solving": 3,
     "creativity": 3,
     "content-production": 3
@@ -165,62 +165,62 @@ export const TIER_CUTOFFS: Readonly<
 > = {
   "cheshire-warrington": {
     "3": {
-      "strong": 50.7,
-      "good": 41
+      "strong": 50.462962,
+      "good": 40.509259
     },
     "4": {
-      "strong": 57.2,
-      "good": 47.8
+      "strong": 56.944444,
+      "good": 47.453703
     }
   },
   "cumbria": {
     "3": {
-      "strong": 48.7,
-      "good": 38.2
+      "strong": 48.4375,
+      "good": 37.5
     },
     "4": {
-      "strong": 55.4,
-      "good": 44.6
+      "strong": 54.947916,
+      "good": 44.010416
     }
   },
   "greater-manchester": {
     "3": {
-      "strong": 48.4,
-      "good": 39
+      "strong": 50.456621,
+      "good": 41.552511
     },
     "4": {
-      "strong": 54.9,
-      "good": 45.3
+      "strong": 56.849315,
+      "good": 47.716894
     }
   },
   "lancashire": {
     "3": {
-      "strong": 48.5,
-      "good": 38.5
+      "strong": 48.717948,
+      "good": 38.717948
     },
     "4": {
-      "strong": 54.4,
-      "good": 44.9
+      "strong": 54.615384,
+      "good": 45.128205
     }
   },
   "liverpool-city-region": {
     "3": {
-      "strong": 52,
-      "good": 42.5
+      "strong": 52.192982,
+      "good": 42.982456
     },
     "4": {
-      "strong": 58.3,
-      "good": 49.1
+      "strong": 58.552631,
+      "good": 49.342105
     }
   },
   "national": {
     "3": {
-      "strong": 50.7,
-      "good": 41.4
+      "strong": 50.7326,
+      "good": 41.575091
     },
     "4": {
-      "strong": 57,
-      "good": 47.6
+      "strong": 57.142857,
+      "good": 47.802197
     }
   }
 };

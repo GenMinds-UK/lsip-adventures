@@ -1,5 +1,7 @@
 # Liverpool City Region — LSIP evidence notes
 
+**Note (checkpoint 2):** D and W scores in the Phase B tables below have been superseded by `research/d-review.md` (second review and harmonisation) and `research/w-review.md`. The CSVs in `research/data/regions/liverpool-city-region/` are authoritative.
+
 Compiled 2026-09-27 for phase A / research step R1. Covers the 2026–29 LSIP and its three annexes,
 plus the 2025 progress report and the 2023 LSIP for continuity checks. Page numbers below refer to the
 printed page number in each document (which matches the extracted `=== PAGE n ===` marker in every

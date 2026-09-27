@@ -19,7 +19,7 @@ export const REGION_DATA: GeneratedRegionData = {
         "numeracy": 1,
         "commercial": 1,
         "law-ethics": 1,
-        "self-management": 1
+        "self-management": 2
       },
       "roles": [
         {
@@ -204,9 +204,7 @@ export const REGION_DATA: GeneratedRegionData = {
       "weights": {
         "care-empathy": 3,
         "leadership": 3,
-        "digital-ai": 2,
-        "self-management": 2,
-        "customer-service": 1
+        "digital-ai": 2
       },
       "roles": [
         {
@@ -387,10 +385,9 @@ export const REGION_DATA: GeneratedRegionData = {
       "weights": {
         "cyber-security": 3,
         "data-analysis": 3,
-        "digital-ai": 3,
+        "digital-ai": 2,
         "programming": 3,
-        "speaking": 2,
-        "self-management": 1
+        "speaking": 2
       },
       "roles": [
         {
@@ -494,10 +491,11 @@ export const REGION_DATA: GeneratedRegionData = {
       "source": "https://gmc-uat.s3.eu-west-2.amazonaws.com/public/01KXZ6QR0Y5JAK9Z5399SMNRYN.pdf p.23-24",
       "weights": {
         "content-production": 3,
-        "creativity": 3,
-        "commercial": 2,
-        "digital-ai": 2,
-        "practical-making": 1
+        "creativity": 2,
+        "commercial": 3,
+        "digital-ai": 3,
+        "practical-making": 2,
+        "writing": 2
       },
       "roles": [
         {
@@ -586,7 +584,6 @@ export const REGION_DATA: GeneratedRegionData = {
       "source": "https://gmc-uat.s3.eu-west-2.amazonaws.com/public/01KXZ6QR0Y5JAK9Z5399SMNRYN.pdf p.24-25",
       "weights": {
         "practical-making": 3,
-        "self-management": 2,
         "leadership": 2,
         "customer-service": 1
       },
@@ -660,8 +657,9 @@ export const REGION_DATA: GeneratedRegionData = {
       "weights": {
         "commercial": 3,
         "law-ethics": 3,
-        "numeracy": 2,
-        "leadership": 1
+        "numeracy": 1,
+        "leadership": 1,
+        "customer-service": 2
       },
       "roles": [
         {

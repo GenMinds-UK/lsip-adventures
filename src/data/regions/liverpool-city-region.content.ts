@@ -8,74 +8,74 @@ import type { RegionContent } from "@/data/regions/types";
 export const CONTENT: RegionContent = {
   subjectLinks: {
     Mathematics:
-      "Liverpool's docks ran on mathematics long before computers: tide tables, cargo tonnage and marine insurance risk were worked out by hand in the city's Victorian insurance houses, early homes of actuarial maths. Today the region's 2026 skills plan flags patchy confidence in critically checking data and numbers as a Professional, Business & Financial Services gap that the same skills help close.",
+      "Liverpool's docks ran on mathematics long before computers: tide tables, cargo tonnage and marine insurance risk were all worked out by hand, and Victorian Liverpool became a major insurance centre, home to the Royal Insurance Company, founded here in 1845. Today the region's 2026 skills plan flags patchy confidence in critically checking data and numbers as a Professional, Business & Financial Services gap that the same skills help close.",
     "Further Mathematics":
-      "The region's engineering heritage, from Cammell Laird's shipbuilding on the Mersey to car assembly at Halewood and Speke, has always needed people comfortable with maths well beyond the basics. The 2026 skills plan names the move from automation to genuinely advanced technician and engineering roles as Advanced Manufacturing's biggest bottleneck.",
+      "The region's engineering heritage, from Cammell Laird's shipbuilding on the Mersey to car assembly at Halewood and Speke, has always needed people comfortable with maths well beyond the basics. The 2026 skills plan names moving staff from operative roles into higher-level technician and engineering roles as a clear Advanced Manufacturing bottleneck.",
     Statistics:
-      "Liverpool has a long public-health data tradition: William Duncan, appointed Britain's first Medical Officer of Health here in 1847, mapped death rates street by street to prove that poverty, not laziness, was killing people. That same instinct now underpins the city region's push for digital health analysts who can turn NHS and care data into insight, a named Health, Life Science & Care gap.",
+      "Liverpool has a long public-health data tradition: William Duncan, appointed Britain's first Medical Officer of Health here in 1847, used death-rate figures to show how overcrowded court and cellar housing was killing working people. That same instinct now underpins the city region's push for digital health analysts who can turn NHS and care data into insight, a named Health, Life Science & Care gap.",
     "Computer Science":
-      "The Baltic Triangle grew from empty warehouses into one of the North West's densest clusters of digital and games studios, and the region's AI and digital sector now counts over 3,000 businesses and around 24,000 jobs. Digital and AI capability is the 2026 plan's single cross-cutting priority, named as a critical gap in almost every deep-dive interview with local employers.",
+      "The Baltic Triangle grew from empty warehouses into a busy cluster of digital, creative and games studios, and the region's AI and digital sector now counts over 3,000 businesses and around 24,000 jobs. Digital and AI capability is the 2026 plan's cross-cutting priority, named as a critical gap in almost every deep-dive interview with local employers.",
     Biology:
-      "Liverpool founded the Liverpool School of Tropical Medicine in 1898, the world's first institution devoted to tropical health, and the city region is now home to a major biomanufacturing and life-sciences cluster. The 2026 skills plan names a shortage of industry-ready laboratory and biomanufacturing technicians as one of Health, Life Science & Care's clearest gaps.",
+      "The Liverpool School of Tropical Medicine, founded here in 1898, was the first institution in the world dedicated to research and teaching in tropical medicine, and the city region is now home to a major biomanufacturing and life-sciences cluster. The 2026 skills plan names a shortage of industry-ready laboratory and biomanufacturing technicians as a Health, Life Science & Care gap.",
     Chemistry:
-      "The chemical industry along the Mersey, soap and glass-making at St Helens and the huge chemical works at Runcorn and Widnes, gave Britain much of its early chemicals trade, and that know-how now underpins clean-energy projects such as HyNet's carbon capture work. The 2026 plan names quality, compliance and low-carbon manufacturing standards as an Advanced Manufacturing skills gap.",
+      "The chemical industry along the Mersey, from glass-making at St Helens and soap at Port Sunlight to the huge chemical works at Runcorn and Widnes, gave Britain much of its early chemicals trade, and that know-how now underpins clean-energy projects such as HyNet's carbon capture work. The 2026 plan names quality, compliance and low-carbon manufacturing standards as an Advanced Manufacturing skills gap.",
     Physics:
-      "The Liverpool–Manchester Railway and the Mersey's dock and tunnel engineering were physics in practice, and the University of Liverpool's particle physics group still contributes to experiments at CERN today. The 2026 skills plan links this tradition to Advanced Manufacturing's demand for engineers who can integrate mechanical, electrical and digital systems, including offshore wind and tidal projects in the Mersey estuary.",
+      "The Liverpool and Manchester Railway and the Mersey's dock and tunnel engineering were physics in practice, and the University of Liverpool's particle physics group still contributes to experiments at CERN today. The 2026 skills plan's Advanced Manufacturing and Clean Energy priority wants people who can integrate mechanical, electrical and digital skills, with offshore wind in Liverpool Bay and the proposed Mersey Tidal project among the region's clean-energy plans.",
     "Applied Science":
-      'The region\'s manufacturing, pharmaceutical and NHS laboratories have always needed skilled technicians as much as researchers, and that gap has widened. The 2026 skills plan names shortages in "industry-ready technical skills, particularly in laboratory work, biomanufacturing and clinical trials" as one of the clearest, most fixable gaps in Health, Life Science & Care.',
+      'The region\'s manufacturing, pharmaceutical and NHS laboratories have always needed skilled technicians as much as researchers, and that gap has widened. The 2026 skills plan names shortages in "industry-ready technical skills, particularly in laboratory work, biomanufacturing and clinical trials" as a Health, Life Science & Care gap, noting that many of these roles do not need a degree.',
     "Environmental Science":
       "The Mersey went from one of Europe's most polluted rivers to a celebrated recovery story, and the region now hosts major offshore wind, tidal and hydrogen ambitions alongside a retrofit programme for its older housing. Net Zero and Green Skills is a cross-cutting theme in the 2026 plan, running through Construction, Advanced Manufacturing and Clean Energy alike.",
     Psychology:
-      'Liverpool\'s community mental health services, and research into how poverty and deprivation on Merseyside affect wellbeing, have shaped national thinking on health inequality. The 2026 skills plan names leadership that can "drive teams forward and support staff to grow" as a gap inside the NHS and wider care system, alongside frontline care and empathy skills.',
+      'Liverpool\'s community mental health services, and research into how poverty and deprivation on Merseyside affect wellbeing, feed into national debate on health inequality. The 2026 skills plan names leadership that can "drive teams forward and support staff to grow" as a gap inside the NHS and wider care system, alongside frontline care and empathy skills.',
     Engineering:
-      "Shipbuilding at Cammell Laird, car making at Halewood and the vast dock machinery of the Mersey made engineering the region's signature trade, and advanced manufacturing remains one of its named growth priorities. The 2026 plan's biggest single gap here is moving people from production-line operatives into maintenance, automation and robotics technicians who can programme and troubleshoot the machines they once only ran.",
+      "Shipbuilding at Cammell Laird, car making at Halewood and the vast dock machinery of the Mersey made engineering the region's signature trade, and advanced manufacturing remains one of its named growth priorities. A core gap in the 2026 plan is moving people from production-line operatives into maintenance, automation and robotics technicians who can programme and troubleshoot the machines they once only ran.",
     "Design & Technology (Product Design)":
-      'From ship fittings to the design studios of the Baltic Triangle, the region has a long habit of making things, and product design now sits between its manufacturing and creative sectors. The 2026 plan calls for exactly this kind of "fusion" of design, digital tools and practical making, both in Advanced Manufacturing and in the Creative Industries.',
+      'From ship fittings to the design studios of the Baltic Triangle, the region has a long habit of making things, and product design now sits between its manufacturing and creative sectors. The 2026 plan calls for "fusion skills" that blend creative work with digital tools in the Creative Industries, and for people who can integrate mechanical, electrical and digital skills in Advanced Manufacturing.',
     "Health & Social Care":
-      "Health and care is one of the city region's largest employers, and Liverpool's public-health pioneers, including Britain's first council housing at St Martin's Cottages in 1869 and district nursing from 1859, set patterns still followed nationally. The 2026 skills plan names unclear progression from care worker to senior care worker and registered manager as a specific, addressable local gap.",
+      "Health and care is a major employer in the city region, and Liverpool's public-health pioneers, including St Martin's Cottages in 1869, often described as Britain's first council housing, and district nursing from 1859, set patterns still followed nationally. The 2026 skills plan names unclear progression from care worker to senior care worker and registered manager as a specific, addressable local gap.",
     "Construction & the Built Environment":
-      "Liverpool built the world's first enclosed commercial wet dock in 1715 and some of Britain's first council housing, and construction is now a named priority sector as the region retrofits its older housing and regenerates its waterfront. The 2026 plan is explicit that 31% of local homes are pre-1919, well above the national share, driving demand for retrofit, electrical and low-carbon construction skills.",
+      "Liverpool built the world's first enclosed commercial wet dock in 1715 and some of Britain's first council housing, and construction is now a named priority sector as the region retrofits its older housing and regenerates its waterfront. The 2026 plan notes that around 31% of local homes are traditionally built (pre-1919), against 20% nationally, driving demand for retrofit, electrical and low-carbon construction skills.",
     "Business Studies":
-      "Liverpool's merchant houses and shipping lines built one of the country's earliest chambers of commerce, founded here in 1774, and professional and business services remain one of the region's leading sectors, with around 12,000 businesses and 96,000 employees. The 2026 skills plan names leadership, management and succession planning as this sector's biggest gap.",
+      "Liverpool's merchants set up one of the country's earliest chambers of commerce here in 1774 (today's Liverpool Chamber dates from 1850), and professional and business services remain one of the region's priority sectors, with around 12,000 businesses and 96,000 employees. The 2026 skills plan names leadership, management and succession planning as key gaps for this sector.",
     Economics:
-      "As Britain's Atlantic port, Liverpool was a global trading hub, including in the transatlantic slave trade, a history the city now confronts openly, and questions of trade, inequality and regeneration remain live here today. The 2026 plan links these themes to persistent economic inactivity, around 25% of working-age residents versus roughly 21% nationally, a cross-cutting priority across every sector.",
+      "As one of Britain's great Atlantic ports, Liverpool was a global trading hub, including in the transatlantic slave trade, a history the city now confronts openly, and questions of trade, inequality and regeneration remain live here today. The 2026 plan links these themes to persistent economic inactivity, around 25% of working-age residents versus roughly 21% nationally, a cross-cutting priority across every sector.",
     Accounting:
       'The city\'s shipping and insurance trade created an early professional accounting community, and finance and professional services still employ tens of thousands across the six boroughs. The 2026 skills plan names rising demand in "payroll, employment regulation, and governance" as a Professional, Business & Financial Services gap that is outpacing staff knowledge.',
-    Law: "Maritime and insurance law grew up around the port, and the Freeport's growing maritime legal services now sit alongside Liverpool's civil and criminal courts and community law centres. The 2026 plan names both regulatory knowledge, such as ISO standards in construction, and the ethics of new technology, including responsible AI use, as gaps this subject speaks to directly.",
+    Law: "Maritime and insurance law grew up around the port, and growing maritime legal services linked to the Freeport now sit alongside Liverpool's civil and criminal courts and community law centres. The 2026 plan names both regulatory knowledge, such as ISO standards in construction, and the ethics of new technology, including responsible AI use, as gaps this subject speaks to directly.",
     Geography:
-      "Few places make better geography: the Mersey estuary, port-led growth, post-industrial decline and regeneration are textbook case studies, and the region's migration history shaped it entirely. The 2026 skills plan draws on this same geography for its Net Zero priorities, from retrofitting older housing stock to offshore wind and tidal energy in the estuary.",
+      "Few places make better geography: the Mersey estuary, port-led growth, post-industrial decline and regeneration are textbook case studies, and the region's migration history shaped it deeply. The 2026 skills plan draws on this same geography for its Net Zero priorities, from retrofitting older housing stock to offshore wind in Liverpool Bay and proposed tidal energy in the estuary.",
     History:
       "Liverpool's history is world history: transatlantic trade and slavery, mass Irish migration, wartime bombing and the Battle of the Atlantic, and the docks' rise and fall, much of it documented in the city's archives and museums. That same history now feeds a Visitor Economy sector worth over 50,000 jobs, one of the 2026 plan's six named priorities.",
     Politics:
-      'Merseyside has been a political proving ground, from municipal reform and the 1911 transport strike to devolution and today\'s Combined Authority and elected mayors. The 2026 skills plan is itself part of a new "Local Triple Lock" of growth, employment and skills plans, delivered through new Industry Skills Partnerships that give employers a direct say in local training.',
+      'Merseyside has been a political proving ground, from municipal reform and the 1911 transport strike to devolution and today\'s Combined Authority and elected Metro Mayor. The 2026 skills plan is itself part of a new "Local Triple Lock" of growth, employment and skills plans, delivered through new Industry Skills Partnerships that give employers a direct say in local training.',
     Sociology:
       "Studies of class, community and deprivation on Merseyside have long informed national debate, and the region's regeneration keeps raising fresh questions about who benefits. The 2026 skills plan names economic inactivity, NEET young people and women's under-representation in trades as cross-cutting equality priorities running through every sector.",
     Philosophy:
-      "Liverpool's civic and religious institutions, and its long tradition of public debate and free lectures for working people, gave the city an unusually strong culture of argument. That same discipline of reasoning carefully now matters for the 2026 plan's push on \"ethical and responsible AI use\", a gap it says new entrants often lack alongside technical AI skills.",
+      "Liverpool's civic and religious institutions, and its long tradition of public debate and free lectures for working people, gave the city a strong culture of argument. That same discipline of reasoning carefully now matters for the 2026 plan's push on \"ethical and responsible AI use\", a gap it says new entrants often lack alongside technical AI skills.",
     "Religious Studies":
-      "Liverpool holds Europe's oldest Chinese community, one of England's oldest mosques and two landmark cathedrals at either end of Hope Street, with a well-known record of interfaith cooperation. The 2026 skills plan names equality of opportunity and inclusive growth as a cross-cutting theme, built on exactly this kind of diverse, cooperative civic life.",
+      "Liverpool is home to what is often called Europe's oldest Chinese community, one of England's oldest mosques and two landmark cathedrals at either end of Hope Street, with a well-known record of interfaith cooperation. The 2026 skills plan names equality of opportunity and inclusive growth as a cross-cutting theme, built on exactly this kind of diverse, cooperative civic life.",
     Criminology:
-      "Merseyside has been at the centre of major debates on policing, justice and community safety, including the long Hillsborough campaign, which changed how inquests and public bodies operate. The care and reasoning that campaign demanded now echoes in the 2026 plan's demand for law, ethics and safety skills, from food safety rules in hospitality to safeguarding in care.",
+      "Merseyside has been at the centre of major debates on policing, justice and community safety, including the long Hillsborough justice campaign, which has pushed for a legal duty of candour on public bodies. The care and reasoning that campaign demanded now echoes in the 2026 plan's demand for law, ethics and safety skills, from food safety rules in hospitality to safeguarding in care.",
     "English Language":
-      'Scouse is one of the most studied accents in Britain, shaped by Irish, Welsh and Lancashire speech, a living case study in language contact and identity. The 2026 skills plan names formal spoken communication and workplace literacy as a "job-ready" gap among new entrants across every sector, with a dedicated literacy pilot launching to address it.',
+      'Scouse is one of Britain\'s most recognisable accents, shaped by Irish, Welsh and Lancashire speech, a living case study in language contact and identity. The 2026 skills plan names formal spoken communication and workplace literacy as a "job-ready" gap among new entrants across every sector, with a dedicated literacy pilot launching to address it.',
     "English Literature":
-      "Liverpool is a UNESCO City of Music and home to the Liverpool Poets of the 1960s, with a strong tradition of working-class writing carried on by the Everyman and Playhouse theatres today. The 2026 skills plan's Creative Industries priority explicitly wants people who can turn that storytelling tradition into digital content, freelance careers and paid commercial work.",
+      "Liverpool is a UNESCO City of Music and home to the Liverpool Poets of the 1960s, with a strong tradition of working-class writing carried on by the Everyman and Playhouse theatres today. The 2026 skills plan's Creative Industries priority wants people who can turn that storytelling tradition into digital content, freelance careers and paid commercial work.",
     "English Language & Literature":
-      "The region's writers, from Willy Russell to today's spoken-word artists, constantly mix voice, dialect and literary form, exactly the blend of craft and communication the 2026 skills plan wants from its Creative Industries. It names \"fusion skills,\" creative work combined with digital tools, data and client management, as this sector's central gap.",
+      "The region's writers, from Willy Russell to today's spoken-word artists, constantly mix voice, dialect and literary form, exactly the blend of craft and communication the 2026 skills plan wants from its Creative Industries. It names \"fusion skills,\" creative work combined with digital tools, data and client management, as a defining skills need for this sector.",
     French:
-      "Liverpool's port traded constantly with France for centuries, and that outward-facing history now feeds a Visitor Economy sector worth over 50,000 jobs across hospitality, culture and events. The 2026 skills plan names languages and confident communication with international visitors as valuable, even where they aren't yet a headline local gap.",
+      "Liverpool's port traded with France for centuries, and that outward-facing history now feeds a Visitor Economy sector worth over 50,000 jobs across hospitality, culture and events. The 2026 skills plan says communication skills are critical in customer-facing roles, and the region's Destination Management Plan aims to expand its international reach, so confident communication with visitors from abroad really counts.",
     Spanish:
-      "Trade with Spain and Latin America ran through the Mersey for centuries, and the region's tourism, logistics and higher-education links keep those ties alive today. The 2026 skills plan's Visitor Economy priority names customer-facing communication and international appeal as central to fixing the sector's high staff turnover.",
+      "Trade with Spain and Latin America ran through the Mersey for centuries, and the region's tourism, logistics and higher-education links keep those ties alive today. The 2026 skills plan's Visitor Economy priority says communication skills are critical in customer-facing roles, and that gaps in them increase staff turnover.",
     German:
-      "Liverpool's Victorian German merchant community left its mark on the city's commerce and music, and the city remains twinned with Cologne, a link that continues through modern engineering and manufacturing trade. The 2026 skills plan's Advanced Manufacturing and Clean Energy priority increasingly depends on exactly these kinds of international technical partnerships.",
+      "Liverpool's Victorian German merchant community left its mark on the city's commerce and music, and the city has been twinned with Cologne since 1952. The 2026 skills plan's Advanced Manufacturing and Clean Energy priority is shaped by global supply chains and inward investment, where international links like these count.",
     "Chinese (Mandarin)":
-      "Liverpool is home to Europe's oldest Chinese community, tracing back to the Blue Funnel shipping line's Chinese seafarers in the 1860s, and the city keeps a long-standing partnership with Shanghai. The 2026 skills plan's Professional, Business & Financial Services and Creative Industries priorities both value this kind of international, cross-cultural business fluency.",
+      "Liverpool is home to what is often called Europe's oldest Chinese community, tracing back to the Blue Funnel shipping line's Chinese seafarers in the 1860s, and the city has been partnered with Shanghai since 1999. That cross-cultural fluency is an asset in sectors the 2026 skills plan links to inward investment and global companies, including Professional, Business & Financial Services and the Creative Industries.",
     "Art & Design (Fine Art)":
-      "National Museums Liverpool is England's only national museum service based entirely outside London, and the city hosts the Liverpool Biennial, the UK's largest festival of contemporary visual art. The 2026 skills plan's Creative Industries priority names design and \"fusion skills,\" creative craft combined with AI tools and data, as its central gap.",
+      "National Museums Liverpool is England's only national museum group based outside London, and the city hosts the Liverpool Biennial, billed as the UK's largest free festival of contemporary art. The 2026 skills plan's Creative Industries priority names \"fusion skills,\" creative craft combined with AI tools and data, as a defining skills need.",
     "Graphic Communication":
-      "From shipping-line and Cunard advertising posters to today's studios in the Baltic Triangle, design has long been part of how the city sells itself. The 2026 skills plan names digital content creation and commercial awareness, freelance pricing, contracts and client management, as gaps in a Creative Industries sector growing faster than the national average.",
+      "From shipping-line and Cunard advertising posters to today's studios in the Baltic Triangle, design has long been part of how the city sells itself. The 2026 skills plan names digital content creation and commercial awareness, freelance careers, contracts and client management, as gaps in a Creative Industries sector growing faster than the national average.",
     Photography:
-      "Documentary photography of the docks, the Blitz and 1980s Merseyside shaped how Britain pictured industrial change, and Open Eye Gallery keeps that tradition going today. The 2026 skills plan's Creative Industries priority names AI-assisted production and data-driven content creation as the newer skills now layered on top of that documentary craft.",
+      "Documentary photography of the docks, the Blitz and 1980s Merseyside helped shape how Britain pictured industrial change, and Open Eye Gallery keeps that tradition going today. The 2026 skills plan's Creative Industries priority names AI-assisted production and data-driven content creation as the newer skills now layered on top of that documentary craft.",
     "Textile Design":
       "Cotton shipped through the Mersey fed Lancashire's mills, making the region central to Britain's textile trade, and sustainable fashion is now a growing local scene. The 2026 skills plan's cross-cutting Net Zero and Green Skills theme, and its Creative Industries priority on freelance and commercial capability, both speak directly to this modern textile and making tradition.",
     "Film Studies":
@@ -83,17 +83,17 @@ export const CONTENT: RegionContent = {
     "Media Studies":
       'The region has strong broadcast and production roots, and how Liverpool itself is represented in the national press is part of the city\'s own story. The 2026 skills plan names digital content creation, audience data and "using AI tools properly... and integrating AI into the workflow" as live Creative Industries gaps that this subject speaks to directly.',
     Music:
-      "Liverpool is a UNESCO City of Music, birthplace of The Beatles and Merseybeat, and home to the Royal Liverpool Philharmonic, recognised as Britain's oldest surviving professional orchestra. The 2026 skills plan's Creative Industries priority, worth over £1.2bn to the region, is built on exactly this kind of deep musical infrastructure and talent pipeline.",
+      "Liverpool is a UNESCO City of Music, birthplace of The Beatles and Merseybeat, and home to the Royal Liverpool Philharmonic, recognised as the UK's oldest surviving professional symphony orchestra. The 2026 skills plan's Creative Industries priority, worth around £1.2bn to the region, is built on exactly this kind of deep musical infrastructure and talent pipeline.",
     "Music Technology":
-      "The region's studios, venues and festivals, from Parr Street's recording history to today's independent scene, make it an unusually practical place to learn production. The 2026 skills plan names technical production and live-event specialists, plus AI-assisted recording and mixing tools, as skills the Creative Industries need more of.",
+      "The region's studios, venues and festivals, from Parr Street's recording history to today's independent scene, make it an unusually practical place to learn production. The 2026 skills plan names technical production and live-event specialists, plus AI-assisted production, as skills the Creative Industries need more of.",
     "Drama & Theatre":
-      "The Everyman and Playhouse are among the most influential theatres in Britain, with a strong tradition of new writing rooted in local life. The 2026 skills plan's Visitor Economy priority names customer experience and confident communication as gaps this subject develops directly, from front-of-house performance to devising work for a live audience.",
+      "The Everyman and Playhouse are nationally recognised producing theatres, with a strong tradition of new writing rooted in local life. The 2026 skills plan's Visitor Economy priority names customer experience and confident communication as gaps this subject develops directly, from front-of-house performance to devising work for a live audience.",
     Dance:
       "Liverpool's dance scene runs from community groups to companies working nationally, supported by venues and the region's festival culture. The 2026 skills plan's Visitor Economy and Creative Industries priorities both depend on the events, festivals and live performance that dance and choreography help fill with paying audiences.",
     "Physical Education":
-      "Merseyside is one of the most football-obsessed places on earth, and the region also hosts the Grand National at Aintree and the Open at Royal Birkdale, genuine local sporting industries. The 2026 skills plan's Visitor Economy priority names events, customer experience and reliable, professional staffing as the gaps that keep these big sporting occasions running smoothly.",
+      "Merseyside is famously football-mad, home to Liverpool and Everton, and the region also hosts the Grand National at Aintree and the Open at Royal Birkdale, genuine local sporting industries. The 2026 skills plan's Visitor Economy priority names events, customer experience and reliable, professional staffing as the gaps that keep these big sporting occasions running smoothly.",
     "Sport & Exercise Science":
-      "Liverpool John Moores University's sport science department is internationally known and works with elite clubs and athletes across the region. The 2026 skills plan links this expertise to Health, Life Science & Care's demand for people who can combine scientific testing and data with frontline health and wellbeing work.",
+      "Liverpool John Moores University's sport science department is internationally known and works with elite clubs and athletes across the region. That mix of scientific testing and data speaks to the 2026 skills plan's Health, Life Science & Care call for people who can \"combine clinical or scientific knowledge with data, AI and digital skills.\"",
     "Food Science & Nutrition":
       "Liverpool's food history runs from ships' provisioning to a thriving independent food scene, while local work on food poverty and healthy eating remains urgent. The 2026 skills plan names \"stricter food safety rules and complex dietary requirements\" as a specific Visitor Economy gap that this subject's food-safety and nutrition science addresses head on.",
   },
@@ -104,9 +104,9 @@ export const CONTENT: RegionContent = {
       title: "The SME Data Confidence Audit",
       strapline: "Test how ready local firms really are to trust their own numbers.",
       summary:
-        "Groups design a short, anonymous questionnaire for small professional-services businesses (arranged through a school careers contact, the Chamber or Growth Platform) about how confidently staff use spreadsheets, dashboards and AI tools, and how often anyone actually checks the results. The group turns the answers into a simple data-confidence scorecard and a one-page guide any small firm could use.",
+        "Groups design a short, anonymous questionnaire for a small sample of professional-services businesses (arranged through a school careers contact, the Chamber or Growth Platform) about how confidently staff use spreadsheets, dashboards and AI tools, and how often anyone actually checks the results. The group turns the answers into a simple data-confidence scorecard and a one-page guide any small firm could use.",
       whyItMatters:
-        "The LSIP names patchy digital confidence and staff who \"can't critically check or use data well\" as a Professional, Business & Financial Services gap, feeding directly into the plan's cross-cutting AI and Digital Transformation priority.",
+        'The LSIP names patchy digital confidence and a "limited ability to critically assess information and use data effectively" as a Professional, Business & Financial Services gap, feeding directly into the plan\'s cross-cutting AI and Digital Transformation priority.',
       skills: {
         "data-analysis": 3,
         "critical-thinking": 3,
@@ -144,7 +144,7 @@ export const CONTENT: RegionContent = {
         Accounting: "Spots where shaky data habits would actually cost a firm money.",
       },
       researchQuestions: [
-        "How confident do local small professional-services firms say they are in checking their own data and AI outputs, and does that match what they actually do?",
+        "How confident do local small professional-services firms say they are in checking their own data and AI outputs, and how does that compare with the checking habits they describe?",
         "Which two or three habits make the biggest difference to whether a firm's data can be trusted?",
         "What would a genuinely useful, one-page data-confidence checklist look like for a busy small business owner?",
       ],
@@ -231,7 +231,7 @@ export const CONTENT: RegionContent = {
       title: "The New Starter's Money Guide",
       strapline: "Turn confusing workplace rules into a guide anyone can follow.",
       summary:
-        "Groups design a short explainer campaign, a leaflet, webpage or video script, that helps new employees at local firms understand payroll, employment rights and everyday digital workplace tools in plain English. Drafts are tested on family members or peers who have recently started a job, then revised based on what actually confused them.",
+        "Groups design a short explainer campaign, a leaflet, webpage or video script, that helps new employees at local firms understand payroll, employment rights and everyday digital workplace tools in plain English, checking every fact against official guidance such as GOV.UK and Acas. Drafts are tested on family members or peers who have recently started a job, then revised based on what actually confused them.",
       whyItMatters:
         'The LSIP names rising demand in "payroll, employment regulation, and governance" and the "ability to translate knowledge into practical outputs" as Professional, Business & Financial Services gaps, both tied to helping new entrants become work-ready.',
       skills: {
@@ -271,7 +271,7 @@ export const CONTENT: RegionContent = {
           "Advises on how a real small firm would actually roll this guide out to new staff.",
       },
       researchQuestions: [
-        "What do new starters at local firms say confuses them most about payroll, tax and their workplace rights?",
+        "What do recent new starters, such as family members or peers, say confuses them most about payroll, tax and their workplace rights?",
         "Which format, a leaflet, webpage or short video, actually gets read and remembered by test readers?",
         "How much does a first draft need to change after testing it on a real new starter, and why?",
       ],
@@ -298,12 +298,12 @@ export const CONTENT: RegionContent = {
     {
       id: "liverpool-city-region-manufacturing-1",
       priorityId: "manufacturing",
-      title: "Troubleshoot the Robot Welding Cell",
+      title: "From Welder to Robot Technician",
       strapline: "Work out what it takes to move from operating to programming machines.",
       summary:
-        "Using open resources, manufacturer case studies and, where possible, a school-arranged visit to an FE college with robotics or welding kit, groups investigate what skills a welder or machine operative actually needs to learn to programme, operate and troubleshoot a robotic production cell. The group produces a short skills-bridge briefing showing the gap between an operative's current skills and a technician's.",
+        "Using open resources, manufacturer case studies and, where possible, a school-arranged, supervised visit to an FE college with robotics or welding kit, groups investigate what skills a welder or machine operative actually needs to learn to programme, operate and troubleshoot a robotic production cell. This is a research quest: students do not operate welding or industrial robot equipment themselves. The group produces a short skills-bridge briefing showing the gap between an operative's current skills and a technician's.",
       whyItMatters:
-        'The LSIP quotes a small manufacturing employer explaining welders "will need stronger skills in programming, operating and troubleshooting robotic systems," and names the operative-to-technician bottleneck as Advanced Manufacturing\'s clearest gap.',
+        'The LSIP quotes a small manufacturing employer explaining welders "will need stronger skills in programming, operating and troubleshooting robotic systems," and names progression from operative to technician as a core Advanced Manufacturing skills need.',
       skills: {
         engineering: 3,
         "problem-solving": 3,
@@ -330,8 +330,7 @@ export const CONTENT: RegionContent = {
           "These subjects bring an understanding of how repeated practice and coaching turn a basic skill into a genuinely advanced one.",
       },
       subjectOverrides: {
-        Engineering:
-          "Provides direct, hands-on understanding of how the production line actually works.",
+        Engineering: "Brings practical understanding of how a production line actually works.",
         "Computer Science":
           "Explains the programming logic behind the robotic system's control software.",
         Physics:
@@ -373,7 +372,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Groups research the operative-to-technician bottleneck named in the LSIP, combining published evidence with a school-arranged interview with a local manufacturer, training provider or the Growth Platform, plus an anonymous survey of family or peers who have worked in manufacturing. The group produces short, practical recommendations for how a small manufacturer could help staff progress.",
       whyItMatters:
-        'The LSIP names "a clear bottleneck moving operatives into technician and supervisory roles (Levels 2-6)" and notes that SMEs "struggle to release staff for training due to time, cost and complex provision."',
+        'The LSIP reports "the difficulty of progressing staff from operative roles into higher-level technical positions" and notes that SMEs face "challenges relating to time, cost, and navigating complex provision."',
       skills: {
         speaking: 3,
         leadership: 2,
@@ -502,12 +501,12 @@ export const CONTENT: RegionContent = {
     {
       id: "liverpool-city-region-construction-1",
       priorityId: "construction",
-      title: "Retrofit a Real Liverpool Street",
+      title: "Plan a Liverpool Terrace Retrofit",
       strapline: "Model what it would take to make an old terrace net zero.",
       summary:
-        "Using published housing data, EPC records and Historic England's retrofit guidance for older buildings, groups pick a real, common house type in the city region (many pre-1919 terraces) and model what a genuine net-zero retrofit, insulation, heat pumps, ventilation, would involve and roughly cost. The group presents their findings as a short retrofit case study.",
+        "Using published housing data, national EPC statistics and Historic England's retrofit guidance for older buildings, groups pick a real, common house type in the city region (many pre-1919 terraces) and model what a genuine net-zero retrofit, insulation, heat pumps, ventilation, would involve and roughly cost. This is a desk-based model, so no home visits or surveys of real properties are needed. The group presents their findings as a short retrofit case study.",
       whyItMatters:
-        "The LSIP states that 31% of LCR homes are traditionally built (pre-1919) versus 20% nationally, and names retrofit and low-carbon construction skills as a core gap, feeding the plan's cross-cutting Net Zero and Green Skills theme.",
+        "The LSIP, citing Historic England, states that around 31% of LCR homes are traditionally built (pre-1919) versus 20% nationally, and names retrofit and low-carbon construction skills as a core gap, feeding the plan's cross-cutting Net Zero and Green Skills theme.",
       skills: {
         sustainability: 3,
         engineering: 2,
@@ -644,7 +643,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Groups choose a real type of traditionally built (pre-1919) Liverpool City Region building and design visual proposals, drawings, a model or a mood board, for how it could be retrofitted sustainably without losing what makes it distinctive, researching relevant heritage and ISO quality standards along the way. The group pitches their design to a panel.",
       whyItMatters:
-        'The LSIP names heritage buildings\' retrofit needs directly (31% of local homes are pre-1919) alongside rising demand for "ISO 9001 and ISO 14001" quality standards, both named Construction gaps.',
+        'The LSIP names heritage buildings\' retrofit needs directly (around 31% of local homes are traditionally built, pre-1919) alongside rising demand for "ISO 9001 and ISO 14001" quality standards, both named Construction gaps.',
       skills: {
         creativity: 3,
         sustainability: 2,
@@ -717,7 +716,7 @@ export const CONTENT: RegionContent = {
         "scientific-method": 3,
         "data-analysis": 2,
         "law-ethics": 2,
-        writing: 2,
+        writing: 1,
         numeracy: 1,
       },
       groupContributions: {
@@ -778,9 +777,9 @@ export const CONTENT: RegionContent = {
       title: "The Care Career Ladder",
       strapline: "Trace the missing path from care worker to registered manager.",
       summary:
-        "Groups investigate the unclear progression from care worker to senior care worker to registered manager named in the LSIP, through a school-arranged interview with a local care provider and an anonymous survey of family or peers who have worked in care. The group produces a simple progression map showing what training and experience each step actually needs.",
+        "Groups investigate the unclear progression from care worker to senior care worker to registered manager named in the LSIP, through a school-arranged interview with a manager or trainer at a local care provider (not residents or service users) and an anonymous survey of family or peers who have worked in care. The group produces a simple progression map showing what training and experience each step actually needs.",
       whyItMatters:
-        'The LSIP names "unclear progression from care worker to senior care worker and registered manager" as a Health, Life Science & Care gap that limits staff retention across the sector.',
+        'The LSIP names a "lack of clear and accessible progression pathways from care worker to senior care worker and registered manager roles" as a Health, Life Science & Care gap that limits staff retention across the sector.',
       skills: {
         "care-empathy": 3,
         speaking: 2,
@@ -840,7 +839,7 @@ export const CONTENT: RegionContent = {
       title: "Design a Digital Confidence Toolkit",
       strapline: "Help frontline care staff move from paper to digital records.",
       summary:
-        "Groups design simple, friendly guides, posters or a short video script that help frontline care staff move confidently from paper records to digital care platforms and mobile apps, testing drafts on family members or peers unfamiliar with the software. The toolkit focuses on the specific, everyday tasks staff say feel hardest.",
+        "Groups design simple, friendly guides, posters or a short video script that help frontline care staff move confidently from paper records to digital care platforms and mobile apps, testing drafts on family members or peers unfamiliar with the software. Examples use made-up records only, never real care notes. The toolkit focuses on the specific, everyday tasks staff say feel hardest, drawing on published evidence and, where the school can arrange it, a conversation with a care provider's manager or trainer.",
       whyItMatters:
         'A medium care provider told the LSIP: "our biggest upskilling need is basic digital confidence for front-line staff... using mobile apps to log visits and care notes," a named Health, Life Science & Care gap.',
       skills: {
@@ -909,7 +908,7 @@ export const CONTENT: RegionContent = {
       title: "Could AI Run the Front Desk?",
       strapline: "Test what AI tools can, and can't, safely do in hospitality.",
       summary:
-        "Groups research how visitor-economy businesses could realistically use freely available AI tools such as Copilot or ChatGPT for tasks like rotas, bookings or answering guest queries, testing sample prompts themselves and weighing the benefits against the risks of getting something wrong. The group produces a short, honest briefing for a small hospitality business.",
+        "Groups research how visitor-economy businesses could realistically use freely available AI tools such as Copilot or ChatGPT for tasks like rotas, bookings or answering guest queries, testing sample prompts themselves on tools their school allows, using made-up bookings and guest details only, and weighing the benefits against the risks of getting something wrong. The group produces a short, honest briefing for a small hospitality business.",
       whyItMatters:
         'A hotel employer told the LSIP: "AI is increasingly part of the conversation... managers will need to understand tools like Copilot or ChatGPT," a named Visitor Economy gap tied to the plan\'s cross-cutting AI and Digital Transformation priority.',
       skills: {
@@ -1102,9 +1101,9 @@ export const CONTENT: RegionContent = {
       title: "Build a Fusion Skills Portfolio Piece",
       strapline: "Combine a creative craft with AI tools and real audience data.",
       summary:
-        'Groups create a short piece of digital content, a game level, animation, music track or short video, that deliberately combines a creative craft with an AI tool and some form of audience or engagement data, then reflect in a short write-up on what "fusion skills" they actually needed to pull it off.',
+        'Groups create a short piece of digital content, a game level, animation, music track or short video, that deliberately combines a creative craft with an AI tool their school allows and some simple audience data, such as anonymous feedback from classmates, then reflect in a short write-up on what "fusion skills" they actually needed to pull it off.',
       whyItMatters:
-        'The LSIP names "fusion skills": creative craft plus AI tools, data and client management, as the Creative Industries\' central gap, alongside a named need for "AI-assisted production, immersive technologies, and data-driven content creation."',
+        'The LSIP names "fusion skills": creative craft plus AI tools, data and client management, as a defining Creative Industries skills need, alongside employers\' increasing use of "AI-assisted production, immersive technologies, and data-driven content creation."',
       skills: {
         "content-production": 3,
         "digital-ai": 3,
@@ -1170,7 +1169,7 @@ export const CONTENT: RegionContent = {
       summary:
         "Groups research what freelance creative practitioners in the region actually need to understand about contracts, intellectual property and pricing, using published guidance and, where a school can arrange it, an interview with a local creative freelancer or small studio. The group produces a beginner's guide for someone starting out freelance.",
       whyItMatters:
-        'The LSIP notes that "new entrants often have creative skill but little grasp of freelance careers or commercial reality," and separately names "intellectual property, contracts, and data use" as gaps for the region\'s fragmented, freelance-heavy creative workforce.',
+        'The LSIP notes that many new entrants have "strong creative skills but limited understanding of the realities of employment, including freelance careers, portfolio development, and commercial awareness," and separately names "intellectual property, contracts, and data use" as gaps for the region\'s fragmented, freelance-heavy creative workforce.',
       skills: {
         commercial: 3,
         "law-ethics": 2,
@@ -1233,9 +1232,9 @@ export const CONTENT: RegionContent = {
       title: "Pitch Liverpool's Next Studio Space",
       strapline: "Design a concept for a small creative studio or event space.",
       summary:
-        "Groups design a concept for a small creative production studio or event space, inspired by real regional examples such as the Baltic Triangle's cluster of studios or the Littlewoods Studios investment, covering the space's design, brand and a simple business case. The group pitches their concept as they would to a potential landlord or funder.",
+        "Groups design a concept for a small creative production studio or event space, inspired by real regional examples such as the Baltic Triangle's cluster of studios or the planned Littlewoods Studios, covering the space's design, brand and a simple business case. The group pitches their concept as they would to a potential landlord or funder.",
       whyItMatters:
-        'The LSIP names the Creative Industries\' 48% local growth against 29% nationally, clustered around the city centre and Baltic Triangle, and calls for "modular training that supports both creative and business skills."',
+        'The LSIP names the Creative Industries\' 48% local growth against 29% nationally, clustered around the city centre and Baltic Triangle, and calls for "flexible, relevant training that supports both creative and business skills."',
       skills: {
         creativity: 3,
         "content-production": 2,
@@ -1270,7 +1269,7 @@ export const CONTENT: RegionContent = {
         Music: "Considers how the space could serve music production or performance uses.",
       },
       researchQuestions: [
-        "What makes a creative space like the Baltic Triangle or Littlewoods Studios actually work for the people who use it?",
+        "What makes a creative space like the Baltic Triangle actually work for the people who use it, and what does the planned Littlewoods Studios aim to add?",
         "What would the realistic running costs and revenue of a small creative studio space look like?",
         "What would convince a landlord or funder that this studio concept is worth backing?",
       ],

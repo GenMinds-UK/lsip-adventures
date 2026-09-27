@@ -23,21 +23,21 @@ These combinations are recomputed from the compiled data every time the script r
 | Area | fit | tier |
 |---|---|---|
 | Liverpool City Region | 37.7 | emerging |
-| Cheshire and Warrington | 36.8 | emerging |
+| Cheshire and Warrington | 37 | emerging |
 | Lancashire | 35.4 | emerging |
-| Greater Manchester | 34.5 | emerging |
-| Cumbria | 33.6 | emerging |
+| Greater Manchester | 35.2 | emerging |
+| Cumbria | 32.8 | emerging |
 | National | 34.8 | emerging |
 
-**Cheshire and Warrington:** top priorities Life Sciences (71.8), Advanced Manufacturing (65.6), Agri-tech and Food Security (61.5); 20 matched roles; 16 gaps helped; best pair Physics + Chemistry (20).
+**Cheshire and Warrington:** top priorities Life Sciences (71.8), Agri-tech and Food Security (61.1), Advanced Manufacturing (48.6); 20 matched roles; 16 gaps helped; best pair Physics + Chemistry (19).
 
-**Cumbria:** top priorities Energy & Net Zero (52.6), Construction (43.3), Land-based Industries (39.5); 13 matched roles; 14 gaps helped; best pair Physics + Chemistry (14).
+**Cumbria:** top priorities Energy & Net Zero (52.6), Construction (43.3), Advanced Manufacturing & Defence (39.7); 13 matched roles; 14 gaps helped; best pair Physics + Chemistry (13).
 
-**Greater Manchester:** top priorities Engineering & Manufacturing (62.5), Construction (59.4), Hospitality (39.6); 10 matched roles; 13 gaps helped; best pair Physics + Chemistry (17).
+**Greater Manchester:** top priorities Engineering & Manufacturing (62.5), Construction (57.8), Hospitality (41.7); 10 matched roles; 13 gaps helped; best pair Physics + Chemistry (18).
 
-**Lancashire:** top priorities National Security & Resilience (45.5), Advanced Manufacturing & Engineering (42.2), Construction (41.7); 16 matched roles; 12 gaps helped; best pair Physics + Chemistry (16).
+**Lancashire:** top priorities National Security & Resilience (45.5), Advanced Manufacturing & Engineering (42.7), Construction (42.3); 16 matched roles; 12 gaps helped; best pair Physics + Chemistry (16).
 
-**Liverpool City Region:** top priorities Professional, Business & Financial Services (45.5), Advanced Manufacturing and Clean Energy (45.5), Construction and the Built Environment (39.9); 7 matched roles; 10 gaps helped; best pair Physics + Chemistry (20).
+**Liverpool City Region:** top priorities Construction and the Built Environment (39.9), Advanced Manufacturing and Clean Energy (39.1), Professional, Business & Financial Services (37.5); 7 matched roles; 10 gaps helped; best pair Physics + Chemistry (20).
 
 ## Art & Design (Fine Art) + Drama & Theatre + English Literature
 
@@ -57,22 +57,22 @@ These combinations are recomputed from the compiled data every time the script r
 
 | Area | fit | tier |
 |---|---|---|
-| Cheshire and Warrington | 38.2 | emerging |
 | Liverpool City Region | 38.2 | emerging |
-| Cumbria | 35.4 | emerging |
-| Greater Manchester | 34.7 | emerging |
+| Greater Manchester | 37.9 | emerging |
+| Cheshire and Warrington | 37.5 | emerging |
+| Cumbria | 35.9 | emerging |
 | Lancashire | 33.8 | emerging |
 | National | 38.8 | emerging |
 
-**Cheshire and Warrington:** top priorities Life Sciences (35.9), Advanced Manufacturing (33.3), Health and Social Care (30.6); 5 matched roles; 14 gaps helped; best pair Art & Design (Fine Art) + Drama & Theatre (21).
+**Cheshire and Warrington:** top priorities Advanced Manufacturing (45.8), Life Sciences (35.9), Health and Social Care (35.7); 5 matched roles; 14 gaps helped; best pair Art & Design (Fine Art) + Drama & Theatre (20).
 
-**Cumbria:** top priorities Visitor Economy (61.5), Land-based Industries (43.9), Advanced Manufacturing & Defence (40); 6 matched roles; 14 gaps helped; best pair Art & Design (Fine Art) + Drama & Theatre (17).
+**Cumbria:** top priorities Visitor Economy (58.3), Construction (42.2), Land-based Industries (36.2); 6 matched roles; 14 gaps helped; best pair Art & Design (Fine Art) + Drama & Theatre (17).
 
-**Greater Manchester:** top priorities Hospitality (70.8), Creative & Media (51.5), Engineering & Manufacturing (47.2); 12 matched roles; 15 gaps helped; best pair Art & Design (Fine Art) + Drama & Theatre (17).
+**Greater Manchester:** top priorities Hospitality (61.1), Creative & Media (53.3), Engineering & Manufacturing (47.2); 12 matched roles; 15 gaps helped; best pair Art & Design (Fine Art) + Drama & Theatre (20).
 
-**Lancashire:** top priorities Construction (54.8), Hospitality, Leisure & Tourism (51.3), Advanced Manufacturing & Engineering (31.4); 6 matched roles; 15 gaps helped; best pair Art & Design (Fine Art) + Drama & Theatre (17).
+**Lancashire:** top priorities Construction (51.3), Hospitality, Leisure & Tourism (42.4), Advanced Manufacturing & Engineering (27.1); 6 matched roles; 15 gaps helped; best pair Art & Design (Fine Art) + Drama & Theatre (17).
 
-**Liverpool City Region:** top priorities Professional, Business & Financial Services (50), Creative Industries (45.5), Construction and the Built Environment (43.5); 3 matched roles; 12 gaps helped; best pair Art & Design (Fine Art) + Drama & Theatre (21).
+**Liverpool City Region:** top priorities Construction and the Built Environment (43.5), Advanced Manufacturing and Clean Energy (37.2), Creative Industries (36); 3 matched roles; 12 gaps helped; best pair Art & Design (Fine Art) + Drama & Theatre (21).
 
 ## Biology + Psychology + Sociology
 
@@ -94,21 +94,21 @@ These combinations are recomputed from the compiled data every time the script r
 | Area | fit | tier |
 |---|---|---|
 | Liverpool City Region | 39.3 | emerging |
-| Cheshire and Warrington | 35.3 | emerging |
+| Cheshire and Warrington | 36.3 | emerging |
+| Greater Manchester | 36.3 | emerging |
 | Lancashire | 35.1 | emerging |
-| Greater Manchester | 35 | emerging |
-| Cumbria | 34.9 | emerging |
+| Cumbria | 34.6 | emerging |
 | National | 36.1 | emerging |
 
-**Cheshire and Warrington:** top priorities Life Sciences (76.9), Agri-tech and Food Security (48.7), Construction and the Built Environment (47.4); 21 matched roles; 15 gaps helped; best pair Biology + Psychology (13).
+**Cheshire and Warrington:** top priorities Life Sciences (76.9), Agri-tech and Food Security (52.2), Construction and the Built Environment (45.6); 21 matched roles; 15 gaps helped; best pair Biology + Psychology (13).
 
-**Cumbria:** top priorities Energy & Net Zero (43.6), Land-based Industries (36.8), Construction (31.1); 13 matched roles; 15 gaps helped; best pair Biology + Psychology (11).
+**Cumbria:** top priorities Energy & Net Zero (43.6), Land-based Industries (33.3), Construction (31.1); 13 matched roles; 15 gaps helped; best pair Biology + Psychology (10).
 
-**Greater Manchester:** top priorities Construction (44.8), Engineering & Manufacturing (41.7), Finance & Professional Services (40.7); 12 matched roles; 11 gaps helped; best pair Biology + Psychology (13).
+**Greater Manchester:** top priorities Construction (44.1), Engineering & Manufacturing (41.7), Hospitality (33.3); 12 matched roles; 11 gaps helped; best pair Biology + Psychology (15).
 
-**Lancashire:** top priorities Social Care (34.8), Construction (31), Clean Energy & Nuclear (30.3); 19 matched roles; 13 gaps helped; best pair Biology + Psychology (12).
+**Lancashire:** top priorities Social Care (40), Construction (30.8), Clean Energy & Nuclear (29.6); 19 matched roles; 13 gaps helped; best pair Biology + Psychology (12).
 
-**Liverpool City Region:** top priorities Professional, Business & Financial Services (51.9), Health, Life Science & Care (42.4), Construction and the Built Environment (41.3); 12 matched roles; 13 gaps helped; best pair Biology + Psychology (16).
+**Liverpool City Region:** top priorities Health, Life Science & Care (46.8), Professional, Business & Financial Services (44), Construction and the Built Environment (41.3); 12 matched roles; 13 gaps helped; best pair Biology + Psychology (16).
 
 ## Business Studies + Economics + Geography + Spanish
 
@@ -135,22 +135,22 @@ These combinations are recomputed from the compiled data every time the script r
 
 | Area | fit | tier |
 |---|---|---|
-| Cumbria | 57.2 | strong |
 | Liverpool City Region | 56.4 | good |
-| Greater Manchester | 53.5 | good |
-| Cheshire and Warrington | 53.1 | good |
+| Cumbria | 55.2 | strong |
+| Greater Manchester | 55 | good |
+| Cheshire and Warrington | 54.6 | good |
 | Lancashire | 47.4 | good |
 | National | 56 | good |
 
-**Cheshire and Warrington:** top priorities Business and Professional Services (67.5), Life Sciences (64.1), Construction and the Built Environment (50); 19 matched roles; 16 gaps helped; best pair Business Studies + Economics (14).
+**Cheshire and Warrington:** top priorities Life Sciences (64.1), Business and Professional Services (60.4), Health and Social Care (54.8); 19 matched roles; 16 gaps helped; best pair Business Studies + Economics (14).
 
-**Cumbria:** top priorities Visitor Economy (67.9), Land-based Industries (61.4), Construction (48.9); 13 matched roles; 10 gaps helped; best pair Business Studies + Economics (13).
+**Cumbria:** top priorities Visitor Economy (66.7), Land-based Industries (56.5), Construction (46.7); 13 matched roles; 10 gaps helped; best pair Geography + Spanish (12).
 
-**Greater Manchester:** top priorities Finance & Professional Services (81.5), Logistics (75), Hospitality (58.3); 22 matched roles; 17 gaps helped; best pair Business Studies + Economics (15).
+**Greater Manchester:** top priorities Finance & Professional Services (78.3), Logistics (75), Construction (50); 22 matched roles; 17 gaps helped; best pair Business Studies + Economics (17).
 
-**Lancashire:** top priorities Hospitality, Leisure & Tourism (56.4), Construction (48.8), Social Care (47); 16 matched roles; 20 gaps helped; best pair Business Studies + Economics (13).
+**Lancashire:** top priorities Hospitality, Leisure & Tourism (51.5), Digital (46.4), Construction (46.2); 16 matched roles; 20 gaps helped; best pair Business Studies + Economics (13).
 
-**Liverpool City Region:** top priorities Professional, Business & Financial Services (76.9), Visitor Economy (71.9), Health, Life Science & Care (63.2); 18 matched roles; 25 gaps helped; best pair Business Studies + Economics (17).
+**Liverpool City Region:** top priorities Professional, Business & Financial Services (77.4), Visitor Economy (72.9), Health, Life Science & Care (66); 18 matched roles; 25 gaps helped; best pair Business Studies + Economics (17).
 
 ## Computer Science + Mathematics + Further Mathematics + Physics
 
@@ -175,21 +175,21 @@ These combinations are recomputed from the compiled data every time the script r
 | Area | fit | tier |
 |---|---|---|
 | Lancashire | 52.8 | good |
+| Cheshire and Warrington | 50 | good |
 | Liverpool City Region | 50 | good |
-| Cheshire and Warrington | 49.1 | good |
-| Greater Manchester | 48.8 | good |
-| Cumbria | 44.6 | good |
+| Greater Manchester | 49.8 | good |
+| Cumbria | 44 | good |
 | National | 49.1 | good |
 
-**Cheshire and Warrington:** top priorities Life Sciences (76.9), Advanced Manufacturing (66.7), Agri-tech and Food Security (66.7); 26 matched roles; 22 gaps helped; best pair Computer Science + Physics (18).
+**Cheshire and Warrington:** top priorities Life Sciences (76.9), Agri-tech and Food Security (65.6), Business and Professional Services (59); 26 matched roles; 22 gaps helped; best pair Computer Science + Physics (17).
 
-**Cumbria:** top priorities Advanced Manufacturing & Defence (57.8), Energy & Net Zero (53.8), Construction (53.3); 19 matched roles; 17 gaps helped; best pair Computer Science + Physics (12).
+**Cumbria:** top priorities Advanced Manufacturing & Defence (56.4), Energy & Net Zero (53.8), Construction (53.3); 19 matched roles; 17 gaps helped; best pair Computer Science + Physics (11).
 
-**Greater Manchester:** top priorities Digital & Technology (74.4), Engineering & Manufacturing (69.4), Construction (64.6); 24 matched roles; 23 gaps helped; best pair Computer Science + Physics (17).
+**Greater Manchester:** top priorities Digital & Technology (75.6), Engineering & Manufacturing (69.4), Construction (64.7); 24 matched roles; 23 gaps helped; best pair Computer Science + Physics (17).
 
-**Lancashire:** top priorities National Security & Resilience (74.2), Advanced Manufacturing & Engineering (68.6), Clean Energy & Nuclear (66.7); 24 matched roles; 25 gaps helped; best pair Computer Science + Physics (16).
+**Lancashire:** top priorities National Security & Resilience (74.2), Clean Energy & Nuclear (70.4), Advanced Manufacturing & Engineering (68.8); 24 matched roles; 25 gaps helped; best pair Computer Science + Physics (16).
 
-**Liverpool City Region:** top priorities Advanced Manufacturing and Clean Energy (65.9), Professional, Business & Financial Services (57.7), Construction and the Built Environment (49.3); 17 matched roles; 24 gaps helped; best pair Computer Science + Physics (17).
+**Liverpool City Region:** top priorities Advanced Manufacturing and Clean Energy (55.8), Construction and the Built Environment (49.3), Professional, Business & Financial Services (48.2); 17 matched roles; 24 gaps helped; best pair Computer Science + Physics (17).
 
 ## Health & Social Care + Physical Education + Food Science & Nutrition
 
@@ -209,25 +209,25 @@ These combinations are recomputed from the compiled data every time the script r
 | Teamwork and collaboration | 1 | 1 |  |  |
 | Customer and client service | 2 | 2 |  | Health & Social Care |
 | Self-management and resilience | 2 | 2.5 | yes | Health & Social Care, Physical Education, Food Science & Nutrition |
-| Research and critical thinking | 2 | 2.5 | yes | Health & Social Care, Physical Education |
+| Research and critical thinking | 3 | 3 | yes | Health & Social Care, Physical Education |
 | Problem-solving | 2 | 2 |  | Food Science & Nutrition |
 | Creativity, design and innovation | 1 | 1 |  |  |
 
 | Area | fit | tier |
 |---|---|---|
-| Cumbria | 52.3 | strong |
-| Liverpool City Region | 50.9 | good |
-| Lancashire | 50 | strong |
-| Cheshire and Warrington | 48.2 | good |
-| Greater Manchester | 48.1 | good |
-| National | 50.2 | good |
+| Cumbria | 53.4 | strong |
+| Liverpool City Region | 51.8 | good |
+| Greater Manchester | 51.1 | strong |
+| Lancashire | 51 | strong |
+| Cheshire and Warrington | 50.5 | strong |
+| National | 50.9 | strong |
 
-**Cheshire and Warrington:** top priorities Health and Social Care (77.8), Life Sciences (66.7), Business and Professional Services (57); 20 matched roles; 21 gaps helped; best pair Health & Social Care + Physical Education (17).
+**Cheshire and Warrington:** top priorities Health and Social Care (71.4), Life Sciences (69.2), Construction and the Built Environment (57.8); 20 matched roles; 21 gaps helped; best pair Physical Education + Food Science & Nutrition (18).
 
-**Cumbria:** top priorities Health & Social Care (85), Visitor Economy (73.1), Construction (57.8); 16 matched roles; 18 gaps helped; best pair Health & Social Care + Food Science & Nutrition (18).
+**Cumbria:** top priorities Health & Social Care (87.5), Visitor Economy (72.2), Construction (60); 16 matched roles; 18 gaps helped; best pair Health & Social Care + Food Science & Nutrition (19).
 
-**Greater Manchester:** top priorities Hospitality (83.3), Health & Social Care (72.7), Finance & Professional Services (66.7); 28 matched roles; 18 gaps helped; best pair Health & Social Care + Food Science & Nutrition (16).
+**Greater Manchester:** top priorities Hospitality (83.3), Health & Social Care (70.8), Finance & Professional Services (66.7); 28 matched roles; 18 gaps helped; best pair Physical Education + Food Science & Nutrition (19).
 
-**Lancashire:** top priorities Social Care (75.8), Hospitality, Leisure & Tourism (71.8), Construction (58.3); 28 matched roles; 22 gaps helped; best pair Health & Social Care + Physical Education (17).
+**Lancashire:** top priorities Social Care (73.3), Hospitality, Leisure & Tourism (69.7), Construction (56.4); 28 matched roles; 22 gaps helped; best pair Health & Social Care + Physical Education (17).
 
-**Liverpool City Region:** top priorities Professional, Business & Financial Services (67.9), Health, Life Science & Care (62.5), Visitor Economy (62.5); 17 matched roles; 26 gaps helped; best pair Health & Social Care + Physical Education (19).
+**Liverpool City Region:** top priorities Professional, Business & Financial Services (65.5), Health, Life Science & Care (64.1), Visitor Economy (60.4); 17 matched roles; 26 gaps helped; best pair Physical Education + Food Science & Nutrition (20).

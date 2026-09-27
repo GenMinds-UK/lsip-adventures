@@ -13,7 +13,7 @@ export const SKILL_CONTENT: Readonly<Record<SkillId, SkillContent>> = {
     youCan:
       "You can turn a messy spreadsheet into a clear chart and spot which patterns are real and which are flukes.",
     buildItBy:
-      "Try a data-based EPQ, join a maths or statistics club, or work through a free Google Data Analytics or OpenLearn statistics course on real datasets.",
+      "Try a data-based EPQ, join a maths or statistics club, or work through a free OpenLearn statistics or data course using real datasets.",
   },
   programming: {
     youCan:
@@ -25,7 +25,7 @@ export const SKILL_CONTENT: Readonly<Record<SkillId, SkillContent>> = {
     youCan:
       "You can use everyday software and AI tools confidently, checking what an AI gives you rather than accepting it as fact.",
     buildItBy:
-      "Take a free Google Digital Garage or Microsoft Learn AI literacy course, help run a school digital awareness session, or use AI tools openly and critically in an EPQ.",
+      "Take a free Grow with Google or Microsoft Learn course on AI and digital skills, help run a school digital awareness session, or use AI tools openly and critically in an EPQ.",
   },
   "cyber-security": {
     youCan:
@@ -37,13 +37,13 @@ export const SKILL_CONTENT: Readonly<Record<SkillId, SkillContent>> = {
     youCan:
       "You can build a simple mathematical model of a real situation and use it to estimate or predict what happens next.",
     buildItBy:
-      "Enter a UK Mathematical Challenge, tutor younger students in maths through your school, or use an EPQ to model something you're curious about, like ticket pricing or traffic flow.",
+      "Enter the UKMT Senior Mathematical Challenge, tutor younger students in maths through your school, or use an EPQ to model something you're curious about, like ticket pricing or traffic flow.",
   },
   "scientific-method": {
     youCan:
       "You can design a fair test, control the variables that would otherwise wreck it, and say how confident your results really are.",
     buildItBy:
-      "Apply for a Nuffield Research Placement or In2scienceUK placement after Year 12, join a school science club, or run your own investigation as an EPQ.",
+      "Apply for a STEM Learning Research Placement (formerly Nuffield Research Placements) or an In2scienceUK placement for the summer after Year 12, join a school science club, or run your own investigation as an EPQ.",
   },
   engineering: {
     youCan:
@@ -91,7 +91,7 @@ export const SKILL_CONTENT: Readonly<Record<SkillId, SkillContent>> = {
     youCan:
       "You can present an idea to a room, explain your reasoning clearly, and hold your own in a live discussion.",
     buildItBy:
-      "Join Debate Mate or a school debating society, take part in Model United Nations, or volunteer to present at open evenings and school assemblies.",
+      "Join a school debating society or a programme such as Debate Mate, take part in Model United Nations, or volunteer to present at open evenings and school assemblies.",
   },
   languages: {
     youCan:
