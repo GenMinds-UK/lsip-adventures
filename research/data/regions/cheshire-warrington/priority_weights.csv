@@ -1,0 +1,44 @@
+priority,skill,weight,evidence
+advanced-manufacturing,engineering,3,"Electrification, electro-technical and EV systems; automation, robotics and mechatronics named as the sector's most acute pressures (p.28)"
+advanced-manufacturing,practical-making,3,"Skilled trades at Levels 2-3 (machinists, fabricators, vehicle technicians) named as a core workforce group under pressure (p.28)"
+advanced-manufacturing,digital-ai,2,Industrial digitalisation and data-enabled production named among the sector's most acute pressures (p.28)
+advanced-manufacturing,leadership,2,Supervisory and production management roles named among the sector's most acute pressures (p.28)
+advanced-manufacturing,data-analysis,2,Industrial digitalisation and data-enabled production named among the sector's most acute pressures (p.28)
+advanced-manufacturing,problem-solving,2,"'You need to allow them to learn soft skills - teamwork, communication, problem-solving' (Apprenticeships Manager, Manufacturing, p.18)"
+advanced-manufacturing,numeracy,1,"Implied by Process Engineers (Chemical) and Metal Working Fitters in the sector's own SOC occupation mapping (Annex A, p.70)"
+agri-tech-food-security,engineering,3,"Mechatronics and automation, robotics and control systems named as core skill areas (p.32)"
+agri-tech-food-security,digital-ai,3,Digital sensing and data analytics named as a core skill area; 'digital first entry routes' promoted as an action (p.32)
+agri-tech-food-security,practical-making,2,Skilled trades in precision fabrication and machinery named as a required occupation group (p.32)
+agri-tech-food-security,sustainability,2,"Sustainable design and resource efficiency named as a core skill area, linked to net-zero production (p.32)"
+agri-tech-food-security,data-analysis,2,Digital sensing and data analytics named as a core skill area (p.32)
+agri-tech-food-security,scientific-method,1,Implied by Dairy Technologist apprenticeship and food science modernisation (p.32)
+business-professional-services,data-analysis,3,"'Strengthening higher technical pathways at Levels 4-5 into data technician, compliance specialist, digital business analyst' (p.36)"
+business-professional-services,digital-ai,3,"'Support employer-led upskilling in AI, automation, cyber security and data capability' (p.64)"
+business-professional-services,commercial,3,"Finance and investment analysts, accountants and financial professionals named among roles 'most in demand' (p.34)"
+business-professional-services,law-ethics,3,"'Embedding AI and automation capability, data literacy, and regulatory and compliance knowledge across all levels' (p.36)"
+business-professional-services,critical-thinking,3,"'The main workforce challenge in BPS is...ensuring people can move...into higher-level professional, analytical and digital positions' (p.34)"
+business-professional-services,leadership,2,Defunding of Leadership and Management apprenticeship standards 'will affect provision...particularly in health and social care and business and professional services where management development pathways are most in demand' (p.12)
+business-professional-services,cyber-security,2,"'Support employer-led upskilling in AI, automation, cyber security and data capability' (p.64)"
+clean-energy,engineering,3,"Instrumentation, control and digital technician pathways named as a Level 4-5 'future skills needed' priority (p.40)"
+clean-energy,practical-making,3,"Employer Skills Survey (utilities proxy): 50% of vacancies hard to fill, 35% skill-shortage vacancies (p.40)"
+clean-energy,sustainability,3,"Entire sector organised around decarbonisation, clean power generation and the Clean Growth Jobs Plan (p.38)"
+clean-energy,law-ethics,2,'Health and safety standards (particularly around new technology e.g. hydrogen and CCUS) across all operational roles' (p.40)
+clean-energy,digital-ai,2,'Embedding digital and automation competence...across all operational roles' named as a skills-needs priority (p.40)
+clean-energy,leadership,1,'Supporting progression into supervisory and operational leadership roles which will become more important' (p.40)
+life-sciences,scientific-method,3,'The evidence points to a structural gap at Level 4-5...this is the pipeline most in need of attention' (p.44)
+life-sciences,data-analysis,2,"'Growing demand for software developers, AI capability and data modelling skills' (p.22)"
+life-sciences,digital-ai,2,Growing convergence between life sciences and digital technology; AI-enabled diagnostics named as a growth area (p.44)
+life-sciences,critical-thinking,2,Biomedical researchers and regulatory/quality-assurance professionals named among roles in increasing demand (p.44)
+life-sciences,law-ethics,2,'Regulatory and compliance knowledge required for pharmaceutical and clinical environments' (p.44)
+life-sciences,practical-making,2,Laboratory technicians and pharmaceutical manufacturing technicians named as productivity-critical technical roles (p.42)
+construction-built-environment,practical-making,3,"Core trades (bricklaying, joinery, plumbing, electricians) named as the sector's central pressure point (p.48)"
+construction-built-environment,sustainability,3,"Retrofit competence and quality assurance, and low-carbon retrofit specialists, are a named 'agreed action' priority (p.48)"
+construction-built-environment,law-ethics,2,Quality assurance and heritage/conservation skills named as required alongside retrofit competence (p.48)
+construction-built-environment,leadership,2,"'Building supervisory, retrofit coordination and quality assurance capacity at Levels 4-5' named as a skills-needs priority (p.48)"
+construction-built-environment,engineering,2,"Engineering Technicians (Electrical/Building Services) named in the sector's own SOC occupation mapping (Annex A, Table A3.5, p.86)"
+construction-built-environment,numeracy,1,"Implied by quantity/measurement content of core trades named in the sector's own SOC occupation mapping (Annex A, Table A3.5, p.86)"
+health-social-care,care-empathy,3,'Interpersonal resilience required for front-line care work with vulnerable young people' (p.18); entire sector organised around care workforce stability (p.52)
+health-social-care,leadership,3,"'A growing gap at supervisory and leadership level: care supervisors, team leaders, nursing associates, registered managers' (p.52)"
+health-social-care,law-ethics,2,"'Embedding digital, safeguarding and leadership capability within mainstream training at all levels' (p.54)"
+health-social-care,digital-ai,2,"'Embedding digital, safeguarding and leadership capability within mainstream training at all levels' (p.54)"
+health-social-care,self-management,2,"'High training volume, low retention'...early-career staff 'leaving before they become experienced' (p.52)"

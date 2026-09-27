@@ -9,7 +9,7 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Advanced Manufacturing & Engineering",
       "short": "Manufacturing",
       "blurb": "Lancashire is a UK leader in aerospace, automotive and precision engineering, anchored by BAE Systems at Warton and Samlesbury.",
-      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.13-15",
+      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.16-18",
       "weights": {
         "engineering": 3,
         "practical-making": 3,
@@ -91,7 +91,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "self-management",
             "engineering"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.13"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.16"
         },
         {
           "text": "Ongoing shortages of engineers, CNC machinists, fabricators/welders and electrical engineers at Level 3 and above.",
@@ -99,7 +99,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "engineering",
             "practical-making"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.14"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.17"
         },
         {
           "text": "Growing need for digital and AI skills, data analysis and management/leadership within manufacturing firms.",
@@ -108,7 +108,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "data-analysis",
             "leadership"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.14"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.17"
         },
         {
           "text": "Apprenticeship and technical education places do not match how much interest young people show in the sector.",
@@ -116,7 +116,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "self-management",
             "practical-making"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.14"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.17"
         }
       ]
     },
@@ -126,7 +126,7 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Construction",
       "short": "Construction",
       "blurb": "Growing housing targets and an ageing workforce mean Lancashire needs many more tradespeople, electricians and site managers.",
-      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.15-16",
+      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.18-19",
       "weights": {
         "practical-making": 3,
         "engineering": 2,
@@ -194,7 +194,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "self-management",
             "practical-making"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.15"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.18"
         },
         {
           "text": "Around 60% of FE construction students nationally leave the industry shortly after finishing training; local figures are not yet tracked.",
@@ -202,7 +202,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "self-management",
             "practical-making"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.15"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.18"
         },
         {
           "text": "Ongoing shortages in trades (bricklaying, plumbing, carpentry, roofing), electrical work and site/building management from Level 2 to 6.",
@@ -211,7 +211,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "engineering",
             "leadership"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.16"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.19"
         },
         {
           "text": "New entrants often lack awareness of real working conditions, which providers link to early drop-out from training routes.",
@@ -219,7 +219,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "self-management",
             "practical-making"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.16"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.19"
         }
       ]
     },
@@ -229,7 +229,7 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Hospitality, Leisure & Tourism",
       "short": "Hospitality",
       "blurb": "Blackpool and Lancashire's coast draw around 20 million visitors a year, supporting a visitor economy worth £1.7bn.",
-      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.17",
+      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.20",
       "weights": {
         "practical-making": 3,
         "customer-service": 3,
@@ -286,14 +286,14 @@ export const REGION_DATA: GeneratedRegionData = {
             "practical-making",
             "self-management"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.17"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.20"
         },
         {
           "text": "Few employers plan to take on apprentices or recruit straight from school or college, despite ongoing need.",
           "skills": [
             "self-management"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.17"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.20"
         },
         {
           "text": "Essential digital skills and the use of AI are increasingly expected even though they are not part of the traditional job list.",
@@ -301,7 +301,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "digital-ai",
             "customer-service"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.17"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.20"
         }
       ]
     },
@@ -311,7 +311,7 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Social Care",
       "short": "Social Care",
       "blurb": "One of Lancashire's largest workforces, with thousands of vacancies now and a much bigger need predicted by 2040.",
-      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.18",
+      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.21",
       "weights": {
         "care-empathy": 3,
         "leadership": 2,
@@ -371,7 +371,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "care-empathy",
             "self-management"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.18"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.21"
         },
         {
           "text": "52% of Lancashire and Cumbria care workers haven't done the Care Certificate induction, and 58% have no relevant qualification.",
@@ -379,14 +379,14 @@ export const REGION_DATA: GeneratedRegionData = {
             "care-empathy",
             "law-ethics"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.18"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.21"
         },
         {
           "text": "Care-worker visa grants fell 84% in early 2024, adding to recruitment pressure for independent providers.",
           "skills": [
             "care-empathy"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.18"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.21"
         },
         {
           "text": "Short courses for specific care skills are hard for employers to find and arrange when a new care need arises.",
@@ -394,7 +394,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "care-empathy",
             "self-management"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.18"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.21"
         },
         {
           "text": "Care is not typically seen as a realistic career choice by younger people.",
@@ -402,7 +402,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "care-empathy",
             "self-management"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.18"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.21"
         }
       ]
     },
@@ -412,7 +412,7 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Digital",
       "short": "Digital",
       "blurb": "Cyber security, coding, web and data skills are in demand everywhere, and AI has become a priority in almost every workplace.",
-      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.19-20",
+      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.22-23",
       "weights": {
         "digital-ai": 3,
         "cyber-security": 3,
@@ -484,7 +484,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "digital-ai",
             "self-management"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.19"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.22"
         },
         {
           "text": "Most requested digital skills: cyber security, web design/development, programming, digital marketing, basic MS Office skills.",
@@ -494,7 +494,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "content-production",
             "commercial"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.19"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.22"
         },
         {
           "text": "Cyber security graduates struggle to get into roles that still ask for experience, even at junior level.",
@@ -502,7 +502,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "cyber-security",
             "self-management"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.20"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.23"
         },
         {
           "text": "Employers want essential AI skills: AI literacy, communicating with AI, judging AI outputs, and using AI responsibly.",
@@ -511,7 +511,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "critical-thinking",
             "law-ethics"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.19-20"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.22-23"
         }
       ]
     },
@@ -521,7 +521,7 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "National Security & Resilience",
       "short": "Defence & Security",
       "blurb": "Home to the UK's fourth-largest aerospace cluster and the new National Cyber Force HQ, plus a role in UK food security.",
-      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.21",
+      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.24",
       "weights": {
         "engineering": 3,
         "cyber-security": 3,
@@ -591,7 +591,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "engineering",
             "practical-making"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.21"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.24"
         },
         {
           "text": "The new National Cyber Force HQ at Samlesbury should create around 2,000 direct roles, far more through knock-on effects, from 2025.",
@@ -599,7 +599,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "cyber-security",
             "digital-ai"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.21"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.24"
         },
         {
           "text": "Food security skills (25,000+ agriculture and food/drink jobs) haven't had dedicated research since 2022, despite 7% growth forecast.",
@@ -607,7 +607,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "scientific-method",
             "practical-making"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.21"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.24"
         }
       ]
     },
@@ -617,7 +617,7 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Clean Energy & Nuclear",
       "short": "Clean Energy",
       "blurb": "Lancashire covers the full nuclear lifecycle at Springfields and Heysham, alongside growing offshore wind and clean-tech.",
-      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.22",
+      "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.25",
       "weights": {
         "engineering": 3,
         "sustainability": 3,
@@ -675,7 +675,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "engineering",
             "sustainability"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.22"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.25"
         },
         {
           "text": "Small Modular Reactor and offshore wind growth are still early-stage, so what skills and how many roles will be needed isn't yet clear.",
@@ -683,7 +683,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "sustainability",
             "engineering"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.22"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.25"
         },
         {
           "text": "Cyber security is increasingly important at nuclear sites such as Heysham and Springfields (Westinghouse).",
@@ -691,7 +691,7 @@ export const REGION_DATA: GeneratedRegionData = {
             "cyber-security",
             "law-ethics"
           ],
-          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.22"
+          "source": "https://www.lancashirelsip.co.uk/downloads/Lancashire%20Local%20Skills%20Improvement%20Plan%20July%202026.pdf p.25"
         }
       ]
     }

@@ -17,7 +17,7 @@ const SKILL = new Map(SKILLS.map((skill) => [skill.id, skill]));
 
 function SkillsStage() {
   const { region, subjects, results } = useJourney();
-  const { profile, skills, skillRanks, worthAdding } = results;
+  const { profile, boosted, skills, skillRanks, worthAdding } = results;
   const strong = skills.filter((skill) => profile.effective[skill] >= DEVELOPED);
 
   return (
@@ -30,9 +30,10 @@ function SkillsStage() {
           that employers across the North West talk about in their skills plans.
         </p>
         <p className="text-xs">
-          Blocks show how strongly your subjects build each skill. A star means two or more of your
-          subjects build it, so it gets extra practice. The coloured squares show how much each
-          North West area's LSIP asks for that skill (0–5), with {region.name} outlined.
+          Blocks show how strongly your subjects build each skill. A star means a second subject
+          gives that skill an extra boost, taking it past what either subject builds alone. The
+          coloured squares show how much each North West area's LSIP asks for that skill (0–5), with{" "}
+          {region.name} outlined.
         </p>
       </StageIntro>
 
@@ -70,7 +71,7 @@ function SkillsStage() {
                           <h3 className="text-foreground font-semibold">{skill.name}</h3>
                           <SkillBar
                             level={profile.effective[skillId]}
-                            reinforced={profile.reinforced[skillId]}
+                            reinforced={boosted[skillId]}
                           />
                         </div>
                         <p className="text-muted-foreground text-sm">

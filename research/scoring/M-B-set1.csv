@@ -1,0 +1,484 @@
+subject,skill,score,evidence,source
+Mathematics,data-analysis,2,"Statistics is compulsory content (large data set, probability, distributions); assessed across papers but not the whole course.","https://assets.publishing.service.gov.uk/media/5a7f273a40f0b62305b85670/GCE_AS_and_A_level_subject_content_for_mathematics_with_appendices.pdf p.4-5, content area G"
+Mathematics,programming,0,,
+Mathematics,digital-ai,0,,
+Mathematics,cyber-security,0,,
+Mathematics,numeracy,3,OT2 Mathematical problem solving and OT3 Mathematical modelling apply throughout; overarching themes are 100% of content.,https://assets.publishing.service.gov.uk/media/5a7f273a40f0b62305b85670/GCE_AS_and_A_level_subject_content_for_mathematics_with_appendices.pdf p.4-6
+Mathematics,scientific-method,0,,
+Mathematics,engineering,0,,
+Mathematics,practical-making,0,,
+Mathematics,sustainability,0,,
+Mathematics,commercial,0,,
+Mathematics,leadership,0,,
+Mathematics,law-ethics,0,,
+Mathematics,writing,1,Short justifications/proofs are written but communication itself is not assessed.,https://assets.publishing.service.gov.uk/media/5a7f273a40f0b62305b85670/GCE_AS_and_A_level_subject_content_for_mathematics_with_appendices.pdf p.3
+Mathematics,speaking,0,,
+Mathematics,languages,0,,
+Mathematics,care-empathy,0,,
+Mathematics,teamwork,1,,
+Mathematics,customer-service,0,,
+Mathematics,self-management,1,"Exam-only qualification, no NEA.",https://assets.publishing.service.gov.uk/media/5a7f273a40f0b62305b85670/GCE_AS_and_A_level_subject_content_for_mathematics_with_appendices.pdf p.6
+Mathematics,critical-thinking,1,"OT1 covers critiquing mathematical arguments/proofs, not weighing general evidence.",https://assets.publishing.service.gov.uk/media/5a7f273a40f0b62305b85670/GCE_AS_and_A_level_subject_content_for_mathematics_with_appendices.pdf p.4
+Mathematics,problem-solving,3,OT2 'Mathematical problem solving' is a named overarching theme assessed across 100% of content.,https://assets.publishing.service.gov.uk/media/5a7f273a40f0b62305b85670/GCE_AS_and_A_level_subject_content_for_mathematics_with_appendices.pdf p.4
+Mathematics,creativity,1,,
+Mathematics,content-production,0,,
+Further Mathematics,data-analysis,1,Statistics is one of several optional applied strands (with mechanics/decision maths); not guaranteed compulsory content.,https://assets.publishing.service.gov.uk/media/5a8185ebe5274a2e8ab54725/GCE_AS_and_A_level_subject_content_for_further_mathematics_with_appendices.pdf p.4
+Further Mathematics,programming,0,,
+Further Mathematics,digital-ai,0,,
+Further Mathematics,cyber-security,0,,
+Further Mathematics,numeracy,3,Core pure content (~50%) plus applied options are wholly mathematical; overarching themes OT1-3 apply throughout.,https://assets.publishing.service.gov.uk/media/5a8185ebe5274a2e8ab54725/GCE_AS_and_A_level_subject_content_for_further_mathematics_with_appendices.pdf p.4-6
+Further Mathematics,scientific-method,0,,
+Further Mathematics,engineering,0,,
+Further Mathematics,practical-making,0,,
+Further Mathematics,sustainability,0,,
+Further Mathematics,commercial,0,,
+Further Mathematics,leadership,0,,
+Further Mathematics,law-ethics,0,,
+Further Mathematics,writing,1,"As in Mathematics: justification/proof only, not assessed as writing.",https://assets.publishing.service.gov.uk/media/5a8185ebe5274a2e8ab54725/GCE_AS_and_A_level_subject_content_for_further_mathematics_with_appendices.pdf p.4
+Further Mathematics,speaking,0,,
+Further Mathematics,languages,0,,
+Further Mathematics,care-empathy,0,,
+Further Mathematics,teamwork,1,,
+Further Mathematics,customer-service,0,,
+Further Mathematics,self-management,1,"Exam-only qualification, no NEA.",https://assets.publishing.service.gov.uk/media/5a8185ebe5274a2e8ab54725/GCE_AS_and_A_level_subject_content_for_further_mathematics_with_appendices.pdf p.6
+Further Mathematics,critical-thinking,1,,
+Further Mathematics,problem-solving,3,Overarching theme OT2 'Mathematical problem solving' is assessed in further mathematics too (min. 10% across options).,https://assets.publishing.service.gov.uk/media/5a8185ebe5274a2e8ab54725/GCE_AS_and_A_level_subject_content_for_further_mathematics_with_appendices.pdf p.4
+Further Mathematics,creativity,1,,
+Further Mathematics,content-production,0,,
+Statistics,data-analysis,3,"Statistical enquiry cycle, hypothesis testing and use of large data sets to inform decisions represent 100% of content.",https://assets.publishing.service.gov.uk/media/5a803103e5274a2e8ab4eb7a/Statistics_AS_and_A_level_content_formatted.pdf p.3-4
+Statistics,programming,0,,
+Statistics,digital-ai,0,,
+Statistics,cyber-security,0,,
+Statistics,numeracy,3,"Whole qualification is mathematical: probability, distributions and hypothesis testing are 100% of content.","https://assets.publishing.service.gov.uk/media/5a803103e5274a2e8ab4eb7a/Statistics_AS_and_A_level_content_formatted.pdf p.4,7"
+Statistics,scientific-method,0,,
+Statistics,engineering,0,,
+Statistics,practical-making,0,,
+Statistics,sustainability,0,,
+Statistics,commercial,0,,
+Statistics,leadership,0,,
+Statistics,law-ethics,0,,
+Statistics,writing,1,"Short interpretive statements are required, not extended writing.",https://assets.publishing.service.gov.uk/media/5a803103e5274a2e8ab4eb7a/Statistics_AS_and_A_level_content_formatted.pdf p.4
+Statistics,speaking,0,,
+Statistics,languages,0,,
+Statistics,care-empathy,0,,
+Statistics,teamwork,1,,
+Statistics,customer-service,0,,
+Statistics,self-management,1,"Exam-only qualification (Pearson, only board), no NEA.",https://assets.publishing.service.gov.uk/media/5a803103e5274a2e8ab4eb7a/Statistics_AS_and_A_level_content_formatted.pdf p.4
+Statistics,critical-thinking,2,Learners must evaluate the strength of conclusions and misreporting of findings from hypothesis tests.,https://assets.publishing.service.gov.uk/media/5a803103e5274a2e8ab4eb7a/Statistics_AS_and_A_level_content_formatted.pdf p.7
+Statistics,problem-solving,2,"The statistical enquiry cycle (define question, plan, collect, process, interpret) structures the whole course.","https://assets.publishing.service.gov.uk/media/5a803103e5274a2e8ab4eb7a/Statistics_AS_and_A_level_content_formatted.pdf p.4,20"
+Statistics,creativity,0,,
+Statistics,content-production,0,,
+Computer Science,data-analysis,2,"Databases: 'use of databases to store, retrieve and manipulate data, including database programming and producing a data model' is A-level content.",https://assets.publishing.service.gov.uk/media/5a7dbefb40f0b65d88634282/A_level_computer_science_subject_content.pdf p.2
+Computer Science,programming,3,'Fundamentals of programming' is core knowledge; OCR/AQA both set a substantial NEA programming project (~20%) plus a programming exam paper.,https://assets.publishing.service.gov.uk/media/5a7dbefb40f0b65d88634282/A_level_computer_science_subject_content.pdf p.1
+Computer Science,digital-ai,1,General digital technology content; no AI-literacy component in the current specification.,
+Computer Science,cyber-security,3,"OCR Component 01 (Computer Systems) assesses network security and threats: firewalls, proxies, encryption (symmetric/asymmetric), hashing.","https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/ (Component 01: Computer Systems, networks & security)"
+Computer Science,numeracy,2,DfE annex: 'any accredited specification in computer science must contain a minimum of 10% mathematics.',https://assets.publishing.service.gov.uk/media/5a7dbefb40f0b65d88634282/A_level_computer_science_subject_content.pdf p.3
+Computer Science,scientific-method,0,,
+Computer Science,engineering,0,,
+Computer Science,practical-making,0,,
+Computer Science,sustainability,0,,
+Computer Science,commercial,0,,
+Computer Science,leadership,0,,
+Computer Science,law-ethics,2,"'The individual (moral), social (ethical), legal and cultural opportunities and risks of digital technology' is assessed content, not the focus.",https://assets.publishing.service.gov.uk/media/5a7dbefb40f0b65d88634282/A_level_computer_science_subject_content.pdf p.2
+Computer Science,writing,1,,
+Computer Science,speaking,0,,
+Computer Science,languages,0,,
+Computer Science,care-empathy,0,,
+Computer Science,teamwork,1,NEA project is normally completed individually.,
+Computer Science,customer-service,0,,
+Computer Science,self-management,2,The non-exam assessment (programming project) is a substantial (~20%) self-directed component.,https://assets.publishing.service.gov.uk/media/5a7dbefb40f0b65d88634282/A_level_computer_science_subject_content.pdf p.1
+Computer Science,critical-thinking,1,,
+Computer Science,problem-solving,3,'Take a systematic approach to problem solving' and 'analyse problems in computational terms' are core assessed skills.,https://assets.publishing.service.gov.uk/media/5a7dbefb40f0b65d88634282/A_level_computer_science_subject_content.pdf p.1-2
+Computer Science,creativity,1,"Aims mention 'the capacity for thinking creatively, innovatively' but there is no distinct assessed creative-design component.",https://assets.publishing.service.gov.uk/media/5a7dbefb40f0b65d88634282/A_level_computer_science_subject_content.pdf p.1
+Computer Science,content-production,0,,
+Biology,data-analysis,2,Practical/statistical data analysis is assessed across all three papers alongside content.,https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.18
+Biology,programming,0,,
+Biology,digital-ai,0,,
+Biology,cyber-security,0,,
+Biology,numeracy,2,Appendix 6: 'at least 10% level 2 or above mathematical skills for biology.',https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.24
+Biology,scientific-method,3,"A minimum of 12 practical activities contributes to the Practical Endorsement (Appendix 5b), directly assessed.","https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.18,20"
+Biology,engineering,0,,
+Biology,practical-making,2,"The 12 required practicals develop lab-equipment handling and technique, distinct from the investigative-method skill.",https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.18
+Biology,sustainability,2,"Ecosystems/populations content includes human impact on the environment and conservation, regularly assessed.",https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.9-10
+Biology,commercial,0,,
+Biology,leadership,0,,
+Biology,law-ethics,1,,
+Biology,writing,1,,
+Biology,speaking,0,,
+Biology,languages,0,,
+Biology,care-empathy,1,"Human physiology/disease is studied as knowledge, not caring practice (cf. A18).",
+Biology,teamwork,1,,
+Biology,customer-service,0,,
+Biology,self-management,1,"Exam plus Practical Endorsement, no extended self-directed project.",
+Biology,critical-thinking,2,Evaluation of experimental methods and data is a recurring assessed objective (AO3).,https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.18
+Biology,problem-solving,1,,
+Biology,creativity,0,,
+Biology,content-production,0,,
+Chemistry,data-analysis,2,Paper 3 includes 40 marks of practical techniques and data analysis.,https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/specification-at-a-glance
+Chemistry,programming,0,,
+Chemistry,digital-ai,0,,
+Chemistry,cyber-security,0,,
+Chemistry,numeracy,2,Appendix 6: 'at least...20% for chemistry' of marks require level 2+ maths (A3 anchor).,https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.24
+Chemistry,scientific-method,3,A minimum of 12 practical activities contributes towards the Practical Endorsement; practical skills are also examined (A5 anchor).,https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.18
+Chemistry,engineering,0,,
+Chemistry,practical-making,2,"Required practical technique (titration, synthesis) is assessed, distinct from the investigative-method skill (rule 6).",https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.18
+Chemistry,sustainability,2,Green chemistry/atom economy and industrial processes are named assessed content.,https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/subject-content
+Chemistry,commercial,0,,
+Chemistry,leadership,0,,
+Chemistry,law-ethics,1,,
+Chemistry,writing,1,,
+Chemistry,speaking,0,,
+Chemistry,languages,0,,
+Chemistry,care-empathy,0,,
+Chemistry,teamwork,1,,
+Chemistry,customer-service,0,,
+Chemistry,self-management,1,,
+Chemistry,critical-thinking,2,Evaluation of experimental methods/uncertainty is a recurring assessed objective.,https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.18
+Chemistry,problem-solving,2,Quantitative chemistry calculations require systematic problem solving across all papers.,https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/specification-at-a-glance
+Chemistry,creativity,0,,
+Chemistry,content-production,0,,
+Physics,data-analysis,2,Paper 3 has a mandatory practical skills and data analysis section (45 of 80 marks).,https://www.aqa.org.uk/subjects/physics/a-level/physics-7408/specification/specification-at-a-glance
+Physics,programming,0,,
+Physics,digital-ai,0,,
+Physics,cyber-security,0,,
+Physics,numeracy,3,Appendix 6: 'at least...40% for physics' of marks require level 2+ maths (A2 anchor).,https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.24
+Physics,scientific-method,3,A minimum of 12 practical activities contributes towards the Practical Endorsement (as for biology/chemistry).,https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.18
+Physics,engineering,2,"Forces, electricity and control content is applied to problems, but design/build of systems is not required (physics principles without application cap at 2).",https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.10-12
+Physics,practical-making,2,"Required practical technique with apparatus is assessed, distinct from the investigative-method skill.",https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.18
+Physics,sustainability,1,Energy resources are touched on but not a core assessed theme.,
+Physics,commercial,0,,
+Physics,leadership,0,,
+Physics,law-ethics,0,,
+Physics,writing,1,,
+Physics,speaking,0,,
+Physics,languages,0,,
+Physics,care-empathy,0,,
+Physics,teamwork,1,,
+Physics,customer-service,0,,
+Physics,self-management,1,,
+Physics,critical-thinking,2,Evaluating experimental design/uncertainty is a recurring assessed objective.,https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.18
+Physics,problem-solving,2,Multi-step quantitative problem solving is central to all three papers.,https://www.aqa.org.uk/subjects/physics/a-level/physics-7408/specification/specification-at-a-glance
+Physics,creativity,0,,
+Physics,content-production,0,,
+Applied Science,data-analysis,3,"Unit 3: Science Investigation Skills (120 GLH, external, one-third of the qualification) assesses mean/SD, error bars, t-test/chi-squared, standard form and drawing conclusions from data.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Applied-Science/2016/specification-and-sample-assessments/BTEC-L3-Nat-ExtCert-in-Applied-Science-Spec.pdf p.49-50
+Applied Science,programming,0,,
+Applied Science,digital-ai,0,,
+Applied Science,cyber-security,0,,
+Applied Science,numeracy,2,"Units 1-3 all require calculation (titration/colorimetry concentrations, cooling-curve rates, statistical formulae) but the qualification is not wholly mathematical.","https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Applied-Science/2016/specification-and-sample-assessments/BTEC-L3-Nat-ExtCert-in-Applied-Science-Spec.pdf p.38-39,49"
+Applied Science,scientific-method,3,"Unit 3 (external) is entirely 'planning a scientific investigation', data collection/processing and drawing conclusions; Unit 2 (internal) is lab practical technique.","https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Applied-Science/2016/specification-and-sample-assessments/BTEC-L3-Nat-ExtCert-in-Applied-Science-Spec.pdf p.37,49"
+Applied Science,engineering,0,,
+Applied Science,practical-making,2,"Unit 2: Practical Scientific Procedures and Techniques (90 GLH, internal) assesses titration, colorimetry, calorimetry and chromatography technique.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Applied-Science/2016/specification-and-sample-assessments/BTEC-L3-Nat-ExtCert-in-Applied-Science-Spec.pdf p.37-38
+Applied Science,sustainability,0,,
+Applied Science,commercial,0,,
+Applied Science,leadership,0,,
+Applied Science,law-ethics,1,Laboratory safety is assessed via observation checklists but is not a distinct legal/regulatory focus.,
+Applied Science,writing,1,,
+Applied Science,speaking,0,,
+Applied Science,languages,0,,
+Applied Science,care-empathy,0,,
+Applied Science,teamwork,1,Unit 2 includes discussion/comparison of group results and 'interpersonal skills' as a minor reflective element.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Applied-Science/2016/specification-and-sample-assessments/BTEC-L3-Nat-ExtCert-in-Applied-Science-Spec.pdf p.38
+Applied Science,customer-service,0,,
+Applied Science,self-management,1,"Unit 2 includes a personal-development review, but there is no substantial self-directed extended project among the mandatory units.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Applied-Science/2016/specification-and-sample-assessments/BTEC-L3-Nat-ExtCert-in-Applied-Science-Spec.pdf p.38
+Applied Science,critical-thinking,2,"Unit 3 Learning aim C ('Drawing conclusions and evaluation') requires identifying trends, sources of error and suggesting improvements.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Applied-Science/2016/specification-and-sample-assessments/BTEC-L3-Nat-ExtCert-in-Applied-Science-Spec.pdf p.50
+Applied Science,problem-solving,2,Unit 2 explicitly gives 'the opportunity to use problem-solving skills' in calorimetry work; Unit 3 requires devising investigative methods.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Applied-Science/2016/specification-and-sample-assessments/BTEC-L3-Nat-ExtCert-in-Applied-Science-Spec.pdf p.38
+Applied Science,creativity,0,,
+Applied Science,content-production,0,,
+Environmental Science,data-analysis,2,"Research methods is a named content area in both papers, assessed alongside data interpretation.",https://assets.publishing.service.gov.uk/media/5a817b4ae5274a2e87dbddd8/Environmental_Science_A_level.pdf p.3
+Environmental Science,programming,0,,
+Environmental Science,digital-ai,0,,
+Environmental Science,cyber-security,0,,
+Environmental Science,numeracy,2,AQA scheme of assessment: at least 10% of marks require level 2 or above mathematical skills.,https://www.aqa.org.uk/subjects/environmental-science/a-level/environmental-science-7447/specification/appendix-b-maths-requirements-and-examples
+Environmental Science,scientific-method,2,"Fieldwork/practical activities (min. 4 days for A level) are required but explicitly 'not directly assessed' - indirect assessment only (Appendix 1), unlike biology/chemistry's Practical Endorsement.",https://assets.publishing.service.gov.uk/media/5a817b4ae5274a2e87dbddd8/Environmental_Science_A_level.pdf p.13
+Environmental Science,engineering,0,,
+Environmental Science,practical-making,1,Fieldwork sampling technique is required but only indirectly assessed.,https://assets.publishing.service.gov.uk/media/5a817b4ae5274a2e87dbddd8/Environmental_Science_A_level.pdf p.13
+Environmental Science,sustainability,3,"'Sustainability' is a named content area in Paper 2, including the circular economy; both papers are described as developing 'sustainable use of resources'.","https://assets.publishing.service.gov.uk/media/5a817b4ae5274a2e87dbddd8/Environmental_Science_A_level.pdf p.3,11"
+Environmental Science,commercial,0,,
+Environmental Science,leadership,0,,
+Environmental Science,law-ethics,1,Regulation of sustainable exploitation is mentioned but is not a distinct assessed focus.,https://assets.publishing.service.gov.uk/media/5a817b4ae5274a2e87dbddd8/Environmental_Science_A_level.pdf p.6
+Environmental Science,writing,2,Both papers include an 'extended writing' question type alongside multiple choice and short answer.,https://www.aqa.org.uk/subjects/environmental-science/a-level/environmental-science-7447/specification/appendix-b-maths-requirements-and-examples
+Environmental Science,speaking,0,,
+Environmental Science,languages,0,,
+Environmental Science,care-empathy,0,,
+Environmental Science,teamwork,1,Fieldwork is often done in groups but is not itself assessed as teamwork.,
+Environmental Science,customer-service,0,,
+Environmental Science,self-management,1,"Exam-only qualification (two written papers), no NEA.",
+Environmental Science,critical-thinking,2,"Content requires 'analysis and evaluation of sustainable management' of resources, assessed via extended writing.",https://assets.publishing.service.gov.uk/media/5a817b4ae5274a2e87dbddd8/Environmental_Science_A_level.pdf p.9
+Environmental Science,problem-solving,2,"Aims: 'develop competence and confidence in a variety of practical, mathematical and problem solving skills related to environmental issues.'",https://assets.publishing.service.gov.uk/media/5a817b4ae5274a2e87dbddd8/Environmental_Science_A_level.pdf p.3
+Environmental Science,creativity,0,,
+Environmental Science,content-production,0,,
+Psychology,data-analysis,2,"Research methods (compulsory, Paper 2) includes 'the collection and analysis of both quantitative and qualitative data'.",https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.17
+Psychology,programming,0,,
+Psychology,digital-ai,0,,
+Psychology,cyber-security,0,,
+Psychology,numeracy,2,Appendix 6: 'at least 10% level 2 or above mathematical skills for...psychology.',https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.24
+Psychology,scientific-method,2,"Students carry out 'ethical, investigative activities' but 'will not be directly assessed on these activities'; no required practicals or endorsement (A6 anchor).",https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.16
+Psychology,engineering,0,,
+Psychology,practical-making,0,,
+Psychology,sustainability,0,,
+Psychology,commercial,0,,
+Psychology,leadership,0,,
+Psychology,law-ethics,2,"'Ethical issues in psychology' is named compulsory research-methods content, regularly assessed via application to studies.",https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.17
+Psychology,writing,2,AQA 7182 assessment includes extended (e.g. 16-mark) essay questions across all three papers.,https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification/specification-at-a-glance
+Psychology,speaking,0,,
+Psychology,languages,0,,
+Psychology,care-empathy,1,"Mental health/clinical psychology is studied as knowledge, not caring practice (A18 anchor).",https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.16
+Psychology,teamwork,1,,
+Psychology,customer-service,0,,
+Psychology,self-management,1,"Exam-only qualification, investigative activities are not separately assessed.",https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.16
+Psychology,critical-thinking,2,'Issues and debates' (Paper 3) and evaluation of studies/methodology are a recurring assessed objective.,https://assets.publishing.service.gov.uk/media/5a807949e5274a2e8ab50599/Science_AS_and_level_formatted.pdf p.17
+Psychology,problem-solving,1,,
+Psychology,creativity,0,,
+Psychology,content-production,0,,
+Engineering,data-analysis,1,"Unit 1 AO4 'analyse information and systems' is engineering analysis, not general data literacy.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.38
+Engineering,programming,0,,
+Engineering,digital-ai,1,"Unit 2 requires 2D CAD drawing (orthographic projection, circuit diagrams) as a specific digital tool, not general digital/AI literacy.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.47-48
+Engineering,cyber-security,0,,
+Engineering,numeracy,3,"Unit 1 (120 GLH, external, 1/3 of qual.) is algebra/trig/logs applied to engineering; AO2 'perform mathematical procedures to solve engineering problems'.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.37-38
+Engineering,scientific-method,1,"Unit 1 applies physical-science principles (Newton, Ohm, Faraday) theoretically; there is no required experimental investigation among mandatory units.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.37
+Engineering,engineering,3,"The whole qualification: Unit 1 (principles), Unit 2 (processes/manufacture) and Unit 3 (product design and manufacture) are all engineering content.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.29
+Engineering,practical-making,2,Unit 2 Learning aim C: 'Carry out engineering processes safely to manufacture a product...as a team' (internally assessed).,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.48
+Engineering,sustainability,2,Unit 3 names 'sustainability (carbon footprint)' and 'sustainability issues throughout the product lifecycle' as assessed design-trigger content.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.60-61
+Engineering,commercial,0,,
+Engineering,leadership,2,Unit 2 requires learners to 'work as a team member and team leader' to deliver a batch manufacturing task.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.47
+Engineering,law-ethics,2,"Unit 2 covers 'health and safety requirements' and 'human factors affecting performance', assessed via an individual report.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.48
+Engineering,writing,2,Unit 2 requires a written report on engineering processes; Unit 3 AO5 requires learners to 'communicate and justify' a design solution.,"https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.48,60"
+Engineering,speaking,0,,
+Engineering,languages,0,,
+Engineering,care-empathy,0,,
+Engineering,teamwork,2,"Unit 2 Learning aim C ('Principles of effective teams', 'team set-up and organisation') is assessed via a practical team manufacturing task.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.48
+Engineering,customer-service,0,,
+Engineering,self-management,1,"Unit 3 is a supervised, timetabled set task (up to 8 hours over 2 weeks), not an open self-directed extended project.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.59
+Engineering,critical-thinking,2,"Unit 3 AO4: 'evaluate engineering product design ideas, manufacturing processes and other design choices.'",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.60
+Engineering,problem-solving,3,"Unit 1 is explicitly 'solve...engineering problems' (unit title and AO2), the qualification's largest single component.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.37-38
+Engineering,creativity,2,"Unit 3 requires an iterative design process from brief to justified solution, but within a supervised case-study task rather than an open brief.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Engineering/2016/specification-and-sample-assessments/spec-btec-nat-eng-extcert.pdf p.59-60
+Engineering,content-production,0,,
+Design & Technology (Product Design),data-analysis,1,,
+Design & Technology (Product Design),programming,0,,
+Design & Technology (Product Design),digital-ai,1,"CAD/CAM, modelling and simulation are named content but are scored under practical-making/creativity, not general digital/AI literacy.",https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.6
+Design & Technology (Product Design),cyber-security,0,,
+Design & Technology (Product Design),numeracy,1,Costing and measurement require some maths but no DfE minimum percentage is set.,
+Design & Technology (Product Design),scientific-method,1,Materials testing is studied but there are no required practicals/endorsement as in the sciences.,
+Design & Technology (Product Design),engineering,2,"Structures, mechanisms and systems are assessed technical-principles content (AQA 7552 Paper 1, 30%).",https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.4-5
+Design & Technology (Product Design),practical-making,3,'Work safely and skillfully to produce high-quality prototypes/products' (A11 anchor); AQA NEA is a substantial design-and-make project worth 50%.,https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.4
+Design & Technology (Product Design),sustainability,2,Sustainability and life-cycle considerations are named assessed content within technical principles.,https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.4-5
+Design & Technology (Product Design),commercial,2,"'Identify market needs and opportunities', 'commercial manufacture' and market research are named assessed content (AQA Paper 2 includes a commercial-manufacture section).","https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.3,12"
+Design & Technology (Product Design),leadership,2,"'Approaches to project management, such as critical path analysis, scrum or six sigma' is examined and applied to planning the NEA (A12 anchor).",https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.7
+Design & Technology (Product Design),law-ethics,1,Workshop health and safety is required but not a distinct assessed focus.,
+Design & Technology (Product Design),writing,1,"Design portfolios include written justification, but assessment is mostly practical/photographic evidence plus short-answer exam questions.",
+Design & Technology (Product Design),speaking,0,,
+Design & Technology (Product Design),languages,0,,
+Design & Technology (Product Design),care-empathy,0,,
+Design & Technology (Product Design),teamwork,1,,
+Design & Technology (Product Design),customer-service,2,"'Product analysis' (user/client needs) is a named, separately assessed exam section (AQA Paper 2).",https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.7
+Design & Technology (Product Design),self-management,3,The NEA ('substantial design and make project') is 50% of the A level - meets the ≥50% self-directed-project threshold named in the rubric itself.,https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.4
+Design & Technology (Product Design),critical-thinking,2,Evaluating prototypes 'taking into account the views of potential users' is assessed content.,https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.7
+Design & Technology (Product Design),problem-solving,3,'Applying iterative design processes...to design and make prototypes/products that solve real world problems' (A11 anchor); listed as a typical-3 subject for problem-solving.,https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.3
+Design & Technology (Product Design),creativity,3,A11 anchor: iterative design processes are core to both content and the 50% NEA.,https://assets.publishing.service.gov.uk/media/5a7f437eed915d74e622964d/D_and_T_A_level.pdf p.3-4
+Design & Technology (Product Design),content-production,0,,
+Health & Social Care,data-analysis,1,,
+Health & Social Care,programming,0,,
+Health & Social Care,digital-ai,0,,
+Health & Social Care,cyber-security,0,,
+Health & Social Care,numeracy,1,,
+Health & Social Care,scientific-method,1,"Anatomy and Physiology (Unit 3) is optional, not mandatory, in the Extended Certificate.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Health-and-Social-Care/2016/specification-and-sample-assessments/9781446938003-btec-nat-excert-hsc-ag-spec-iss3c.pdf p.13
+Health & Social Care,engineering,0,,
+Health & Social Care,practical-making,0,,
+Health & Social Care,sustainability,0,,
+Health & Social Care,commercial,0,,
+Health & Social Care,leadership,0,,
+Health & Social Care,law-ethics,3,"Unit 5 (mandatory, synoptic, internal, 25%) covers 'ethical issues and approaches' and 'legislation and guidance'; Unit 2 covers regulation/inspection of providers.","https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Health-and-Social-Care/2016/specification-and-sample-assessments/9781446938003-btec-nat-excert-hsc-ag-spec-iss3c.pdf p.46,37"
+Health & Social Care,writing,2,Unit 2 is assessed via an exam with short and long-answer (up to 8-mark) questions; Unit 5 via written case-study reports.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Health-and-Social-Care/2016/specification-and-sample-assessments/9781446938003-btec-nat-excert-hsc-ag-spec-iss3c.pdf p.37
+Health & Social Care,speaking,1,"Communication techniques are studied as content (Unit 5C) but are assessed only through written case-study reports, not live interaction.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Health-and-Social-Care/2016/specification-and-sample-assessments/9781446938003-btec-nat-excert-hsc-ag-spec-iss3c.pdf p.46
+Health & Social Care,languages,0,,
+Health & Social Care,care-empathy,3,"Unit 5 Learning aim A: 'Empathy and establishing trust with individuals', assessed via a report responding to case studies of individuals of different ages.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Health-and-Social-Care/2016/specification-and-sample-assessments/9781446938003-btec-nat-excert-hsc-ag-spec-iss3c.pdf p.46
+Health & Social Care,teamwork,1,"Multi-agency/multidisciplinary working is assessed as knowledge (Unit 2 AO4), not as performed group work.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Health-and-Social-Care/2016/specification-and-sample-assessments/9781446938003-btec-nat-excert-hsc-ag-spec-iss3c.pdf p.37
+Health & Social Care,customer-service,2,Unit 2 AO1/AO2 directly assess 'knowledge of service user needs' and 'understanding of service user needs...and working practices'.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Health-and-Social-Care/2016/specification-and-sample-assessments/9781446938003-btec-nat-excert-hsc-ag-spec-iss3c.pdf p.37
+Health & Social Care,self-management,1,No substantial self-directed project; Unit 5's synoptic report is a shorter internally-assessed task.,
+Health & Social Care,critical-thinking,2,"Unit 2 AO3/AO4 require learners to 'analyse and evaluate' and 'make connections' between roles, regulation and multidisciplinary working.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Health-and-Social-Care/2016/specification-and-sample-assessments/9781446938003-btec-nat-excert-hsc-ag-spec-iss3c.pdf p.37
+Health & Social Care,problem-solving,1,"Unit 5C ('enabling individuals to overcome challenges') is care-specific, not general problem solving.",
+Health & Social Care,creativity,0,,
+Health & Social Care,content-production,0,,
+Construction & the Built Environment,data-analysis,1,,
+Construction & the Built Environment,programming,0,,
+Construction & the Built Environment,digital-ai,1,"Unit 2 uses CAD as a specific design tool, not general digital/AI literacy.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.43
+Construction & the Built Environment,cyber-security,0,,
+Construction & the Built Environment,numeracy,3,"Unit 1: Construction Principles (120 GLH, external, one-third of qualification) requires 'mathematical and statistical techniques' to calculate how materials behave under forces/loads.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.31
+Construction & the Built Environment,scientific-method,1,"Unit 1 applies scientific principles (heat loss, materials degradation) theoretically via written exam; there is no required experimental investigation.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.31
+Construction & the Built Environment,engineering,3,Unit 1 requires applying mathematical principles to calculate how materials behave 'under the action of forces or loads when used as structural members'.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.31
+Construction & the Built Environment,practical-making,1,"The four mandatory units are assessed via written exam, a supervised design task, or internal coursework about construction methods, not hands-on building.",
+Construction & the Built Environment,sustainability,1,Materials degradation/lifecycle is touched on in Unit 1 but sustainability is not a named core content area in the mandatory units.,
+Construction & the Built Environment,commercial,1,"Unit 2 requires designs to meet 'client requirements', a minor commercial-awareness element.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.43
+Construction & the Built Environment,leadership,0,,
+Construction & the Built Environment,law-ethics,2,"Unit 5: Health and Safety in Construction (internal, 60 GLH) requires learners to apply UK legislation/regulations to design a safe system of work.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.65
+Construction & the Built Environment,writing,2,Unit 5 requires a written safe system of work; Unit 2's supervised task requires justified written design proposals.,"https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.65,43"
+Construction & the Built Environment,speaking,0,,
+Construction & the Built Environment,languages,0,,
+Construction & the Built Environment,care-empathy,0,,
+Construction & the Built Environment,teamwork,1,"Unit 2 notes that construction 'requires input from a team of built environment professionals' as knowledge, not assessed group work.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.43
+Construction & the Built Environment,customer-service,1,"Client requirements are considered in Unit 2's design task, a minor element.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.43
+Construction & the Built Environment,self-management,1,Unit 2 is a supervised set task (up to 12 hours over 2 weeks) rather than an open self-directed project.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.43
+Construction & the Built Environment,critical-thinking,2,Unit 1 requires learners to 'draw conclusions regarding whether a material is fit for purpose'; Unit 2 requires evaluating design choices.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.31
+Construction & the Built Environment,problem-solving,2,Unit 1: 'develop the skills needed to solve a variety of practical construction problems by applying scientific knowledge...mathematical...techniques.',https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.31
+Construction & the Built Environment,creativity,2,Unit 2: Construction Design requires an iterative design/sketching/CAD process to meet client requirements under supervised conditions.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Construction-and-the-Built-Environment/2017/specification/btec-l3-nat-ext-cert-in-const-and-the-built-environ-spec.pdf p.43
+Construction & the Built Environment,content-production,0,,
+Business Studies,data-analysis,2,"Paper 2 is structured as three compulsory data-response questions, each based on given business data.",https://www.aqa.org.uk/subjects/business/a-level/business-7132/specification/specification-at-a-glance
+Business Studies,programming,0,,
+Business Studies,digital-ai,1,Digital/e-commerce content is touched on within marketing/operations but is not a distinct assessed strand.,
+Business Studies,cyber-security,0,,
+Business Studies,numeracy,2,'The assessment of quantitative skills will include at least level 2...as a minimum of 10% of the overall A level marks.' (A14 anchor).,https://assets.publishing.service.gov.uk/media/5a7ec510ed915d74e33f24ee/A_level_business_subject_content.pdf p.5
+Business Studies,scientific-method,0,,
+Business Studies,engineering,0,,
+Business Studies,practical-making,0,No practical/making component (A14 anchor).,
+Business Studies,sustainability,0,,
+Business Studies,commercial,3,"The DfE content is marketing, finance, operations and people/strategy across three equally-weighted papers (A14 anchor).",https://assets.publishing.service.gov.uk/media/5a7ec510ed915d74e33f24ee/A_level_business_subject_content.pdf p.2-4
+Business Studies,leadership,2,Management/motivation theories are examined and applied to case studies (rule 1 cap; A14 anchor).,https://assets.publishing.service.gov.uk/media/5a7ec510ed915d74e33f24ee/A_level_business_subject_content.pdf p.4
+Business Studies,law-ethics,2,"'Ethical, legal and environmental issues' is a named content area within the external environment topic.",https://assets.publishing.service.gov.uk/media/5a7ec510ed915d74e33f24ee/A_level_business_subject_content.pdf p.4
+Business Studies,writing,2,Papers 1 and 3 include extended essay-style questions (up to 25 marks) alongside data response.,https://www.aqa.org.uk/subjects/business/a-level/business-7132/specification/specification-at-a-glance
+Business Studies,speaking,0,,
+Business Studies,languages,0,,
+Business Studies,care-empathy,0,,
+Business Studies,teamwork,1,"Motivation/team theories are studied as knowledge, not assessed group work.",
+Business Studies,customer-service,2,"Marketing content (understanding customer needs, market research) is a named, regularly assessed topic.",https://assets.publishing.service.gov.uk/media/5a7ec510ed915d74e33f24ee/A_level_business_subject_content.pdf p.2
+Business Studies,self-management,1,"Exam-only qualification (three written papers), no NEA.",https://www.aqa.org.uk/subjects/business/a-level/business-7132/specification/specification-at-a-glance
+Business Studies,critical-thinking,2,AO4 evaluation of strategic decisions using case-study data is a substantial part of every paper.,https://www.aqa.org.uk/subjects/business/a-level/business-7132/specification/specification-at-a-glance
+Business Studies,problem-solving,1,,
+Business Studies,creativity,1,Enterprise/innovation is studied as a topic within marketing/entrepreneurship content.,
+Business Studies,content-production,0,,
+Economics,data-analysis,2,Each paper includes a data-response section based on given statistics/tables.,https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/specification-at-a-glance
+Economics,programming,0,,
+Economics,digital-ai,0,,
+Economics,cyber-security,0,,
+Economics,numeracy,2,'Quantitative skills will include at least Level 2...a minimum of...20% of the overall A level marks' (10-39% band).,https://assets.publishing.service.gov.uk/media/5a75c42540f0b6488c78ecb5/A_level_economics_subject_content.pdf p.5
+Economics,scientific-method,0,,
+Economics,engineering,0,,
+Economics,practical-making,0,,
+Economics,sustainability,2,"'Market failure and government intervention', including externalities, is a named compulsory content area.",https://assets.publishing.service.gov.uk/media/5a75c42540f0b6488c78ecb5/A_level_economics_subject_content.pdf p.3
+Economics,commercial,2,"'Competition and market power: Business objectives' and firm interdependence are named, regularly assessed content.",https://assets.publishing.service.gov.uk/media/5a75c42540f0b6488c78ecb5/A_level_economics_subject_content.pdf p.3
+Economics,leadership,0,,
+Economics,law-ethics,1,"Government regulation/intervention is studied as policy content, not law/ethics specifically.",
+Economics,writing,2,"Every paper includes an essay section (choice of 1 from 3), each worth up to 25 marks.",https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/specification-at-a-glance
+Economics,speaking,0,,
+Economics,languages,0,,
+Economics,care-empathy,0,,
+Economics,teamwork,0,,
+Economics,customer-service,0,,
+Economics,self-management,1,"Exam-only qualification (three written papers), no NEA.",https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/specification-at-a-glance
+Economics,critical-thinking,2,"Evaluation of competing economic arguments and policies is an explicit, heavily-weighted assessment objective.",https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/specification-at-a-glance
+Economics,problem-solving,1,,
+Economics,creativity,0,,
+Economics,content-production,0,,
+Accounting,data-analysis,2,'Calculation and interpretation of financial measures and ratios' and variance analysis are regularly assessed content.,https://assets.publishing.service.gov.uk/media/5a757b46e5274a1622e22221/Accounting_AS_A_level_subject_content.pdf p.9-10
+Accounting,programming,0,,
+Accounting,digital-ai,0,,
+Accounting,cyber-security,0,,
+Accounting,numeracy,3,"The whole content is quantitative: double-entry, ratios, budgeting, variance analysis and investment appraisal calculations.",https://assets.publishing.service.gov.uk/media/5a757b46e5274a1622e22221/Accounting_AS_A_level_subject_content.pdf p.10-11
+Accounting,scientific-method,0,,
+Accounting,engineering,0,,
+Accounting,practical-making,0,,
+Accounting,sustainability,0,,
+Accounting,commercial,3,The whole qualification is recording and interpreting financial information to support business decisions across 18 content sections.,https://assets.publishing.service.gov.uk/media/5a757b46e5274a1622e22221/Accounting_AS_A_level_subject_content.pdf p.4-11
+Accounting,leadership,1,"Budgets are used 'in planning and control', a minor management-adjacent element.",
+Accounting,law-ethics,2,'The impact of ethical considerations' is a named content area: 'analyse situations to identify ethical considerations and suggest appropriate courses of action.',"https://assets.publishing.service.gov.uk/media/5a757b46e5274a1622e22221/Accounting_AS_A_level_subject_content.pdf p.8,10"
+Accounting,writing,1,"Assessment is predominantly numerical/calculation-based with short evaluative comment, not extended writing.",
+Accounting,speaking,0,,
+Accounting,languages,0,,
+Accounting,care-empathy,0,,
+Accounting,teamwork,0,,
+Accounting,customer-service,0,,
+Accounting,self-management,1,"Exam-only qualification (two written papers), no NEA.",https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/specification-at-a-glance
+Accounting,critical-thinking,2,'Interpretation and evaluation of budgets' and financial performance is a recurring assessed objective.,https://assets.publishing.service.gov.uk/media/5a757b46e5274a1622e22221/Accounting_AS_A_level_subject_content.pdf p.9
+Accounting,problem-solving,1,,
+Accounting,creativity,0,,
+Accounting,content-production,0,,
+Law,data-analysis,0,,
+Law,programming,0,,
+Law,digital-ai,0,,
+Law,cyber-security,0,,
+Law,numeracy,0,,
+Law,scientific-method,0,,
+Law,engineering,0,,
+Law,practical-making,0,,
+Law,sustainability,0,,
+Law,commercial,1,"Contract law touches business transactions but this is legal analysis, not commercial awareness.",
+Law,leadership,0,,
+Law,law-ethics,3,"The whole qualification: nature of law, English legal system, private and public law.",https://assets.publishing.service.gov.uk/media/6287a72e8fa8f55624b69c75/GCE_subject_content_law_May_2022.pdf p.3-7
+Law,writing,3,"'Construct clear, concise and logical legal arguments...using appropriate legal terminology'; A level requires persuasive argument (A15-style anchor).",https://assets.publishing.service.gov.uk/media/6287a72e8fa8f55624b69c75/GCE_subject_content_law_May_2022.pdf p.7
+Law,speaking,0,,
+Law,languages,0,,
+Law,care-empathy,1,"Human rights law covers protection of individuals' rights as knowledge, not caring practice.",https://assets.publishing.service.gov.uk/media/6287a72e8fa8f55624b69c75/GCE_subject_content_law_May_2022.pdf p.6
+Law,teamwork,0,,
+Law,customer-service,0,,
+Law,self-management,1,"Exam-only qualification, no NEA.",
+Law,critical-thinking,3,"'Analyse, apply and evaluate the legal rules and principles' to hypothetical scenarios and 'construct a persuasive argument' are the core assessed skills.",https://assets.publishing.service.gov.uk/media/6287a72e8fa8f55624b69c75/GCE_subject_content_law_May_2022.pdf p.7
+Law,problem-solving,1,Applying rules to scenarios is scored under critical-thinking per rule 6 (evaluation in mark schemes belongs there).,
+Law,creativity,0,,
+Law,content-production,0,,
+Physical Education,data-analysis,2,'Understanding of types of and use of data analysis to optimise performance' is named content; these skills are a minimum of 5% of A-level marks.,https://assets.publishing.service.gov.uk/media/5a74ccc1e5274a3f93b48e60/GCE_AS_and_A_level_subject_content_for_PE.pdf p.8
+Physical Education,programming,0,,
+Physical Education,digital-ai,0,,
+Physical Education,cyber-security,0,,
+Physical Education,numeracy,1,"The DfE-stated minimum for data-analysis/quantitative skills is 5% of marks, below the 10% floor for a numeracy score of 2.",https://assets.publishing.service.gov.uk/media/5a74ccc1e5274a3f93b48e60/GCE_AS_and_A_level_subject_content_for_PE.pdf p.8
+Physical Education,scientific-method,1,Physiology/biomechanics is examined as knowledge; there are no required practicals or investigations.,
+Physical Education,engineering,0,,
+Physical Education,practical-making,0,,
+Physical Education,sustainability,0,,
+Physical Education,commercial,0,,
+Physical Education,leadership,2,The NEA requires assessment 'in one practical activity as either a player/performer or coach' (matches PE-coaching anchor).,https://assets.publishing.service.gov.uk/media/5a74ccc1e5274a3f93b48e60/GCE_AS_and_A_level_subject_content_for_PE.pdf p.4
+Physical Education,law-ethics,1,Drugs in sport/ethical issues are touched on but are not a core assessed focus.,
+Physical Education,writing,2,Both written papers include an 'extended writing' question type across all sections.,https://www.aqa.org.uk/subjects/physical-education/a-level/physical-education-7582/specification/specification-at-a-glance
+Physical Education,speaking,2,The NEA requires learners to 'provide written or verbal analysis of their performance' as part of the practical assessment.,https://www.aqa.org.uk/subjects/physical-education/a-level/physical-education-7582/specification/specification-at-a-glance
+Physical Education,languages,0,,
+Physical Education,care-empathy,0,,
+Physical Education,teamwork,1,The practical NEA can be an individual or team activity; group performance is not itself a guaranteed assessed criterion.,
+Physical Education,customer-service,0,,
+Physical Education,self-management,2,The 30%-weighted NEA is a live assessed performance (rule 4).,https://assets.publishing.service.gov.uk/media/5a74ccc1e5274a3f93b48e60/GCE_AS_and_A_level_subject_content_for_PE.pdf p.4
+Physical Education,critical-thinking,2,'Develop their ability to analyse and evaluate to improve performance' is a named assessed objective across both papers.,https://assets.publishing.service.gov.uk/media/5a74ccc1e5274a3f93b48e60/GCE_AS_and_A_level_subject_content_for_PE.pdf p.3
+Physical Education,problem-solving,1,,
+Physical Education,creativity,0,,
+Physical Education,content-production,0,,
+Sport & Exercise Science,data-analysis,1,No mandatory research-methods/data-analysis unit in the Extended Certificate (Unit 5 is optional).,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/sport-and-exercise-science/2016/specification-and-sample-assessments/9781446940174-btec-nat-l3-extended-cert-sport-and-exercise-science.pdf p.18
+Sport & Exercise Science,programming,0,,
+Sport & Exercise Science,digital-ai,0,,
+Sport & Exercise Science,cyber-security,0,,
+Sport & Exercise Science,numeracy,1,"Functional Anatomy (Unit 2, external) includes some calculation but no stated maths percentage.",
+Sport & Exercise Science,scientific-method,1,Functional Anatomy (Unit 2) and Applied Sport and Exercise Psychology (Unit 3) are exam-based knowledge units with no required practicals.,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/sport-and-exercise-science/2016/specification-and-sample-assessments/9781446940174-btec-nat-l3-extended-cert-sport-and-exercise-science.pdf p.18
+Sport & Exercise Science,engineering,0,,
+Sport & Exercise Science,practical-making,0,,
+Sport & Exercise Science,sustainability,0,,
+Sport & Exercise Science,commercial,0,,
+Sport & Exercise Science,leadership,2,"Unit 6: Coaching for Performance and Fitness (mandatory, synoptic, internal, 25%) requires learners to plan, deliver and evaluate coaching sessions.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/sport-and-exercise-science/2016/specification-and-sample-assessments/9781446940174-btec-nat-l3-extended-cert-sport-and-exercise-science.pdf p.47
+Sport & Exercise Science,law-ethics,0,,
+Sport & Exercise Science,writing,1,"Coaching plans/reports are required in Unit 6, a minor written element.",
+Sport & Exercise Science,speaking,2,"Unit 6 requires learners to actually deliver coaching sessions to athletes, an assessed live-communication task.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/sport-and-exercise-science/2016/specification-and-sample-assessments/9781446940174-btec-nat-l3-extended-cert-sport-and-exercise-science.pdf p.47
+Sport & Exercise Science,languages,0,,
+Sport & Exercise Science,care-empathy,1,"Athlete welfare is a minor consideration within coaching, not a core assessed focus.",
+Sport & Exercise Science,teamwork,1,"Working with athletes/squads is coaching, not being assessed as a team member oneself.",
+Sport & Exercise Science,customer-service,0,,
+Sport & Exercise Science,self-management,2,Unit 6 is a live assessed coaching performance with self-evaluation of impact (rule 4).,https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/sport-and-exercise-science/2016/specification-and-sample-assessments/9781446940174-btec-nat-l3-extended-cert-sport-and-exercise-science.pdf p.47
+Sport & Exercise Science,critical-thinking,2,"Unit 6 Learning aim D: 'Explore the impact of coaching for performance and fitness', requiring evaluation of own practice.",https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/sport-and-exercise-science/2016/specification-and-sample-assessments/9781446940174-btec-nat-l3-extended-cert-sport-and-exercise-science.pdf p.47
+Sport & Exercise Science,problem-solving,1,,
+Sport & Exercise Science,creativity,1,Adapting coaching sessions to athletes is a minor creative element.,
+Sport & Exercise Science,content-production,0,,
+Food Science & Nutrition,data-analysis,1,Dietary analysis is required but is not framed as general statistical data analysis.,https://www.wjec.co.uk/media/atbneifg/wjec-applied-cert-dip-fsn-from-2015-gft-e-23-04-2020-1.pdf p.12
+Food Science & Nutrition,programming,0,,
+Food Science & Nutrition,digital-ai,0,,
+Food Science & Nutrition,cyber-security,0,,
+Food Science & Nutrition,numeracy,2,'Application of knowledge through dietary analysis' (nutrient/calorie calculation) is regularly assessed via scenarios in Unit 1.,https://www.wjec.co.uk/media/atbneifg/wjec-applied-cert-dip-fsn-from-2015-gft-e-23-04-2020-1.pdf p.12
+Food Science & Nutrition,scientific-method,2,"Unit 1 (properties of nutrients) and Unit 2 (how micro-organisms affect food safety) are science content, but assessed via written exam, not required practicals.","https://www.wjec.co.uk/media/atbneifg/wjec-applied-cert-dip-fsn-from-2015-gft-e-23-04-2020-1.pdf p.12,35"
+Food Science & Nutrition,engineering,0,,
+Food Science & Nutrition,practical-making,3,"Unit 1 (180 GLH, half the Diploma) requires learners to 'plan the production of complex dishes' and 'cook complex dishes', internally assessed.",https://www.wjec.co.uk/media/atbneifg/wjec-applied-cert-dip-fsn-from-2015-gft-e-23-04-2020-1.pdf p.12
+Food Science & Nutrition,sustainability,0,,
+Food Science & Nutrition,commercial,1,"Recipe/costing adaptation is a minor element, not a named assessed focus.",
+Food Science & Nutrition,leadership,0,,
+Food Science & Nutrition,law-ethics,3,"Unit 2: Ensuring Food is Safe to Eat (90 GLH, external, mandatory, 25%) is entirely about hazards, risks and control measures for food safety/hygiene.",https://www.wjec.co.uk/media/atbneifg/wjec-applied-cert-dip-fsn-from-2015-gft-e-23-04-2020-1.pdf p.35
+Food Science & Nutrition,writing,1,"Exam answers and food-safety guidance materials are required, not extended essay writing.",
+Food Science & Nutrition,speaking,0,,
+Food Science & Nutrition,languages,0,,
+Food Science & Nutrition,care-empathy,2,"Unit 1 requires meeting the nutritional needs of specific groups (e.g. elderly, cultural/religious diets), applied to realistic scenarios.",https://www.wjec.co.uk/media/atbneifg/wjec-applied-cert-dip-fsn-from-2015-gft-e-23-04-2020-1.pdf p.12
+Food Science & Nutrition,teamwork,0,,
+Food Science & Nutrition,customer-service,1,Catering scenarios touch on client needs but are not a core assessed focus.,
+Food Science & Nutrition,self-management,2,"Unit 1's complex-dish planning and production is a substantial (50% of qualification) internally-assessed practical task under timed conditions (rule 4, live/practical performance).",https://www.wjec.co.uk/media/atbneifg/wjec-applied-cert-dip-fsn-from-2015-gft-e-23-04-2020-1.pdf p.12
+Food Science & Nutrition,critical-thinking,1,Evaluating diets/dishes against nutritional needs is a minor element.,
+Food Science & Nutrition,problem-solving,1,Adapting recipes to meet specific dietary requirements is a minor problem-solving element.,
+Food Science & Nutrition,creativity,1,"Planning dishes involves minor recipe-adaptation creativity, not a dedicated design objective.",
+Food Science & Nutrition,content-production,0,,

@@ -117,6 +117,30 @@ export function buildResults(region: Region, subjects: readonly SubjectName[]) {
   const nationalFit = weightedFit(effective, NATIONAL_DEMAND);
   const national = { fit: nationalFit, tier: tierFor(nationalFit, TIER_CUTOFFS.national[count]) };
 
+  /**
+   * Skills where a second subject lifts the level (reinforcement only changes
+   * the score when the best level is 2). Shown as a star; showing it for every
+   * reinforced skill would star writing for almost everyone and mean nothing.
+   */
+  const boosted = {} as Record<SkillId, boolean>;
+  for (const skill of SKILL_IDS) boosted[skill] = effective[skill] > profile.level[skill];
+
+  /**
+   * The student's developed skills (E ≥ 2) that are in high national demand
+   * (N ≥ 4), most in demand first. Used to reassure students whose subjects
+   * line up less closely with their area's plan (fairness F1/F2, checkpoint 2).
+   */
+  const nationalStrengths = SKILL_IDS.filter(
+    (skill) => effective[skill] >= DEVELOPED && NATIONAL_DEMAND[skill] >= 4,
+  )
+    .sort(
+      (a, b) =>
+        NATIONAL_DEMAND[b] - NATIONAL_DEMAND[a] ||
+        effective[b] - effective[a] ||
+        ranks[a] - ranks[b],
+    )
+    .slice(0, 3);
+
   /** Skills the subjects develop at all, strongest first, then by local demand. */
   const skills = SKILL_IDS.filter((skill) => profile.level[skill] > 0).sort(
     (a, b) => effective[b] - effective[a] || ranks[a] - ranks[b],
@@ -168,6 +192,8 @@ export function buildResults(region: Region, subjects: readonly SubjectName[]) {
   return {
     count,
     profile,
+    boosted,
+    nationalStrengths,
     skills,
     skillRanks: ranks,
     worthAdding: skillsWorthAdding(SKILL_IDS, effective, demand, NATIONAL_DEMAND),

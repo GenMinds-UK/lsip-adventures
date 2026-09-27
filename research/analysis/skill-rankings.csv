@@ -1,0 +1,116 @@
+area,rank,skill,name,demand,national
+cheshire-warrington,1,self-management,Self-management and resilience,5,5
+cheshire-warrington,2,digital-ai,Digital tools and AI literacy,4,5
+cheshire-warrington,3,leadership,Leadership and management,4,5
+cheshire-warrington,4,problem-solving,Problem-solving,4,5
+cheshire-warrington,5,data-analysis,Data literacy and analysis,4,4
+cheshire-warrington,6,programming,Programming and software,4,4
+cheshire-warrington,7,engineering,Engineering and technical skills,4,4
+cheshire-warrington,8,practical-making,Practical and hands-on skills,4,4
+cheshire-warrington,9,sustainability,Sustainability and net zero,4,4
+cheshire-warrington,10,commercial,Commercial and financial awareness,4,4
+cheshire-warrington,11,law-ethics,"Law, ethics and safety",4,4
+cheshire-warrington,12,speaking,"Speaking, listening and presenting",4,4
+cheshire-warrington,13,critical-thinking,Research and critical thinking,4,4
+cheshire-warrington,14,creativity,"Creativity, design and innovation",4,4
+cheshire-warrington,15,content-production,Media and content production,4,2
+cheshire-warrington,16,teamwork,Teamwork and collaboration,3,5
+cheshire-warrington,17,care-empathy,"Care, empathy and wellbeing",3,4
+cheshire-warrington,18,scientific-method,Scientific method and lab skills,3,2
+cheshire-warrington,19,cyber-security,Cyber security and IT systems,2,4
+cheshire-warrington,20,customer-service,Customer and client service,2,4
+cheshire-warrington,21,writing,Written communication,1,5
+cheshire-warrington,22,numeracy,"Maths, modelling and numeracy",1,3
+cheshire-warrington,23,languages,Languages and cultural awareness,0,2
+cumbria,1,self-management,Self-management and resilience,5,5
+cumbria,2,digital-ai,Digital tools and AI literacy,4,5
+cumbria,3,leadership,Leadership and management,4,5
+cumbria,4,teamwork,Teamwork and collaboration,4,5
+cumbria,5,data-analysis,Data literacy and analysis,4,4
+cumbria,6,engineering,Engineering and technical skills,4,4
+cumbria,7,practical-making,Practical and hands-on skills,4,4
+cumbria,8,sustainability,Sustainability and net zero,4,4
+cumbria,9,commercial,Commercial and financial awareness,4,4
+cumbria,10,law-ethics,"Law, ethics and safety",4,4
+cumbria,11,speaking,"Speaking, listening and presenting",4,4
+cumbria,12,customer-service,Customer and client service,4,4
+cumbria,13,care-empathy,"Care, empathy and wellbeing",3,4
+cumbria,14,writing,Written communication,2,5
+cumbria,15,cyber-security,Cyber security and IT systems,2,4
+cumbria,16,numeracy,"Maths, modelling and numeracy",2,3
+cumbria,17,scientific-method,Scientific method and lab skills,2,2
+cumbria,18,problem-solving,Problem-solving,1,5
+cumbria,19,programming,Programming and software,1,4
+cumbria,20,critical-thinking,Research and critical thinking,1,4
+cumbria,21,creativity,"Creativity, design and innovation",1,4
+cumbria,22,content-production,Media and content production,1,2
+cumbria,23,languages,Languages and cultural awareness,0,2
+greater-manchester,1,leadership,Leadership and management,5,5
+greater-manchester,2,digital-ai,Digital tools and AI literacy,4,5
+greater-manchester,3,data-analysis,Data literacy and analysis,4,4
+greater-manchester,4,programming,Programming and software,4,4
+greater-manchester,5,engineering,Engineering and technical skills,4,4
+greater-manchester,6,practical-making,Practical and hands-on skills,4,4
+greater-manchester,7,sustainability,Sustainability and net zero,4,4
+greater-manchester,8,commercial,Commercial and financial awareness,4,4
+greater-manchester,9,speaking,"Speaking, listening and presenting",4,4
+greater-manchester,10,writing,Written communication,3,5
+greater-manchester,11,self-management,Self-management and resilience,3,5
+greater-manchester,12,problem-solving,Problem-solving,3,5
+greater-manchester,13,cyber-security,Cyber security and IT systems,3,4
+greater-manchester,14,law-ethics,"Law, ethics and safety",3,4
+greater-manchester,15,care-empathy,"Care, empathy and wellbeing",3,4
+greater-manchester,16,customer-service,Customer and client service,3,4
+greater-manchester,17,critical-thinking,Research and critical thinking,3,4
+greater-manchester,18,creativity,"Creativity, design and innovation",3,4
+greater-manchester,19,content-production,Media and content production,3,2
+greater-manchester,20,scientific-method,Scientific method and lab skills,2,2
+greater-manchester,21,teamwork,Teamwork and collaboration,1,5
+greater-manchester,22,numeracy,"Maths, modelling and numeracy",1,3
+greater-manchester,23,languages,Languages and cultural awareness,0,2
+lancashire,1,digital-ai,Digital tools and AI literacy,5,5
+lancashire,2,leadership,Leadership and management,4,5
+lancashire,3,self-management,Self-management and resilience,4,5
+lancashire,4,data-analysis,Data literacy and analysis,4,4
+lancashire,5,programming,Programming and software,4,4
+lancashire,6,cyber-security,Cyber security and IT systems,4,4
+lancashire,7,engineering,Engineering and technical skills,4,4
+lancashire,8,practical-making,Practical and hands-on skills,4,4
+lancashire,9,law-ethics,"Law, ethics and safety",4,4
+lancashire,10,care-empathy,"Care, empathy and wellbeing",4,4
+lancashire,11,critical-thinking,Research and critical thinking,4,4
+lancashire,12,commercial,Commercial and financial awareness,3,4
+lancashire,13,creativity,"Creativity, design and innovation",3,4
+lancashire,14,content-production,Media and content production,3,2
+lancashire,15,sustainability,Sustainability and net zero,2,4
+lancashire,16,customer-service,Customer and client service,2,4
+lancashire,17,scientific-method,Scientific method and lab skills,2,2
+lancashire,18,writing,Written communication,1,5
+lancashire,19,teamwork,Teamwork and collaboration,1,5
+lancashire,20,problem-solving,Problem-solving,1,5
+lancashire,21,speaking,"Speaking, listening and presenting",1,4
+lancashire,22,numeracy,"Maths, modelling and numeracy",1,3
+lancashire,23,languages,Languages and cultural awareness,0,2
+liverpool-city-region,1,digital-ai,Digital tools and AI literacy,5,5
+liverpool-city-region,2,leadership,Leadership and management,4,5
+liverpool-city-region,3,writing,Written communication,4,5
+liverpool-city-region,4,self-management,Self-management and resilience,4,5
+liverpool-city-region,5,problem-solving,Problem-solving,4,5
+liverpool-city-region,6,data-analysis,Data literacy and analysis,4,4
+liverpool-city-region,7,engineering,Engineering and technical skills,4,4
+liverpool-city-region,8,practical-making,Practical and hands-on skills,4,4
+liverpool-city-region,9,sustainability,Sustainability and net zero,4,4
+liverpool-city-region,10,commercial,Commercial and financial awareness,4,4
+liverpool-city-region,11,law-ethics,"Law, ethics and safety",4,4
+liverpool-city-region,12,speaking,"Speaking, listening and presenting",4,4
+liverpool-city-region,13,critical-thinking,Research and critical thinking,4,4
+liverpool-city-region,14,programming,Programming and software,3,4
+liverpool-city-region,15,care-empathy,"Care, empathy and wellbeing",3,4
+liverpool-city-region,16,customer-service,Customer and client service,3,4
+liverpool-city-region,17,creativity,"Creativity, design and innovation",3,4
+liverpool-city-region,18,scientific-method,Scientific method and lab skills,3,2
+liverpool-city-region,19,content-production,Media and content production,3,2
+liverpool-city-region,20,teamwork,Teamwork and collaboration,2,5
+liverpool-city-region,21,cyber-security,Cyber security and IT systems,2,4
+liverpool-city-region,22,numeracy,"Maths, modelling and numeracy",1,3
+liverpool-city-region,23,languages,Languages and cultural awareness,0,2

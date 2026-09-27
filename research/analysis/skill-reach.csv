@@ -1,0 +1,24 @@
+skill,subjects scoring 2+,subjects scoring 3,note
+data-analysis,17,2,
+programming,1,1,only Computer Science scores 3
+digital-ai,1,0,
+cyber-security,1,1,only Computer Science scores 3
+numeracy,18,5,
+scientific-method,8,5,
+engineering,4,2,
+practical-making,11,4,
+sustainability,6,1,only Environmental Science scores 3
+commercial,5,2,
+leadership,6,0,
+law-ethics,15,4,
+writing,38,17,
+speaking,6,4,
+languages,4,4,
+care-empathy,2,1,only Health & Social Care scores 3
+teamwork,3,2,
+customer-service,2,0,
+self-management,29,5,
+critical-thinking,41,13,
+problem-solving,17,6,
+creativity,15,8,
+content-production,5,5,

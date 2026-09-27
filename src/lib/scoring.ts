@@ -26,6 +26,8 @@ export const ROLE_MATCH_SHARE = 0.6;
 export const GAP_MATCH_SHARE = 0.5;
 /** Weight of priority fit when ranking quests. */
 export const QUEST_PRIORITY_WEIGHT = 0.25;
+/** Penalty per already-picked quest that shares a lead skill (quest variety). */
+export const QUEST_VARIETY_PENALTY = 0.15;
 
 export type SkillScores<K extends string> = Readonly<Record<K, number>>;
 export type PartialSkillScores<K extends string> = Readonly<Partial<Record<K, number>>>;
@@ -239,10 +241,20 @@ export function pairOverlaps<S extends string, K extends string>(
   return pairs.sort((x, y) => y.score - x.score);
 }
 
+/** The skills a quest leans on most (its highest Q scores). */
+function leadSkills<K extends string>(skills: PartialSkillScores<K>): K[] {
+  const entries = Object.entries(skills) as [K, number | undefined][];
+  const top = Math.max(0, ...entries.map(([, q]) => q ?? 0));
+  return entries.filter(([, q]) => q === top && top > 0).map(([skill]) => skill);
+}
+
 /**
- * Pick quests: score = fit(E, Q)/100 + QUEST_PRIORITY_WEIGHT · pf/100, highest
- * first with ties broken by id, taking at most one quest per priority until
- * `count` are chosen (then topping up if there are too few priorities).
+ * Pick quests. Each quest scores fit(E, Q)/100 + QUEST_PRIORITY_WEIGHT · pf/100.
+ * Quests are chosen one at a time, highest adjusted score first (ties by id):
+ * at most one per priority (topping up if there are too few priorities), and
+ * each candidate loses QUEST_VARIETY_PENALTY for every quest already picked
+ * that shares one of its lead skills, so a student isn't shown four
+ * near-identical quests (checkpoint 2 decision).
  */
 export function pickQuests<
   Q extends { id: string; priorityId: string; skills: PartialSkillScores<K> },
@@ -253,26 +265,45 @@ export function pickQuests<
   priorityFit: Readonly<Record<string, number>>,
   count = 4,
 ): Q[] {
-  const scored = quests
-    .map((quest) => ({
-      quest,
-      score:
-        weightedFit(effective, quest.skills) / 100 +
-        (QUEST_PRIORITY_WEIGHT * (priorityFit[quest.priorityId] ?? 0)) / 100,
-    }))
-    .sort((a, b) => b.score - a.score || a.quest.id.localeCompare(b.quest.id));
+  const candidates = quests.map((quest) => ({
+    quest,
+    lead: leadSkills(quest.skills),
+    score:
+      weightedFit(effective, quest.skills) / 100 +
+      (QUEST_PRIORITY_WEIGHT * (priorityFit[quest.priorityId] ?? 0)) / 100,
+  }));
 
-  const picked: Q[] = [];
-  const usedPriorities = new Set<string>();
-  for (const { quest } of scored) {
-    if (picked.length === count) break;
-    if (usedPriorities.has(quest.priorityId)) continue;
-    picked.push(quest);
-    usedPriorities.add(quest.priorityId);
+  const picked: typeof candidates = [];
+  const pick = (allowRepeatPriority: boolean) => {
+    let best: (typeof candidates)[number] | undefined;
+    let bestScore = -Infinity;
+    for (const candidate of candidates) {
+      if (picked.includes(candidate)) continue;
+      if (
+        !allowRepeatPriority &&
+        picked.some((p) => p.quest.priorityId === candidate.quest.priorityId)
+      ) {
+        continue;
+      }
+      const overlaps = picked.filter((p) => p.lead.some((skill) => candidate.lead.includes(skill)));
+      const adjusted = candidate.score - QUEST_VARIETY_PENALTY * overlaps.length;
+      if (
+        adjusted > bestScore ||
+        (adjusted === bestScore && best && candidate.quest.id.localeCompare(best.quest.id) < 0)
+      ) {
+        best = candidate;
+        bestScore = adjusted;
+      }
+    }
+    if (best) picked.push(best);
+    return best;
+  };
+
+  while (picked.length < count && pick(false)) {
+    // one quest per priority first
   }
-  for (const { quest } of scored) {
-    if (picked.length === count) break;
-    if (!picked.includes(quest)) picked.push(quest);
+  while (picked.length < count && pick(true)) {
+    // then top up if there are fewer priorities than quests to show
   }
-  return picked;
+  return picked.map(({ quest }) => quest);
 }

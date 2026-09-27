@@ -297,3 +297,36 @@ Total: 39 rows across 6 priorities. Every row's `evidence` cell embeds its own p
 4. **"Communication" (p.24 headline) was split unevenly between `speaking` (D4) and `writing` (D2).** Per methodology J1, work-readiness components should be distributed to where they belong; Cumbria's employer-facing "communication" complaints (Annex A p.49, both Visitor Economy and Land Based) read as predominantly oral/interpersonal, so `speaking` gets the headline-level weight. `writing` only has the weaker, bundled Annex A1 p.17 "Maths, English, basic IT" question behind it, so it stays low and honest rather than inheriting the full headline strength.
 5. **`creativity` was not credited for "Design engineer" occupations.** Per methodology §4.1 rule 6 (no double-counting one activity across near-neighbour skills without separate evidence), engineering-design roles named in Annex A's skills-needs tables are scored under `engineering`, and `creativity` is left at a bare implicit 1 via the visitor economy's "cultural & creative" scope, rather than being inflated by the same occupation entries.
 6. **Annex B and Annex D were not located** (referenced by URL in `sources.md` but not downloaded by R0), so no evidence from the action table or the mapping table was available for W scoring; all weights rest on Annex A/A1 and the main plan.
+
+## Second review (D extremes)
+
+Second review, 27 September 2026, under methodology §4.2. The full ruling and the cross-area table are in [`research/d-review.md`](../d-review.md).
+
+**The Annex A1 chart values were re-measured.** The p.15 chart (Q12, 183 responses) is drawn as vector graphics, so each bar's width can be read exactly from the PDF instead of by eye. The measured values are:
+
+| Category | Value |
+|---|---|
+| Skills specific to the job role | 63.2% |
+| Ability to manage own time/prioritise tasks | 32.1% |
+| Leadership/Management skills | 30.4% |
+| Managing their own feelings/handling others | 23.9% |
+| Other | 21.8% |
+| Teamworking | 16.3% |
+| Computer literacy/basic IT skills | 13.0% |
+| Adapting to new equipment/materials | 8.7% |
+| Basic numerical skills and understanding | 6.5% |
+
+The Phase B table above misreads three of these: teamwork (~30%, actually ~16%), practical-making (~13%, actually ~9%) and self-management (~38%, actually ~32%). The p.17 "existing staff" bar is 16.7%, not ~19%. The p.21 chart (Q16) is 100%-stacked: it splits each skill between "next 12 months" and "next 1–3 years". It therefore shows nothing about how many employers want a skill improved, and it cannot support "most employers want improved".
+
+**Ruling applied.** A 5 needs a quantified, whole-sample ERB finding that names the skill. A chart value must also show the gap is material, which I set at one respondent in five (≥ 20%). The ERB's own summary of the survey (Annex A p.44) singles out only the job-specific, leadership/management and basic-functional items. Any floor above 16.3% and up to 30.4% gives the same results.
+
+| Skill | Was | Now | Reason |
+|---|---|---|---|
+| `self-management` | 5 | **5** | Upheld: a headline gap ("reliability", p.24) plus "manage own time/prioritise tasks" at 32.1%. The evidence text is corrected from ~38%. |
+| `teamwork` | 5 | **4** | A headline gap (p.24), but "Teamworking" is 16.3%, below the floor. |
+| `digital-ai` | 5 | **4** | Cross-cutting (p.30), but "Computer literacy/basic IT" is 13.0%. The p.30 phrase "across all priority sectors, employers identified…" is the cross-cutting label, not a measurement of the sample. |
+| `practical-making` | 5 | **4** | A headline gap (p.8, p.24), but "Adapting to new equipment/materials" is 8.7%. |
+| `languages` | 0 | **0** | Upheld. The only hits are "overseas workers" (Annex A p.50) and "overseas graduates" (A1 p.12), which are about workforce origin, not language skills. |
+| `content-production` | 0 | **1** | Not absent: free-text answer 27 to Q12 reads "Video production/youtube" (A1 p.16), and answer 24 mentions "marketing and comms". The plan and Annex A never take this up. A single raw answer is weaker than the plan's own supporting mentions that define level 2, so I scored it 1. |
+
+`leadership` stays at 4. It has a qualifying survey value (30.4%) but is not one of Cumbria's cross-cutting themes or headline gaps, so the scorer's judgement call 1 stands. `writing` stays at 2, with its evidence text corrected to ~17%. The 1s for `critical-thinking`, `problem-solving` and `creativity` stand. A synonym search found only occupation titles ("Design engineers", "Process Improvement engineers") and sector names ("cultural & creative").

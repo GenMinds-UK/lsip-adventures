@@ -291,3 +291,19 @@ Five values were given directly by the coordinator as fixed anchors and are mark
 3. **`sustainability`=4 rests partly on Annex C's survey-design paragraph** (p.80), which names construction/manufacturing/logistics net-zero skill needs but frames them as "questions we asked", not as employer-stated gaps. Kept at 4 (not 5, since no % figure) but flagged as the softest 4 in the set.
 4. **BIM was folded into `engineering` and `digital-ai`,** not `creativity`, per the methodology's instruction that "sector technologies... are folded into engineering, content production or cyber as appropriate" (§3.1).
 5. **HGV driving (L1) was not mapped to any skill.** Driving is explicitly listed as an excluded "occupational licence" in the methodology (§3.1), so this gap has no D or W entry and its role/gap rows carry `self-management`/`practical-making` only for the surrounding job context, not the licence itself.
+
+## Second review (D extremes)
+
+Second review, 27 September 2026, under methodology §4.2. The full ruling and the cross-area table are in [`research/d-review.md`](../d-review.md).
+
+| Skill | Was | Now | Reason |
+|---|---|---|---|
+| `leadership` | 5 | **5** | Upheld: this is the §4.2 anchor. OP3 is "Cross-sectorial", and "According to the LSIP survey, more than half of employers…" (p.12) is whole-sample and states a magnitude. |
+| `languages` | 0 | **0** | Upheld: this is the §4.2 anchor. ESOL appears only as a claimant group (p.79), and "international recruitment" (p.14, p.20) is about workforce origin. |
+| `teamwork` | 0 | **1** | There is no teamwork or collaboration language; the full-text search confirms the scorer's false positives ("Teams", "team managers"). But OP5 states "employers report a lack of work readiness amongst candidates entering the labour market" (p.14), and J1 defines work readiness as a bundle that includes teamwork. The skill is therefore implied by a named shortage, which is level 1, not 0. |
+
+**The QES ruling is upheld and applied everywhere.** Job-title rankings such as "second most in-demand" or "most frequently cited" give no magnitude, so they don't count as survey evidence. The same rule removes C&W's "most frequently identified" 5s.
+
+**Two quantifiers that Phase B didn't discuss.** GM has two interview quantifiers: "Nearly all interviewees from the manufacturing sector reported recruitment difficulties and skills gaps in this field" (EM2, p.20) and "Almost all employers interviewed in this sector mentioned that AI would have a large impact and that upskilling would be needed" (CM1, p.23). Both are confined to one sector's interviewees. The ruling requires the quantified finding to cover the whole sample, as all three §4.2 anchors do, so `engineering` (OP5) and `digital-ai` (OP4) stay at 4. Under a looser reading that accepts a sector-only quantifier alongside a separate cross-cutting label, both would be 5. This is flagged for the user.
+
+**Consistency flag, no change made.** `self-management` is 3 here, and Lancashire's is now 4 on its own "general employer themes" wording. J1 cites GM p.14 as GM's work-readiness finding, so a J1-based reading would put GM at 4 as well. I left it at 3 because GM gives work readiness no cross-cutting label: it sits inside OP5's engineering text.

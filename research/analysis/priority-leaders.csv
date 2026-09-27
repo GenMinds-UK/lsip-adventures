@@ -1,0 +1,341 @@
+area,priority,rank,subject,fit
+cheshire-warrington,Advanced Manufacturing,1,Engineering,68.9
+cheshire-warrington,Advanced Manufacturing,2,Design & Technology (Product Design),66.7
+cheshire-warrington,Advanced Manufacturing,3,Physics,60
+cheshire-warrington,Advanced Manufacturing,4,Construction & the Built Environment,48.9
+cheshire-warrington,Advanced Manufacturing,5,Applied Science,44.4
+cheshire-warrington,Advanced Manufacturing,6.5,Biology,40
+cheshire-warrington,Advanced Manufacturing,6.5,Chemistry,40
+cheshire-warrington,Advanced Manufacturing,8,Food Science & Nutrition,37.8
+cheshire-warrington,Advanced Manufacturing,10,Computer Science,35.6
+cheshire-warrington,Advanced Manufacturing,10,Business Studies,35.6
+cheshire-warrington,Agri-tech and Food Security,1,Engineering,59
+cheshire-warrington,Agri-tech and Food Security,2.5,Physics,56.4
+cheshire-warrington,Agri-tech and Food Security,2.5,Design & Technology (Product Design),56.4
+cheshire-warrington,Agri-tech and Food Security,4,Construction & the Built Environment,53.8
+cheshire-warrington,Agri-tech and Food Security,5.5,Biology,46.2
+cheshire-warrington,Agri-tech and Food Security,5.5,Environmental Science,46.2
+cheshire-warrington,Agri-tech and Food Security,7.5,Chemistry,41
+cheshire-warrington,Agri-tech and Food Security,7.5,Applied Science,41
+cheshire-warrington,Agri-tech and Food Security,9,Geography,38.5
+cheshire-warrington,Agri-tech and Food Security,11,Statistics,25.6
+cheshire-warrington,Business and Professional Services,1,Business Studies,59.6
+cheshire-warrington,Business and Professional Services,2,Design & Technology (Product Design),49.1
+cheshire-warrington,Business and Professional Services,3.5,Computer Science,47.4
+cheshire-warrington,Business and Professional Services,3.5,Accounting,47.4
+cheshire-warrington,Business and Professional Services,5,Physical Education,43.9
+cheshire-warrington,Business and Professional Services,6,Criminology,42.1
+cheshire-warrington,Business and Professional Services,7,Engineering,38.6
+cheshire-warrington,Business and Professional Services,11,Applied Science,36.8
+cheshire-warrington,Business and Professional Services,11,Environmental Science,36.8
+cheshire-warrington,Business and Professional Services,11,Construction & the Built Environment,36.8
+cheshire-warrington,Clean Energy,1.5,Engineering,69
+cheshire-warrington,Clean Energy,1.5,Design & Technology (Product Design),69
+cheshire-warrington,Clean Energy,3,Construction & the Built Environment,57.1
+cheshire-warrington,Clean Energy,4,Environmental Science,42.9
+cheshire-warrington,Clean Energy,5,Physics,40.5
+cheshire-warrington,Clean Energy,6,Biology,38.1
+cheshire-warrington,Clean Energy,7,Food Science & Nutrition,35.7
+cheshire-warrington,Clean Energy,8.5,Chemistry,31
+cheshire-warrington,Clean Energy,8.5,Geography,31
+cheshire-warrington,Clean Energy,10.5,Art & Design (Fine Art),26.2
+cheshire-warrington,Life Sciences,1,Applied Science,69.2
+cheshire-warrington,Life Sciences,3,Biology,64.1
+cheshire-warrington,Life Sciences,3,Chemistry,64.1
+cheshire-warrington,Life Sciences,3,Environmental Science,64.1
+cheshire-warrington,Life Sciences,5,Physics,59
+cheshire-warrington,Life Sciences,6,Geography,56.4
+cheshire-warrington,Life Sciences,7,Design & Technology (Product Design),53.8
+cheshire-warrington,Life Sciences,9,Engineering,48.7
+cheshire-warrington,Life Sciences,9,Criminology,48.7
+cheshire-warrington,Life Sciences,9,Food Science & Nutrition,48.7
+cheshire-warrington,Construction and the Built Environment,1.5,Engineering,71.8
+cheshire-warrington,Construction and the Built Environment,1.5,Design & Technology (Product Design),71.8
+cheshire-warrington,Construction and the Built Environment,3,Construction & the Built Environment,53.8
+cheshire-warrington,Construction and the Built Environment,4,Environmental Science,46.2
+cheshire-warrington,Construction and the Built Environment,5,Food Science & Nutrition,43.6
+cheshire-warrington,Construction and the Built Environment,6.5,Biology,41
+cheshire-warrington,Construction and the Built Environment,6.5,Physics,41
+cheshire-warrington,Construction and the Built Environment,8.5,Chemistry,33.3
+cheshire-warrington,Construction and the Built Environment,8.5,Geography,33.3
+cheshire-warrington,Construction and the Built Environment,10.5,Applied Science,25.6
+cheshire-warrington,Health and Social Care,1,Health & Social Care,52.8
+cheshire-warrington,Health and Social Care,2,Design & Technology (Product Design),50
+cheshire-warrington,Health and Social Care,3.5,Engineering,44.4
+cheshire-warrington,Health and Social Care,3.5,Food Science & Nutrition,44.4
+cheshire-warrington,Health and Social Care,5.5,Business Studies,38.9
+cheshire-warrington,Health and Social Care,5.5,Physical Education,38.9
+cheshire-warrington,Health and Social Care,7,Criminology,36.1
+cheshire-warrington,Health and Social Care,8.5,Computer Science,33.3
+cheshire-warrington,Health and Social Care,8.5,Sport & Exercise Science,33.3
+cheshire-warrington,Health and Social Care,10.5,Construction & the Built Environment,27.8
+cumbria,Advanced Manufacturing & Defence,1,Design & Technology (Product Design),64.4
+cumbria,Advanced Manufacturing & Defence,2,Engineering,51.1
+cumbria,Advanced Manufacturing & Defence,3,Construction & the Built Environment,44.4
+cumbria,Advanced Manufacturing & Defence,4.5,Art & Design (Fine Art),37.8
+cumbria,Advanced Manufacturing & Defence,4.5,Textile Design,37.8
+cumbria,Advanced Manufacturing & Defence,6.5,Physics,35.6
+cumbria,Advanced Manufacturing & Defence,6.5,Graphic Communication,35.6
+cumbria,Advanced Manufacturing & Defence,8,Food Science & Nutrition,33.3
+cumbria,Advanced Manufacturing & Defence,9.5,Computer Science,31.1
+cumbria,Advanced Manufacturing & Defence,9.5,Photography,31.1
+cumbria,Construction,1,Design & Technology (Product Design),73.3
+cumbria,Construction,2,Engineering,60
+cumbria,Construction,3,Construction & the Built Environment,53.3
+cumbria,Construction,4,Food Science & Nutrition,46.7
+cumbria,Construction,5.5,Art & Design (Fine Art),37.8
+cumbria,Construction,5.5,Textile Design,37.8
+cumbria,Construction,8,Physics,35.6
+cumbria,Construction,8,Business Studies,35.6
+cumbria,Construction,8,Graphic Communication,35.6
+cumbria,Construction,10.5,Applied Science,31.1
+cumbria,Energy & Net Zero,1.5,Engineering,71.8
+cumbria,Energy & Net Zero,1.5,Design & Technology (Product Design),71.8
+cumbria,Energy & Net Zero,3,Construction & the Built Environment,53.8
+cumbria,Energy & Net Zero,4,Physics,43.6
+cumbria,Energy & Net Zero,5.5,Environmental Science,41
+cumbria,Energy & Net Zero,5.5,Food Science & Nutrition,41
+cumbria,Energy & Net Zero,7,Biology,38.5
+cumbria,Energy & Net Zero,8,Chemistry,33.3
+cumbria,Energy & Net Zero,9.5,Applied Science,28.2
+cumbria,Energy & Net Zero,9.5,Geography,28.2
+cumbria,Health & Social Care,1,Health & Social Care,70
+cumbria,Health & Social Care,2,Food Science & Nutrition,53.3
+cumbria,Health & Social Care,3.5,Design & Technology (Product Design),43.3
+cumbria,Health & Social Care,3.5,Business Studies,43.3
+cumbria,Health & Social Care,5,Criminology,36.7
+cumbria,Health & Social Care,6,Engineering,33.3
+cumbria,Health & Social Care,8,Psychology,26.7
+cumbria,Health & Social Care,8,Construction & the Built Environment,26.7
+cumbria,Health & Social Care,8,Physical Education,26.7
+cumbria,Health & Social Care,10,Law,23.3
+cumbria,Land-based Industries,1,Design & Technology (Product Design),61.4
+cumbria,Land-based Industries,2,Engineering,52.6
+cumbria,Land-based Industries,3,Construction & the Built Environment,47.4
+cumbria,Land-based Industries,4,Food Science & Nutrition,40.4
+cumbria,Land-based Industries,5,Applied Science,35.1
+cumbria,Land-based Industries,6.5,Environmental Science,33.3
+cumbria,Land-based Industries,6.5,Geography,33.3
+cumbria,Land-based Industries,9,Biology,31.6
+cumbria,Land-based Industries,9,Physics,31.6
+cumbria,Land-based Industries,9,Business Studies,31.6
+cumbria,Visitor Economy,1,Design & Technology (Product Design),64.1
+cumbria,Visitor Economy,3,Art & Design (Fine Art),46.2
+cumbria,Visitor Economy,3,Textile Design,46.2
+cumbria,Visitor Economy,3,Food Science & Nutrition,46.2
+cumbria,Visitor Economy,5,Engineering,41
+cumbria,Visitor Economy,7,Graphic Communication,38.5
+cumbria,Visitor Economy,7,Photography,38.5
+cumbria,Visitor Economy,7,Drama & Theatre,38.5
+cumbria,Visitor Economy,9,Sport & Exercise Science,35.9
+cumbria,Visitor Economy,10,Business Studies,33.3
+greater-manchester,Construction,1,Design & Technology (Product Design),72.9
+greater-manchester,Construction,2,Engineering,68.8
+greater-manchester,Construction,3,Construction & the Built Environment,60.4
+greater-manchester,Construction,4,Physics,54.2
+greater-manchester,Construction,5,Food Science & Nutrition,43.8
+greater-manchester,Construction,6.5,Biology,41.7
+greater-manchester,Construction,6.5,Environmental Science,41.7
+greater-manchester,Construction,8,Chemistry,37.5
+greater-manchester,Construction,9,Applied Science,35.4
+greater-manchester,Construction,12,Computer Science,33.3
+greater-manchester,Logistics,1,Business Studies,58.3
+greater-manchester,Logistics,2,Design & Technology (Product Design),41.7
+greater-manchester,Logistics,3,Physical Education,30.6
+greater-manchester,Logistics,4,Sport & Exercise Science,27.8
+greater-manchester,Logistics,5,Accounting,25
+greater-manchester,Logistics,8.5,Construction & the Built Environment,22.2
+greater-manchester,Logistics,8.5,French,22.2
+greater-manchester,Logistics,8.5,Spanish,22.2
+greater-manchester,Logistics,8.5,German,22.2
+greater-manchester,Logistics,8.5,Chinese (Mandarin),22.2
+greater-manchester,Health & Social Care,1.5,Design & Technology (Product Design),45.5
+greater-manchester,Health & Social Care,1.5,Health & Social Care,45.5
+greater-manchester,Health & Social Care,4.5,Engineering,36.4
+greater-manchester,Health & Social Care,4.5,Business Studies,36.4
+greater-manchester,Health & Social Care,4.5,Physical Education,36.4
+greater-manchester,Health & Social Care,4.5,Sport & Exercise Science,36.4
+greater-manchester,Health & Social Care,7,Food Science & Nutrition,33.3
+greater-manchester,Health & Social Care,8,Dance,30.3
+greater-manchester,Health & Social Care,11,Computer Science,24.2
+greater-manchester,Health & Social Care,11,Art & Design (Fine Art),24.2
+greater-manchester,Engineering & Manufacturing,1,Design & Technology (Product Design),69.4
+greater-manchester,Engineering & Manufacturing,2,Engineering,63.9
+greater-manchester,Engineering & Manufacturing,3.5,Physics,55.6
+greater-manchester,Engineering & Manufacturing,3.5,Construction & the Built Environment,55.6
+greater-manchester,Engineering & Manufacturing,5,Applied Science,50
+greater-manchester,Engineering & Manufacturing,6.5,Art & Design (Fine Art),47.2
+greater-manchester,Engineering & Manufacturing,6.5,Textile Design,47.2
+greater-manchester,Engineering & Manufacturing,8,Food Science & Nutrition,41.7
+greater-manchester,Engineering & Manufacturing,11,Biology,38.9
+greater-manchester,Engineering & Manufacturing,11,Chemistry,38.9
+greater-manchester,Digital & Technology,1,Computer Science,71.1
+greater-manchester,Digital & Technology,2,Applied Science,31.1
+greater-manchester,Digital & Technology,3.5,Statistics,28.9
+greater-manchester,Digital & Technology,3.5,Physical Education,28.9
+greater-manchester,Digital & Technology,5,Sport & Exercise Science,26.7
+greater-manchester,Digital & Technology,8,Geography,24.4
+greater-manchester,Digital & Technology,8,French,24.4
+greater-manchester,Digital & Technology,8,Spanish,24.4
+greater-manchester,Digital & Technology,8,German,24.4
+greater-manchester,Digital & Technology,8,Chinese (Mandarin),24.4
+greater-manchester,Creative & Media,1,Graphic Communication,72.7
+greater-manchester,Creative & Media,2,Photography,66.7
+greater-manchester,Creative & Media,3,Media Studies,63.6
+greater-manchester,Creative & Media,5,Design & Technology (Product Design),54.5
+greater-manchester,Creative & Media,5,Film Studies,54.5
+greater-manchester,Creative & Media,5,Music Technology,54.5
+greater-manchester,Creative & Media,7.5,Art & Design (Fine Art),51.5
+greater-manchester,Creative & Media,7.5,Textile Design,51.5
+greater-manchester,Creative & Media,9,Music,36.4
+greater-manchester,Creative & Media,10.5,Construction & the Built Environment,33.3
+greater-manchester,Hospitality,1,Design & Technology (Product Design),83.3
+greater-manchester,Hospitality,2.5,Art & Design (Fine Art),62.5
+greater-manchester,Hospitality,2.5,Textile Design,62.5
+greater-manchester,Hospitality,4.5,Engineering,58.3
+greater-manchester,Hospitality,4.5,Food Science & Nutrition,58.3
+greater-manchester,Hospitality,6.5,Graphic Communication,50
+greater-manchester,Hospitality,6.5,Photography,50
+greater-manchester,Hospitality,8,Applied Science,41.7
+greater-manchester,Hospitality,9,Drama & Theatre,37.5
+greater-manchester,Hospitality,13.5,Biology,33.3
+greater-manchester,Finance & Professional Services,1.5,Business Studies,77.8
+greater-manchester,Finance & Professional Services,1.5,Accounting,77.8
+greater-manchester,Finance & Professional Services,3.5,Design & Technology (Product Design),59.3
+greater-manchester,Finance & Professional Services,3.5,Food Science & Nutrition,59.3
+greater-manchester,Finance & Professional Services,5.5,Construction & the Built Environment,48.1
+greater-manchester,Finance & Professional Services,5.5,Economics,48.1
+greater-manchester,Finance & Professional Services,7.5,Engineering,44.4
+greater-manchester,Finance & Professional Services,7.5,Law,44.4
+greater-manchester,Finance & Professional Services,9,Criminology,40.7
+greater-manchester,Finance & Professional Services,11.5,Computer Science,37
+lancashire,Advanced Manufacturing & Engineering,1,Design & Technology (Product Design),51
+lancashire,Advanced Manufacturing & Engineering,2,Engineering,49
+lancashire,Advanced Manufacturing & Engineering,3,Computer Science,43.1
+lancashire,Advanced Manufacturing & Engineering,4,Physics,37.3
+lancashire,Advanced Manufacturing & Engineering,5,Construction & the Built Environment,35.3
+lancashire,Advanced Manufacturing & Engineering,6,Applied Science,31.4
+lancashire,Advanced Manufacturing & Engineering,7.5,Art & Design (Fine Art),27.5
+lancashire,Advanced Manufacturing & Engineering,7.5,Textile Design,27.5
+lancashire,Advanced Manufacturing & Engineering,10,Biology,25.5
+lancashire,Advanced Manufacturing & Engineering,10,Chemistry,25.5
+lancashire,Construction,1,Design & Technology (Product Design),76.2
+lancashire,Construction,2,Engineering,66.7
+lancashire,Construction,3.5,Art & Design (Fine Art),47.6
+lancashire,Construction,3.5,Textile Design,47.6
+lancashire,Construction,5,Construction & the Built Environment,45.2
+lancashire,Construction,6.5,Graphic Communication,40.5
+lancashire,Construction,6.5,Photography,40.5
+lancashire,Construction,8,Physics,38.1
+lancashire,Construction,9,Food Science & Nutrition,35.7
+lancashire,Construction,11,Applied Science,33.3
+lancashire,"Hospitality, Leisure & Tourism",1,Design & Technology (Product Design),66.7
+lancashire,"Hospitality, Leisure & Tourism",2,Engineering,46.2
+lancashire,"Hospitality, Leisure & Tourism",3.5,Art & Design (Fine Art),43.6
+lancashire,"Hospitality, Leisure & Tourism",3.5,Textile Design,43.6
+lancashire,"Hospitality, Leisure & Tourism",5.5,Business Studies,41
+lancashire,"Hospitality, Leisure & Tourism",5.5,Food Science & Nutrition,41
+lancashire,"Hospitality, Leisure & Tourism",7.5,Graphic Communication,35.9
+lancashire,"Hospitality, Leisure & Tourism",7.5,Photography,35.9
+lancashire,"Hospitality, Leisure & Tourism",10.5,Applied Science,30.8
+lancashire,"Hospitality, Leisure & Tourism",10.5,Construction & the Built Environment,30.8
+lancashire,Social Care,1,Health & Social Care,51.5
+lancashire,Social Care,2,Design & Technology (Product Design),45.5
+lancashire,Social Care,3,Food Science & Nutrition,42.4
+lancashire,Social Care,4.5,Engineering,39.4
+lancashire,Social Care,4.5,Physical Education,39.4
+lancashire,Social Care,7,Computer Science,36.4
+lancashire,Social Care,7,Business Studies,36.4
+lancashire,Social Care,7,Criminology,36.4
+lancashire,Social Care,9,Sport & Exercise Science,33.3
+lancashire,Social Care,10.5,Biology,30.3
+lancashire,Digital,1,Computer Science,60
+lancashire,Digital,2,Media Studies,41.7
+lancashire,Digital,3,Design & Technology (Product Design),36.7
+lancashire,Digital,4.5,Business Studies,35
+lancashire,Digital,4.5,Graphic Communication,35
+lancashire,Digital,6,Criminology,33.3
+lancashire,Digital,7.5,Photography,31.7
+lancashire,Digital,7.5,Film Studies,31.7
+lancashire,Digital,10,Construction & the Built Environment,30
+lancashire,Digital,10,Accounting,30
+lancashire,National Security & Resilience,2,Engineering,45.5
+lancashire,National Security & Resilience,2,Design & Technology (Product Design),45.5
+lancashire,National Security & Resilience,2,Construction & the Built Environment,45.5
+lancashire,National Security & Resilience,4.5,Computer Science,39.4
+lancashire,National Security & Resilience,4.5,Physics,39.4
+lancashire,National Security & Resilience,6.5,Applied Science,27.3
+lancashire,National Security & Resilience,6.5,Food Science & Nutrition,27.3
+lancashire,National Security & Resilience,9,Biology,24.2
+lancashire,National Security & Resilience,9,Chemistry,24.2
+lancashire,National Security & Resilience,9,Environmental Science,24.2
+lancashire,Clean Energy & Nuclear,1,Engineering,57.6
+lancashire,Clean Energy & Nuclear,2,Construction & the Built Environment,54.5
+lancashire,Clean Energy & Nuclear,3,Design & Technology (Product Design),51.5
+lancashire,Clean Energy & Nuclear,4,Environmental Science,36.4
+lancashire,Clean Energy & Nuclear,5.5,Computer Science,33.3
+lancashire,Clean Energy & Nuclear,5.5,Physics,33.3
+lancashire,Clean Energy & Nuclear,7,Biology,27.3
+lancashire,Clean Energy & Nuclear,8,Geography,24.2
+lancashire,Clean Energy & Nuclear,9.5,Chemistry,18.2
+lancashire,Clean Energy & Nuclear,9.5,Food Science & Nutrition,18.2
+liverpool-city-region,"Professional, Business & Financial Services",1.5,Engineering,56.4
+liverpool-city-region,"Professional, Business & Financial Services",1.5,Design & Technology (Product Design),56.4
+liverpool-city-region,"Professional, Business & Financial Services",3.5,Computer Science,51.3
+liverpool-city-region,"Professional, Business & Financial Services",3.5,Business Studies,51.3
+liverpool-city-region,"Professional, Business & Financial Services",5,Physical Education,50
+liverpool-city-region,"Professional, Business & Financial Services",6,Sport & Exercise Science,47.4
+liverpool-city-region,"Professional, Business & Financial Services",8,Applied Science,46.2
+liverpool-city-region,"Professional, Business & Financial Services",8,Geography,46.2
+liverpool-city-region,"Professional, Business & Financial Services",8,Criminology,46.2
+liverpool-city-region,"Professional, Business & Financial Services",10,Construction & the Built Environment,44.9
+liverpool-city-region,Advanced Manufacturing and Clean Energy,1,Design & Technology (Product Design),57.6
+liverpool-city-region,Advanced Manufacturing and Clean Energy,2,Engineering,54.5
+liverpool-city-region,Advanced Manufacturing and Clean Energy,3,Construction & the Built Environment,47
+liverpool-city-region,Advanced Manufacturing and Clean Energy,4,Computer Science,43.9
+liverpool-city-region,Advanced Manufacturing and Clean Energy,5,Physics,39.4
+liverpool-city-region,Advanced Manufacturing and Clean Energy,6,Food Science & Nutrition,36.4
+liverpool-city-region,Advanced Manufacturing and Clean Energy,7,Environmental Science,34.8
+liverpool-city-region,Advanced Manufacturing and Clean Energy,8,Biology,33.3
+liverpool-city-region,Advanced Manufacturing and Clean Energy,9,Applied Science,31.8
+liverpool-city-region,Advanced Manufacturing and Clean Energy,10,Chemistry,30.3
+liverpool-city-region,Construction and the Built Environment,1,Engineering,62.3
+liverpool-city-region,Construction and the Built Environment,2,Design & Technology (Product Design),60.9
+liverpool-city-region,Construction and the Built Environment,3,Construction & the Built Environment,49.3
+liverpool-city-region,Construction and the Built Environment,4,Environmental Science,37.7
+liverpool-city-region,Construction and the Built Environment,5.5,Geography,36.2
+liverpool-city-region,Construction and the Built Environment,5.5,Food Science & Nutrition,36.2
+liverpool-city-region,Construction and the Built Environment,7.5,Biology,34.8
+liverpool-city-region,Construction and the Built Environment,7.5,Physics,34.8
+liverpool-city-region,Construction and the Built Environment,10.5,Art & Design (Fine Art),30.4
+liverpool-city-region,Construction and the Built Environment,10.5,Textile Design,30.4
+liverpool-city-region,"Health, Life Science & Care",1,Design & Technology (Product Design),43.1
+liverpool-city-region,"Health, Life Science & Care",2,Business Studies,40.3
+liverpool-city-region,"Health, Life Science & Care",3.5,Physical Education,38.9
+liverpool-city-region,"Health, Life Science & Care",3.5,Food Science & Nutrition,38.9
+liverpool-city-region,"Health, Life Science & Care",5,Applied Science,37.5
+liverpool-city-region,"Health, Life Science & Care",7,Biology,36.1
+liverpool-city-region,"Health, Life Science & Care",7,Environmental Science,36.1
+liverpool-city-region,"Health, Life Science & Care",7,Engineering,36.1
+liverpool-city-region,"Health, Life Science & Care",9.5,Health & Social Care,33.3
+liverpool-city-region,"Health, Life Science & Care",9.5,Criminology,33.3
+liverpool-city-region,Visitor Economy,1,Business Studies,52.1
+liverpool-city-region,Visitor Economy,2,Design & Technology (Product Design),50
+liverpool-city-region,Visitor Economy,3.5,Engineering,37.5
+liverpool-city-region,Visitor Economy,3.5,Physical Education,37.5
+liverpool-city-region,Visitor Economy,5,Sport & Exercise Science,35.4
+liverpool-city-region,Visitor Economy,7,Health & Social Care,33.3
+liverpool-city-region,Visitor Economy,7,Construction & the Built Environment,33.3
+liverpool-city-region,Visitor Economy,7,Food Science & Nutrition,33.3
+liverpool-city-region,Visitor Economy,9,Computer Science,29.2
+liverpool-city-region,Visitor Economy,12,Accounting,25
+liverpool-city-region,Creative Industries,1,Design & Technology (Product Design),53
+liverpool-city-region,Creative Industries,2,Graphic Communication,43.9
+liverpool-city-region,Creative Industries,4,Engineering,42.4
+liverpool-city-region,Creative Industries,4,Business Studies,42.4
+liverpool-city-region,Creative Industries,4,Media Studies,42.4
+liverpool-city-region,Creative Industries,6,Photography,40.9
+liverpool-city-region,Creative Industries,7,Dance,37.9
+liverpool-city-region,Creative Industries,8,Music Technology,34.8
+liverpool-city-region,Creative Industries,10.5,Computer Science,33.3
+liverpool-city-region,Creative Industries,10.5,Construction & the Built Environment,33.3

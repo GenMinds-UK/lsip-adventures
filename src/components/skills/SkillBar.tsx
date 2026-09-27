@@ -28,7 +28,7 @@ export function SkillBar({ level, reinforced }: { level: number; reinforced?: bo
       {reinforced ? <Star className="text-accent h-3.5 w-3.5 fill-current" aria-hidden /> : null}
       <span className="sr-only">
         {words}
-        {reinforced ? ", reinforced by two or more of your subjects" : ""}
+        {reinforced ? ", boosted because two of your subjects build it" : ""}
       </span>
     </span>
   );

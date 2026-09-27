@@ -479,3 +479,97 @@ p.134), which are not the ERB. I have used the exact GOV.UK wording,
 "South and North Cheshire Chamber of Commerce", in `region.csv`/`contacts.csv` per the
 task instructions, and flagged the "& Industry" variant here for anyone reconciling
 against the LSIP PDF's own cover/footer text.
+
+## 9. Phase B scoring (demand.csv)
+
+Scored 2026-09-27 against `research/methodology.md` §4.2 (D rubric). All citations use
+the canonical PDF (`.../files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf`)
+and cite the first page of each duplicated pair, per §1's page-numbering note above.
+
+| skill | D | one-line justification |
+|---|---|---|
+| data-analysis | 5 | Named in the Employer Perspective's headline, all-sector finding ("digital and data capability" — p.18) and the cross-cutting Digital section's named top skills (p.22); also a stated need in Advanced Manufacturing, BPS and Life Sciences. |
+| digital-ai | 5 | Cross-cutting Priority 1 in its own right (AI adoption, governance, security), reinforced by a local, C&W-specific Lightcast figure (~32% of employers expect skills to change significantly by 2030, p.22) and named across 6 of 7 sector chapters. |
+| engineering | 5 | The top-named pressure in Advanced Manufacturing, Clean Energy, Construction and Agri-tech, backed by the Employer Skills Survey's 56% hard-to-fill / 39% skill-shortage figures for manufacturing (p.28). |
+| practical-making | 5 | Core trades (electricians, plumbers, bricklayers, joiners) are the central pressure in Construction and Clean Energy, backed by ECITB's 60–70% craft/technician workforce-demand figure (p.48) and Construction's own 50%+ hard-to-fill stat. |
+| sustainability | 5 | The dedicated Sustainability cross-cutting theme names concrete green skills directly from the LSIP's own business survey (p.24); also central to the whole Clean Energy chapter and Construction's retrofit priority. Caveat: the same survey found ~50% of businesses expect "no impact" from low carbon — a genuine mixed signal, noted below. |
+| leadership | 5 | Named in the Employer Perspective's headline top-3 finding (p.18) and explicitly "consistently hard to fill" for front-line supervisory roles (Visitor Economy, p.24); also a stated priority in Health & Social Care and BPS. |
+| care-empathy | 5 | The whole Health & Social Care chapter is organised around workforce stability in caring roles, and the Employer Perspective's headline survey finding names "interpersonal resilience...for front-line care work" explicitly (p.18). |
+| self-management | 5 | The methodology's own anchor example for this exact region/skill pair: the all-sector, survey-based "workplace behaviours...reliability and practical readiness" finding (p.18). |
+| programming | 4 | Named within the cross-cutting Digital section's "most in-demand" local skills list (SQL, Agile, C#, p.22 — flagged in the plan itself as 2023 data) and as a growth need in Life Sciences and BPS; no dedicated shortage percentage. |
+| commercial | 4 | Explicitly named as a competency gap within the cross-cutting Sustainability theme ("blended finance literacy...requires provision that does not currently exist at scale locally", p.24); a narrower base of evidence than the 5s — see judgement calls below. |
+| law-ethics | 4 | Named as a stated skills need in Business & Professional Services ("regulatory and compliance knowledge", p.36) and Life Sciences (pharmaceutical/clinical regulatory knowledge, p.44) — a gap in 2+ sectors, no quantified survey figure. |
+| speaking | 4 | Drawn from the same all-sector headline finding used for self-management ("communication habits", p.18) plus a supporting training-provider quote naming "teamwork, communication, problem-solving" (p.18/p.30) — see judgement call below on shared evidence. |
+| critical-thinking | 4 | BPS's own central challenge is progression "into higher-level professional, analytical and digital positions" (p.34); reinforced by the cross-cutting Digital section's "editorial judgement" shift for creative roles (p.22). |
+| problem-solving | 4 | Named within the cross-cutting Digital section's skills list (p.22) and in a supporting employer quote about apprentices lacking "teamwork, communication, problem-solving" (p.18). |
+| creativity | 4 | Substantively discussed within the "Digital and Creative" cross-cutting theme itself — creative roles "shifting toward creative direction, editorial judgement and audience strategy" (p.22). |
+| content-production | 4 | Also drawn from the "Digital and Creative" cross-cutting theme (p.22) and named directly in the system-wide digital-literacy action ("digital content creation", p.58). |
+| scientific-method | 3 | A clearly named, single-sector gap: Life Sciences' own "structural gap at Level 4-5" for laboratory and clinical manufacturing technician pathways (p.44) — not stated as a gap in any other sector. |
+| teamwork | 3 | A single, concrete supporting quote from an Advanced-Manufacturing-context apprenticeships manager ("teamwork, communication, problem-solving", p.18) — real but narrower evidence than the headline all-sector finding. |
+| cyber-security | 2 | Appears only inside action/programme text (system-wide digital-literacy provision, p.58; a BPS upskilling action, p.64) rather than being named as a current shortage anywhere in the evidence sections. |
+| customer-service | 2 | Appears only as a named SOC occupation category ("Customer Service Occupations") in the Business & Professional Services occupation-mapping annex (p.80) — an occupation-table mention, not a stated gap. |
+| numeracy | 1 | Not named as a gap anywhere; only implicit, via mentions like "data modelling skills" (p.22) and the technical/measurement content of named occupations (engineers, fitters). Consistent with methodology §3.2 J6's expectation of low local demand. |
+| writing | 1 | No distinct written-communication gap is named anywhere; only implicit via the general, undifferentiated "communication habits" finding (p.18), which I have scored primarily under self-management and speaking. |
+| languages | 0 | No mention of foreign languages anywhere in the plan, including in Life Sciences' discussion of its internationally-recruited workforce. Consistent with methodology §3.2 J7. |
+
+### Judgement calls (flagged for review)
+
+- **`data-analysis`, `leadership`, `care-empathy`, `speaking` all partly rely on the same
+  single headline sentence** — "Employers most frequently identified technical skills,
+  digital and data capability, and leadership and management as growing in importance"
+  (p.18) plus the adjoining all-sector survey finding about workplace behaviours and
+  communication habits (also p.18, the same passage methodology.md uses as its own
+  `self-management` anchor for this region). I read "most frequently identified" and
+  the all-sector survey framing as valid, if qualitative, employer-survey evidence
+  (matching the rubric's own precedent for LCR's "virtually all of the deep-dive
+  interviews" hedge), so I let multiple skills draw D=5 from this one rich passage
+  rather than reserving it for a single skill. A reviewer who wants a stricter one-skill-
+  per-quote rule should downgrade `speaking` to 4 and possibly `data-analysis`/`leadership`
+  to 4 as well.
+- **`commercial` = 4** rests on one fairly narrow mention (financial literacy for nature-
+  based/land-management projects, p.24) rather than broad evidence of commercial/
+  financial-awareness shortage across the mainstream economy. It clears the bar only
+  because that mention sits inside a cross-cutting theme's own text, which the rubric
+  treats as an automatic floor of 4. A reviewer may consider this over-generous.
+  Same reasoning applies to `creativity` and `content-production` (both drawn from the
+  "Digital and Creative" theme's short discussion of creative roles adapting to AI,
+  p.22) and to `problem-solving`/`programming` (drawn from the same cross-cutting
+  Digital skills list, p.22).
+- **`sustainability` = 5** despite a genuine mixed signal in the same survey: about half
+  of businesses said low carbon would have "no expected impact" on them (p.24). I scored
+  on the strongest supporting evidence per the rubric's instruction ("take the highest
+  level the evidence supports"), but flagged the caveat in the table above and in
+  `demand.csv`'s evidence text is necessarily short — the fuller caveat is only here.
+- **`writing` vs `speaking`**: the LSIP never distinguishes written from spoken
+  communication — it only uses the bundled phrase "communication habits". I split the
+  evidence by judgement (self-management/speaking get credit, writing stays low) rather
+  than scoring both identically, since no A-level-relevant "reports", "emails" or
+  "written communication" language appears anywhere in the plan (unlike, for example,
+  GM's "professional emails" quote).
+- **Page-citation correction:** my original Phase A draft mis-cited the whole Cross-
+  Cutting Priorities section (Digital and Creative / Sustainability / Visitor Economy)
+  using the document's own printed footer numbers instead of extraction page-index
+  numbers, and my first pass at the R0 duplicate-pair remapping then converted those
+  footer numbers a second time. This has been corrected throughout (see §4's note) and
+  cross-checked against a dozen independent phrase searches in the canonical
+  `r0-cw-lsip-2026.txt` before being relied on for `demand.csv`/`priority_weights.csv`.
+
+## Second review (D extremes)
+
+Second review, 27 September 2026, under methodology §4.2 ("a second reviewer checks every 5 and every 0"). The full ruling and the cross-area table are in [`research/d-review.md`](../d-review.md). Page numbers are the canonical PDF index; the first page of each duplicated pair is cited.
+
+**Ruling applied.** A 5 needs a quantified finding from the ERB's own survey or structured engagement. The finding must cover the whole sample, state a magnitude and name this skill. A ranking such as "most frequently identified" is not a magnitude; this is the same test that GM applied to its QES job-title rankings. Third-party figures are not the ERB's own evidence either: Lightcast, ECITB, Skills for Care, Cogent and sector-level ESS vacancy rates. A single quantified passage that describes one bundled gap supports a 5 only for the bundle's core skill (the anchor gives it to self-management), not for every component it lists.
+
+| Skill | Was | Now | Reason |
+|---|---|---|---|
+| `self-management` | 5 | **5** | Upheld: this is the §4.2 anchor. "Across every sector represented in the survey and interviews, employers flagged the same gap…" (p.18) is a universal quantifier over the ERB's own sample. |
+| `data-analysis` | 5 | **4** | Cross-cutting (p.18 finding, p.22 Digital theme). "Most frequently identified" is a ranking with no magnitude. |
+| `leadership` | 5 | **4** | Same p.18 ranking. "Consistently hard to fill" (p.24) is not a magnitude. |
+| `digital-ai` | 5 | **4** | Cross-cutting (Digital Priority 1, p.22). The 32% figure is Lightcast's, not the LSIP survey's, and measures expected change in skills rather than a gap. The LSIP survey's AI finding (p.22) has no figure. |
+| `sustainability` | 5 | **4** | A cross-cutting theme (p.24). The LSIP survey names green skills but gives no figure. Its only figure, "around 50%… 'no expected impact'", points against a gap. |
+| `engineering` | 5 | **4** | A gap in 2+ sectors (p.28, p.40), but not cross-cutting. The 56%/39% figures are NW ESS vacancy rates for the manufacturing sector as a whole, not for this skill. |
+| `practical-making` | 5 | **4** | A gap in 2+ sectors (p.48, p.40). ECITB's 60–70% is a share of workforce demand, from a third party. |
+| `care-empathy` | 5 | **3** | A gap in one priority sector (Health and Social Care, p.52). The p.18 phrase "interpersonal resilience required for front-line care work" is only an example ("e.g.") of the essential-business-skills gap. |
+| `languages` | 0 | **0** | Upheld. Synonym search found only metaphors ("speaking different languages", "one language on essential business skills", p.18, p.116). |
+
+`speaking` stays at 4. "Communication habits" is part of the same p.18 bundle, so it can't take a second 5 from that passage.

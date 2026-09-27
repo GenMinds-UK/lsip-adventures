@@ -303,6 +303,59 @@ Both are in high demand in almost every area (§4.2), but only Business, and the
 | creativity | Art titles, D&T, Drama (devising), Dance (choreography), Music (composing) | — |
 | content-production | Media, Film, Photography, Music Technology, Graphic Communication | Analysing media without producing it is 1 |
 
+### 4.1.1 Adjudication rulings (R2)
+
+The R2 adjudicator made these rulings after double scoring, to settle the ambiguities the scorers raised. They bind any re-scoring of M. The cells each ruling affected are listed in [m-adjudication.md](m-adjudication.md).
+
+1. **Precedence.** The score levels, rules 1–7 and anchors A1–A18 are binding. The "typical 3" table is only an aid, so where the two conflict, the rules win. A conditional entry in the table ("if practicals are required", "Music ensemble", "PE with a coaching role") applies only when the condition is met under the rules. A subject that the table leaves out can still score 3.
+2. **What meets level 2.** Any one of the listed forms is enough:
+   - a dedicated item of compulsory content that is examined;
+   - a skill the DfE or reference content requires;
+   - a minimum mark weighting;
+   - a regular assessment feature.
+
+   The skill does not also have to be "separately assessed" or "the assessed focus". These do not meet level 2 on their own: a context inside another topic (externalities under market failure), an aim or rationale sentence, and optional content. Rule 1's cap still applies.
+3. **Options.** Score only what every candidate on the reference spec must do (§9, limitation 3). Optional topics, routes, roles and units don't count, unless every permitted option shares the property (for example, every optional BTEC unit is internally assessed). Some results:
+   - Music × teamwork is 1, because ensemble is optional.
+   - Drama × speaking is 2, not 3, because students may take designer roles.
+   - Politics × sustainability is 0, because ecologism is optional.
+4. **Rule 6 (near-neighbour skills).** One activity supports only one 3 among near-neighbour skills. The neighbour scores 2 if a distinct required, assessed element exists, and 1 otherwise. One component can support two 3s only when each skill has its own named requirement (A11, A13, A15).
+   - Photography and Graphic Communication score content-production 3 and practical-making 2, because work may be wholly digital.
+   - Fine Art and Textile Design keep practical-making 3.
+   - Biology, Chemistry and Physics score practical-making 2. The apparatus and technique skills they directly assess (DfE science Appendix 5b–5c) are separate from investigative method.
+5. **Environmental Science × scientific-method is 3.** Level 3 includes "the focus of … required practicals". The DfE requires 4 days' fieldwork (or 2 days plus 12 lab activities), using at least 6 sampling techniques and 6 methodologies, and research methods are examined in both papers. A6's cap applies where practical work is only *expected*. The Practical Endorsement is enough for a 3 but is not required.
+6. **Numeracy (rule 2).**
+   - A stated minimum below 10% of total marks scores 1. This covers PE (5%) and D&T, whose Ofqual minimum of 15% of exam marks is 7.5% of the total.
+   - Ofqual subject-level minimums count the same as DfE ones.
+   - Applied qualifications set no minimum. For them, use the share of GLH in units whose assessment is mainly Level 2+ maths: 40% or more scores 3, and 10–39% scores 2. Engineering and Construction (Unit 1, 33%) score 2.
+   - Rule 2's bands apply to numeracy only.
+7. **The 20% bar.** "Roughly ≥ 20%" means at least 20%, which is 72 of 360 GLH. A 60-GLH unit (16.7%) that is wholly about one skill scores 2. It reaches 3 only if other components that directly assess the same skill take the total to 20%. Engineering × teamwork, leadership and practical-making therefore score 2, as does Construction × law-ethics.
+8. **Doing versus knowing in applied units (rule 1).** Only the parts of a unit that assess the learner *doing* the skill count towards the 20% bar.
+   - Sport & Exercise Science × leadership stays 2. Only one of Unit 6's three assignments (plan, deliver and review a session) assesses leading others.
+   - Evaluating how other people use a skill counts as studying about it, so Criminology × scientific-method is 1.
+9. **Self-management (rule 4).**
+   - In applied qualifications, internally assessed units count as substantial non-exam work, whether they are centre-marked assignments or controlled assessments. If they make up at least 20% of GLH, the score is 2.
+   - Externally set, supervised set tasks count as examinations.
+   - A 3 needs at least 50% of the qualification to be a project that the learner defines. Teacher-set assignment briefs don't count, even when added together, so Criminology scores 2.
+   - A live assessed practical scores 2 (PE NEA, 30%). So does an individual research project that is examined orally, which covers all four MFLs.
+10. **Food Science & Nutrition** is scored as the WJEC Level 3 Applied Diploma (360 GLH, the same size as one A level). That means Units 1 and 2, plus anything the two optional units have in common. The Certificate is not used.
+11. **Writing.**
+    - **3:** extended written argument is the main mode of assessment, and the DfE content (or the reference spec's AOs) requires written argument or written communication. Alternatively, a component worth at least 20% is itself a writing paper.
+    - **2:** extended writing is a regular assessed feature. This can be an essay or "extended writing" question type in the papers, a required prose element in the NEA, or written reports that form the main evidence for a mandatory internal unit or NEA.
+    - **1:** short answers and annotation only.
+    - The MFLs (including Chinese), Film, Media and Dance score 3. Economics, Business and Drama stay at 2, because their DfE content doesn't name writing.
+12. **Teamwork (rule 5).** A score of 2 or more needs assessed group work. A score of 1 needs something in the specification: collaboration it requires, group data collection, or assessed reflection on interpersonal skills. Classroom group work that the spec doesn't mention scores 0.
+13. **Problem-solving.**
+    - It counts when students must solve set problems by choosing and applying methods. Examples: quantitative problems in unfamiliar contexts, applying rules to scenarios, design or technical briefs, and finding and fixing faults.
+    - It scores 3 when this is central to assessment.
+    - Discursive evaluation belongs to critical-thinking. So does "problem" used as a topic label, such as the problem of evil.
+    - Exam-only essay subjects score 0. Creative subjects that work to a brief score 1.
+14. **Digital tools and AI.**
+    - **2:** named, assessed content on using digital systems (Computer Science).
+    - **1:** the spec requires or expects students to use digital tools (for example, Maths "must permeate", science software, online sources in MFL), or studies technology as content.
+    - **0:** otherwise.
+    - Software used to make media counts under content-production. No current spec develops AI literacy (J9).
+
 ### 4.2 D: area → skill demand (0–5)
 
 | Score | Meaning |

@@ -1,0 +1,103 @@
+area,quest,priority,title,picked for % of combinations
+cheshire-warrington,cheshire-warrington-advanced-manufacturing-1,advanced-manufacturing,Mapping the Manufacturing Skills Cliff,38.2
+cheshire-warrington,cheshire-warrington-advanced-manufacturing-2,advanced-manufacturing,A Shared Training Fix for Micro-Firms,4.1
+cheshire-warrington,cheshire-warrington-advanced-manufacturing-3,advanced-manufacturing,Reimagining Manufacturing For Your Generation,12.8
+cheshire-warrington,cheshire-warrington-agri-tech-food-security-1,agri-tech-food-security,Can Robots Solve Farming's Age Gap?,12.5
+cheshire-warrington,cheshire-warrington-agri-tech-food-security-2,agri-tech-food-security,Getting Young People Into Agri-Tech,27.8
+cheshire-warrington,cheshire-warrington-agri-tech-food-security-3,agri-tech-food-security,Rebranding Farming for a New Generation,5.1
+cheshire-warrington,cheshire-warrington-business-professional-services-1,business-professional-services,How AI Is Reshaping Office Work,33.1
+cheshire-warrington,cheshire-warrington-business-professional-services-2,business-professional-services,Why Do Graduates Leave for Manchester?,6.9
+cheshire-warrington,cheshire-warrington-business-professional-services-3,business-professional-services,Your Future in Business Services,12.3
+cheshire-warrington,cheshire-warrington-clean-energy-1,clean-energy,Powering Cheshire's Hydrogen Future,4.4
+cheshire-warrington,cheshire-warrington-clean-energy-2,clean-energy,Bridging Old Trades to Clean Energy,8.6
+cheshire-warrington,cheshire-warrington-clean-energy-3,clean-energy,Explaining Clean Energy to Your Town,10.8
+cheshire-warrington,cheshire-warrington-life-sciences-1,life-sciences,Try a Life Sciences Lab Job,44.7
+cheshire-warrington,cheshire-warrington-life-sciences-2,life-sciences,Why Aren't Lab Bootcamps Working?,29.3
+cheshire-warrington,cheshire-warrington-life-sciences-3,life-sciences,Show the Hidden Lab Careers,8.7
+cheshire-warrington,cheshire-warrington-construction-built-environment-1,construction-built-environment,Auditing Homes for the Retrofit Gap,15.2
+cheshire-warrington,cheshire-warrington-construction-built-environment-2,construction-built-environment,Widening Who Builds Our Towns,22.8
+cheshire-warrington,cheshire-warrington-construction-built-environment-3,construction-built-environment,From Stonemasons to Retrofit Fitters,24.1
+cheshire-warrington,cheshire-warrington-health-social-care-1,health-social-care,Why Do Care Courses Lose Students?,73.9
+cheshire-warrington,cheshire-warrington-health-social-care-2,health-social-care,Fixing the Care Manager Shortage,1.5
+cheshire-warrington,cheshire-warrington-health-social-care-3,health-social-care,Climbing the Care Career Ladder,3.1
+cumbria,cumbria-advanced-manufacturing-1,advanced-manufacturing,Mapping the Manufacturing Skills Gap,42.1
+cumbria,cumbria-advanced-manufacturing-2,advanced-manufacturing,Voices from the Shop Floor,15.5
+cumbria,cumbria-advanced-manufacturing-3,advanced-manufacturing,Design a Factory of the Future,7.9
+cumbria,cumbria-construction-1,construction,Model Cumbria's Housing Pipeline,30.8
+cumbria,cumbria-construction-2,construction,Why Aren't Students Choosing T Levels?,41.4
+cumbria,cumbria-construction-3,construction,Show Cumbria's Building Sites of Tomorrow,21.8
+cumbria,cumbria-energy-net-zero-1,energy-net-zero,Map Cumbria's Clean Energy Potential,9.7
+cumbria,cumbria-energy-net-zero-2,energy-net-zero,The Four-Year Welder,30
+cumbria,cumbria-energy-net-zero-3,energy-net-zero,Retrofit a Cumbrian Home,8.3
+cumbria,cumbria-health-social-care-1,health-social-care,Where Will Cumbria's Care Gaps Bite Hardest?,27.3
+cumbria,cumbria-health-social-care-2,health-social-care,Reframing Care as a Career,2.8
+cumbria,cumbria-health-social-care-3,health-social-care,Tell the Story of Care in Cumbria,4.7
+cumbria,cumbria-land-based-1,land-based,Carbon Counting a Cumbrian Farm,19.4
+cumbria,cumbria-land-based-2,land-based,Why Isn't Land-based Training Easy to Find?,53.8
+cumbria,cumbria-land-based-3,land-based,Picture Cumbria's Changing Land,18.6
+cumbria,cumbria-visitor-economy-1,visitor-economy,Does Your Local Tourism Match the Survey?,11.6
+cumbria,cumbria-visitor-economy-2,visitor-economy,Why Rurality Makes Apprenticeships Harder,41.6
+cumbria,cumbria-visitor-economy-3,visitor-economy,Cook Up a Case for Chef Careers,12.6
+greater-manchester,greater-manchester-construction-1,construction,Price a Street's Retrofit,19.9
+greater-manchester,greater-manchester-construction-2,construction,Why Bricklayers Are Gold Dust,36.6
+greater-manchester,greater-manchester-construction-3,construction,Design a Zero-Carbon Terrace,11.5
+greater-manchester,greater-manchester-logistics-1,logistics,Map Greater Manchester's Driver Shortage,0.8
+greater-manchester,greater-manchester-logistics-2,logistics,What Logistics Customers Really Want,1.6
+greater-manchester,greater-manchester-logistics-3,logistics,Pitch a Logistics Firm's Growth,7.3
+greater-manchester,greater-manchester-health-social-care-1,health-social-care,Map Your Borough's Care Gap,30.1
+greater-manchester,greater-manchester-health-social-care-2,health-social-care,Why Don't Care Workers Progress?,3
+greater-manchester,greater-manchester-health-social-care-3,health-social-care,Reimagine Care as a Career,4.2
+greater-manchester,greater-manchester-engineering-manufacturing-1,engineering-manufacturing,Investigate Graphene's Next Application,17
+greater-manchester,greater-manchester-engineering-manufacturing-2,engineering-manufacturing,Solve the Welding Skills Gap,37.8
+greater-manchester,greater-manchester-engineering-manufacturing-3,engineering-manufacturing,Prototype a Net-Zero Machine Part,13
+greater-manchester,greater-manchester-digital-technology-1,digital-technology,Harden a Small Organisation's IT,8.2
+greater-manchester,greater-manchester-digital-technology-2,digital-technology,Close Manchester's AI Awareness Gap,10.6
+greater-manchester,greater-manchester-digital-technology-3,digital-technology,Design a Cyber-Safety Campaign for Schools,1.3
+greater-manchester,greater-manchester-creative-media-1,creative-media,Build an AI Tool for Creatives,1.2
+greater-manchester,greater-manchester-creative-media-2,creative-media,Investigate Manchester's Live Event Crews,11.1
+greater-manchester,greater-manchester-creative-media-3,creative-media,Pitch an AR Trail for MediaCity,25.1
+greater-manchester,greater-manchester-hospitality-1,hospitality,Cost a Commis Chef's Career Path,33.8
+greater-manchester,greater-manchester-hospitality-2,hospitality,Why Do Kitchen Staff Quit?,21.9
+greater-manchester,greater-manchester-hospitality-3,hospitality,Rebrand Hospitality Careers for Sixth-Formers,18.5
+greater-manchester,greater-manchester-financial-professional-services-1,financial-professional-services,Audit a Local Charity's Accounts,20
+greater-manchester,greater-manchester-financial-professional-services-2,financial-professional-services,Investigate the Future Solicitor Shortage,53.6
+greater-manchester,greater-manchester-financial-professional-services-3,financial-professional-services,Pitch New Business for a Firm,11.9
+lancashire,lancashire-advanced-manufacturing-engineering-1,advanced-manufacturing-engineering,Map Lancashire's Smart Factory Gap,14.4
+lancashire,lancashire-advanced-manufacturing-engineering-2,advanced-manufacturing-engineering,Why Won't Firms Hire School Leavers?,25
+lancashire,lancashire-advanced-manufacturing-engineering-3,advanced-manufacturing-engineering,Pitch Manufacturing to the Next Generation,13.1
+lancashire,lancashire-construction-1,construction,Retrofit Lancashire's Older Homes,19.2
+lancashire,lancashire-construction-2,construction,Why Do Trainees Leave Construction?,52
+lancashire,lancashire-construction-3,construction,Show What a Trade Looks Like,13.5
+lancashire,lancashire-hospitality-leisure-tourism-1,hospitality-leisure-tourism,Digitise a Visitor Attraction,9.2
+lancashire,lancashire-hospitality-leisure-tourism-2,hospitality-leisure-tourism,Solve Lancashire's Chef Shortage,18.5
+lancashire,lancashire-hospitality-leisure-tourism-3,hospitality-leisure-tourism,Reimagine a Lancashire Attraction,15.2
+lancashire,lancashire-social-care-1,social-care,Map Lancashire's Care Gap to 2040,48.4
+lancashire,lancashire-social-care-2,social-care,Make Care Certificate Training Work,10
+lancashire,lancashire-social-care-3,social-care,Change How Young People See Care,1.9
+lancashire,lancashire-digital-1,digital,Build Lancashire's AI Readiness Map,12.7
+lancashire,lancashire-digital-2,digital,Fix Cyber's Experience Trap,7
+lancashire,lancashire-digital-3,digital,Teach Lancashire to Judge AI,30.8
+lancashire,lancashire-national-security-resilience-1,national-security-resilience,Trace an Aircraft's Supply Chain,18.8
+lancashire,lancashire-national-security-resilience-2,national-security-resilience,Understand a Defence Career Path,41.9
+lancashire,lancashire-national-security-resilience-3,national-security-resilience,Tell Lancashire's Food Security Story,6.5
+lancashire,lancashire-clean-energy-nuclear-1,clean-energy-nuclear,Plan for Heysham's Next Chapter,15.1
+lancashire,lancashire-clean-energy-nuclear-2,clean-energy-nuclear,Secure the Nuclear Workforce,6.2
+lancashire,lancashire-clean-energy-nuclear-3,clean-energy-nuclear,Pitch Lancashire's Clean Energy Future,20.7
+liverpool-city-region,liverpool-city-region-pbs-1,pbs,The SME Data Confidence Audit,34.1
+liverpool-city-region,liverpool-city-region-pbs-2,pbs,Map Liverpool's Leadership Ladder,31.5
+liverpool-city-region,liverpool-city-region-pbs-3,pbs,The New Starter's Money Guide,33
+liverpool-city-region,liverpool-city-region-manufacturing-1,manufacturing,Troubleshoot the Robot Welding Cell,7.3
+liverpool-city-region,liverpool-city-region-manufacturing-2,manufacturing,Closing the Technician Gap,32
+liverpool-city-region,liverpool-city-region-manufacturing-3,manufacturing,Design the Factory of 2035,10.6
+liverpool-city-region,liverpool-city-region-construction-1,construction,Retrofit a Real Liverpool Street,21.1
+liverpool-city-region,liverpool-city-region-construction-2,construction,From Tradesperson to Site Leader,14.8
+liverpool-city-region,liverpool-city-region-construction-3,construction,Pitch a Heritage-Friendly Retrofit,30.5
+liverpool-city-region,liverpool-city-region-health-1,health,Inside the Biomanufacturing Pipeline,61.1
+liverpool-city-region,liverpool-city-region-health-2,health,The Care Career Ladder,3
+liverpool-city-region,liverpool-city-region-health-3,health,Design a Digital Confidence Toolkit,7.4
+liverpool-city-region,liverpool-city-region-visitor-1,visitor,Could AI Run the Front Desk?,8.4
+liverpool-city-region,liverpool-city-region-visitor-2,visitor,Why Do Visitor Economy Staff Leave?,5.8
+liverpool-city-region,liverpool-city-region-visitor-3,visitor,Design a Waterfront Visitor Experience,9.4
+liverpool-city-region,liverpool-city-region-creative-1,creative,Build a Fusion Skills Portfolio Piece,9.6
+liverpool-city-region,liverpool-city-region-creative-2,creative,The Freelancer's Survival Guide,77.7
+liverpool-city-region,liverpool-city-region-creative-3,creative,Pitch Liverpool's Next Studio Space,2.6

@@ -7,38 +7,38 @@ import type { SkillId } from "./taxonomy.ts";
 export const REGION_DEMAND: Readonly<Record<RegionId, Readonly<Record<SkillId, number>>>> = {
   "cheshire-warrington": {
     "data-analysis": 4,
-    "programming": 0,
+    "programming": 4,
     "digital-ai": 4,
-    "cyber-security": 3,
-    "numeracy": 5,
-    "scientific-method": 4,
-    "engineering": 0,
+    "cyber-security": 2,
+    "numeracy": 1,
+    "scientific-method": 3,
+    "engineering": 4,
     "practical-making": 4,
-    "sustainability": 2,
-    "commercial": 3,
-    "leadership": 2,
-    "law-ethics": 2,
-    "writing": 5,
-    "speaking": 5,
-    "languages": 4,
-    "care-empathy": 5,
-    "teamwork": 5,
-    "customer-service": 1,
-    "self-management": 1,
-    "critical-thinking": 3,
-    "problem-solving": 3,
-    "creativity": 1,
-    "content-production": 2
+    "sustainability": 4,
+    "commercial": 4,
+    "leadership": 4,
+    "law-ethics": 4,
+    "writing": 1,
+    "speaking": 4,
+    "languages": 0,
+    "care-empathy": 3,
+    "teamwork": 3,
+    "customer-service": 2,
+    "self-management": 5,
+    "critical-thinking": 4,
+    "problem-solving": 4,
+    "creativity": 4,
+    "content-production": 4
   },
   "cumbria": {
     "data-analysis": 4,
     "programming": 1,
-    "digital-ai": 5,
+    "digital-ai": 4,
     "cyber-security": 2,
     "numeracy": 2,
     "scientific-method": 2,
     "engineering": 4,
-    "practical-making": 5,
+    "practical-making": 4,
     "sustainability": 4,
     "commercial": 4,
     "leadership": 4,
@@ -47,13 +47,13 @@ export const REGION_DEMAND: Readonly<Record<RegionId, Readonly<Record<SkillId, n
     "speaking": 4,
     "languages": 0,
     "care-empathy": 3,
-    "teamwork": 5,
+    "teamwork": 4,
     "customer-service": 4,
     "self-management": 5,
     "critical-thinking": 1,
     "problem-solving": 1,
     "creativity": 1,
-    "content-production": 0
+    "content-production": 1
   },
   "greater-manchester": {
     "data-analysis": 4,
@@ -72,7 +72,7 @@ export const REGION_DEMAND: Readonly<Record<RegionId, Readonly<Record<SkillId, n
     "speaking": 4,
     "languages": 0,
     "care-empathy": 3,
-    "teamwork": 0,
+    "teamwork": 1,
     "customer-service": 3,
     "self-management": 3,
     "critical-thinking": 3,
@@ -96,10 +96,10 @@ export const REGION_DEMAND: Readonly<Record<RegionId, Readonly<Record<SkillId, n
     "writing": 1,
     "speaking": 1,
     "languages": 0,
-    "care-empathy": 5,
+    "care-empathy": 4,
     "teamwork": 1,
     "customer-service": 2,
-    "self-management": 5,
+    "self-management": 4,
     "critical-thinking": 4,
     "problem-solving": 1,
     "creativity": 3,
@@ -165,62 +165,62 @@ export const TIER_CUTOFFS: Readonly<
 > = {
   "cheshire-warrington": {
     "3": {
-      "strong": 60,
-      "good": 40
+      "strong": 50.7,
+      "good": 41
     },
     "4": {
-      "strong": 60,
-      "good": 40
+      "strong": 57.2,
+      "good": 47.8
     }
   },
   "cumbria": {
     "3": {
-      "strong": 60,
-      "good": 40
+      "strong": 48.7,
+      "good": 38.2
     },
     "4": {
-      "strong": 60,
-      "good": 40
+      "strong": 55.4,
+      "good": 44.6
     }
   },
   "greater-manchester": {
     "3": {
-      "strong": 60,
-      "good": 40
+      "strong": 48.4,
+      "good": 39
     },
     "4": {
-      "strong": 60,
-      "good": 40
+      "strong": 54.9,
+      "good": 45.3
     }
   },
   "lancashire": {
     "3": {
-      "strong": 60,
-      "good": 40
+      "strong": 48.5,
+      "good": 38.5
     },
     "4": {
-      "strong": 60,
-      "good": 40
+      "strong": 54.4,
+      "good": 44.9
     }
   },
   "liverpool-city-region": {
     "3": {
-      "strong": 60,
-      "good": 40
+      "strong": 52,
+      "good": 42.5
     },
     "4": {
-      "strong": 60,
-      "good": 40
+      "strong": 58.3,
+      "good": 49.1
     }
   },
   "national": {
     "3": {
-      "strong": 60,
-      "good": 40
+      "strong": 50.7,
+      "good": 41.4
     },
     "4": {
-      "strong": 60,
-      "good": 40
+      "strong": 57,
+      "good": 47.6
     }
   }
 };

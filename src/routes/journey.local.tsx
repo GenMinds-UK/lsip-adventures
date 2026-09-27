@@ -1,10 +1,22 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { ExternalLink } from "lucide-react";
 import { TierBadge, TierMeter } from "@/components/journey/FitMeter";
 import { StageIntro } from "@/components/journey/StageIntro";
 import { SectorFlower } from "@/components/sectors/SectorFlower";
 import { REGION_META } from "@/data/regions";
 import { useJourney } from "@/lib/journey";
+import { TIER_LABELS } from "@/lib/results";
+import { SKILLS, type SkillId } from "@/data/generated/taxonomy";
+
+const SKILL_NAME = new Map(SKILLS.map((skill) => [skill.id, skill.name.toLowerCase()]));
+
+/** "a, b and c" from skill ids. */
+function listSkills(skills: SkillId[]): string {
+  const names = skills.map((skill) => SKILL_NAME.get(skill) ?? skill);
+  return names.length > 1
+    ? `${names.slice(0, -1).join(", ")} and ${names.at(-1)}`
+    : (names[0] ?? "");
+}
 import { cn } from "@/lib/utils";
 
 export const Route = createFileRoute("/journey/local")({
@@ -42,6 +54,41 @@ function LocalStage() {
             Compared with every possible combination of {results.count} A levels. Strong puts you in
             the top 30% for this area's skills needs.
           </p>
+          {local.tier === "emerging" ? (
+            <div className="border-border bg-surface-2 text-foreground/90 mt-3 flex flex-col gap-2 rounded-md border-2 p-3 text-sm leading-relaxed">
+              <p>
+                Emerging means your subjects line up less closely with this particular plan than
+                most combinations do. It doesn&rsquo;t mean they&rsquo;re a poor choice: skills
+                plans are written around the vacancies local employers find hardest to fill right
+                now.
+              </p>
+              {results.nationalStrengths.length ? (
+                <p>
+                  Your subjects build <strong>{listSkills(results.nationalStrengths)}</strong>.
+                  Employers need these almost everywhere, and they&rsquo;re among the most in-demand
+                  skills across the UK. {region.name}&rsquo;s plan concentrates on more specialist
+                  gaps, so it doesn&rsquo;t weight these everyday skills as heavily.
+                </p>
+              ) : null}
+              <p>
+                {results.national.tier !== "emerging" ? (
+                  <>
+                    Nationally, your subjects are a{" "}
+                    <strong>{TIER_LABELS[results.national.tier].toLowerCase()}</strong>.{" "}
+                    <Link to="/journey/national" search={true} className="text-accent underline">
+                      See national demand
+                    </Link>
+                    .{" "}
+                  </>
+                ) : null}
+                The{" "}
+                <Link to="/journey/skills" search={true} className="text-accent underline">
+                  skills worth adding
+                </Link>{" "}
+                show how to link your strengths to local jobs without changing subjects.
+              </p>
+            </div>
+          ) : null}
         </section>
 
         <section className="arcade-panel p-5 sm:p-6" aria-labelledby="nw-rank">

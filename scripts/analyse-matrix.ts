@@ -22,6 +22,7 @@ import {
   matchGaps,
   matchRoles,
   pairOverlaps,
+  pickQuests,
   rankAreas,
   rankPriorities,
   rankSkills,
@@ -69,6 +70,15 @@ for (const id of areas) {
   regionData[id] = module.REGION_DATA;
 }
 
+type QuestLite = { id: string; priorityId: string; title: string; skills: Weights };
+const regionQuests: Record<string, QuestLite[]> = {};
+for (const id of areas) {
+  const module = (await import(`../src/data/regions/${id}.content.ts`)) as {
+    CONTENT: { quests: QuestLite[] };
+  };
+  regionQuests[id] = module.CONTENT.quests;
+}
+
 // Weight sets to calibrate: every area plus national.
 const targets: { id: string; weights: Weights }[] = [
   ...areas.map((id) => ({ id, weights: REGION_DEMAND[id] as Weights })),
@@ -97,6 +107,13 @@ function percentile(sorted: Float64Array, p: number) {
 }
 
 const round = (value: number, places = 1) => Number(value.toFixed(places));
+/**
+ * Cut-offs are written rounded DOWN at 6 decimal places. Possible fits are
+ * at least 0.1 apart, so no fit falls between the written and exact values,
+ * and combinations tied exactly at a percentile stay in the higher tier (§7:
+ * "ties go up"). Rounding to 1 dp would push some tied combinations down.
+ */
+const cutoff = (value: number) => Math.floor(value * 1e6 + 1e-9) / 1e6;
 
 function csv(rows: (string | number)[][]) {
   return (
@@ -233,8 +250,8 @@ for (const target of targets) {
     tierRows.push([
       target.id,
       size,
-      round(percentile(fits, STRONG_PERCENTILE)),
-      round(percentile(fits, GOOD_PERCENTILE)),
+      cutoff(percentile(fits, STRONG_PERCENTILE)),
+      cutoff(percentile(fits, GOOD_PERCENTILE)),
     ]);
     distributionRows.push([
       target.id,
@@ -377,6 +394,51 @@ for (const skill of skills) {
 }
 write(join(ANALYSIS, "skill-reach.csv"), reachRows);
 
+// ── Quest coverage (stage 8) ────────────────────────────────────────────────
+// How often each quest is picked across every combination, per area. A quest
+// that is never picked is dead content; one picked for most students crowds
+// out the rest.
+
+const questCounts = new Map<string, number>();
+let questCombos = 0;
+for (const size of [3, 4] as const) {
+  for (const combo of combos[size]) {
+    const chosen = combo.map((i) => subjects[i]!);
+    const { effective } = combinedProfile(chosen, SUBJECT_SKILLS, skills);
+    questCombos += 1;
+    for (const area of areas) {
+      const priorityFit = Object.fromEntries(
+        rankPriorities(effective, regionData[area]!.priorities).map(({ item, fit }) => [
+          item.id,
+          fit,
+        ]),
+      );
+      for (const quest of pickQuests(regionQuests[area]!, effective, priorityFit)) {
+        const key = `${area}|${quest.id}`;
+        questCounts.set(key, (questCounts.get(key) ?? 0) + 1);
+      }
+    }
+  }
+}
+const questRows: (string | number)[][] = [
+  ["area", "quest", "priority", "title", "picked for % of combinations"],
+];
+const neverPicked: string[] = [];
+for (const area of areas) {
+  for (const quest of regionQuests[area]!) {
+    const count = questCounts.get(`${area}|${quest.id}`) ?? 0;
+    if (count === 0) neverPicked.push(`${area}: ${quest.title}`);
+    questRows.push([
+      area,
+      quest.id,
+      quest.priorityId,
+      quest.title,
+      round((100 * count) / questCombos),
+    ]);
+  }
+}
+write(join(ANALYSIS, "quest-coverage.csv"), questRows);
+
 // ── Worked examples ─────────────────────────────────────────────────────────
 
 const lines: string[] = [
@@ -464,6 +526,9 @@ for (const row of groupFails)
 const unreachable = reachRows.filter((row) => row[1] === 0).map((row) => row[0]);
 console.log(
   `F3 (skills reachable): ${unreachable.length ? `unreachable: ${unreachable.join(", ")}` : "all reachable"}`,
+);
+console.log(
+  `Quests: ${neverPicked.length ? `${neverPicked.length} never picked: ${neverPicked.join("; ")}` : "every quest is picked for some combination"}`,
 );
 const bigShifts = sensitivity.slice(1).filter((row) => Number(row[6]) > 2);
 console.log(

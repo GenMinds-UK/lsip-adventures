@@ -111,7 +111,7 @@ function SummaryStage() {
                 <span>{SKILL_NAME.get(skill)}</span>
                 <SkillBar
                   level={results.profile.effective[skill]}
-                  reinforced={results.profile.reinforced[skill]}
+                  reinforced={results.boosted[skill]}
                 />
               </li>
             ))}

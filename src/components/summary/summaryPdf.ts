@@ -53,7 +53,7 @@ export async function downloadSummaryPdf({
   pdf.bullets(
     (strong.length ? strong : results.skills).slice(0, 12).map((skill) => {
       const level = LEVEL_WORDS[Math.floor(results.profile.level[skill])] ?? "";
-      const reinforced = results.profile.reinforced[skill] ? ", built by two or more subjects" : "";
+      const reinforced = results.boosted[skill] ? ", boosted by two of your subjects" : "";
       return `${SKILL_NAME.get(skill)}: ${level}${reinforced}. Demand in ${region.short}: #${results.skillRanks[skill]} of ${SKILLS.length}.`;
     }),
   );

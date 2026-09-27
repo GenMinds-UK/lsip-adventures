@@ -9,13 +9,15 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Advanced Manufacturing",
       "short": "Adv. Manufacturing",
       "blurb": "Cheshire and Warrington is one of the UK's leading advanced manufacturing hotspots, worth £8bn a year and employing 44,000 people in aerospace, automotive and chemicals. With a third of the workforce over 50, employers need new technicians and engineers now.",
-      "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.15-16",
+      "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.28, p.30",
       "weights": {
-        "problem-solving": 1,
-        "digital-ai": 2,
+        "engineering": 3,
         "practical-making": 3,
-        "writing": 1,
-        "customer-service": 2
+        "digital-ai": 2,
+        "leadership": 2,
+        "data-analysis": 2,
+        "problem-solving": 2,
+        "numeracy": 1
       },
       "roles": [
         {
@@ -23,9 +25,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 4-5 higher apprenticeship",
           "what": "Installs, maintains and optimises the automated production and control systems used on modern factory floors.",
           "skills": [
-            "care-empathy",
-            "content-production",
-            "engineering"
+            "engineering",
+            "practical-making",
+            "digital-ai",
+            "problem-solving"
           ]
         },
         {
@@ -33,9 +36,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3 apprenticeship",
           "what": "Wires and maintains the electrical systems that keep production lines and factories running.",
           "skills": [
-            "sustainability",
-            "care-empathy",
-            "content-production"
+            "engineering",
+            "practical-making",
+            "law-ethics"
           ]
         },
         {
@@ -43,9 +46,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 2-3 apprenticeship",
           "what": "Fabricates and assembles precision metal components for the region's automotive and aerospace supply chain.",
           "skills": [
-            "cyber-security",
-            "leadership",
-            "customer-service"
+            "practical-making",
+            "engineering",
+            "numeracy"
           ]
         },
         {
@@ -53,9 +56,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Degree or Level 6 apprenticeship",
           "what": "Designs and improves mechanical systems and manufacturing processes for vehicles, aircraft parts and chemicals.",
           "skills": [
-            "digital-ai",
-            "commercial",
-            "teamwork"
+            "engineering",
+            "numeracy",
+            "problem-solving",
+            "creativity"
           ]
         },
         {
@@ -63,9 +67,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Degree or Level 6 apprenticeship",
           "what": "Designs and optimises the chemical and process systems used across the region's chemicals cluster.",
           "skills": [
-            "teamwork",
-            "data-analysis",
-            "practical-making"
+            "engineering",
+            "scientific-method",
+            "numeracy",
+            "problem-solving"
           ]
         }
       ],
@@ -73,34 +78,35 @@ export const REGION_DATA: GeneratedRegionData = {
         {
           "text": "A third of manufacturing workers are over 50, but Level 4+ technician training is thin, risking a skills cliff-edge.",
           "skills": [
-            "self-management",
-            "digital-ai"
+            "engineering",
+            "practical-making"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.15"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.28"
         },
         {
           "text": "Curriculum often lags new technology - employers describe apprentices trained on outdated kit and old course titles.",
           "skills": [
-            "creativity",
-            "scientific-method"
+            "engineering",
+            "digital-ai",
+            "problem-solving"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.10, p.16"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.18, p.30"
         },
         {
           "text": "89% of manufacturing firms are micro-businesses, so most can't run in-house training and need coordinated brokerage.",
           "skills": [
-            "engineering",
-            "speaking"
+            "commercial",
+            "self-management"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.15"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.28"
         },
         {
           "text": "56% of manufacturing sites with vacancies say they are hard to fill, and 39% are skill-shortage vacancies.",
           "skills": [
-            "programming",
-            "sustainability"
+            "engineering",
+            "practical-making"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.15"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.28"
         }
       ]
     },
@@ -110,13 +116,14 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Agri-tech and Food Security",
       "short": "Agri-tech & Food",
       "blurb": "Farming here is going high-tech, from robotic milking parlours to GPS-guided tractors, with a nationally important dairy and food-technology cluster centred on Reaseheath College.",
-      "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.17",
+      "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.32",
       "weights": {
-        "scientific-method": 1,
-        "leadership": 2,
-        "care-empathy": 3,
-        "problem-solving": 1,
-        "digital-ai": 2
+        "engineering": 3,
+        "digital-ai": 3,
+        "practical-making": 2,
+        "sustainability": 2,
+        "data-analysis": 2,
+        "scientific-method": 1
       },
       "roles": [
         {
@@ -124,9 +131,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3 apprenticeship",
           "what": "Maintains and repairs the tractors, robots and precision machinery used on modern farms.",
           "skills": [
-            "problem-solving",
-            "numeracy",
-            "law-ethics"
+            "practical-making",
+            "engineering",
+            "problem-solving"
           ]
         },
         {
@@ -134,9 +141,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3-4 apprenticeship or higher technical",
           "what": "Applies food science to make milk and dairy processing safer, cleaner and more efficient.",
           "skills": [
-            "teamwork",
-            "data-analysis",
-            "practical-making"
+            "scientific-method",
+            "practical-making",
+            "law-ethics"
           ]
         },
         {
@@ -144,9 +151,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 4-5",
           "what": "Installs and maintains robotic milking parlours, GPS guidance and other precision farming technology.",
           "skills": [
+            "engineering",
             "practical-making",
-            "languages",
-            "creativity"
+            "digital-ai",
+            "problem-solving"
           ]
         },
         {
@@ -154,9 +162,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Degree or Level 6 apprenticeship",
           "what": "Uses engineering and environmental science to design more sustainable and productive farming systems.",
           "skills": [
-            "critical-thinking",
-            "cyber-security",
-            "leadership"
+            "engineering",
+            "sustainability",
+            "scientific-method",
+            "critical-thinking"
           ]
         }
       ],
@@ -164,26 +173,26 @@ export const REGION_DATA: GeneratedRegionData = {
         {
           "text": "70% of the farming workforce is over 50, just as robotics and precision technology are taking off.",
           "skills": [
-            "writing",
-            "critical-thinking"
+            "digital-ai",
+            "engineering"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.17"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.32"
         },
         {
           "text": "Robotics and data skills are mostly learned informally on the job, with almost no formal training pathway yet.",
           "skills": [
-            "teamwork",
+            "engineering",
+            "digital-ai",
             "data-analysis"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.17"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.32"
         },
         {
           "text": "Rural transport gaps make it hard for young people to reach the FE and apprenticeship provision that already exists.",
           "skills": [
-            "content-production",
-            "engineering"
+            "self-management"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.17"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.32"
         }
       ]
     },
@@ -193,13 +202,15 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Business and Professional Services",
       "short": "Business Services",
       "blurb": "The biggest employer in the sub-region, spanning law, accountancy and digital consultancy, and projected to grow from 144,800 to around 158,300 jobs by 2030 as automation reshapes routine roles into analytical ones.",
-      "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.18-19",
+      "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.34, p.36",
       "weights": {
-        "practical-making": 1,
-        "writing": 2,
-        "customer-service": 3,
-        "content-production": 1,
-        "numeracy": 2
+        "data-analysis": 3,
+        "digital-ai": 3,
+        "commercial": 3,
+        "law-ethics": 3,
+        "critical-thinking": 3,
+        "leadership": 2,
+        "cyber-security": 2
       },
       "roles": [
         {
@@ -207,8 +218,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 2 apprenticeship",
           "what": "Provides administrative support while building the skills needed to progress into analytical or specialist roles.",
           "skills": [
-            "digital-ai",
-            "commercial",
+            "writing",
+            "self-management",
+            "customer-service",
             "teamwork"
           ]
         },
@@ -217,9 +229,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 7 apprenticeship or degree",
           "what": "Prepares accounts, audits and financial reports for businesses across the region.",
           "skills": [
-            "engineering",
-            "speaking",
-            "problem-solving"
+            "numeracy",
+            "commercial",
+            "law-ethics",
+            "writing"
           ]
         },
         {
@@ -227,9 +240,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 4-5 apprenticeship or degree",
           "what": "Uses data and digital tools to help businesses make faster, better decisions.",
           "skills": [
-            "cyber-security",
-            "leadership",
-            "customer-service"
+            "data-analysis",
+            "digital-ai",
+            "critical-thinking",
+            "problem-solving"
           ]
         },
         {
@@ -237,9 +251,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Degree or Level 7 apprenticeship",
           "what": "Advises businesses on strategy, operations and how to improve performance.",
           "skills": [
-            "numeracy",
-            "law-ethics",
-            "self-management"
+            "critical-thinking",
+            "commercial",
+            "speaking",
+            "problem-solving"
           ]
         },
         {
@@ -247,9 +262,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3-5 apprenticeship",
           "what": "Manages recruitment, workforce planning and organisational development for employers.",
           "skills": [
-            "care-empathy",
-            "content-production",
-            "engineering"
+            "leadership",
+            "law-ethics",
+            "speaking",
+            "teamwork"
           ]
         }
       ],
@@ -257,26 +273,28 @@ export const REGION_DATA: GeneratedRegionData = {
         {
           "text": "Demand is shifting fast from routine admin roles toward analytical, digital and AI-literate roles.",
           "skills": [
+            "digital-ai",
             "data-analysis",
-            "practical-making"
+            "critical-thinking"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.18"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.34"
         },
         {
           "text": "Local wages often can't match Manchester's, so the region struggles to retain the graduates it trains.",
           "skills": [
-            "engineering",
-            "speaking"
+            "leadership",
+            "commercial"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.19"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.36"
         },
         {
           "text": "Level 4-5 pathways into data, compliance and digital business analyst roles are underdeveloped.",
           "skills": [
-            "speaking",
-            "problem-solving"
+            "data-analysis",
+            "digital-ai",
+            "law-ethics"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.19"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.36"
         }
       ]
     },
@@ -286,13 +304,14 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Clean Energy",
       "short": "Clean Energy",
       "blurb": "Home to the HyNet hydrogen project and Europe's first HALEU nuclear fuel facility, this sub-region will need thousands more electricians, technicians and engineers as the energy transition speeds up.",
-      "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.20-21",
+      "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.38, p.40",
       "weights": {
-        "sustainability": 1,
-        "speaking": 2,
-        "self-management": 3,
-        "data-analysis": 1,
-        "scientific-method": 2
+        "engineering": 3,
+        "practical-making": 3,
+        "sustainability": 3,
+        "law-ethics": 2,
+        "digital-ai": 2,
+        "leadership": 1
       },
       "roles": [
         {
@@ -300,9 +319,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3 apprenticeship",
           "what": "Installs and maintains the electrical systems behind solar panels, EV charging and battery storage.",
           "skills": [
-            "data-analysis",
+            "engineering",
             "practical-making",
-            "languages"
+            "sustainability",
+            "law-ethics"
           ]
         },
         {
@@ -310,9 +330,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3 apprenticeship",
           "what": "Fits and maintains heat pumps and other low-carbon heating systems in homes and buildings.",
           "skills": [
-            "data-analysis",
             "practical-making",
-            "languages"
+            "engineering",
+            "sustainability"
           ]
         },
         {
@@ -320,9 +340,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3-5",
           "what": "Supports the safe operation and maintenance of nuclear fuel and energy facilities such as Urenco Capenhurst.",
           "skills": [
-            "cyber-security",
-            "leadership",
-            "customer-service"
+            "engineering",
+            "law-ethics",
+            "practical-making",
+            "problem-solving"
           ]
         },
         {
@@ -330,9 +351,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 4-5",
           "what": "Helps design, install and optimise infrastructure behind hydrogen, grid and clean power projects.",
           "skills": [
-            "cyber-security",
-            "leadership",
-            "customer-service"
+            "engineering",
+            "sustainability",
+            "digital-ai",
+            "problem-solving"
           ]
         },
         {
@@ -340,9 +362,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Degree or Level 6 apprenticeship",
           "what": "Plans and coordinates major clean energy and retrofit construction projects.",
           "skills": [
-            "customer-service",
-            "programming",
-            "sustainability"
+            "leadership",
+            "commercial",
+            "law-ethics",
+            "problem-solving"
           ]
         }
       ],
@@ -350,34 +373,34 @@ export const REGION_DATA: GeneratedRegionData = {
         {
           "text": "50% of clean-energy-type vacancies are hard to fill and 35% are skill-shortage vacancies.",
           "skills": [
-            "care-empathy",
-            "content-production"
+            "engineering",
+            "practical-making"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.21"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.40"
         },
         {
           "text": "Courses on hydrogen and other emerging technologies barely exist yet, so there's no clear training route in.",
           "skills": [
-            "programming",
+            "engineering",
             "sustainability"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.21"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.40"
         },
         {
           "text": "Major projects like HyNet risk competing for the same small pool of skilled workers at the same time.",
           "skills": [
-            "commercial",
-            "teamwork"
+            "engineering",
+            "practical-making"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.21"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.40"
         },
         {
           "text": "36% of the energy and water workforce is over 50, adding replacement pressure on top of growth.",
           "skills": [
-            "creativity",
-            "scientific-method"
+            "engineering",
+            "practical-making"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.20"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.38"
         }
       ]
     },
@@ -387,13 +410,14 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Life Sciences",
       "short": "Life Sciences",
       "blurb": "Anchored by Alderley Park, the UK's largest bioscience campus, this highly productive sector needs more lab and manufacturing technicians, not only graduates, to keep growing.",
-      "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.22-23",
+      "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.42, p.44",
       "weights": {
-        "self-management": 1,
-        "data-analysis": 2,
         "scientific-method": 3,
-        "leadership": 1,
-        "care-empathy": 2
+        "data-analysis": 2,
+        "digital-ai": 2,
+        "critical-thinking": 2,
+        "law-ethics": 2,
+        "practical-making": 2
       },
       "roles": [
         {
@@ -401,9 +425,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3 apprenticeship or T Level",
           "what": "Carries out lab tests and experiments supporting drug discovery and manufacturing at sites like Alderley Park.",
           "skills": [
-            "digital-ai",
-            "commercial",
-            "teamwork"
+            "scientific-method",
+            "numeracy",
+            "practical-making",
+            "law-ethics"
           ]
         },
         {
@@ -411,9 +436,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Degree",
           "what": "Researches new medicines and technologies in one of the UK's most productive science clusters.",
           "skills": [
-            "care-empathy",
-            "content-production",
-            "engineering"
+            "scientific-method",
+            "critical-thinking",
+            "data-analysis",
+            "numeracy"
           ]
         },
         {
@@ -421,9 +447,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3-4",
           "what": "Checks that medicines and medical products meet strict safety and quality standards.",
           "skills": [
-            "numeracy",
+            "scientific-method",
             "law-ethics",
-            "self-management"
+            "critical-thinking"
           ]
         },
         {
@@ -431,9 +457,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Degree or Level 6-7 apprenticeship",
           "what": "Uses data and computing to support genomics, health data and AI-enabled diagnostics.",
           "skills": [
-            "speaking",
-            "problem-solving",
-            "numeracy"
+            "data-analysis",
+            "programming",
+            "digital-ai",
+            "critical-thinking"
           ]
         },
         {
@@ -441,9 +468,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 2-3, progressing to Level 4-5",
           "what": "Works on production lines making medicines and medical devices, with routes up to technician roles.",
           "skills": [
-            "engineering",
-            "speaking",
-            "problem-solving"
+            "practical-making",
+            "scientific-method",
+            "law-ethics"
           ]
         }
       ],
@@ -451,26 +478,27 @@ export const REGION_DATA: GeneratedRegionData = {
         {
           "text": "Level 4-5 technician pathways into lab science and pharmaceutical manufacturing are underdeveloped.",
           "skills": [
-            "numeracy",
-            "law-ethics"
+            "scientific-method",
+            "practical-making",
+            "numeracy"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.22-23"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.42, p.44"
         },
         {
           "text": "Employers rarely engage with schools and colleges, so students don't see non-graduate routes into the sector.",
           "skills": [
-            "creativity",
-            "scientific-method"
+            "scientific-method",
+            "practical-making"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.23"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.44"
         },
         {
           "text": "Colleges launched Lab Skills bootcamps, but too few employers show up to interview the graduates.",
           "skills": [
-            "languages",
-            "creativity"
+            "scientific-method",
+            "practical-making"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.23"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.44"
         }
       ]
     },
@@ -480,13 +508,14 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Construction and the Built Environment",
       "short": "Construction",
       "blurb": "Housing, retrofit and clean energy projects all depend on construction trades, but training completions haven't kept pace with demand for site-ready bricklayers, electricians and retrofit specialists.",
-      "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.25-26",
+      "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.48, p.50",
       "weights": {
-        "teamwork": 1,
-        "creativity": 2,
-        "cyber-security": 3,
-        "sustainability": 1,
-        "speaking": 2
+        "practical-making": 3,
+        "sustainability": 3,
+        "law-ethics": 2,
+        "leadership": 2,
+        "engineering": 2,
+        "numeracy": 1
       },
       "roles": [
         {
@@ -494,9 +523,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3 apprenticeship",
           "what": "Installs and maintains electrical systems, a trade in high demand for housing and retrofit work.",
           "skills": [
-            "self-management",
-            "digital-ai",
-            "commercial"
+            "engineering",
+            "practical-making",
+            "law-ethics"
           ]
         },
         {
@@ -504,9 +533,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3 apprenticeship",
           "what": "Fits water, heating and low-carbon systems including heat pumps.",
           "skills": [
-            "data-analysis",
             "practical-making",
-            "languages"
+            "engineering",
+            "sustainability"
           ]
         },
         {
@@ -514,9 +543,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 2-3 apprenticeship",
           "what": "Builds and fits structural and finishing woodwork on construction sites.",
           "skills": [
-            "problem-solving",
+            "practical-making",
             "numeracy",
-            "law-ethics"
+            "self-management"
           ]
         },
         {
@@ -524,9 +553,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 2-3 apprenticeship",
           "what": "Builds the structural walls and fabric of new homes and buildings.",
           "skills": [
-            "content-production",
-            "engineering",
-            "speaking"
+            "practical-making",
+            "numeracy",
+            "self-management"
           ]
         },
         {
@@ -534,9 +563,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 6 apprenticeship or degree",
           "what": "Plans, coordinates and supervises construction and retrofit projects on site.",
           "skills": [
-            "data-analysis",
-            "practical-making",
-            "languages"
+            "leadership",
+            "law-ethics",
+            "commercial",
+            "problem-solving"
           ]
         }
       ],
@@ -544,34 +574,34 @@ export const REGION_DATA: GeneratedRegionData = {
         {
           "text": "Apprenticeship completions run at only around 49%, so training starts aren't converting into site-ready workers.",
           "skills": [
-            "languages",
-            "creativity"
+            "practical-making",
+            "self-management"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.25"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.48"
         },
         {
           "text": "Level 4+ apprenticeships make up just 10% of local construction enrolments, limiting supervisory pathways.",
           "skills": [
-            "engineering",
-            "speaking"
+            "leadership",
+            "practical-making"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.25"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.48"
         },
         {
           "text": "Over 95% of apprenticeship starts are male, showing construction still isn't reaching everyone it could.",
           "skills": [
-            "writing",
-            "critical-thinking"
+            "practical-making"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.25"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.48"
         },
         {
           "text": "Retrofit work needs whole-house and quality-assurance skills that go beyond traditional trade training.",
           "skills": [
-            "commercial",
-            "teamwork"
+            "practical-making",
+            "law-ethics",
+            "sustainability"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.25"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.48"
         }
       ]
     },
@@ -581,13 +611,13 @@ export const REGION_DATA: GeneratedRegionData = {
       "name": "Health and Social Care",
       "short": "Health & Care",
       "blurb": "One of the sub-region's largest employers, health and social care attracts plenty of people into training – the challenge is helping them complete it and progress into supervisory and specialist roles.",
-      "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.27-28",
+      "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.52, p.54",
       "weights": {
-        "practical-making": 1,
-        "writing": 2,
-        "customer-service": 3,
-        "content-production": 1,
-        "numeracy": 2
+        "care-empathy": 3,
+        "leadership": 3,
+        "law-ethics": 2,
+        "digital-ai": 2,
+        "self-management": 2
       },
       "roles": [
         {
@@ -595,9 +625,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 2-3 apprenticeship",
           "what": "Provides personal care and support to people in residential or home settings.",
           "skills": [
-            "practical-making",
-            "languages",
-            "creativity"
+            "care-empathy",
+            "self-management",
+            "teamwork",
+            "speaking"
           ]
         },
         {
@@ -605,9 +636,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Degree or Level 6 apprenticeship",
           "what": "Delivers clinical care in hospitals, community and primary care settings.",
           "skills": [
-            "self-management",
-            "digital-ai",
-            "commercial"
+            "care-empathy",
+            "scientific-method",
+            "law-ethics",
+            "critical-thinking"
           ]
         },
         {
@@ -615,9 +647,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 3 apprenticeship",
           "what": "Supports young children's learning and development in nurseries and early years settings.",
           "skills": [
-            "teamwork",
-            "data-analysis",
-            "practical-making"
+            "care-empathy",
+            "speaking",
+            "creativity",
+            "self-management"
           ]
         },
         {
@@ -625,9 +658,9 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 5 apprenticeship",
           "what": "A bridge role between care assistant and registered nurse, giving more advanced clinical support.",
           "skills": [
-            "programming",
-            "sustainability",
-            "care-empathy"
+            "care-empathy",
+            "scientific-method",
+            "law-ethics"
           ]
         },
         {
@@ -635,9 +668,10 @@ export const REGION_DATA: GeneratedRegionData = {
           "level": "Level 5 apprenticeship or degree",
           "what": "Leads a care home or care service - one of the sector's most in-demand and hardest-to-fill roles.",
           "skills": [
-            "data-analysis",
-            "practical-making",
-            "languages"
+            "leadership",
+            "law-ethics",
+            "care-empathy",
+            "commercial"
           ]
         }
       ],
@@ -645,34 +679,35 @@ export const REGION_DATA: GeneratedRegionData = {
         {
           "text": "Only around 31% of FE health and care enrolments turn into completed achievements, the lowest conversion of any sector.",
           "skills": [
-            "problem-solving",
-            "numeracy"
+            "self-management",
+            "care-empathy"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.27"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.52"
         },
         {
           "text": "Just 110 Level 4+ enrolments locally means a very thin pipeline for supervisors and registered managers.",
           "skills": [
-            "digital-ai",
-            "commercial"
+            "leadership",
+            "care-empathy"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.27-28"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.52, p.54"
         },
         {
           "text": "Registered managers are in such short supply that one care home paid a £16,000 agency fee for a single hire.",
           "skills": [
-            "teamwork",
-            "data-analysis"
+            "leadership",
+            "law-ethics",
+            "care-empathy"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.27"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.52"
         },
         {
           "text": "Only 19% of direct care workers hold a Level 2 relevant social care qualification.",
           "skills": [
-            "commercial",
-            "teamwork"
+            "care-empathy",
+            "self-management"
           ],
-          "source": "https://heyzine.com/flip-book/CheshireandWarringtonLSIP2026.html p.27"
+          "source": "https://cdnm.heyzine.com/files/uploaded/v3/5c3373df5a7e7b084fb95834ddf4dc6ea6ddc469-3.pdf p.52"
         }
       ]
     }

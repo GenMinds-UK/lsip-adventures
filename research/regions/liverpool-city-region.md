@@ -277,3 +277,11 @@ manager/proprietor occupation row.
    least one skill id per gap; flagged here in case a future reviewer prefers different tags.
 6. **VERIFY:** none raised in this phase. The one VERIFY flag reported by `compile-data.ts` in this run
    belongs to Cumbria's `region.csv` (`lsip_published`), not to Liverpool City Region.
+
+## Second review (D extremes)
+
+Second review, 27 September 2026, under methodology §4.2. The full ruling and the cross-area table are in [`research/d-review.md`](../d-review.md). There were no changes.
+
+- **`digital-ai` 5, upheld.** This is the §4.2 anchor: "The cross-cutting theme is AI and Digital Transformation" (p.22), and "in virtually all of the deep dive interviews… identified digital and AI capability as a critical and immediate skills gap" (p.23).
+- **`languages` 0, upheld.** The only candidate hit is SOC "3412 Authors, writers and translators" in Annex A p.17. That is the SOC 2020 unit-group title used to code "Digital content creators and producers" and "Freelance creative practitioners"; it is not a language-skill need.
+- **No other skill reaches 5 under the ruling.** The "across all sectors" statements for leadership (p.41), progression (p.40) and digital (p.38) are cross-cutting labels, not measurements of the ERB's sample. The p.42 percentages come from the national ESS and the Institute of Student Employers, which are excluded from D.
