@@ -1,0 +1,553 @@
+subject,skill,score,evidence,source
+Geography,data-analysis,2,"DfE requires quantitative/qualitative skills, geospatial data; assessed across papers and NEA, not sole focus","DFE geog para4,20 p.4,12"
+Geography,programming,0,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,digital-ai,1,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,cyber-security,0,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,numeracy,2,Ofqual sets min 10% L2 maths marks for A-level geography; descriptive/inferential stats required,DFE geog para23 p.13; Ofqual quant-skills condition
+Geography,scientific-method,2,"NEA fieldwork requires devising/justifying practical field methodology, sampling, data collection (20% NEA)",DFE geog para25-26 p.13-14
+Geography,engineering,0,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,practical-making,1,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,sustainability,2,"Specialised concepts explicitly include sustainability, risk, resilience, thresholds across core themes",DFE geog para3 p.3-4
+Geography,commercial,1,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,leadership,0,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,law-ethics,1,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,writing,3,Core AO: 'construct extended written argument about geographical matters'; all 3 components require extended writing,DFE geog para20 p.12
+Geography,speaking,0,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,languages,0,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,care-empathy,0,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,teamwork,1,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,customer-service,0,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,self-management,2,"Independent investigation NEA (20%), individually defined question and research, per rule 4","AQA 7037 Component 3, 20% NEA"
+Geography,critical-thinking,3,"Anchor A9: NEA (20%) individual investigation, 3000-4000 words, question defined by student, field data",AQA 7037 Component 3 spec-at-a-glance
+Geography,problem-solving,1,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,creativity,1,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+Geography,content-production,1,,DfE geography content (gov.uk/gce-as-and-a-level-geography) + AQA Geography 7037 spec-at-a-glance
+History,data-analysis,1,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,programming,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,digital-ai,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,cyber-security,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,numeracy,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,scientific-method,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,engineering,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,practical-making,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,sustainability,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,commercial,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,leadership,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,law-ethics,1,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,writing,3,Anchor A15: all assessment is extended written argument across breadth/depth papers and NEA,DFE hist para11 p.3
+History,speaking,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,languages,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,care-empathy,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,teamwork,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,customer-service,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,self-management,2,"Component 3 Historical Investigation NEA, 20%, independently researched, 3500-4500 words",AQA 7042 Component 3 spec-at-a-glance
+History,critical-thinking,3,Anchor A15: 'use historical sources critically'; independently researched historical enquiry,"DFE hist para7,10 p.2-3"
+History,problem-solving,1,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,creativity,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+History,content-production,0,,DfE history content (gov.uk/gce-as-and-a-level-for-history) + AQA History 7042 spec-at-a-glance
+Politics,data-analysis,1,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,programming,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,digital-ai,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,cyber-security,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,numeracy,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,scientific-method,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,engineering,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,practical-making,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,sustainability,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,commercial,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,leadership,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,law-ethics,1,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,writing,3,"All-exam (3 equally-weighted papers, 100%); AO requires constructing arguments 'with relevance, clarity and coherence'",DFE pol para23 p.12
+Politics,speaking,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,languages,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,care-empathy,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,teamwork,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,customer-service,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,self-management,1,"Exam-only course, no NEA (AQA 7152: 3 written papers, 100% exam)",AQA 7152 spec-at-a-glance
+Politics,critical-thinking,3,Core AO across all 3 papers: 'critically analyse and evaluate...to construct arguments...reasoned conclusions',DFE pol para21 p.12
+Politics,problem-solving,1,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,creativity,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Politics,content-production,0,,DfE politics content May 2022 (gov.uk/gce-as-and-a-level-politics) + AQA Politics 7152 spec-at-a-glance
+Sociology,data-analysis,2,"Methods in Context (Paper1, 20 marks) and Theory & Methods (Paper3, 30 marks) assess interpreting quantitative/qualitative data",AQA 7192 Papers 1 and 3 spec-at-a-glance
+Sociology,programming,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,digital-ai,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,cyber-security,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,numeracy,1,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,scientific-method,2,"'Analyse and evaluate the design of sociological investigations' and methods used to collect/record evidence, assessed but no practicals/endorsement","DFE soc para6,10 p.1-2"
+Sociology,engineering,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,practical-making,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,sustainability,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,commercial,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,leadership,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,law-ethics,1,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,writing,3,100% exam assessment via extended essay questions across all 3 papers,AQA 7192 spec-at-a-glance
+Sociology,speaking,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,languages,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,care-empathy,1,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,teamwork,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,customer-service,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,self-management,1,"Exam-only course, no NEA (AQA 7192: 3 written papers, 100% exam)",AQA 7192 spec-at-a-glance
+Sociology,critical-thinking,3,"Core AO: 'evaluate theories, arguments and evidence'; 'distinguish facts, opinions and value judgements'",DFE soc para12 p.2
+Sociology,problem-solving,1,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,creativity,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Sociology,content-production,0,,DfE sociology content (gov.uk/gce-as-and-a-level-for-sociology) + AQA Sociology 7192 spec-at-a-glance
+Philosophy,data-analysis,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,programming,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,digital-ai,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,cyber-security,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,numeracy,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,scientific-method,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,engineering,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,practical-making,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,sustainability,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,commercial,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,leadership,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,law-ethics,2,"Applied ethics requires using ethical theory to address/resolve real controversial issues, assessed","DFE phil para6 (moral philosophy, applied ethics) p.5"
+Philosophy,writing,3,"All-exam essay-based (2 papers, 100%); aims require precise, concise argumentative writing using technical vocabulary",DFE phil para2 p.3
+Philosophy,speaking,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,languages,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,care-empathy,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,teamwork,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,customer-service,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,self-management,1,"Exam-only course, no NEA (AQA 7172: 2 written papers, 100% exam)",AQA 7172 spec-at-a-glance
+Philosophy,critical-thinking,3,"Core discipline: 'identify argument forms, and analyse and evaluate arguments'; central AO across both papers",DFE phil para2 p.3
+Philosophy,problem-solving,1,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,creativity,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Philosophy,content-production,0,,DfE philosophy content (gov.uk/gce-as-and-a-level-philosophy) + AQA Philosophy 7172 spec-at-a-glance
+Religious Studies,data-analysis,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,programming,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,digital-ai,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,cyber-security,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,numeracy,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,scientific-method,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,engineering,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,practical-making,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,sustainability,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,commercial,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,leadership,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,law-ethics,2,"'Application of ethical theory to two personal, societal or global issues of importance', assessed via Component 1 ethics section (50%)",DFE RS para14 p.5
+Religious Studies,writing,3,"All-exam essay-based (2 components, 100%); AO requires 'well informed and reasoned arguments substantiated by relevant evidence'",DFE RS para22 p.7
+Religious Studies,speaking,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,languages,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,care-empathy,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,teamwork,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,customer-service,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,self-management,1,"Exam-only course, no NEA (AQA 7062: 2 written components, 100% exam)",AQA 7062 spec-at-a-glance
+Religious Studies,critical-thinking,3,"Core AO: 'identify, investigate and critically analyse questions, arguments, ideas and issues'",DFE RS para22 p.7
+Religious Studies,problem-solving,1,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,creativity,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Religious Studies,content-production,0,,DfE religious studies content (gov.uk/gce-as-and-a-level-religious-studies) + AQA Religious Studies 7062 spec-at-a-glance
+Criminology,data-analysis,2,"Unit1 AC1.6 'Evaluate methods of collecting statistics about crime' (Home Office stats, Crime Survey for England & Wales), internal 25%",WJEC crim spec p.24
+Criminology,programming,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,digital-ai,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,cyber-security,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,numeracy,1,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,scientific-method,2,"Unit3 Crime Scene to Courtroom (internal, 25%) requires analysing/assessing usefulness of forensic and investigative techniques via case-study scenarios",WJEC crim spec p.42
+Criminology,engineering,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,practical-making,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,sustainability,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,commercial,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,leadership,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,law-ethics,3,"Qualification core: Unit3 trial process/rules of evidence + Unit4 aims and forms of punishment, sentencing (combined ~50% of marks)","WJEC crim spec p.42,54"
+Criminology,writing,2,"Units 1 and 3 (internal, 50% combined) assessed via extended report writing",WJEC crim spec p.481 unit weighting
+Criminology,speaking,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,languages,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,care-empathy,1,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,teamwork,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,customer-service,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,self-management,2,"Units 1 and 3 (internal, 50% combined) are individually produced extended investigations/reports","WJEC crim spec p.24,42"
+Criminology,critical-thinking,3,'Evaluate'/'assess usefulness'/'analyse' are the core command words across all 4 units' assessment criteria,WJEC crim spec Units 1-4
+Criminology,problem-solving,1,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,creativity,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+Criminology,content-production,0,,WJEC L3 Applied Diploma in Criminology spec (wjec.co.uk/media/21xjkr24)
+English Language,data-analysis,2,'Apply language concepts and methods of analysis...to data'; NEA language investigation (2000-word linguistic data analysis),DFE englang para11 p.1; AQA 7702 NEA 20%
+English Language,programming,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,digital-ai,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,cyber-security,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,numeracy,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,scientific-method,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,engineering,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,practical-making,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,sustainability,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,commercial,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,leadership,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,law-ethics,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,writing,3,Core AO: 'develop skills as producers...of language'; NEA original writing component; directed writing across papers,DFE englang para2 p.1
+English Language,speaking,1,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,languages,1,"Studies language itself (phonetics, grammar, discourse) but is not a foreign language",DFE englang para7 p.1-2
+English Language,care-empathy,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,teamwork,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,customer-service,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,self-management,2,"NEA 'Language in Action' (20%): independent investigation + original writing, self-directed","AQA 7702 spec-at-a-glance, NEA 20%"
+English Language,critical-thinking,2,A level addition: 'critically evaluate attitudes towards language and its users',DFE englang para12 p.2
+English Language,problem-solving,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Language,creativity,2,NEA includes an Original Writing component (creative writing with commentary),AQA 7702 NEA: Original Writing task
+English Language,content-production,0,,DfE English language content (gov.uk/gce-as-and-a-levels-for-english-language) + AQA English Language 7702 spec-at-a-glance
+English Literature,data-analysis,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,programming,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,digital-ai,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,cyber-security,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,numeracy,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,scientific-method,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,engineering,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,practical-making,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,sustainability,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,commercial,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,leadership,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,law-ethics,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,writing,3,Anchor-analog: all assessment (2 papers 80% + NEA 20%) is extended critical essay writing,DFE englit para17 p.2
+English Literature,speaking,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,languages,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,care-empathy,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,teamwork,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,customer-service,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,self-management,2,"NEA 'Independent critical study: texts across time' (20%), self-directed comparative essay",AQA 7712 NEA 20% scheme-of-assessment
+English Literature,critical-thinking,3,Core AO across all components: 'draw on...different interpretations in responding to and evaluating texts',DFE englit para17 p.2
+English Literature,problem-solving,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,creativity,1,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Literature,content-production,0,,DfE English literature content (gov.uk/gce-as-and-a-level-for-english-literature) + AQA English Literature A 7712 scheme-of-assessment
+English Language & Literature,data-analysis,1,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,programming,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,digital-ai,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,cyber-security,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,numeracy,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,scientific-method,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,engineering,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,practical-making,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,sustainability,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,commercial,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,leadership,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,law-ethics,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,writing,3,All components require extended writing; AO5 requires producing texts for different audiences and purposes,DFE engll para12 p.2
+English Language & Literature,speaking,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,languages,1,Studies language as a discipline (linguistics) but is not a foreign language,DFE engll para8 p.2
+English Language & Literature,care-empathy,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,teamwork,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,customer-service,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,self-management,2,"NEA 'Making connections' (20%): personal investigation exploring a technique/theme, self-directed",AQA 7707 NEA 20% spec-at-a-glance
+English Language & Literature,critical-thinking,3,Core AO combining literary and linguistic critical analysis across all components,DFE engll para12 p.2
+English Language & Literature,problem-solving,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+English Language & Literature,creativity,2,"'Use English appropriately, accurately and creatively'; production of texts for different audiences is an assessed AO",DFE engll para12 p.2
+English Language & Literature,content-production,0,,DfE English language & literature content (gov.uk/gce-as-and-a-level-for-english-language-and-literature) + AQA English Language & Literature 7707 spec-at-a-glance
+French,data-analysis,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,programming,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,digital-ai,1,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,cyber-security,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,numeracy,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,scientific-method,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,engineering,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,practical-making,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,sustainability,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,commercial,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,leadership,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,law-ethics,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,writing,2,"Paper 2 Writing is a named 20%-weighted paper (essay on literary work/film in language of study, plus translation)","AQA 7652 Paper 2, 20%"
+French,speaking,3,"Anchor A13: Paper 3 speaking exam, 30% of A-level, includes presentation/discussion of individual research project","AQA 7652 Paper 3, 30%, spec-at-a-glance"
+French,languages,3,Anchor A13: DfE MFL communicate 'through oral presentation and discussion'; core to the qualification,DFE MFL para3 p.3
+French,care-empathy,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,teamwork,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,customer-service,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,self-management,2,"DfE requires independent research skills, 'initiate and conduct individual research'; assessed within Paper 3 (30%, incl. oral exam)",DFE MFL para14 p.6
+French,critical-thinking,2,"'Engage critically with intellectually stimulating texts, films'; critical response to literary work/film assessed in Paper 2 (20%)","DFE MFL para3,11 p.3,6"
+French,problem-solving,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,creativity,1,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+French,content-production,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA French 7652 spec-at-a-glance
+Spanish,data-analysis,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,programming,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,digital-ai,1,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,cyber-security,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,numeracy,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,scientific-method,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,engineering,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,practical-making,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,sustainability,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,commercial,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,leadership,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,law-ethics,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,writing,2,"Paper 2 Writing is a named 20%-weighted paper (essay on literary work/film in language of study, plus translation)","AQA 7692 Paper 2, 20% (same structure as French 7652)"
+Spanish,speaking,3,"Anchor A13: Paper 3 speaking exam, 30% of A-level, includes presentation/discussion of individual research project","AQA 7692 Paper 3, 30% (same structure as French 7652)"
+Spanish,languages,3,Anchor A13: DfE MFL communicate 'through oral presentation and discussion'; core to the qualification,DFE MFL para3 p.3
+Spanish,care-empathy,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,teamwork,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,customer-service,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,self-management,2,"DfE requires independent research skills, 'initiate and conduct individual research'; assessed within Paper 3 (30%, incl. oral exam)",DFE MFL para14 p.6
+Spanish,critical-thinking,2,"'Engage critically with intellectually stimulating texts, films'; critical response to literary work/film assessed in Paper 2 (20%)","DFE MFL para3,11 p.3,6"
+Spanish,problem-solving,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,creativity,1,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+Spanish,content-production,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA Spanish 7692 (same structure as French 7652)
+German,data-analysis,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,programming,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,digital-ai,1,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,cyber-security,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,numeracy,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,scientific-method,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,engineering,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,practical-making,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,sustainability,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,commercial,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,leadership,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,law-ethics,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,writing,2,"Paper 2 Writing is a named 20%-weighted paper (essay on literary work/film in language of study, plus translation)","AQA 7662 Paper 2, 20% (same structure as French 7652)"
+German,speaking,3,"Anchor A13: Paper 3 speaking exam, 30% of A-level, includes presentation/discussion of individual research project","AQA 7662 Paper 3, 30% (same structure as French 7652)"
+German,languages,3,Anchor A13: DfE MFL communicate 'through oral presentation and discussion'; core to the qualification,DFE MFL para3 p.3
+German,care-empathy,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,teamwork,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,customer-service,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,self-management,2,"DfE requires independent research skills, 'initiate and conduct individual research'; assessed within Paper 3 (30%, incl. oral exam)",DFE MFL para14 p.6
+German,critical-thinking,2,"'Engage critically with intellectually stimulating texts, films'; critical response to literary work/film assessed in Paper 2 (20%)","DFE MFL para3,11 p.3,6"
+German,problem-solving,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,creativity,1,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+German,content-production,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + AQA German 7662 (same structure as French 7652)
+Chinese (Mandarin),data-analysis,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),programming,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),digital-ai,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),cyber-security,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),numeracy,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),scientific-method,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),engineering,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),practical-making,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),sustainability,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),commercial,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),leadership,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),law-ethics,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),writing,2,"Paper 2 'written response to works and translation', 30%: essays on novel/film plus translation","Pearson 9CN0 Paper 2, 30%"
+Chinese (Mandarin),speaking,3,"Paper 3 Speaking, 30% of qualification, internally conducted/externally assessed oral exam","Pearson 9CN0 Paper 3, 30%"
+Chinese (Mandarin),languages,3,Core to the qualification; DfE MFL communication aims apply to Chinese via the main MFL document,DFE MFL para3 p.3 + Chinese annex p.7
+Chinese (Mandarin),care-empathy,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),teamwork,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),customer-service,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),self-management,2,"DfE MFL para14 requires independent research skills for all modern languages incl. Chinese (exceptions annex covers only comprehension language, not this)","DFE MFL para14 p.6 (hard call, see notes)"
+Chinese (Mandarin),critical-thinking,2,Critical response to literary/film set works assessed in Paper 2 (30%),Pearson 9CN0 Paper 2
+Chinese (Mandarin),problem-solving,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),creativity,1,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Chinese (Mandarin),content-production,0,,DfE modern foreign languages content (gov.uk/gce-as-and-a-level-modern-foreign-languages) + Pearson Edexcel Chinese 9CN0 spec + savemyexams summary
+Art & Design (Fine Art),data-analysis,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),programming,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),digital-ai,1,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),cyber-security,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),numeracy,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),scientific-method,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),engineering,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),practical-making,3,Core practical skill: 'apply knowledge and understanding in making images and artefacts'; 100% NEA,DFE art para7 p.1-2
+Art & Design (Fine Art),sustainability,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),commercial,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),leadership,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),law-ethics,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),writing,2,"Personal Investigation requires 1000-3000 words of supporting written work (Component 1, 60%)",AQA 7202 scheme-of-assessment
+Art & Design (Fine Art),speaking,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),languages,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),care-empathy,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),teamwork,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),customer-service,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),self-management,3,"Rule 4: Personal Investigation alone is 60% NEA, self-directed extended project","AQA 7202 Component 1, 60% NEA"
+Art & Design (Fine Art),critical-thinking,2,"'Explore relevant resources; analyse, discuss and evaluate images, objects and artefacts; make independent judgements'",DFE art para7 p.1-2
+Art & Design (Fine Art),problem-solving,1,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Art & Design (Fine Art),creativity,3,"Core to qualification: 'intellectual, imaginative, creative and intuitive capabilities', 100% NEA",DFE art para2 p.1
+Art & Design (Fine Art),content-production,1,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,data-analysis,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,programming,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,digital-ai,2,Students may work entirely in digital media,DFE art para8 p.1
+Graphic Communication,cyber-security,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,numeracy,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,scientific-method,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,engineering,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,practical-making,3,Core practical skill: 'apply knowledge and understanding in making images and artefacts'; 100% NEA,DFE art para7 p.1-2
+Graphic Communication,sustainability,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,commercial,1,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,leadership,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,law-ethics,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,writing,2,"Personal Investigation requires 1000-3000 words of supporting written work (Component 1, 60%)",AQA 7202 scheme-of-assessment
+Graphic Communication,speaking,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,languages,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,care-empathy,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,teamwork,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,customer-service,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,self-management,3,"Rule 4: Personal Investigation alone is 60% NEA, self-directed extended project","AQA 7202 Component 1, 60% NEA"
+Graphic Communication,critical-thinking,2,"'Explore relevant resources; analyse, discuss and evaluate images, objects and artefacts; make independent judgements'",DFE art para7 p.1-2
+Graphic Communication,problem-solving,1,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Graphic Communication,creativity,3,"Core to qualification: 'intellectual, imaginative, creative and intuitive capabilities', 100% NEA",DFE art para2 p.1
+Graphic Communication,content-production,3,"Title covers 'illustration, web and app design, advertising, packaging, design for print, multimedia, animation and game design'",DFE art para10 p.2-3 (title examples)
+Photography,data-analysis,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,programming,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,digital-ai,2,Students may work entirely in digital media,DFE art para8 p.1
+Photography,cyber-security,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,numeracy,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,scientific-method,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,engineering,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,practical-making,3,Core practical skill: 'apply knowledge and understanding in making images and artefacts'; 100% NEA,DFE art para7 p.1-2
+Photography,sustainability,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,commercial,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,leadership,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,law-ethics,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,writing,2,"Personal Investigation requires 1000-3000 words of supporting written work (Component 1, 60%)",AQA 7202 scheme-of-assessment
+Photography,speaking,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,languages,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,care-empathy,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,teamwork,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,customer-service,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,self-management,3,"Rule 4: Personal Investigation alone is 60% NEA, self-directed extended project","AQA 7202 Component 1, 60% NEA"
+Photography,critical-thinking,2,"'Explore relevant resources; analyse, discuss and evaluate images, objects and artefacts; make independent judgements'",DFE art para7 p.1-2
+Photography,problem-solving,1,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Photography,creativity,3,"Core to qualification: 'intellectual, imaginative, creative and intuitive capabilities', 100% NEA",DFE art para2 p.1
+Photography,content-production,3,"Title covers 'portraiture, landscape photography, still life, documentary, photojournalism, fashion photography...moving image (video, film, animation)'",DFE art para10 p.2-3 (title examples)
+Textile Design,data-analysis,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,programming,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,digital-ai,1,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,cyber-security,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,numeracy,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,scientific-method,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,engineering,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,practical-making,3,Core practical skill: 'apply knowledge and understanding in making images and artefacts'; 100% NEA,DFE art para7 p.1-2
+Textile Design,sustainability,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,commercial,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,leadership,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,law-ethics,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,writing,2,"Personal Investigation requires 1000-3000 words of supporting written work (Component 1, 60%)",AQA 7202 scheme-of-assessment
+Textile Design,speaking,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,languages,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,care-empathy,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,teamwork,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,customer-service,0,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,self-management,3,"Rule 4: Personal Investigation alone is 60% NEA, self-directed extended project","AQA 7202 Component 1, 60% NEA"
+Textile Design,critical-thinking,2,"'Explore relevant resources; analyse, discuss and evaluate images, objects and artefacts; make independent judgements'",DFE art para7 p.1-2
+Textile Design,problem-solving,1,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Textile Design,creativity,3,"Core to qualification: 'intellectual, imaginative, creative and intuitive capabilities', 100% NEA",DFE art para2 p.1
+Textile Design,content-production,1,,DfE art and design content (gov.uk/gce-as-and-a-level-for-art-and-design) + AQA Art & Design 7202 scheme-of-assessment
+Film Studies,data-analysis,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,programming,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,digital-ai,1,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,cyber-security,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,numeracy,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,scientific-method,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,engineering,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,practical-making,1,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,sustainability,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,commercial,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,leadership,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,law-ethics,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,writing,2,"Discursive written argument assessed across Components 1 and 2 (70% combined, written exams)","Eduqas Components 1-2, 70%"
+Film Studies,speaking,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,languages,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,care-empathy,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,teamwork,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,customer-service,0,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,self-management,2,"Component 3 NEA production (30%): 'all aspects of research, planning and production must be completed individually'","Eduqas Component 3, 30% NEA"
+Film Studies,critical-thinking,3,"Core AO: 'analyse, interpret and compare films critically...apply key critical approaches', central across all components",DFE film para33 p.11-12
+Film Studies,problem-solving,1,,DfE film studies content (gov.uk/gce-as-and-a-level-film-studies) + WJEC Eduqas A-level Film Studies spec (eduqas.co.uk)
+Film Studies,creativity,2,NEA production (30%) requires original narrative/screenplay construction to a brief,"Eduqas Component 3, 30% NEA"
+Film Studies,content-production,3,NEA Production (30%): produce a short film or screenplay using industry filmmaking techniques,"Eduqas Component 3, 30% NEA"
+Media Studies,data-analysis,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,programming,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,digital-ai,1,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,cyber-security,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,numeracy,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,scientific-method,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,engineering,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,practical-making,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,sustainability,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,commercial,1,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,leadership,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,law-ethics,1,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,writing,2,"'Debate key questions...through discursive writing', assessed in Media One and Two (70% combined)",DFE media para29 p.10
+Media Studies,speaking,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,languages,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,care-empathy,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,teamwork,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,customer-service,0,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,self-management,2,NEA 'Creating a cross-media production' (30%): independently creating media to a brief,"AQA 7572 NEA, 30%"
+Media Studies,critical-thinking,3,Core AO: 'analyse and compare how media products construct and communicate meanings...use key theories',DFE media para29-31 p.10-11
+Media Studies,problem-solving,1,,DfE media studies content (gov.uk/gce-as-and-a-level-media-studies) + AQA Media Studies 7572 spec-at-a-glance
+Media Studies,creativity,2,NEA cross-media production (30%) requires creative media-making to a brief,"AQA 7572 NEA, 30%"
+Media Studies,content-production,3,NEA 'Creating a cross-media production' (30%) is the qualification's practical production focus,"AQA 7572 NEA, 30%"
+Music,data-analysis,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,programming,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,digital-ai,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,cyber-security,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,numeracy,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,scientific-method,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,engineering,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,practical-making,1,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,sustainability,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,commercial,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,leadership,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,law-ethics,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,writing,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,speaking,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,languages,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,care-empathy,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,teamwork,1,"Ensemble performance is allowed but optional (up to 8 musicians); not required of every student, so rule 5 threshold not met",AQA 7272 subject-content/performance
+Music,customer-service,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,self-management,2,"Performance (35% NEA, live assessed) + Composition (25% NEA) are individually prepared",AQA 7272 scheme-of-assessment
+Music,critical-thinking,2,Appraising Music (40% written exam) requires analysis/comparison of set and unfamiliar works,"AQA 7272 scheme-of-assessment, Component 1, 40%"
+Music,problem-solving,0,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music,creativity,3,Composition component (25% NEA) is the explicit focus for generating and developing original musical ideas,"AQA 7272 scheme-of-assessment, Composition 25%"
+Music,content-production,1,,"DfE music content (docx, gov.uk/gce-as-and-a-level-music) + AQA Music 7272 scheme-of-assessment / subject-content"
+Music Technology,data-analysis,1,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,programming,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,digital-ai,1,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,cyber-security,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,numeracy,2,"DfE names 'Numeracy' as an explicit content area: technical numeracy (binary, formulae, logarithms), reading EQ/frequency graphs","DFE mustech p.8, Numeracy row"
+Music Technology,scientific-method,1,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,engineering,1,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,practical-making,1,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,sustainability,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,commercial,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,leadership,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,law-ethics,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,writing,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,speaking,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,languages,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,care-empathy,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,teamwork,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,customer-service,0,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,self-management,2,"Components 1 (Recording) + 2 (Composition) = 40% NEA, individually managed technology-based projects","Pearson 9MT0 Components 1-2, 40%"
+Music Technology,critical-thinking,2,'Analyse critically and comment perceptively on music production techniques'; 'use aural discrimination to identify and evaluate',DFE mustech para13 p.9
+Music Technology,problem-solving,1,,DfE music technology content (gov.uk/gce-as-and-a-level-music-technology) + Pearson Edexcel Music Technology 9MT0 spec
+Music Technology,creativity,2,Component 2 Technology-based Composition (20% NEA): 'create and manipulate sound in imaginative and creative ways',"Pearson 9MT0 Component 2, 20%"
+Music Technology,content-production,3,"Components 1+2 (Recording + Composition, 40% NEA) are the qualification's core practical production focus","Pearson 9MT0 Components 1-2, 40%"
+Drama & Theatre,data-analysis,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,programming,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,digital-ai,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,cyber-security,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,numeracy,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,scientific-method,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,engineering,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,practical-making,1,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,sustainability,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,commercial,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,leadership,1,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,law-ethics,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,writing,2,Component 1 written exam (40%) requires analysis and evaluation of set plays and live theatre,"AQA 7262 Component 1, 40%"
+Drama & Theatre,speaking,1,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,languages,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,care-empathy,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,teamwork,3,"Anchor A17: 'collaborative relationship between various roles'; minimum two performances, one devised, practically assessed","DFE drama para4,8 p.3-4"
+Drama & Theatre,customer-service,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,self-management,2,"Components 2+3 (60% combined NEA/practical) include working notebook and reflective report, individually evidenced","AQA 7262 Components 2-3, 60%"
+Drama & Theatre,critical-thinking,2,"'Analyse and evaluate the process of creating their own live theatre'; 'interpreting, analysing and evaluating live theatre by others'",DFE drama para12 p.6-7
+Drama & Theatre,problem-solving,1,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Drama & Theatre,creativity,3,"Devising work is central (Component 2 'Creating Original Drama', 30%); 'creativity and coherence when communicating meaning'","AQA 7262 Component 2, 30%; DFE drama para12 p.6"
+Drama & Theatre,content-production,0,,DfE drama and theatre content (gov.uk/gce-as-and-a-level-drama-and-theatre) + AQA Drama and Theatre 7262 spec-at-a-glance
+Dance,data-analysis,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,programming,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,digital-ai,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,cyber-security,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,numeracy,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,scientific-method,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,engineering,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,practical-making,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,sustainability,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,commercial,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,leadership,1,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,law-ethics,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,writing,2,"Component 2 Critical Engagement (50% written exam) requires 'extended writing skills...clear, coherent, perceptive'","DFE dance para18 p.4; AQA 7237 Component 2, 50%"
+Dance,speaking,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,languages,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,care-empathy,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,teamwork,3,"Component 1 (50% NEA) requires 'performance in a quartet' and 'group choreography', required and assessed","AQA 7237 Component 1, 50%"
+Dance,customer-service,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,self-management,2,Component 1 (50% NEA) includes self-directed solo choreography and live assessed performance,"AQA 7237 Component 1, 50%"
+Dance,critical-thinking,2,"Component 2 requires students to 'analyse, interpret, reflect on and evaluate' set works",DFE dance para18 p.4
+Dance,problem-solving,1,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance
+Dance,creativity,3,"Choreographic process is central: 'experiment, develop ideas, craft and structure dance material'",DFE dance para16 p.3-4
+Dance,content-production,0,,DfE dance content (gov.uk/gce-as-and-a-level-dance) + AQA Dance 7237 spec-at-a-glance

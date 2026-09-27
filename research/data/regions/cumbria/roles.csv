@@ -1,0 +1,30 @@
+priority,title,level,what,skills
+advanced-manufacturing,Welder,Level 3 apprenticeship,"Joins and shapes metal for submarines, nuclear plant and manufacturing supply chains.",practical-making|engineering
+advanced-manufacturing,Machinist,Level 3 apprenticeship,Operates precision machinery to make parts for defence and manufacturing employers.,practical-making|engineering
+advanced-manufacturing,Electrical/electronics engineer,Level 3-6 apprenticeship or degree,"Designs, builds and maintains electrical systems for manufacturing and defence sites.",engineering|problem-solving|practical-making
+advanced-manufacturing,Engineering fitter,Level 3 apprenticeship,Assembles and fits mechanical components for advanced manufacturing employers.,practical-making|engineering
+advanced-manufacturing,Nuclear systems engineer,Level 6-8 degree or doctoral apprenticeship,"Designs and manages complex nuclear engineering systems, including via the STAND-Up doctoral programme.",engineering|problem-solving|critical-thinking|numeracy
+construction,Groundworker,Level 2 apprenticeship,Prepares sites and lays foundations for new building projects.,practical-making|self-management
+construction,Electrician,Level 3 apprenticeship,Installs and maintains electrical systems on construction sites and in buildings.,practical-making|engineering|law-ethics
+construction,Civil engineering technician,Level 3 apprenticeship,"Supports the design and delivery of roads, ports and infrastructure projects.",engineering|numeracy|data-analysis
+construction,Construction site supervisor,Level 4 apprenticeship,Oversees day-to-day work and safety on construction sites.,leadership|law-ethics|self-management
+construction,Quantity surveyor,Level 6 degree apprenticeship,Manages the costs and contracts of construction projects.,commercial|numeracy|data-analysis
+energy-net-zero,Heating engineer,Level 3 apprenticeship,"Installs and maintains heat pumps, boilers and other low-carbon heating systems.",practical-making|engineering|sustainability
+energy-net-zero,Solar PV installer,Level 2-3 apprenticeship,Installs solar panels and other renewable energy equipment.,practical-making|sustainability|engineering
+energy-net-zero,Pipe and plate welder,Level 3 apprenticeship,Welds pipework and structures for energy and nuclear sites.,practical-making|engineering
+energy-net-zero,Engineering technician,Level 3 apprenticeship,Maintains and operates equipment on energy and clean power sites.,engineering|practical-making|problem-solving
+energy-net-zero,SMR operations engineer,Level 6-7 degree or higher apprenticeship,Operates and maintains small modular nuclear reactors as new nuclear projects come online.,engineering|law-ethics|problem-solving|sustainability
+health-social-care,Care and support worker,Level 2 apprenticeship or Adult Social Care Certificate,Supports people with daily living in care homes or in their own homes.,care-empathy|self-management|teamwork
+health-social-care,Care manager,Level 5 apprenticeship,Leads a care team and manages the quality of care in a setting.,leadership|care-empathy|law-ethics
+health-social-care,Nurse,Level 6 degree apprenticeship,"Provides clinical care in hospitals, care homes or the community.",care-empathy|scientific-method|self-management|law-ethics
+health-social-care,Social worker,Level 6-7 degree apprenticeship,"Supports vulnerable children, adults and families to stay safe and well.",care-empathy|speaking|law-ethics|self-management
+land-based,Countryside worker,Level 2 apprenticeship,"Carries out practical conservation and land management work, often with LANSS and Kendal College.",practical-making|sustainability|teamwork
+land-based,Agricultural/farm technician,Level 2-3 apprenticeship,"Works on farms adapting to new technology, nature-friendly farming and diversification.",practical-making|engineering|sustainability
+land-based,Forestry worker,Level 2-3 apprenticeship,"Manages woodland, from timber production to the Woodland Carbon Code and agroforestry.",practical-making|sustainability
+land-based,Professional forester,Level 6 degree,"Plans and manages forests and woodland at a professional level, via the University of Cumbria's programme.",sustainability|leadership|critical-thinking
+land-based,Land-based business/environmental adviser,Level 4-6,"Advises land-based businesses on grants, diversification and nature recovery.",commercial|sustainability|speaking|critical-thinking
+visitor-economy,Commis chef / chef de partie,Level 2-3 apprenticeship,"Trains in a professional kitchen, working towards more senior chef roles.",practical-making|self-management|teamwork
+visitor-economy,Hospitality team member,Level 2 apprenticeship,"Works front of house or in food and beverage service in hotels, pubs and restaurants.",customer-service|speaking|teamwork
+visitor-economy,Housekeeping/accommodation services assistant,Level 2,"Keeps guest accommodation clean, safe and welcoming.",practical-making|self-management
+visitor-economy,Travel and tourism officer,Level 2-3,"Helps plan and promote trips, attractions and visitor experiences.",customer-service|speaking|commercial
+visitor-economy,Hospitality manager,Level 6 degree apprenticeship (Chartered Manager),"Manages teams, budgets and guest experience in hotels, restaurants and attractions.",leadership|customer-service|commercial|self-management

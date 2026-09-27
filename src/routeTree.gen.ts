@@ -10,13 +10,26 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as JourneyRouteImport } from './routes/journey'
 import { Route as SubjectsRouteImport } from './routes/subjects'
-import { Route as PlanChoiceIdRouteImport } from './routes/plan.$choiceId'
-import { Route as QuestsSelectionIdRouteImport } from './routes/quests.$selectionId'
+import { Route as WhereRouteImport } from './routes/where'
+import { Route as JourneyIndexRouteImport } from './routes/journey.index'
+import { Route as JourneyContactsRouteImport } from './routes/journey.contacts'
+import { Route as JourneyLocalRouteImport } from './routes/journey.local'
+import { Route as JourneyNationalRouteImport } from './routes/journey.national'
+import { Route as JourneyOverlapsRouteImport } from './routes/journey.overlaps'
+import { Route as JourneyQuestsRouteImport } from './routes/journey.quests'
+import { Route as JourneySkillsRouteImport } from './routes/journey.skills'
+import { Route as JourneySummaryRouteImport } from './routes/journey.summary'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const JourneyRoute = JourneyRouteImport.update({
+  id: '/journey',
+  path: '/journey',
   getParentRoute: () => rootRouteImport,
 } as any)
 const SubjectsRoute = SubjectsRouteImport.update({
@@ -24,50 +37,143 @@ const SubjectsRoute = SubjectsRouteImport.update({
   path: '/subjects',
   getParentRoute: () => rootRouteImport,
 } as any)
-const PlanChoiceIdRoute = PlanChoiceIdRouteImport.update({
-  id: '/plan/$choiceId',
-  path: '/plan/$choiceId',
+const WhereRoute = WhereRouteImport.update({
+  id: '/where',
+  path: '/where',
   getParentRoute: () => rootRouteImport,
 } as any)
-const QuestsSelectionIdRoute = QuestsSelectionIdRouteImport.update({
-  id: '/quests/$selectionId',
-  path: '/quests/$selectionId',
-  getParentRoute: () => rootRouteImport,
+const JourneyIndexRoute = JourneyIndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => JourneyRoute,
+} as any)
+const JourneyContactsRoute = JourneyContactsRouteImport.update({
+  id: '/contacts',
+  path: '/contacts',
+  getParentRoute: () => JourneyRoute,
+} as any)
+const JourneyLocalRoute = JourneyLocalRouteImport.update({
+  id: '/local',
+  path: '/local',
+  getParentRoute: () => JourneyRoute,
+} as any)
+const JourneyNationalRoute = JourneyNationalRouteImport.update({
+  id: '/national',
+  path: '/national',
+  getParentRoute: () => JourneyRoute,
+} as any)
+const JourneyOverlapsRoute = JourneyOverlapsRouteImport.update({
+  id: '/overlaps',
+  path: '/overlaps',
+  getParentRoute: () => JourneyRoute,
+} as any)
+const JourneyQuestsRoute = JourneyQuestsRouteImport.update({
+  id: '/quests',
+  path: '/quests',
+  getParentRoute: () => JourneyRoute,
+} as any)
+const JourneySkillsRoute = JourneySkillsRouteImport.update({
+  id: '/skills',
+  path: '/skills',
+  getParentRoute: () => JourneyRoute,
+} as any)
+const JourneySummaryRoute = JourneySummaryRouteImport.update({
+  id: '/summary',
+  path: '/summary',
+  getParentRoute: () => JourneyRoute,
 } as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/journey': typeof JourneyRouteWithChildren
   '/subjects': typeof SubjectsRoute
-  '/plan/$choiceId': typeof PlanChoiceIdRoute
-  '/quests/$selectionId': typeof QuestsSelectionIdRoute
+  '/where': typeof WhereRoute
+  '/journey/contacts': typeof JourneyContactsRoute
+  '/journey/local': typeof JourneyLocalRoute
+  '/journey/national': typeof JourneyNationalRoute
+  '/journey/overlaps': typeof JourneyOverlapsRoute
+  '/journey/quests': typeof JourneyQuestsRoute
+  '/journey/skills': typeof JourneySkillsRoute
+  '/journey/summary': typeof JourneySummaryRoute
+  '/journey/': typeof JourneyIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/subjects': typeof SubjectsRoute
-  '/plan/$choiceId': typeof PlanChoiceIdRoute
-  '/quests/$selectionId': typeof QuestsSelectionIdRoute
+  '/where': typeof WhereRoute
+  '/journey/contacts': typeof JourneyContactsRoute
+  '/journey/local': typeof JourneyLocalRoute
+  '/journey/national': typeof JourneyNationalRoute
+  '/journey/overlaps': typeof JourneyOverlapsRoute
+  '/journey/quests': typeof JourneyQuestsRoute
+  '/journey/skills': typeof JourneySkillsRoute
+  '/journey/summary': typeof JourneySummaryRoute
+  '/journey': typeof JourneyIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/journey': typeof JourneyRouteWithChildren
   '/subjects': typeof SubjectsRoute
-  '/plan/$choiceId': typeof PlanChoiceIdRoute
-  '/quests/$selectionId': typeof QuestsSelectionIdRoute
+  '/where': typeof WhereRoute
+  '/journey/contacts': typeof JourneyContactsRoute
+  '/journey/local': typeof JourneyLocalRoute
+  '/journey/national': typeof JourneyNationalRoute
+  '/journey/overlaps': typeof JourneyOverlapsRoute
+  '/journey/quests': typeof JourneyQuestsRoute
+  '/journey/skills': typeof JourneySkillsRoute
+  '/journey/summary': typeof JourneySummaryRoute
+  '/journey/': typeof JourneyIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/subjects' | '/plan/$choiceId' | '/quests/$selectionId'
+  fullPaths:
+    | '/'
+    | '/journey'
+    | '/subjects'
+    | '/where'
+    | '/journey/contacts'
+    | '/journey/local'
+    | '/journey/national'
+    | '/journey/overlaps'
+    | '/journey/quests'
+    | '/journey/skills'
+    | '/journey/summary'
+    | '/journey/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/subjects' | '/plan/$choiceId' | '/quests/$selectionId'
+  to:
+    | '/'
+    | '/subjects'
+    | '/where'
+    | '/journey/contacts'
+    | '/journey/local'
+    | '/journey/national'
+    | '/journey/overlaps'
+    | '/journey/quests'
+    | '/journey/skills'
+    | '/journey/summary'
+    | '/journey'
   id:
-    '__root__' | '/' | '/subjects' | '/plan/$choiceId' | '/quests/$selectionId'
+    | '__root__'
+    | '/'
+    | '/journey'
+    | '/subjects'
+    | '/where'
+    | '/journey/contacts'
+    | '/journey/local'
+    | '/journey/national'
+    | '/journey/overlaps'
+    | '/journey/quests'
+    | '/journey/skills'
+    | '/journey/summary'
+    | '/journey/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  JourneyRoute: typeof JourneyRouteWithChildren
   SubjectsRoute: typeof SubjectsRoute
-  PlanChoiceIdRoute: typeof PlanChoiceIdRoute
-  QuestsSelectionIdRoute: typeof QuestsSelectionIdRoute
+  WhereRoute: typeof WhereRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -79,6 +185,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/journey': {
+      id: '/journey'
+      path: '/journey'
+      fullPath: '/journey'
+      preLoaderRoute: typeof JourneyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/subjects': {
       id: '/subjects'
       path: '/subjects'
@@ -86,28 +199,102 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof SubjectsRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/plan/$choiceId': {
-      id: '/plan/$choiceId'
-      path: '/plan/$choiceId'
-      fullPath: '/plan/$choiceId'
-      preLoaderRoute: typeof PlanChoiceIdRouteImport
+    '/where': {
+      id: '/where'
+      path: '/where'
+      fullPath: '/where'
+      preLoaderRoute: typeof WhereRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/quests/$selectionId': {
-      id: '/quests/$selectionId'
-      path: '/quests/$selectionId'
-      fullPath: '/quests/$selectionId'
-      preLoaderRoute: typeof QuestsSelectionIdRouteImport
-      parentRoute: typeof rootRouteImport
+    '/journey/': {
+      id: '/journey/'
+      path: '/'
+      fullPath: '/journey/'
+      preLoaderRoute: typeof JourneyIndexRouteImport
+      parentRoute: typeof JourneyRoute
+    }
+    '/journey/contacts': {
+      id: '/journey/contacts'
+      path: '/contacts'
+      fullPath: '/journey/contacts'
+      preLoaderRoute: typeof JourneyContactsRouteImport
+      parentRoute: typeof JourneyRoute
+    }
+    '/journey/local': {
+      id: '/journey/local'
+      path: '/local'
+      fullPath: '/journey/local'
+      preLoaderRoute: typeof JourneyLocalRouteImport
+      parentRoute: typeof JourneyRoute
+    }
+    '/journey/national': {
+      id: '/journey/national'
+      path: '/national'
+      fullPath: '/journey/national'
+      preLoaderRoute: typeof JourneyNationalRouteImport
+      parentRoute: typeof JourneyRoute
+    }
+    '/journey/overlaps': {
+      id: '/journey/overlaps'
+      path: '/overlaps'
+      fullPath: '/journey/overlaps'
+      preLoaderRoute: typeof JourneyOverlapsRouteImport
+      parentRoute: typeof JourneyRoute
+    }
+    '/journey/quests': {
+      id: '/journey/quests'
+      path: '/quests'
+      fullPath: '/journey/quests'
+      preLoaderRoute: typeof JourneyQuestsRouteImport
+      parentRoute: typeof JourneyRoute
+    }
+    '/journey/skills': {
+      id: '/journey/skills'
+      path: '/skills'
+      fullPath: '/journey/skills'
+      preLoaderRoute: typeof JourneySkillsRouteImport
+      parentRoute: typeof JourneyRoute
+    }
+    '/journey/summary': {
+      id: '/journey/summary'
+      path: '/summary'
+      fullPath: '/journey/summary'
+      preLoaderRoute: typeof JourneySummaryRouteImport
+      parentRoute: typeof JourneyRoute
     }
   }
 }
 
+interface JourneyRouteChildren {
+  JourneyContactsRoute: typeof JourneyContactsRoute
+  JourneyLocalRoute: typeof JourneyLocalRoute
+  JourneyNationalRoute: typeof JourneyNationalRoute
+  JourneyOverlapsRoute: typeof JourneyOverlapsRoute
+  JourneyQuestsRoute: typeof JourneyQuestsRoute
+  JourneySkillsRoute: typeof JourneySkillsRoute
+  JourneySummaryRoute: typeof JourneySummaryRoute
+  JourneyIndexRoute: typeof JourneyIndexRoute
+}
+
+const JourneyRouteChildren: JourneyRouteChildren = {
+  JourneyContactsRoute: JourneyContactsRoute,
+  JourneyLocalRoute: JourneyLocalRoute,
+  JourneyNationalRoute: JourneyNationalRoute,
+  JourneyOverlapsRoute: JourneyOverlapsRoute,
+  JourneyQuestsRoute: JourneyQuestsRoute,
+  JourneySkillsRoute: JourneySkillsRoute,
+  JourneySummaryRoute: JourneySummaryRoute,
+  JourneyIndexRoute: JourneyIndexRoute,
+}
+
+const JourneyRouteWithChildren =
+  JourneyRoute._addFileChildren(JourneyRouteChildren)
+
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  JourneyRoute: JourneyRouteWithChildren,
   SubjectsRoute: SubjectsRoute,
-  PlanChoiceIdRoute: PlanChoiceIdRoute,
-  QuestsSelectionIdRoute: QuestsSelectionIdRoute,
+  WhereRoute: WhereRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

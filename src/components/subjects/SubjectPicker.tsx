@@ -1,23 +1,30 @@
+import { Flame, Search, X } from "lucide-react";
 import { useMemo, useState } from "react";
-import { Search, X } from "lucide-react";
-import { SUBJECTS, type Subject } from "@/data/subjects";
 import { ArcadeButton } from "@/components/arcade/ArcadeButton";
-import { PixelHeading } from "@/components/arcade/PixelHeading";
-import { SubjectSlots } from "@/components/subjects/SubjectSlots";
 import { SubjectDialog } from "@/components/subjects/SubjectDialog";
+import { SubjectSlots } from "@/components/subjects/SubjectSlots";
+import type { SkillId } from "@/data/generated/taxonomy";
+import type { Region } from "@/data/regions/types";
+import { SUBJECTS, type Subject, type SubjectName } from "@/data/subjects";
+import { MAX_SUBJECTS, MIN_SUBJECTS } from "@/lib/journey";
+import type { SubjectInsight } from "@/lib/results";
 import { cn } from "@/lib/utils";
 
 export function SubjectPicker({
+  region,
+  insights,
+  skillRanks,
+  initialChosen,
   onSubmit,
-  submitting,
-  initialChosen = [],
 }: {
-  onSubmit: (subjects: string[]) => void;
-  submitting: boolean;
-  initialChosen?: string[];
+  region: Region;
+  insights: Record<SubjectName, SubjectInsight>;
+  skillRanks: Record<SkillId, number>;
+  initialChosen: SubjectName[];
+  onSubmit: (subjects: SubjectName[]) => void;
 }) {
   const [query, setQuery] = useState("");
-  const [chosen, setChosen] = useState<string[]>(initialChosen);
+  const [chosen, setChosen] = useState<SubjectName[]>(initialChosen);
   const [open, setOpen] = useState<Subject | null>(null);
 
   const grouped = useMemo(() => {
@@ -25,33 +32,33 @@ export function SubjectPicker({
     const map = new Map<string, Subject[]>();
     for (const subject of SUBJECTS) {
       if (needle && !subject.name.toLowerCase().includes(needle)) continue;
-      const list = map.get(subject.group) ?? [];
-      list.push(subject);
-      map.set(subject.group, list);
+      map.set(subject.group, [...(map.get(subject.group) ?? []), subject]);
     }
     return Array.from(map.entries());
   }, [query]);
 
-  const toggle = (name: string) => {
+  const toggle = (name: SubjectName) => {
     setChosen((current) => {
       if (current.includes(name)) return current.filter((s) => s !== name);
-      if (current.length >= 4) return current;
+      if (current.length >= MAX_SUBJECTS) return current;
       return [...current, name];
     });
   };
 
-  const full = chosen.length === 4;
-  const ready = chosen.length >= 3;
+  const full = chosen.length === MAX_SUBJECTS;
+  const ready = chosen.length >= MIN_SUBJECTS;
 
   return (
     <div className="flex flex-col gap-6 pb-40">
       <div className="arcade-panel p-5 sm:p-6">
-        <PixelHeading as="h2">Choose your subjects</PixelHeading>
-        <div className="mt-4 grid gap-2 sm:grid-cols-3" aria-label="Selection steps">
-          <div className="arcade-inset p-3 text-xs"><span className="text-highlight font-display block text-[0.55rem]">01</span><span className="text-muted-foreground mt-1 block">Pick 3 or 4 subjects</span></div>
-          <div className="arcade-inset p-3 text-xs"><span className="text-highlight font-display block text-[0.55rem]">02</span><span className="text-muted-foreground mt-1 block">Build your party</span></div>
-          <div className="arcade-inset p-3 text-xs"><span className="text-highlight font-display block text-[0.55rem]">03</span><span className="text-muted-foreground mt-1 block">Unlock your quests</span></div>
-        </div>
+        <p className="text-muted-foreground text-sm leading-relaxed">
+          Pick the {MIN_SUBJECTS} or {MAX_SUBJECTS} A levels you're studying or thinking about. Tap
+          any subject to see how it connects to {region.name}.{" "}
+          <span className="text-highlight inline-flex items-center gap-1">
+            <Flame className="h-3.5 w-3.5" aria-hidden /> In demand here
+          </span>{" "}
+          marks the subjects whose skills this area's plan needs most.
+        </p>
 
         <div className="relative mt-5">
           <Search
@@ -88,28 +95,30 @@ export function SubjectPicker({
       <div className="flex flex-col gap-6">
         {grouped.map(([group, subjects]) => (
           <section key={group}>
-            <h3 className="font-display text-accent mb-3 text-[0.6rem] tracking-widest uppercase">
+            <h2 className="font-display text-accent mb-3 text-[0.6rem] tracking-widest uppercase">
               {group}
-            </h3>
+            </h2>
             <div className="flex flex-wrap gap-2">
               {subjects.map((subject) => {
-                const name = subject.name;
-                const selected = chosen.includes(name);
+                const selected = chosen.includes(subject.name);
+                const hot = insights[subject.name].inDemand;
                 return (
                   <button
-                    key={name}
+                    key={subject.name}
                     type="button"
                     onClick={() => setOpen(subject)}
                     aria-pressed={selected}
+                    aria-label={`${subject.name}${hot ? ", in demand here" : ""}${selected ? ", chosen" : ""}`}
                     className={cn(
-                      "rounded-md border-2 px-3 py-2.5 text-left text-sm transition-colors",
+                      "inline-flex items-center gap-1.5 rounded-md border-2 px-3 py-2.5 text-left text-sm transition-colors",
                       "focus-visible:ring-ring focus-visible:ring-2 focus-visible:outline-none",
                       selected
                         ? "border-highlight bg-primary text-primary-foreground"
                         : "border-border bg-surface hover:border-accent hover:bg-surface-2",
                     )}
                   >
-                    {name}
+                    {subject.name}
+                    {hot ? <Flame className="text-highlight h-3.5 w-3.5" aria-hidden /> : null}
                   </button>
                 );
               })}
@@ -118,29 +127,26 @@ export function SubjectPicker({
         ))}
       </div>
 
-      <p className="text-muted-foreground sr-only" aria-live="polite" aria-atomic="true">
-        {chosen.length} of 3 required subjects selected. {full ? "All four slots are full." : ""}
+      <p className="sr-only" aria-live="polite" aria-atomic="true">
+        {chosen.length} of {MIN_SUBJECTS} required subjects selected.{" "}
+        {full ? "All slots are full." : ""}
       </p>
 
       <div className="border-border bg-background/95 fixed inset-x-0 bottom-0 z-40 border-t-2 backdrop-blur">
         <div className="mx-auto flex w-full max-w-5xl flex-col gap-3 px-4 py-4 sm:px-6">
-          <SubjectSlots chosen={chosen} onRemove={toggle} />
+          <SubjectSlots chosen={chosen} onRemove={(name) => toggle(name as SubjectName)} />
           <ArcadeButton
             type="button"
             size="md"
-            disabled={!ready || submitting}
+            disabled={!ready}
             onClick={() => onSubmit(chosen)}
             className="w-full"
           >
-            {submitting
-              ? "Generating..."
-              : ready
-                ? "Begin adventure"
-                : `Pick ${3 - chosen.length} more`}
+            {ready ? "See the skills you'll build" : `Pick ${MIN_SUBJECTS - chosen.length} more`}
           </ArcadeButton>
           {ready && !full ? (
             <p className="text-muted-foreground text-center text-xs">
-              You can add a fourth subject, or begin with three.
+              You can add a fourth subject, or carry on with three.
             </p>
           ) : null}
         </div>
@@ -149,6 +155,9 @@ export function SubjectPicker({
       {open ? (
         <SubjectDialog
           subject={open}
+          region={region}
+          insight={insights[open.name]}
+          skillRanks={skillRanks}
           selected={chosen.includes(open.name)}
           full={full}
           onClose={() => setOpen(null)}

@@ -1,0 +1,34 @@
+priority,title,level,what,skills
+advanced-manufacturing-engineering,Mechanical or electrical engineer,Level 3-6 apprenticeship or degree,"Designs, tests and improves the parts, machines and production lines used in factories and aircraft.",engineering|numeracy|problem-solving|practical-making
+advanced-manufacturing-engineering,CNC machinist / setter-operator,Level 3-4 apprenticeship,Sets up and runs computer-controlled machines that cut and shape metal parts precisely.,practical-making|engineering|numeracy
+advanced-manufacturing-engineering,Fabricator or welder,Level 3-4 apprenticeship,"Joins and shapes metal to build aircraft parts, vehicles and structures.",practical-making|engineering
+advanced-manufacturing-engineering,Electrical engineer or technician,Level 3 apprenticeship,"Installs, tests and maintains the electrical systems inside factories and products.",engineering|practical-making|numeracy
+advanced-manufacturing-engineering,Manufacturing data analyst,Level 3-6 apprenticeship or degree,Uses data from smart factories to spot problems early and improve production.,data-analysis|numeracy|digital-ai|critical-thinking
+advanced-manufacturing-engineering,Production manager,Level 4-6 apprenticeship or degree,"Leads a manufacturing team, planning schedules and keeping quality and safety high.",leadership|commercial|self-management|critical-thinking
+construction,Bricklayer,Level 2-3 apprenticeship,"Builds and repairs walls and structures using brick, block and stone.",practical-making|self-management
+construction,Plumber or heating engineer,Level 3 apprenticeship,"Installs and maintains the water, heating and drainage systems inside buildings.",practical-making|engineering|problem-solving
+construction,Carpenter or joiner,Level 2-3 apprenticeship,Makes and fits the wooden structures and fittings used on building sites.,practical-making|creativity|self-management
+construction,Electrician (construction),Level 3 apprenticeship,Wires and maintains the electrical systems in new and existing buildings.,engineering|practical-making|law-ethics
+construction,Construction site manager,Level 3-6 apprenticeship or degree,"Oversees a building site day to day, coordinating trades, safety and deadlines.",leadership|commercial|law-ethics|self-management
+hospitality-leisure-tourism,Chef,Level 2-4 apprenticeship,"Prepares and cooks food in restaurants, hotels and visitor attractions.",practical-making|creativity|self-management
+hospitality-leisure-tourism,Front of house or guest services assistant,Level 2 apprenticeship,"Welcomes and looks after guests in hotels, restaurants and attractions.",customer-service|speaking|self-management
+hospitality-leisure-tourism,Hospitality or leisure manager,Level 3-4 apprenticeship or degree,"Runs a hotel, restaurant, bar or leisure venue on a day-to-day basis.",leadership|customer-service|commercial
+hospitality-leisure-tourism,Leisure and tourism assistant,Level 2 apprenticeship or entry role,"Helps run attractions, activities and events for visitors.",customer-service|speaking|self-management
+social-care,Care worker or home carer,Level 2-3 apprenticeship / Care Certificate,"Supports people with daily living, in their own home or in a care setting.",care-empathy|self-management|teamwork
+social-care,Senior care worker,Level 3 apprenticeship,Leads shifts and mentors newer care workers.,care-empathy|leadership|teamwork
+social-care,Registered care manager,Level 5-6 apprenticeship or degree,Runs a care home or care service and answers to inspectors.,leadership|law-ethics|care-empathy|commercial
+social-care,Social worker,Level 6 degree,"Works with people and families facing difficulties, arranging support and safeguarding.",care-empathy|law-ethics|critical-thinking|writing
+digital,Software developer / programmer,Level 4-6 apprenticeship or degree,Builds and tests the software and apps that businesses rely on.,programming|problem-solving|critical-thinking
+digital,Cyber security analyst,Level 4-6 apprenticeship or degree,Protects computer systems and data from attacks and breaches.,cyber-security|critical-thinking|law-ethics
+digital,Web designer or developer,Level 3-5 apprenticeship,Designs and builds the websites and online services people use every day.,programming|content-production|creativity
+digital,IT support technician,Level 3-4 apprenticeship,"Keeps computers, networks and software running for a business.",cyber-security|digital-ai|problem-solving
+digital,Data or systems analyst,Level 4-6 apprenticeship or degree,Studies how a business's systems and data work and suggests improvements.,data-analysis|numeracy|critical-thinking|digital-ai
+national-security-resilience,Aerospace engineer,Level 6 degree or apprenticeship,"Designs and improves aircraft and defence systems, for example at BAE Systems.",engineering|numeracy|problem-solving|practical-making
+national-security-resilience,Electronics or systems technician,Level 4-5 apprenticeship,Tests and integrates the electronics inside defence and aerospace equipment.,engineering|practical-making|problem-solving
+national-security-resilience,Cyber security specialist,Level 4-7 apprenticeship or degree,"Defends the UK's networks and data, including at the new National Cyber Force site in Samlesbury.",cyber-security|law-ethics|critical-thinking
+national-security-resilience,Quality assurance engineer,Level 5-6 apprenticeship or degree,Checks that safety-critical parts meet strict defence and aerospace standards.,law-ethics|scientific-method|critical-thinking
+national-security-resilience,Food technologist or production technician,Level 3-5 apprenticeship,"Keeps food production safe, efficient and high quality, from farm to factory.",scientific-method|practical-making|law-ethics
+clean-energy-nuclear,Nuclear technician,Level 3-5 apprenticeship,Operates and maintains equipment at nuclear sites such as Heysham or Springfields.,practical-making|engineering|law-ethics
+clean-energy-nuclear,Nuclear or mechanical engineer,Level 6 degree or apprenticeship,Designs and manages the equipment and processes behind nuclear power and fuel.,engineering|numeracy|sustainability|problem-solving
+clean-energy-nuclear,Wind turbine or engineering technician,Level 3-5 apprenticeship,Installs and maintains offshore and onshore wind turbines.,practical-making|engineering|sustainability
+clean-energy-nuclear,Environmental or health & safety officer,Level 4-6 apprenticeship or degree,Makes sure energy sites meet environmental and safety rules.,sustainability|law-ethics|critical-thinking

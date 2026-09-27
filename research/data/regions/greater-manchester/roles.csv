@@ -1,0 +1,36 @@
+priority,title,level,what,skills
+construction,Electrician,Level 3 apprenticeship,Installs and tests the wiring and electrical systems inside homes and buildings.,practical-making|engineering|law-ethics
+construction,Bricklayer,Level 2 apprenticeship,"Builds and repairs walls and structures using brick, block and stone.",practical-making|self-management
+construction,Roofer,Level 2-3 apprenticeship,"Fits and repairs roofs, including the insulation work needed for energy-efficient homes.",practical-making|sustainability|self-management
+construction,Quantity surveyor,Degree or Level 6 apprenticeship,Works out how much a building project will cost and keeps it on budget.,numeracy|commercial|writing
+construction,Mechanical or electrical engineer,Level 6 degree or HTQ (Level 4-5),"Designs and plans the building services, from wiring to heating systems, in construction projects.",engineering|numeracy|problem-solving
+logistics,HGV driver,Level 2 driving qualification plus Class 1 licence,Drives large goods vehicles delivering products across the country.,self-management|practical-making
+logistics,Warehouse operative,Level 2 apprenticeship,"Picks, packs and moves stock around a warehouse, often using handheld scanners.",practical-making|self-management|digital-ai
+logistics,Business development executive,Level 3-4 apprenticeship,Finds new customers and contracts for a logistics or transport company.,commercial|speaking|self-management
+logistics,Customer service advisor,Level 2-3 apprenticeship,"Handles customer queries and deliveries, keeping clients informed and happy.",customer-service|speaking|self-management
+health-social-care,Healthcare assistant,Level 2 Diploma in Care (often trained on the job),"Supports nurses and carers with day-to-day patient or resident care, often needing no prior qualification.",care-empathy|self-management|customer-service
+health-social-care,Registered nurse,Degree or nursing degree apprenticeship (Level 6),"Assesses, treats and cares for patients in hospitals, care homes or the community.",care-empathy|scientific-method|critical-thinking|self-management
+health-social-care,Senior care worker,Level 3 Diploma in Health and Social Care,Takes on extra responsibility for planning care and supervising junior staff in a care setting.,care-empathy|leadership|self-management
+health-social-care,Registered care manager,Level 5 Diploma in Leadership for Health and Social Care,"Runs a care home or care service, managing staff, budgets and quality of care.",leadership|care-empathy|commercial
+engineering-manufacturing,Mechanical or electrical engineer,Level 6 degree or degree apprenticeship,"Designs, tests and improves machinery, products and production processes.",engineering|numeracy|problem-solving
+engineering-manufacturing,Electronics or electrical technician,Level 3 apprenticeship,"Assembles, tests and repairs electronic and electrical equipment such as circuit boards.",engineering|practical-making|problem-solving
+engineering-manufacturing,Welder or metal fabricator,Level 2-3 apprenticeship,"Joins and shapes metal parts to build machinery, vehicles and structures.",practical-making|self-management
+engineering-manufacturing,CNC machinist,Level 3 apprenticeship,Sets up and runs computer-controlled machines that cut and shape precision parts.,practical-making|engineering|numeracy
+engineering-manufacturing,Mechatronics or robotics technician,Level 3-5 apprenticeship,"Installs and maintains automated machinery that combines mechanical, electrical and computer systems.",engineering|practical-making|digital-ai|problem-solving
+digital-technology,Cybersecurity analyst,Level 4-5 apprenticeship or degree,Protects an organisation's systems and data from hackers and cyber-attacks.,cyber-security|problem-solving|critical-thinking
+digital-technology,Data analyst,Level 4 apprenticeship or degree,Collects and interprets data to help a business make better decisions.,data-analysis|numeracy|critical-thinking
+digital-technology,Cloud engineer,Level 4 apprenticeship plus vendor certification (e.g. AWS),Builds and manages the online systems businesses use instead of their own servers.,cyber-security|problem-solving|engineering
+digital-technology,IT support technician,Level 2-3 apprenticeship,"Helps colleagues and customers fix computer, network and software problems.",cyber-security|customer-service|problem-solving
+digital-technology,Software developer,Level 4 apprenticeship or degree,"Writes and tests the code behind websites, apps and business systems.",programming|problem-solving|critical-thinking
+creative-media,Digital marketing executive,Level 3-4 apprenticeship,"Runs social media, search and online advertising campaigns for a brand or client.",commercial|content-production|speaking
+creative-media,Sound or lighting technician,Level 3 apprenticeship or on-the-job training,"Sets up and runs the sound or lighting for live events, TV, film or theatre.",practical-making|content-production|self-management
+creative-media,Graphic or motion designer,Level 4-5 apprenticeship or degree,"Creates visual designs and animations, increasingly working alongside AI tools.",creativity|content-production|digital-ai
+creative-media,Video editor,Level 3 apprenticeship,"Cuts and finishes video footage for adverts, social media, TV and film.",content-production|creativity|digital-ai
+hospitality,Commis chef,Level 2 apprenticeship,"Learns the basics of professional cooking, prepping ingredients under a senior chef.",practical-making|self-management|teamwork
+hospitality,Chef de partie,Level 3 apprenticeship or City & Guilds qualification,"Runs a section of a professional kitchen, such as sauces or pastry.",practical-making|leadership|self-management
+hospitality,Hospitality supervisor,Level 3 apprenticeship,"Leads a small team in a hotel, restaurant or bar during a shift.",leadership|customer-service|self-management
+hospitality,Hospitality or hotel manager,Level 4-5 apprenticeship,"Manages the day-to-day running of a hotel, restaurant or venue.",leadership|commercial|customer-service
+financial-professional-services,Trainee solicitor,"Degree plus SQE, or solicitor apprenticeship (Level 7)","Trains to qualify as a solicitor, gaining the qualifying work experience needed to sit the SQE.",law-ethics|writing|critical-thinking
+financial-professional-services,Accounts assistant,Level 2-3 apprenticeship (AAT),"Supports a finance team with invoices, payroll and basic bookkeeping.",numeracy|commercial|self-management
+financial-professional-services,Chartered accountant,Level 7 apprenticeship or degree plus ACCA/ICAEW,Prepares and checks financial accounts and advises businesses on tax and money matters.,numeracy|commercial|law-ethics
+financial-professional-services,Business development executive,Level 3-4 apprenticeship,Builds relationships with new clients to win business for a firm.,commercial|speaking|self-management

@@ -1,97 +1,98 @@
-import { X } from "lucide-react";
-import { useEffect } from "react";
+import { Flame } from "lucide-react";
 import { ArcadeButton } from "@/components/arcade/ArcadeButton";
-import type { Subject } from "@/data/subjects";
+import { ArcadeDialog, DialogSection } from "@/components/arcade/ArcadeDialog";
+import { SKILLS, type SkillId } from "@/data/generated/taxonomy";
+import type { Region } from "@/data/regions/types";
+import { SUBJECT_NAMES, type Subject } from "@/data/subjects";
+import { MAX_SUBJECTS } from "@/lib/journey";
+import type { SubjectInsight } from "@/lib/results";
+
+const SKILL_NAME = new Map(SKILLS.map((skill) => [skill.id, skill.name]));
 
 export function SubjectDialog({
   subject,
+  region,
+  insight,
+  skillRanks,
   selected,
   full,
   onClose,
   onToggle,
 }: {
   subject: Subject;
+  region: Region;
+  insight: SubjectInsight;
+  skillRanks: Record<SkillId, number>;
   selected: boolean;
   full: boolean;
   onClose: () => void;
   onToggle: () => void;
 }) {
-  useEffect(() => {
-    const onKey = (event: KeyboardEvent) => {
-      if (event.key === "Escape") onClose();
-    };
-    document.addEventListener("keydown", onKey);
-    document.body.style.overflow = "hidden";
-    return () => {
-      document.removeEventListener("keydown", onKey);
-      document.body.style.overflow = "";
-    };
-  }, [onClose]);
-
   const blocked = !selected && full;
-
   return (
-    <div
-      className="fixed inset-0 z-50 flex items-end justify-center sm:items-center sm:p-6"
-      role="dialog"
-      aria-modal="true"
-      aria-labelledby="subject-dialog-title"
-      aria-describedby="subject-dialog-description"
+    <ArcadeDialog
+      onClose={onClose}
+      eyebrow={subject.group}
+      title={subject.name}
+      footer={
+        <ArcadeButton
+          onClick={onToggle}
+          disabled={blocked}
+          variant={selected ? "ghost" : "primary"}
+          className="w-full"
+        >
+          {selected
+            ? "Remove from your list"
+            : blocked
+              ? `All ${MAX_SUBJECTS} slots are full`
+              : "Add to your list"}
+        </ArcadeButton>
+      }
     >
-      <div
-        className="bg-background/80 absolute inset-0 backdrop-blur-sm"
-        onClick={onClose}
-        aria-hidden
-      />
-      <div className="arcade-panel relative flex max-h-[92vh] w-full max-w-xl flex-col overflow-hidden rounded-b-none sm:rounded-b-lg">
-        <div className="border-border bg-surface-2 flex items-start justify-between gap-3 border-b-2 p-4">
-          <div>
-            <p className="text-accent text-[0.65rem] tracking-wide uppercase">{subject.group}</p>
-            <h3 id="subject-dialog-title" className="font-display text-highlight mt-1.5 text-[0.75rem] leading-relaxed">
-              {subject.name}
-            </h3>
-          </div>
-          <button
-            type="button"
-            onClick={onClose}
-            aria-label="Close"
-            className="text-muted-foreground hover:text-foreground shrink-0 rounded p-1"
-          >
-            <X className="h-5 w-5" />
-          </button>
-        </div>
+      <DialogSection title="What you'd learn">
+        <p className="text-muted-foreground">{subject.learn}</p>
+      </DialogSection>
 
-        <div className="flex flex-col gap-6 overflow-y-auto p-5 text-sm leading-relaxed">
-          <section className="flex flex-col gap-2">
-            <h4 className="font-display text-accent text-[0.6rem] tracking-widest uppercase">
-              What you&rsquo;d learn
-            </h4>
-            <p id="subject-dialog-description" className="text-muted-foreground">{subject.learn}</p>
-          </section>
+      <DialogSection title={`${region.short} connection`} tone="highlight">
+        <p className="text-muted-foreground">{region.subjectLinks[subject.name]}</p>
+        {insight.inDemand ? (
+          <p className="text-highlight flex items-center gap-1.5 text-xs">
+            <Flame className="h-3.5 w-3.5" aria-hidden />
+            In demand here: number {insight.rank} of {SUBJECT_NAMES.length} A levels for{" "}
+            {region.name}'s skills needs
+          </p>
+        ) : null}
+      </DialogSection>
 
-          <section className="border-highlight/50 bg-surface-2 flex flex-col gap-2 rounded-md border-2 p-4">
-            <h4 className="font-display text-highlight text-[0.6rem] tracking-widest uppercase">
-              LCR connection
-            </h4>
-            <p className="text-muted-foreground">{subject.lcr}</p>
-          </section>
-        </div>
+      {insight.topSkills.length ? (
+        <DialogSection title="Skills it builds">
+          <ul className="flex flex-col gap-2">
+            {insight.topSkills.map((skill) => (
+              <li key={skill} className="arcade-inset flex items-center justify-between gap-3 p-3">
+                <span className="text-foreground">{SKILL_NAME.get(skill)}</span>
+                <span className="text-accent shrink-0 text-xs">
+                  Demand here: #{skillRanks[skill]} of {SKILLS.length}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </DialogSection>
+      ) : null}
 
-        <div className="border-border bg-surface-2 border-t-2 p-4">
-          <ArcadeButton
-            onClick={onToggle}
-            disabled={blocked}
-            variant={selected ? "ghost" : "primary"}
-            className="w-full"
-          >
-            {selected
-              ? "Remove from your list"
-              : blocked
-                ? "All four slots are full"
-                : "Add to your list"}
-          </ArcadeButton>
-        </div>
-      </div>
-    </div>
+      {insight.priorities.length ? (
+        <DialogSection title="Feeds these LSIP priorities">
+          <ul className="flex flex-wrap gap-1.5">
+            {insight.priorities.map((priority) => (
+              <li
+                key={priority.id}
+                className="border-border bg-surface-2 rounded border px-2 py-1 text-xs"
+              >
+                {priority.name}
+              </li>
+            ))}
+          </ul>
+        </DialogSection>
+      ) : null}
+    </ArcadeDialog>
   );
 }

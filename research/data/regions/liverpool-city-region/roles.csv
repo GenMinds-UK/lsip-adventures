@@ -1,0 +1,31 @@
+priority,title,level,what,skills
+pbs,Trainee accountant,Level 7 apprenticeship or degree,"Preparing accounts, advising on tax and keeping organisations financially honest.",commercial|numeracy|law-ethics|data-analysis
+pbs,Paralegal or solicitor,Level 3 paralegal apprenticeship up to Level 7 solicitor apprenticeship or law degree,"Advising clients, drafting agreements and navigating regulation for local firms.",law-ethics|writing|critical-thinking|speaking
+pbs,Business or management consultant,Level 6-7 apprenticeship or degree,Analysing how an organisation works and helping it become more productive.,commercial|critical-thinking|data-analysis|problem-solving
+pbs,"Payroll, compliance and governance officer",Level 3-4 apprenticeship,"Making sure organisations get payroll, employment law and governance right as rules keep changing.",law-ethics|numeracy|self-management
+pbs,People and HR adviser,Level 5 apprenticeship,"Recruitment, employment regulation, wellbeing and helping teams progress.",leadership|speaking|self-management|care-empathy
+manufacturing,Maintenance engineering technician,Level 3-4 apprenticeship,"Keeping automated production lines running - mechanical, electrical and digital in one job.",engineering|practical-making|problem-solving|digital-ai
+manufacturing,Automation and robotics technician,Level 3-6 apprenticeship or degree,"Programming, installing and troubleshooting robotic systems on the factory floor.",engineering|programming|problem-solving|digital-ai
+manufacturing,Welder or fabrication specialist,Level 2-4 apprenticeship,"Joining and shaping metal parts, now increasingly alongside robotic welding cells.",practical-making|engineering|problem-solving
+manufacturing,Clean energy technician,Level 3-5 apprenticeship,"Installing and maintaining offshore wind, hydrogen and tidal infrastructure in the Mersey estuary.",engineering|sustainability|practical-making
+manufacturing,Quality and compliance officer,Level 4 apprenticeship,"Checking that products and processes meet safety, quality and low-carbon standards.",law-ethics|scientific-method|data-analysis
+construction,Electrician or building services engineer,Level 3 apprenticeship,"Installing and maintaining electrical systems, solar PV and EV chargers safely and to standard.",engineering|practical-making|sustainability|law-ethics
+construction,"Skilled tradesperson (bricklayer, joiner, plasterer)",Level 2-3 apprenticeship,Building and finishing homes and buildings to a professional standard.,practical-making|self-management|teamwork
+construction,Site supervisor,Level 3-5 apprenticeship,"Running a site day to day: sequencing trades, safety, quality and people.",leadership|self-management|speaking|digital-ai
+construction,Retrofit assessor or coordinator,Level 3-5 qualification,"Surveying older housing and specifying insulation, heat pumps and ventilation.",sustainability|practical-making|data-analysis
+construction,Quantity surveyor,Degree or Level 6 apprenticeship,Costing and controlling the money side of a construction project.,numeracy|commercial|data-analysis|writing
+health,Care worker or senior care worker,Care Certificate plus Level 2-4 route,"Frontline support for people who need care, with digital tools now part of daily recording.",care-empathy|self-management|digital-ai|speaking
+health,Nurse or allied health professional,Degree or nursing apprenticeship,"Frontline clinical care across hospitals, community and mental health services.",care-empathy|scientific-method|digital-ai|self-management
+health,Life sciences laboratory technician,Level 3-6 apprenticeship or degree,Running tests and production processes in the region's biomanufacturing and research labs.,scientific-method|numeracy|law-ethics|data-analysis
+health,Registered care manager,Level 4-6 apprenticeship,"Leading a care service: rotas, safeguarding, compliance and developing staff.",leadership|care-empathy|law-ethics|self-management
+health,Digital health or health data analyst,Degree or Level 4-7 apprenticeship,Turning patient and population data into insight that improves care.,data-analysis|digital-ai|critical-thinking|law-ethics
+visitor,Front-line hospitality assistant,Level 2 entry route,"Serving customers well under pressure in hotels, bars, restaurants and attractions.",customer-service|self-management|speaking
+visitor,Hospitality supervisor or team leader,Level 3-4 apprenticeship,"The first step into leading a team: rotas, coaching and keeping standards up.",leadership|customer-service|self-management
+visitor,Hospitality or hotel operations manager,Level 4-5 apprenticeship,"Running a hotel, venue or restaurant - people, margins and standards.",leadership|commercial|customer-service|self-management
+visitor,Events and visitor experience coordinator,Degree or Level 4 apprenticeship,"Planning and delivering festivals, conferences and waterfront events end to end.",leadership|customer-service|speaking|commercial
+visitor,Airport ground operations coordinator,Level 2-3 route,"Ground handling, customer service and safety-critical coordination at Liverpool John Lennon Airport.",customer-service|self-management|law-ethics|speaking
+creative,Games designer or developer,Degree or portfolio route,Designing and building games and immersive experiences in the region's studios.,programming|creativity|digital-ai|problem-solving
+creative,Digital content producer or creative technologist,Degree or portfolio route,"Combining AI-assisted editing, virtual production and audience data into finished content.",content-production|creativity|digital-ai|data-analysis
+creative,Freelance creative practitioner,Portfolio or freelance route,"Combining a creative craft with pricing, contracts and self-employment skills.",creativity|commercial|self-management|law-ethics
+creative,Technical production or live event specialist,Level 3-5 route,"Running sound, lighting and technical delivery for the region's venues and festivals.",content-production|practical-making|teamwork|problem-solving
+creative,Music producer or live sound engineer,Level 3-6 or freelance route,"Recording, mixing and running sound for the region's venues, studios and festivals.",content-production|creativity|digital-ai

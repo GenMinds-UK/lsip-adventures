@@ -77,14 +77,19 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { title: "LSIP Adventures" },
+      {
+        name: "description",
+        content:
+          "A quest to explore how A level choices can lead to real opportunities, built on England's Local Skills Improvement Plans.",
+      },
+      { property: "og:title", content: "LSIP Adventures" },
+      {
+        property: "og:description",
+        content: "A quest to explore how A level choices can lead to real opportunities.",
+      },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@Lovable" },
     ],
     links: [
       {

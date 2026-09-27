@@ -1,113 +1,89 @@
-import { X } from "lucide-react";
-import { useEffect } from "react";
-import type { SectorOverlap } from "@/data/lsip-sectors";
+import { CheckCircle2 } from "lucide-react";
+import { ArcadeDialog, DialogSection } from "@/components/arcade/ArcadeDialog";
+import { SKILLS } from "@/data/generated/taxonomy";
+import type { PriorityResult } from "@/lib/results";
 
-export function SectorDialog({
-  overlap,
-  onClose,
-}: {
-  overlap: SectorOverlap;
-  onClose: () => void;
-}) {
-  useEffect(() => {
-    const onKey = (event: KeyboardEvent) => {
-      if (event.key === "Escape") onClose();
-    };
-    document.addEventListener("keydown", onKey);
-    document.body.style.overflow = "hidden";
-    return () => {
-      document.removeEventListener("keydown", onKey);
-      document.body.style.overflow = "";
-    };
-  }, [onClose]);
+const SKILL_NAME = new Map(SKILLS.map((skill) => [skill.id, skill.name]));
 
-  const { sector, matches, points } = overlap;
+export function SectorDialog({ result, onClose }: { result: PriorityResult; onClose: () => void }) {
+  const { priority, roles, gaps } = result;
+  const matchedRoles = roles.filter((role) => role.matched);
+  const otherRoles = roles.filter((role) => !role.matched);
+  const closable = gaps.filter((gap) => gap.matched);
 
   return (
-    <div
-      className="fixed inset-0 z-50 flex items-end justify-center sm:items-center sm:p-6"
-      role="dialog"
-      aria-modal="true"
-      aria-labelledby="sector-dialog-title"
-      aria-describedby="sector-dialog-description"
+    <ArcadeDialog
+      onClose={onClose}
+      eyebrow={`${matchedRoles.length} of ${roles.length} roles match your skills`}
+      title={priority.name}
+      description={priority.blurb}
     >
-      <div
-        className="bg-background/80 absolute inset-0 backdrop-blur-sm"
-        onClick={onClose}
-        aria-hidden
-      />
-      <div className="arcade-panel relative flex max-h-[92vh] w-full max-w-xl flex-col overflow-hidden rounded-b-none sm:rounded-b-lg">
-        <div className="border-border bg-surface-2 flex items-start justify-between gap-3 border-b-2 p-4">
-          <div>
-            <p className="text-accent text-[0.65rem] tracking-wide uppercase">
-              {points} {points === 1 ? "overlap point" : "overlap points"}
-            </p>
-            <h3 id="sector-dialog-title" className="font-display text-highlight mt-1.5 text-[0.75rem] leading-relaxed">
-              {sector.name}
-            </h3>
-          </div>
-          <button
-            type="button"
-            onClick={onClose}
-            aria-label="Close"
-            className="text-muted-foreground hover:text-foreground shrink-0 rounded p-1"
-          >
-            <X className="h-5 w-5" />
-          </button>
+      {closable.length ? (
+        <DialogSection title="Gaps your subjects help close" tone="highlight">
+          <ul className="flex flex-col gap-2">
+            {closable.map((gap) => (
+              <li key={gap.item.text} className="flex gap-2">
+                <CheckCircle2 className="text-highlight mt-0.5 h-4 w-4 shrink-0" aria-hidden />
+                <span>
+                  <span className="text-foreground">{gap.item.text}</span>
+                  {gap.subjects.length ? (
+                    <span className="text-muted-foreground block text-xs">
+                      Through {gap.subjects.join(", ")}
+                    </span>
+                  ) : null}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </DialogSection>
+      ) : (
+        <p className="border-border bg-surface-2 text-muted-foreground rounded-md border-2 p-4">
+          Your subjects don't line up directly with this priority's gaps. That doesn't rule it out:
+          the roles below show what employers here are asking for.
+        </p>
+      )}
+
+      <DialogSection title="Roles in this priority">
+        <div className="flex flex-col gap-3">
+          {[...matchedRoles, ...otherRoles].map((role) => (
+            <article
+              key={role.item.title}
+              className={
+                role.matched
+                  ? "border-highlight/60 bg-surface-2 rounded-md border-2 p-4"
+                  : "border-border bg-surface rounded-md border-2 p-4 opacity-80"
+              }
+            >
+              <h4 className="text-foreground font-semibold">{role.item.title}</h4>
+              <p className="text-muted-foreground mt-0.5 text-xs uppercase">{role.item.level}</p>
+              <p className="text-muted-foreground mt-2">{role.item.what}</p>
+              <ul className="mt-3 flex flex-wrap gap-1.5" aria-label="Skills this role needs">
+                {role.item.skills.map((skill) => {
+                  const have = role.developed.includes(skill);
+                  return (
+                    <li
+                      key={skill}
+                      className={
+                        have
+                          ? "border-highlight bg-primary text-primary-foreground rounded border-2 px-2 py-1 text-xs"
+                          : "border-border text-muted-foreground rounded border px-2 py-1 text-xs"
+                      }
+                    >
+                      {SKILL_NAME.get(skill)}
+                      <span className="sr-only">{have ? " (you build this)" : ""}</span>
+                    </li>
+                  );
+                })}
+              </ul>
+              {role.subjects.length ? (
+                <p className="text-muted-foreground mt-2 text-xs">
+                  Your subjects that help: {role.subjects.join(", ")}
+                </p>
+              ) : null}
+            </article>
+          ))}
         </div>
-
-        <div className="flex flex-col gap-5 overflow-y-auto p-5 text-sm leading-relaxed">
-          <p id="sector-dialog-description" className="text-muted-foreground">{sector.blurb}</p>
-
-          {matches.length === 0 ? (
-            <p className="border-border bg-surface-2 text-muted-foreground rounded-md border-2 p-4">
-              None of your subjects line up directly with this sector&rsquo;s roles — which
-              doesn&rsquo;t rule it out, but the roles below show what employers here are asking
-              for.
-            </p>
-          ) : null}
-
-          <section className="flex flex-col gap-3">
-            <h4 className="font-display text-accent text-[0.6rem] tracking-widest uppercase">
-              Roles in this sector
-            </h4>
-            {sector.roles.map((role) => {
-              const matched =
-                matches.find((match) => match.role.title === role.title)?.subjects ?? [];
-              return (
-                <article
-                  key={role.title}
-                  className={
-                    matched.length
-                      ? "border-highlight/60 bg-surface-2 rounded-md border-2 p-4"
-                      : "border-border bg-surface rounded-md border-2 p-4 opacity-70"
-                  }
-                >
-                  <h5 className="text-foreground font-semibold">{role.title}</h5>
-                  <p className="text-muted-foreground mt-0.5 text-xs uppercase">{role.level}</p>
-                  <p className="text-muted-foreground mt-2">{role.what}</p>
-                  {matched.length ? (
-                    <div className="mt-3 flex flex-wrap gap-1.5">
-                      {matched.map((subject) => (
-                        <span
-                          key={subject}
-                          className="border-highlight bg-primary text-primary-foreground rounded border-2 px-2 py-1 text-xs"
-                        >
-                          {subject}
-                        </span>
-                      ))}
-                    </div>
-                  ) : (
-                    <p className="text-muted-foreground mt-3 text-xs">
-                      No overlap with your four.
-                    </p>
-                  )}
-                </article>
-              );
-            })}
-          </section>
-        </div>
-      </div>
-    </div>
+      </DialogSection>
+    </ArcadeDialog>
   );
 }

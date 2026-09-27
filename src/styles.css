@@ -5,9 +5,9 @@
 @custom-variant dark (&:is(.dark *));
 
 /*
- * A Level Adventures in the LCR — arcade design system.
- * Liverpool City Region Combined Authority colours (deep purple, magenta,
- * teal, sunshine yellow) reworked into a friendly retro-arcade skin.
+ * LSIP Adventures — arcade design system.
+ * Deep purple, magenta, teal and sunshine yellow (originally drawn from the
+ * Liverpool City Region palette) reworked into a friendly retro-arcade skin.
  */
 
 @theme inline {

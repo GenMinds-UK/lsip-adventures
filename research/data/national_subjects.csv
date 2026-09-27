@@ -1,0 +1,46 @@
+subject,outlook,headline,sectors
+Mathematics,very-high,"Mathematicians are wanted across finance, software and engineering — three of the fastest-growing parts of the UK economy to 2030.",digital-technologies|financial-services|advanced-manufacturing
+Further Mathematics,very-high,"Further Mathematics opens the deepest routes into engineering, computing and defence — sectors the UK has picked to drive growth.",advanced-manufacturing|digital-technologies|defence
+Statistics,high,"Statisticians and data analysts are named priority occupations across digital technology, life sciences and finance.",digital-technologies|life-sciences|financial-services
+Computer Science,very-high,"Programmers are the single most in-demand role in the UK economy, needed in seven of the ten sectors the government is prioritising to 2030.",digital-technologies|creative|defence
+Biology,very-high,"Biologists feed Life Sciences, one of the fastest-growing UK sectors, plus an NHS workforce being deliberately expanded.",life-sciences|foundational
+Chemistry,very-high,"Chemists are needed across clean energy, life sciences and advanced manufacturing — three of the UK's eight growth-driving sectors.",life-sciences|clean-energy|advanced-manufacturing
+Physics,very-high,"Physicists are wanted across clean energy, defence and digital technologies as the UK builds new power, security and computing capacity.",clean-energy|defence|digital-technologies
+Applied Science,very-high,Applied scientists keep laboratories running across manufacturing and life sciences — lab and pharmaceutical technicians are in shortage.,life-sciences|advanced-manufacturing|foundational
+Environmental Science,high,"Environmental scientists are needed as the UK expands offshore wind, nuclear and other clean energy — one of its fastest-growing sectors.",clean-energy|foundational
+Psychology,high,"Psychology opens routes into an NHS workforce being deliberately expanded, from clinical psychology to a much bigger talking-therapies workforce.",foundational
+Engineering,very-high,"Engineers are needed across advanced manufacturing, clean energy and defence, where 6.3 million people already work in engineering and tech.",advanced-manufacturing|clean-energy|defence
+Design & Technology (Product Design),high,Product design sits between advanced manufacturing and the creative industries — both sectors the UK has picked for growth.,advanced-manufacturing|creative
+Health & Social Care,very-high,"Health and care roles are the single largest source of new jobs the government has identified — 90,000 more care workers needed by 2030.",foundational
+Construction & the Built Environment,very-high,"Construction is booking one of the fastest growth rates of any sector, driven by 1.5 million new homes and clean energy infrastructure.",foundational|clean-energy
+Business Studies,high,Business graduates are wanted across professional and business services — England's single largest priority sector by employment.,professional-business|creative
+Economics,high,"Economists and analysts feed financial and professional services, where finance and investment roles are among the fastest-growing.",financial-services|professional-business
+Accounting,high,"Accountants remain in high demand nationally even as AI reshapes finance roles, according to the profession's own body, ICAEW.",professional-business
+Law,high,"Solicitors are a growing priority occupation, and fast-expanding apprenticeship routes are opening up access to the legal profession.",professional-business
+Geography,high,"Geography feeds planning, environment and construction roles as the UK builds homes and clean energy infrastructure at record pace.",clean-energy|foundational
+History,steady,"History graduates take some of the most broadly transferable skills into any career, from heritage and archives to law and public service.",foundational|creative
+Politics,high,"Politics graduates reach the government's priority occupations at a notably high rate — higher than law, media or psychology graduates.",professional-business|foundational
+Sociology,growing,"Sociology graduates feed the social care and public sector workforce, which the government is expanding as demand for care rises.",foundational
+Philosophy,steady,"Philosophy's rigorous reasoning is valued across law, policy and the professional services that recruit graduates from any discipline.",foundational|professional-business
+Religious Studies,steady,"Religious Studies builds the same transferable reasoning and communication skills that open routes into education, law and public service.",foundational
+Criminology,growing,"Criminology opens routes into policing, probation and the courts, where the justice system offers a steady, well-established career path.",foundational
+English Language,steady,"English Language graduates take strong communication skills into publishing, media, teaching and the wider creative economy.",creative|foundational
+English Literature,steady,"English Literature remains a proven route into publishing, media, education and the wider creative industries.",creative|foundational
+English Language & Literature,steady,"Combining language and literature builds the communication skills that employers across media, education and business value most.",creative|foundational
+French,high,Language graduates reach the government's priority occupations at a notably high national rate — French opens routes into trade and teaching.,professional-business|foundational
+Spanish,high,"Spanish is one of the world's most spoken languages, and language graduates reach the government's priority occupations at a high rate.",professional-business|foundational
+German,high,"German underpins UK trade with Europe's largest economy, and language graduates reach priority occupations at a notably high rate.",professional-business|foundational
+Chinese (Mandarin),high,"Mandarin is a strategic language for UK trade and diplomacy, and language graduates reach priority occupations at a notably high rate.",professional-business|foundational
+Art & Design (Fine Art),very-high,"Fine art feeds the Creative Industries, a growth-driving sector where several art occupations sit on the UK's own shortage list.",creative
+Graphic Communication,very-high,Graphic and multimedia designers are named on the UK's shortage list and are one of the Creative Industries' fastest-growing roles.,creative|digital-technologies
+Photography,high,"Photography and broadcasting roles are projected to need 11,000 more workers by 2030 as the Creative Industries keeps expanding.",creative
+Textile Design,growing,"Textile design sits inside a UK fashion and textile industry worth £62 billion, spanning design, making and sustainable fashion.",creative|advanced-manufacturing
+Film Studies,high,"Film and TV is a named frontier industry inside the Creative Industries, a sector the government has picked to drive national growth.",creative
+Media Studies,high,"Media graduates reach the government's priority occupations at a strong rate, from journalism and PR to marketing in the creative economy.",creative|digital-technologies
+Music,very-high,"UK music supports a record 220,000 jobs and contributed £8 billion to the economy in 2024 — and orchestral musicians sit on the shortage list.",creative
+Music Technology,high,Music technology sits between a record-breaking music industry and the digital skills the whole Creative Industries sector needs more of.,creative|digital-technologies
+Drama & Theatre,high,Theatre-makers and arts producers are named on the UK's shortage list as the Creative Industries expands towards 2030.,creative
+Dance,very-high,Dance is one of the clearest cases in the arts: skilled dancers sit on the UK's own shortage list for skilled worker visas.,creative
+Physical Education,growing,PE opens routes into a coaching and sport workforce that is professionalising fast — paid coaching roles rose from 38% to 53% in two years.,foundational
+Sport & Exercise Science,growing,"Sport science feeds a growing performance and coaching industry, and routes into the allied health workforce the NHS is expanding.",foundational
+Food Science & Nutrition,high,"Food science feeds the UK's largest manufacturing sector by jobs, which is investing to close a skills gap twice the size of the wider average.",advanced-manufacturing|foundational
