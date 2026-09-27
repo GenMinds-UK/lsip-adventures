@@ -522,7 +522,7 @@ export const NATIONAL_SUBJECTS: Readonly<Record<SubjectName, NationalSubject>> =
       },
       {
         "label": "CITB, Construction Workforce Outlook 2025-29",
-        "url": "https://www.citb.co.uk/about-citb/news-events-and-blogs/citb-publishes-construction-workforce-outlook-2025-29"
+        "url": "https://www.citb.co.uk/cwo/index.html"
       },
       {
         "label": "Skilled Worker visa: Immigration Salary List",
@@ -1247,7 +1247,7 @@ export const NATIONAL_SUBJECTS: Readonly<Record<SubjectName, NationalSubject>> =
     "sources": [
       {
         "label": "UKFT, The Fashion & Textile Industry's Footprint in the UK",
-        "url": "https://ukft.org/industry-footprint-report/"
+        "url": "https://ukft.org/memberships/industry-reports-statistics"
       }
     ]
   },
